@@ -1,0 +1,45 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name - City , State",
+            "period": "June 2015 to Current",
+            "description": [
+                "Increased sales and maximize revenue; Close daily business deals. Marketing and research for new business market segments. Identify and build relationship with new potential US customers. Manage daily sales and accounting operations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing Manager",
+            "company": "Company Name - City , State",
+            "period": "June 2014 to June 2015",
+            "description": [
+                "Research and market for new potential customers. Attend industry exhibitions to market product. Identify opportunities for sales; maintain and build existing customers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Field Technician",
+            "company": "Company Name - City , State",
+            "period": "February 2012 to January 2014",
+            "description": [
+                "Collecting, Preserving and handling of environmental samples. Quality assurance, quality control, data quality and reporting. Maintain understanding of local federal and state laws and standards."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Social Ecology",
+            "institution": "University of California Irvine - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in environmental management and administration, with significant experience in customer relationship building and sales within the commercial sector. Their transition towards marketing suggests an aptitude for market research and development, which aligns well with roles in governmental agencies or aerospace companies looking to leverage both technical and strategic expertise."
+}

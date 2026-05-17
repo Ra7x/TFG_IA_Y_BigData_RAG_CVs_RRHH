@@ -1,0 +1,88 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Chef Instructor",
+            "company": "Company Name",
+            "period": "04/2016 to Present",
+            "description": [
+                "Teaching classes to small and large groups.",
+                "Honing current culinary skills and sharing knowledge, methods and technique with students. Creating lesson plans and menus."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Representative",
+            "company": "Company Name",
+            "period": "02/2016 to Current",
+            "description": [
+                "Traveling the New Jersey, Pennsylvania and Delaware areas selling cake and pastries for a wholesale bakery. Learning the art of sales.",
+                "Honing communication and sales skills as well as conversational ability and product knowledge."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Pastry Chef",
+            "company": "Company Name",
+            "period": "03/2015 to 01/2016",
+            "description": [
+                "Helped lead a small team of bakers.",
+                "- Decorated cakes, cupcakes and a variety of other pastries for daily display case. Created different flavor combinations and seasonal goods to make an ever changing menu.",
+                "- Created menu items for highly popular and Napa renown Boon Fly Cafe.",
+                "- Helped carry out banquets by creating attractive dessert and bread displays for up to 500 people.",
+                "- Managed daily production of breads including Brioche, burger buns, focaccia, sourdough baguettes, rye bread, carraway seed, multigrain, parker house rolls, pizza dough and biscuits. Placed produce/dry good orders, requisitioned and other admin duties."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Event/Pastry Chef",
+            "company": "Company Name",
+            "period": "08/2014 to 03/2015",
+            "description": [
+                "Communicates effectively with management as well as co workers.",
+                "- Leads the team to successful parties and banquets.",
+                "- Works production for the line when necessary.",
+                "- Team player systematically tastes and smells all prepared dishes, and observes color, texture and garnishes. Implements and supports company initiatives and programs.",
+                "- Consistently keeps a clean and safe environment by adhering to all federal, state and local sanitation and safety requirements. Prepares a variety of breads, pastries, desserts, cookies as well as savory items for events ranging between 15 and 100 people."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Baker/Cake Decorator/Retail",
+            "company": "Company Name",
+            "period": "05/2006 to 08/2007",
+            "description": [
+                "- Processed bakery orders for customers and directed cake delivery.",
+                "- Organized and refilled the bakery case with appropriate inventory based off of current sales. Creatively decorated cakes, cupcakes, tarts and pastries as well as special order items. Managed the Retail Bakery accounts by balancing the register on a nightly basis. Prepared bakery and specialty products such as bagels, breads and pastries."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts : Culinary and Pastry Arts",
+            "institution": "Illinois Institute of Art",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Chesterton High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "High School Diploma",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a wealth of culinary experience with a diverse range of roles that demonstrate strong leadership, innovation in menu development, and an unwavering commitment to quality. Their background includes not only advanced baking skills but also expertise in customer service and operational management across various scales of operations. The passion for using locally sourced ingredients reflects a sustainable approach to food production which is commendable."
+}

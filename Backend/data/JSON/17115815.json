@@ -1,0 +1,55 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "SAP",
+        "MS Office applications",
+        "Network Security"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Development Specialist",
+            "company": "Company Name City , State",
+            "period": "March 2015 to September 2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Optimization Specialist (contracted)",
+            "company": "Company Name City , State",
+            "period": "January 2014 to March 2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing Specialist",
+            "company": "Company Name City , State",
+            "period": "June 2012 to April 2014",
+            "description": [
+                "Lead caller and liaison between Microsoft Client Success Associate and team of 23 Calling Agents.",
+                "Coordinated and lead all meetings to discuss results of campaign analysis with Internal Client Success members and Key Microsoft Stakeholders.",
+                "Conducted all training and coaching of Agents prior to Microsoft Certification",
+                "Campaign Tester - Testing the validity of data, messaging and targeted contacts prior to a campaign going live",
+                "Troubleshoot campaigns not meeting expected KPI's providing feedback and recommendations based on my findings",
+                "Dell SonicWALL Chat Specialist - Support existing and potential Dell SonicWALL customers"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "General Studies Related Coursework: Computer Technology",
+            "institution": "Rio Salado A.A.",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft MVP",
+            "year": 2013
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out as a results-oriented professional with a strong technical background in business development and sales. With expertise in SAP CRM, MS Office applications, and network security, the candidate has consistently exceeded performance quotas in generating new business opportunities across the SAP Northeast Large Enterprise territory. Demonstrating excellent communication skills, both written and verbal, the candidate works well in team environments and independently manages tasks effectively. The candidate's experience includes strategic planning for go-to-market strategies with field representatives to acquire new business, leading teams, and managing marketing campaigns which have led to direct contributions to substantial pipeline generation, ultimately resulting in recognized awards and financial success. This professional has a proactive approach towards career growth combined with the ability to effectively communicate complex technical information to both technical and non-technical stakeholders."
+}

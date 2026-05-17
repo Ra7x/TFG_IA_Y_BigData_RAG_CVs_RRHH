@@ -1,0 +1,48 @@
+{
+    "full_name": "Candidate Name",
+    "summary": "7+ years of Experience as a HR Partner with experience in all the facets of the Human Resource Function. Extensive background in HR generalist affairs, including experience in Recruiting, On boarding, Performance Management, employee retention, staff development, mediation, conflict resolution, Benefits and compensation, HR records management, HR policies.",
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Partner",
+            "company": "HR Consulting Company Name",
+            "period": "07/2009 to 01/2014",
+            "description": [
+                "Managed the end to end closure of Compensation increment and promotion cycles including the budget calculation and distribution.",
+                "Conducted interviews to assess skill level, presented candidates for client review and final selection, drove offer process including reference checks, salary negotiations.",
+                "Handled a team of 3 members and made it a highly successful program by designing and managing the \"Mentor Me\" program to motivate the high performers in the Organization."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Coordinator",
+            "company": "Company Name",
+            "period": "07/2008 to 05/2009",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Assistant",
+            "company": "Company Name",
+            "period": "05/2007 to 06/2008",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Business Administration",
+            "institution": "KIMS University Karnataka University",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelors of Commerce",
+            "institution": "BNDC University : Karnataka University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in Human Resource Management with extensive experience in full life cycle recruiting, performance management, and employee retention. Their roles have demonstrated success in optimizing HR processes through innovative programs such as the Performance Management process and the 'Mentor Me' initiative, which not only improved internal structures but also fostered greater engagement and loyalty among employees."
+}

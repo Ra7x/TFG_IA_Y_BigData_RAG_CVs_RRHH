@@ -1,0 +1,79 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Lead Teacher",
+            "company": "Company Name",
+            "period": "01/2014 to 07/2015",
+            "description": [
+                "Consistently received positive feedback from parents.",
+                "Solved severe child behavioral issues in positive and constructive ways.",
+                "Managed classes of up to 9 students.",
+                "Designed 200 weekly lesson plans focused on age and level-appropriate material."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Teacher",
+            "company": "Company Name",
+            "period": "01/2008 to 01/2014",
+            "description": [
+                "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate.",
+                "Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula.",
+                "Establish and enforce rules for behavior, and procedures for maintaining order.",
+                "Organize and lead activities designed to promote physical, mental and social development, such as games, arts and crafts, music, storytelling, and field trips."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Security and Property Clerk",
+            "company": "Company Name",
+            "period": "06/2007 to 08/2007",
+            "description": [
+                "Type, format, proofread, and edit correspondence and other documents, from notes or dictating machines, using computers or typewriters.",
+                "Drafted meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences.",
+                "Answer telephones, switch board, direct calls, and take messages.",
+                "Operate office machines, such as photocopiers and scanners, facsimile machines, voice mail systems, and personal computers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Automation Clerk",
+            "company": "Company Name",
+            "period": "06/2006 to 08/2006",
+            "description": [
+                "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.",
+                "Drafted meeting agendas, supplied advance materials and executed follow-up for meetings and team conferences.",
+                "Operate office machines, such as photocopiers and scanners, facsimile machines, voice mail systems, and personal computers."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Education",
+            "institution": "Concordia University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "University of Maryland Eastern Shore",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Maryland Child Care Credential",
+            "year": null
+        },
+        {
+            "name": "CDA-Infants & Toddlers Teaching",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in educational leadership and classroom management, with extensive experience in curriculum development and student engagement. Their skills in Microsoft Office suite, particularly Excel and PowerPoint, are highlighted, indicating proficiency in administration and presentation. The possession of the Maryland Child Care Credential and CDA-Infants & Toddlers Teaching certification suggests a commitment to professional growth and expertise in early childhood education. The leadership roles and ability to solve behavioral issues efficiently demonstrate strong problem-solving skills and adaptability, which are valuable for any Education Coordinator position."
+}

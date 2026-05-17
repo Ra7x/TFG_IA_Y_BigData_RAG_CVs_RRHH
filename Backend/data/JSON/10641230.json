@@ -1,0 +1,145 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "A+ certified",
+        "ActionScript",
+        "Active directory",
+        "Adobe Creative Suite 5",
+        "Audio and video editing",
+        "Budgeting",
+        "Business management",
+        "Client and server",
+        "CMS",
+        "Computer repair",
+        "Consulting",
+        "Content Management",
+        "CSS",
+        "CSS3",
+        "Database",
+        "Designing",
+        "Documentation",
+        "Electronics",
+        "Graphics",
+        "Hardware support",
+        "HTML",
+        "HTML5",
+        "Java",
+        "Java programming",
+        "JavaScript",
+        "Linux",
+        "Logic",
+        "Logo",
+        "Mac OS",
+        "Managing",
+        "Marketing",
+        "Medical technology",
+        "Microsoft Office",
+        "Network engineering",
+        "Networking",
+        "Operating Systems",
+        "Organization development",
+        "PHP",
+        "Photo",
+        "Prototyping",
+        "Protocols",
+        "Programming",
+        "Search Engine Optimization",
+        "Servers",
+        "Storyboarding",
+        "TCP/IP",
+        "Telephony",
+        "Troubleshooting",
+        "Upgrade",
+        "Video editing",
+        "Web Development I",
+        "Website management",
+        "Windows Server"
+    ],
+    "work_history": [
+        {
+            "job_title": "IT management",
+            "company": "Company Name, City , State",
+            "period": "March 2012 to November 2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Consultant",
+            "company": "",
+            "period": "July 2011 to February 2012",
+            "description": [
+                "Contracted IT consulting work from client computer repair to network expansion.",
+                "In charge of company website management, social media administration, as well as assisting in administrative tasks."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "",
+            "company": "Company Name, State",
+            "period": "May 2011 to July 2011",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science",
+            "institution": "Lyons Township, City , State, United States Information Technology High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CompTIA A+ certified",
+            "year": 2012
+        },
+        {
+            "name": "Advanced troubleshooting",
+            "year": null
+        },
+        {
+            "name": "CompTIA Net+ certification class",
+            "year": null
+        },
+        {
+            "name": "Virus and spyware removal",
+            "year": null
+        },
+        {
+            "name": "MCSA certification class",
+            "year": null
+        },
+        {
+            "name": "Computer diagnostics and repair",
+            "year": null
+        },
+        {
+            "name": "Web Development I + II class",
+            "year": null
+        },
+        {
+            "name": "Gaming console repair and modification",
+            "year": null
+        },
+        {
+            "name": "Digital media manipulation class",
+            "year": null
+        },
+        {
+            "name": "Java programming class",
+            "year": null
+        },
+        {
+            "name": "Mobile device repair",
+            "year": null
+        },
+        {
+            "name": "Hardware support and Programming and Web troubleshooting",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out with a comprehensive background in IT management, encompassing hardware, software troubleshooting, networking, programming, and multimedia. With certifications ranging from basic computer diagnostics to advanced Java programming and network administration, the candidate demonstrates strong technical skills across various domains of information technology. The ability to manage multiple projects concurrently is highlighted by their involvement in rebuilding a client's website and designing an integrated IT system upgrade."
+}

@@ -1,0 +1,63 @@
+{
+    "full_name": "HR ASSISTANT INTERN",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Assistant Intern",
+            "company": "Company Name",
+            "period": "February 2016 - March 2016",
+            "description": [
+                "Provide administrative support to the Human Resources Director.",
+                "Verify I-9 documentation for new hires.",
+                "Submit the online investigation requests and assists with new employee background checks.",
+                "Update HR spreadsheet with employee change requests and process paperwork."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Owner, Operator",
+            "company": "Company Name",
+            "period": "August 2012 - Current",
+            "description": [
+                "Managed fashion retail store independently.",
+                "Provided professional support to staff.",
+                "Assisted retail store in exhibiting innovative products."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Preservation Technician I",
+            "company": "Company Name",
+            "period": "October 2004 - May 2013",
+            "description": [
+                "Responsible for the assembly of fabricated phase boxes, portfolios and custom enclosures for protecting historic and fragile library materials.",
+                "Performed archival sound repairs for books and pamphlets which included: rebinding books in the original covers (recasing).",
+                "Prepared and submitted books for additional processing at the bindery.",
+                "Designed complex enclosures for special projects."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Art Organizational Leadership",
+            "institution": "Cleveland State University",
+            "year": 2018
+        },
+        {
+            "degree": "Organizational Leadership Associate Degree",
+            "institution": "Bryant & Stratton College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "EMT Certification",
+            "year": 2003
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a diverse background across administrative and technical roles, demonstrating strong interpersonal and problem-solving skills. Their experience in HR administration and preservation technology highlights an aptitude for detail-oriented tasks and effective customer service within professional settings."
+}

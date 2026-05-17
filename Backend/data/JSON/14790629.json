@@ -1,0 +1,48 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Senior Manager of Customer Support",
+            "company": "Company Name",
+            "period": "02/2016 to Current",
+            "description": [
+                "Spearheaded all company-wide prospecting, marketing and closing endeavors.",
+                "Brought on NASA and Southwest Airlines as clients."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager of Customer Support",
+            "company": "Company Name",
+            "period": "06/2013 to 01/2016",
+            "description": [
+                "Develop maximum sales potential out of major airline customers with excellent customer service techniques and knowledge of products and services, as well as competition's strengths and weaknesses.",
+                "Evaluate and calculate prices, discounts and proposals to meet specific customer requirements in an efficient manner."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Support Representative",
+            "company": "Company Name",
+            "period": "03/2012 to 06/2013",
+            "description": [
+                "Processed customer quotes and verified accurate customer and product information.",
+                "Managed submitted requests for quotes and initiated the quoting process to cultivate new business."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Lead Flight Attendant",
+            "institution": "Company Name",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents as a charismatic leader with a strong background in customer support and management. Their experience spans across various airlines, demonstrating a deep understanding of client relations and negotiation skills essential for both business development and strategic partnerships."
+}

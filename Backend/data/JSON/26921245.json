@@ -1,0 +1,85 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "GIS",
+        "ArcGIS",
+        "QGIS",
+        "ESRI",
+        "Environmental Science"
+    ],
+    "work_history": [
+        {
+            "job_title": "GIS Coordinator",
+            "company": "Company Name, City , State",
+            "period": "07/2015 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Research Associate",
+            "company": "Company Name, City , State",
+            "period": "06/2012 to 08/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Graduate Teaching Assistant",
+            "company": "Company Name, City , State",
+            "period": "08/2012 to 05/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Biology Intern",
+            "company": "Company Name, City , State",
+            "period": "03/2013 to 05/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Seasonal Forestry Worker",
+            "company": "Company Name, City , State",
+            "period": "04/2012 to 08/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Research Assistant",
+            "company": "Company Name, City , State",
+            "period": "01/2011 to 12/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Trail Logistics Intern",
+            "company": "Company Name, City , State",
+            "period": "06/2011 to 08/2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Secretary",
+            "company": "Company Name, City , State",
+            "period": "06/2010 to 09/2010",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Science",
+            "institution": "The Ohio State University, City , State",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "The Ohio State University, City , State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a highly skilled GIS coordinator with extensive experience working in both academia and government agencies. With a background in environmental science, they have demonstrated expertise in managing complex projects directly with USAid and two universities to fulfill individual Master's degree requirements as well as broader project objectives. Their ability to coordinate with professors and staff abroad and teach lectures at home showcases their leadership skills and adaptability across different cultural and professional environments."
+}

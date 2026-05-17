@@ -1,0 +1,84 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Bartender / Server Trainer / Banquet Event Captain",
+            "company": "Company Name City , State",
+            "period": "02/2013 to Current",
+            "description": [
+                "Interacting with guests, fellow workers and supervisors in a polite, considerate, and welcoming manner to make sure all guests have a perfect bar experience.",
+                "Trained and prepared new staff members to uphold the standards of a fine dining restaurant, and provide guidance throughout their trial of employment.",
+                "Uphold company standards by executing steps of service flawlessly to maximize level of hospitality for guests and profitability for the company.",
+                "Supervise service teams for private events by assigning responsibilities among staff members, organizing staff to properly follow BEO guidelines, ensuring the setup of the venue, and streamlining communication between guests, servers, and chefs. Facilitate company changes by soliciting coworker feedback, opening communication with management to improve standards of accountability for staff members, and positively influencing private event standards to increase guests' satisfaction.",
+                "Additional responsibilities: Handling customer payments, Maintaining an accurate cash drawer, Assisting co-workers, Distributing servers' money earned, Attempting to limit problems and liability related to a guest's excessive drinking, Minimizing waste to control cost, and managing inventory."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Sales Manager",
+            "company": "Company Name City , State",
+            "period": "04/2012 to 02/2013",
+            "description": [
+                "Office administration work in addition to upholding the structure of advertising and recruiting.",
+                "Consistently assisted in 19 hour training seminars and personally directed sales team development programs.",
+                "Assisted in conducting a demographic study of new potential territories and selecting an office location to lease.",
+                "Conducted 90 minute interviews for 110+ qualified applicants, and was granted the ultimate decision in terms of their employment.",
+                "Assisted in developing and implementing advertising strategies in a multitude of media forms including direct mail, web, newspaper, posters, and in-hand cards/flyers.",
+                "Working in coordination with local colleges in attempts to help students find summer work.",
+                "Consulted 15-30 representatives on a weekly basis instilling the importance of time management and goal setting; serving as a coach for representatives with little to no experience.",
+                "Led sales calls with team members to establish sales and customer retention goals.",
+                "Assisted in analyzing weekly sales and developing strategies to increase office performance through weekly staff meetings.",
+                "Generated monthly and annual sales reports.",
+                "Monitored customer preferences to determine focus of sales efforts."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Representative / Field Sales Manager",
+            "company": "Company Name City , State",
+            "period": "09/2011 to 02/2013",
+            "description": [
+                "Operate as an independent contractor selling CUTCO high-quality cutlery and culinary products, directly to customers on a one-on-one, inhome, professional appointment basis.",
+                "I took part in helping Vector Marketing sell over $250 Million worth of CUTCO nationwide.",
+                "Handled everything directly from initial contact to the close of the sale in addition to follow-up appointments for servicing.",
+                "Emphasized product features based on analysis of customers' needs.",
+                "Collaborated with colleagues to exchange selling strategies and marketing information.",
+                "Scheduled an average of 20+ appointments during sales pushes.",
+                "Shared product knowledge with customers while making personal recommendations.",
+                "Developed own customer referral base by averaging 10-15 personal recommendations per appointment.",
+                "Recognized for ability to quickly establish rapport with customers, in turn; building a residual recommendation base."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Food Runner / Server",
+            "company": "Company Name City , State",
+            "period": "04/2010 to 08/2011",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Not Specified",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

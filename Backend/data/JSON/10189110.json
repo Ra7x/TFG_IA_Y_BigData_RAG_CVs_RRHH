@@ -1,0 +1,80 @@
+{
+    "full_name": "John Chriskey",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "MS Office suite",
+        "Excel",
+        "Word",
+        "Adobe"
+    ],
+    "work_history": [
+        {
+            "job_title": "Purchaser / Production Coordinator",
+            "company": "Flightstar",
+            "period": "January 2011 to Present",
+            "description": [
+                "Responsible for interfacing with leads, project managers, and customer representatives regarding aircraft documentation, parts status, and any problems that may affect the delivery schedule.",
+                "Ensured accurate paperwork and work cards during maintenance visits.",
+                "Worked closely with purchasing to ensure proper communication of parts affecting aircraft delivery and expedite necessary parts.",
+                "Daily reporting of parts statuses, man hours, and aircraft schedule was a daily task."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Purchasing Clerk / Material Specialist",
+            "company": "Vision Airlines",
+            "period": "February 2009 to December 2010",
+            "description": [
+                "Responsible for quoting, purchasing materials for both Aircraft and Stock, as well as Stores / Warehouse, Shipping, and Receiving.",
+                "Managed material orders and ensured timely shipping and payment processes.",
+                "Verified material certification upon receipt and maintained records of all transactions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Purchasing Agent / Material Expeditor",
+            "company": "Vision Airlines",
+            "period": "February 2005 to January 2009",
+            "description": [
+                "Provided daily reports and expedited material needed for the production process.",
+                "Dealt directly with vendors to find price and availability on required materials."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Training Certificate",
+            "institution": "Transportation Dangerous Goods Development Group",
+            "year": null
+        },
+        {
+            "degree": "Training Certificate",
+            "institution": "Vision Airlines Maintenance Indoctrination Course",
+            "year": null
+        },
+        {
+            "degree": "Training Certificate (RVSM)",
+            "institution": "Vision Airlines",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "State of Florida Department of Education",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Reduced Vertical Separation Minimum Training Certificate",
+            "year": null
+        },
+        {
+            "name": "Gold Award Administration Maintenance Technicians Awards Program",
+            "year": "May 2001"
+        }
+    ],
+    "english_level": "Intermediate to advanced",
+    "matchmaking_summary": "John Chriskey is a seasoned professional with over 15 years of experience in the Aviation industry, working with various aircraft makes and customers. His versatile skills span across Purchasing, Logistics, Customer Service, and Management, which are highly relevant for roles that require comprehensive support to an organization as part of its key team. With his background in both commercial and military aviation, coupled with knowledge of leading aircraft manufacturers like Boeing, Airbus, Bombardier, Dornier, and Lockheed, Chriskey stands out for his ability to adapt and contribute effectively across different sectors of the industry."
+}

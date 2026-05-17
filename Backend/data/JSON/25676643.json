@@ -1,0 +1,62 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Specialist",
+            "company": "Company Name",
+            "period": "12/2016 to Current",
+            "description": [
+                "Provide HR advisory services within the Office of Inspector General to mid-level and senior level managers.",
+                "Serve as subject matter expert within the Talent and Acquisitions team regarding hiring authorities and flexibilities within Merit Staffing Procedures and Delegated Examining.",
+                "Consult with HR managers and hiring officials regarding the use of Pathways Programs such as Internships, Recent Graduates, and Presidential Management Fellows.",
+                "Provided knowledgeable and effective advisory services to managers and senior leaders related to topics of Staffing and Recruitment, Classifications, Position Management, Schedule A, Special Emphasis Programs and Selective Placement Programs.",
+                "Participate in preparation and review of case files for 2016 Delegated Examining Audit.",
+                "Lead the development of Onboarding Programs for Supervisors, Training and Development, Leadership Development, Social Media Recruitment, and New Employee Orientation programs within the Human Resource Management Division."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Specialist",
+            "company": "Company Name",
+            "period": "09/2013 to 12/2016",
+            "description": [
+                "Devised marketing and branding initiatives to increase agency advertisement and visibility among colleges and universities as 'The Employer of Choice' for internships and recent graduate programs.",
+                "Facilitate information sessions on various topics such as resume writing, internship programs, use of USAJobs.gov, and interviewing skills.",
+                "Devise recruitment strategies and develop tactical plans to complete recruitment projects.",
+                "Successfully implemented a non-paid internship program for the agency, which will be available agency wide internship FY-15.",
+                "Created and maintained the Human Capital Management Office Facebook and Twitter accounts to further brand the agency and promote job opportunities through social media."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Assistant",
+            "company": "Company Name",
+            "period": "10/2011 to 09/2013",
+            "description": [
+                "Provide effective and timely customer and technical support in delegated examining and staffing processes.",
+                "Drafted job analysis and job announcement for Wage Grade and General Schedule positions.",
+                "Responsible for reviewing and pre-audits of delegated examining case files.",
+                "Advised Senior HR Specialists and hiring managers on available policies and hiring flexibilities available within delegated examining and Code of Federal Regulations."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts (BA)",
+            "institution": "St. Augustine's University",
+            "year": null
+        },
+        {
+            "degree": "Masters of Business Administration (MBA)",
+            "institution": "St. Leo University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

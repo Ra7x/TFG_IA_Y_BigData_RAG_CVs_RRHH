@@ -1,0 +1,66 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Executive",
+            "company": "PCMS",
+            "period": "January 2013 to Present",
+            "description": [
+                "Responsible for selling IT converged infrastructure consulting services, hardware and software solutions in the Greater Cincinnati area. PCMS is a Microsoft Gold Partner who specializes in Cloud and On-Premise technology, including Office 365, SharePoint, Lync and Exchange.",
+                "Proven experts in Staff Aug, Helpdesk, and project based work."
+            ],
+            "technologies": [
+                "Office 365",
+                "SharePoint",
+                "Lync",
+                "Exchange"
+            ]
+        },
+        {
+            "job_title": "Business Development Executive",
+            "company": "Star Base",
+            "period": "January 2011 to January 2013",
+            "description": [
+                "Responsible for selling IT services to the Cincinnati, Dayton and N. Kentucky market.",
+                "I am also responsible for new and ongoing marketing initiatives.",
+                "Work with major accounts like Luxottica, Great American, Standard Register, Toyota, Cincinnati Financial, Tri-Health and several other medium to small accounts across the tri state area."
+            ],
+            "technologies": [
+                "IT Talent on Demand",
+                "Application Development",
+                "IT Strategy"
+            ]
+        },
+        {
+            "job_title": "National Account Manager",
+            "company": "SupplyLink-Leads",
+            "period": "January 2008 to January 2011",
+            "description": [
+                "Introduced the SupplyLink-Leads program to Building Product Manufacturers and National Building Distributors to generate and deliver real-time leads through the nation's largest network of construction plan rooms."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Account Manager",
+            "company": "Caterpillar",
+            "period": "January 2007 to January 2008",
+            "description": [
+                "Identified opportunities, created strategic marketing plans, and sold project-based and value added information technology services to Fortune 100 clients."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration Marketing",
+            "institution": "Urbana University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's professional journey is marked by a strong track record in Business Development and Consultative Sales. With diverse experience spanning across IT services, digital marketing, and traditional advertising sectors, the candidate has demonstrated expertise in managing client relationships and driving revenue growth through strategic sales methodologies. Their background includes proficiency in various CRM tools and software productivity suites, reflecting adaptability and continuous learning within the tech industry. The candidate's ability to mentor junior sales representatives indicates strong leadership qualities and commitment to nurturing talent."
+}

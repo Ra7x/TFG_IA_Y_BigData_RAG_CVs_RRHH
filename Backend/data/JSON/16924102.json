@@ -1,0 +1,73 @@
+{
+    "full_name": "Executive Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name City , State",
+            "period": "08/2010 to 08/2014",
+            "description": [
+                "Innovative menu development and planning.",
+                "Food and labor cost control.",
+                "Food presentation and preparation.",
+                "Managed special events."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Kitchen Manager",
+            "company": "Company Name City , State",
+            "period": "08/2009 to 07/2010",
+            "description": [
+                "Recommended measures for improving work procedures and workers performance.",
+                "Created work schedules and organized employee time sheets.",
+                "Assign duties, responsibilities, and work stations to employees in accordance to with work requirements."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sous Chef",
+            "company": "Company Name City , State",
+            "period": "08/2007 to 09/2009",
+            "description": [
+                "Help train, develop and grow kitchen staff.",
+                "Planning, preparing and direction food operations in kitchen and outgoing catering orders."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Lead Expeditor/Customer Service Rep",
+            "company": "Company Name City , State",
+            "period": "04/2005 to 08/2008",
+            "description": [
+                "Delivering catering orders to surrounding airports.",
+                "Customer service.",
+                "Data entry using Quick books.",
+                "Shopping for special requests throughout San Diego Area for an elite clientele."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Restaurant/Hotel Management",
+            "institution": "2017 Penn Foster",
+            "year": null
+        },
+        {
+            "degree": "Serve Safe Certified",
+            "institution": "Skills 2015 City",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Serve Safe Management Certified",
+            "year": 2015
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Executive Chef with over 29 years of experience in front and back of house, specializing in managing kitchen staff and preparing foods at reduced cost without compromising quality and taste. Expert in strategic planning and execution within high-pressure culinary environments, skilled in managing large volumes of food quickly and efficiently. Proven leadership in menu management, budgeting / profit & loss management, and fostering a positive work culture that drives innovation and customer satisfaction."
+}

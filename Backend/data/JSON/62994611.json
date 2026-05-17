@@ -1,0 +1,89 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "C#",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "MatLab",
+        "MongoDB",
+        "Tableau",
+        "Node.js",
+        ".Net",
+        "Devexpress",
+        "TensorFlow",
+        "Keras",
+        "Scikit-learn",
+        "Pandas",
+        "NLTK"
+    ],
+    "work_history": [
+        {
+            "job_title": "Software Developer",
+            "company": "Company Name, City, State",
+            "period": "12/2015 to Current",
+            "description": [
+                "Projected to design an Internal Marketing System using C#, SQL, HTML, .NET, Devexpress.",
+                "Integrated APIs for Amazon, Walmart, eBay, and Shopify.",
+                "System architected for high-availability Internet site supporting various internal applications.",
+                "Responsible for API integration and coordination with project management for database development."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Engineer Intern",
+            "company": "Company Name, City",
+            "period": "06/2013 to 09/2013",
+            "description": [
+                "Tested User Interface for web site and provided feedback for user satisfaction.",
+                "Executed performance testing on internal applications, documented results, maintained logs."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Engineer Intern",
+            "company": "Company Name, City",
+            "period": "06/2012 to 09/2012",
+            "description": [
+                "Developed the FAQ and Support part of web site using MatLab, C#, SQL, and HTML.",
+                "Researched various studies for image processing improvements."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Engineering",
+            "institution": "Rowan University - City, State",
+            "year": 2015
+        },
+        {
+            "degree": "Master of Science",
+            "institution": "Selcuk University - City, State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Fluent in written and spoken English",
+            "year": null
+        },
+        {
+            "name": "Spanish B1 level",
+            "year": null
+        },
+        {
+            "name": "Native speaker of Turkish",
+            "year": null
+        }
+    ],
+    "english_level": "Fluent",
+    "matchmaking_summary": "The candidate demonstrates a strong foundation in computer engineering with extensive experience in programming languages such as C#, Python, and JavaScript. They have expertise in database management systems like SQL and NoSQL databases, along with experience with data analysis tools like MatLab and Tableau. Their portfolio includes projects involving web development (HTML, CSS, JavaScript), mobile app development through frameworks like React Native, and machine learning applications using TensorFlow, Scikit-learn, and Pandas. The candidate's fluency in English is complemented by intermediate proficiency in Spanish and Turkish."
+}

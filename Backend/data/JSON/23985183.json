@@ -1,0 +1,61 @@
+{
+    "full_name": "Raymond Strange",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Operation Manager",
+            "company": "Company Name - City , State",
+            "period": "09/2013 to Current",
+            "description": [
+                "Coordinates all training of 3000+ employees within the regional footprint with 100% mission completion.",
+                "Ensures compliance with established policies and procedures; led staff training initiatives to maximize productivity.",
+                "Analyzes key aspects of the business to evaluate the factors driving results and summarized results into presentations. Writes office job descriptions and directives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Financial Management",
+            "company": "Company Name - City , State",
+            "period": "11/2009 to 08/2012",
+            "description": [
+                "Authorizes for the mission and the authority to obligate funds to support TDY travel.",
+                "Assumes ownership of accounting, forecasting and strategic supply planning. Forecasted operating costs for scheduled projects by strategizing with other departments.",
+                "Manages high volumes of financial activity in a fast-paced, risk-based corporate environment."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Logistic Manager",
+            "company": "Company Name - City , State",
+            "period": "01/2012 to 10/2012",
+            "description": [
+                "Coordinated and managed resident training activities in the field of aviation logistics and maintenance, to include utilization of training resources, facilities utilization, upkeep and modernization, and the recognition and establishment of new facilities requirements as necessary.",
+                "Identified and managed un-programmed requirements, training program constraints; training and support schedule synchronization; tracking and resolution of training support failures; de-conflicting class, equipment, and facilities schedules, instructor requirements, and external tasking of personnel and equipment."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Training Specialist",
+            "company": "Company Name - City , State",
+            "period": "11/2009 to 12/2011",
+            "description": [
+                "Served as a Training Instructor and subject matter expert performing instructional and training development work in the Structural Branch, at the Structural and Pneudralic Division (SPD).",
+                "Managed the course material for assigned blocks of instruction within comprehensive courses, providing training materials and aids as needed, conducts platform instruction, and administers practical exercises and examinations for students.",
+                "Administer and proctors written and performance examinations. Conducted evaluation and certified training instructors within the Division as a Senior Evaluator."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Trident University International - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Raymond Strange is a highly accomplished Operation Management professional with over two decades of experience in driving process improvements, financial administration, and staff productivity within military environments. His extensive background includes cultivating strong relations through contract negotiation, project management, and policy/program development. He has held various roles that have spanned across operational excellence in diverse sectors including HR/financial/accounting, inventory control, strategic integration procedures for increased production time, and personnel record screening for talent acquisition."
+}

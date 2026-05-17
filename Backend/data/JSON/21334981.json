@@ -1,0 +1,96 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Pastry Chef /Server",
+            "company": "",
+            "period": "2014-2015",
+            "description": [
+                "Ensured that all staff acted in a way that promotes guest satisfaction and handled any issues or complaints.",
+                "Trained servers, bussers, hosts, baristas, and bartenders on menu items and procedures."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Line Cook",
+            "company": "",
+            "period": "2013-2014",
+            "description": [
+                "Regularly developed new recipes in accordance with consumer tastes, nutritional needs, and budgetary considerations.",
+                "Provided nutritious, safe, visually appealing, innovative and properly prepared and flavored food."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Dishwasher",
+            "company": "",
+            "period": "2012-2012",
+            "description": [
+                "Consistently kept a clean and safe environment by adhering to all federal, state and local sanitation and safety requirements.",
+                "Maintained system of control for storage temperatures and proper functioning of kitchen equipment."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "",
+            "period": "2012-2012",
+            "description": [
+                "Developed highly empathetic client relationships and earned reputation for exceeding sales goals.",
+                "Achieved high sales percentage with consultative, value-focused customer service approach."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Catering Assistant/Server",
+            "company": "",
+            "period": "2007-2008",
+            "description": [
+                "Accepted payment from customers and made change as necessary.",
+                "Checked patrons' identification to ensure that they met minimum age requirements for consumption of alcoholic beverages."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Shift Manager",
+            "company": "",
+            "period": "2001-2003",
+            "description": [
+                "Managed daily restaurant operations, created staff schedules, tracked/reviewed inventory, cross trained staff, closed out cash drawer, ran sales reports.",
+                "Promoted within 1 month to shift manager supervising 20+ employees."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science Degree",
+            "institution": "Mesa Community College",
+            "year": null
+        },
+        {
+            "degree": "",
+            "institution": "St. Mary's Food Bank Alliance- Community Kitchen",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "National Restaurant Association ServSafe Manager Certification",
+            "year": null
+        },
+        {
+            "name": "Maricopa County Food Handlers Card",
+            "year": null
+        },
+        {
+            "name": "Adult CPR & First Aid Fire Safety Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned pastry chef with experience in both front and back of house operations, demonstrating strong leadership skills and the ability to train staff effectively. Their background includes roles that require customer service expertise, conflict resolution, and adaptability to various kitchen environments. The candidate's achievements reflect dedication to maintaining high standards of food quality and service culture."
+}

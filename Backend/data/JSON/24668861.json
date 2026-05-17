@@ -1,0 +1,54 @@
+{
+    "full_name": "Senior Aerospace Quality Engineer",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Senior Aerospace Quality Engineer",
+            "company": "Company Name (City, State)",
+            "period": "2009-2014",
+            "description": [
+                "Handled the authorization of all internal blueprint and UTC revision changes.",
+                "Supervised the Non-Destructive Testing (NDT) for parts and assemblies.",
+                "Implemented Lean Six Sigma methodologies to improve quality processes."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Materials Manager",
+            "company": "Company Name (City, State)",
+            "period": "2008-2014",
+            "description": [
+                "Prepared accurate specifications for purchase of materials and equipment for purchasing department.",
+                "Led the program's supply chain activities and advised the SCM Director on material strategies."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D in Theoretical Physics",
+            "institution": "Massachusetts Institute of Technology (City, State)",
+            "year": null
+        },
+        {
+            "degree": "M.B.A in Econometrics",
+            "institution": "MIT Sloan School of Management (City, State)",
+            "year": null
+        },
+        {
+            "degree": "M.S in Applied Physics",
+            "institution": "Massachusetts Institute of Technology (City, State)",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "institution": "Massachusetts Institute of Technology (City, State)",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

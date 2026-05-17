@@ -1,0 +1,87 @@
+{
+    "full_name": "Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Chef",
+            "company": "Company Name",
+            "period": "10/2004 to 07/2016",
+            "description": [
+                "Maintained daily culinary operations of multiple local properties, cooking for private client and multiple guests in multiple homes. Utilized indepth knowledge of nutrition & communicated with healthcare professionals to optimize nutrition for desired health outcomes.",
+                "Oversaw domestic & international food production. Acquired wild & foraged foods. Hired, fired & trained staff at multiple international estates. Conducted extensive parties and charitable events; managed all facets of culinary event logistics. Maintained food service and provisions for private aircraft."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef Consultant",
+            "company": "Company Name",
+            "period": "10/2004 to Current",
+            "description": [
+                "Nutrition, diet & recipe planning including for cancer patients, cardiac patients, and people with chronic diseases including Hepatitis C, Crohn's, & Hashimoto's. Taught diet, nutrition & cooking classes and smart consumer classes. Taught cooking and food science classes to children. Assisted with planning and creation of multiple community and school gardens."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Banquet Chef",
+            "company": "Company Name",
+            "period": "07/2003 to 10/2004",
+            "description": [
+                "Served on opening team for $800 million hotel; responsibilities included trouble-shooting culinary work flow, equipment needs, permitting & inspections, internal audits of health and safety, assessments of ingredients to minimize production waste and control inventory. Sourced ingredients, specializing in fresh and local."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Sous Chef",
+            "company": "Company Name",
+            "period": "06/2002 to 06/2003",
+            "description": [
+                "Designed and implemented seasonal banquet menus. Transformed kitchen culture from one of pre-packaged food to scratch cooking."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Shepherd/Caretaker",
+            "company": "Company Name",
+            "period": "06/2001 to 06/2002",
+            "description": [
+                "Shepherded of 160 Montadale sheep, included: all care of animals, pasture management and animal husbandry. Management of organic market garden."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Externship",
+            "company": "Company Name",
+            "period": "06/1999 to 11/1999",
+            "description": [
+                "Operated wood-fired kitchen equipment including oven, grill and spit."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts : Culinary Arts",
+            "institution": "Culinary Institute of America",
+            "year": null
+        },
+        {
+            "degree": "Nutrition Dietetics",
+            "institution": "West Virginia Wesleyan",
+            "year": 3
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Leader of Chef's Collaborative, Catered events including Spotlight on Hudson Valley cuisine",
+            "year": null
+        },
+        {
+            "name": "Food anthropology and Charcuterie Study in Spain",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a classically trained chef with significant experience managing daily culinary operations, nutrition optimization, and event planning. His portfolio includes working for multiple high-end clients including celebrities, executives, and investors, demonstrating expertise in discretion and privacy. The candidate has led and contributed to various projects ranging from private household management to large-scale catering events, showcasing versatility and adaptability."
+}

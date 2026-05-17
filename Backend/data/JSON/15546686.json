@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "in Vitro Diagnostic systems",
+        "microbial methodologies",
+        "Immunoassay",
+        "mass spectrometry MALDI-TOF"
+    ],
+    "work_history": [
+        {
+            "job_title": "Senior Field Application Specialist",
+            "company": "Company Name",
+            "period": "06/2014 - 06/2016",
+            "description": [
+                "Responsible for first line of customer support and troubleshooting both onsite and remotely.",
+                "Provided proficient and timely instrument training, validation and implementation for bio health care customers on the use of all Biomerieux platforms and assays; Immunoassay, microbial Identification, microbial resistance, mass spectrometry MALDI-TOF, sterility, microbial enumeration, DNA/RNA extraction, DNA strain typing, media management, and blood banking.",
+                "Strictly adhered to government guidelines and regulations.",
+                "Aided the marketing, engineering and sales groups to increase offerings and solutions. Remained the technical expert on all products.",
+                "Organized and managed a large territory through proper reporting and proof of accountability."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Field Application Specialist",
+            "company": "Company Name",
+            "period": "01/2008 - 06/2014",
+            "description": [
+                "Responsible for first line of customer support and troubleshooting both onsite and remotely.",
+                "Provided proficient and timely instrument training, validation and implementation for industrial micro customers on the use of all Biomerieux platforms and assays; Immunoassay, microbial Identification, microbial resistance, mass spectrometry MALDI-TOF, sterility, microbial enumeration, DNA/RNA extraction, DNA strain typing, media management, and blood banking.",
+                "Strictly adhered to government guidelines and regulations.",
+                "Aided the marketing, engineering and sales groups to increase offerings and solutions. Remained the technical expert on all products.",
+                "Organized and managed a large territory through proper reporting and proof of accountability."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Lab Technician",
+            "company": "Company Name",
+            "period": "01/2007 - 12/2007",
+            "description": [
+                "Hired to work on a Federal funded program testing produce for human pathogens. Utilized several in vitro diagnostic systems, DNA Extraction and Amplification, and minimal Chemistry GC/MS."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Teaching Assistant/ Research Assistant",
+            "company": "Company Name",
+            "period": "01/2005 - 01/2007",
+            "description": [
+                "Cell and Molecular Teaching and Research Assistant. Responsible for materials used in lectures and practical work. Led lectures, graded papers. Assisted in Cell and Molecular Research."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Metropolitan State University of Denver",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in field application and customer training, particularly within the biotech sector. With experience across multiple In Vitro Diagnostic systems and microbial methodologies, including handling assays for food science, environmental testing, pharmaceutical development, research, veterinary care, blood banking, clinical diagnostics, and more, they have demonstrated expertise in both practical applications and theoretical knowledge. Their role has involved direct customer support and training, as well as interaction with marketing, engineering, and sales teams to enhance product offerings. The candidate's experience encompasses a broad range of techniques including immunoassay, mass spectrometry MALDI-TOF, sterility testing, microbial enumeration, DNA/RNA extraction, strain typing, and media management. Their ability to adhere strictly to government guidelines and regulations underscores their professional competence in regulated environments."
+}

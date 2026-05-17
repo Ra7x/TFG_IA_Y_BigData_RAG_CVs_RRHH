@@ -1,0 +1,107 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Salesforce.com",
+        "Paperless Proposals",
+        "Saba LMS",
+        "Success Factors LMS",
+        "Webex",
+        "Pedague Testing System",
+        "Microsoft Office Suite",
+        "Concur",
+        "Vantive",
+        "Clarify"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Development Coordinator",
+            "company": "Company Name, City , State",
+            "period": "May 2016 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Technology Coordinator",
+            "company": "Company Name, City , State",
+            "period": "October 2014 to May 2016",
+            "description": [
+                "Supports Region Director of Technology and five System Engineers by tracking and forecasting opportunities from start to finish.",
+                "Proposal creation in paperless proposal system.",
+                "Created contracts upon new or amended technology sales."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Region Coordinator",
+            "company": "Company Name, City , State",
+            "period": "February 2014 to October 2014",
+            "description": [
+                "Carries out diverse administrative duties and implements organizational policies and practices on behalf of and as directed by the Region President.",
+                "Aids the Region President by coordinating office services, such as personnel, records control, and conducting special management studies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Assistant",
+            "company": "Company Name, City , State",
+            "period": "April 2012 to April 2013",
+            "description": [
+                "Supported the Owners in business start up.",
+                "Coordinated conference calls, meetings, and travel arrangements."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Technical Support Coordinator",
+            "company": "Company Name, City , State",
+            "period": "June 2011 to March 2012",
+            "description": [
+                "First tier level of diagnosis, resolution, and contact for the various Canfield Imaging Systems hardware and software platforms to external customers in the medical field.",
+                "Answers, evaluates, and prioritizes incoming telephone, voicemail, and email requests for assistance from end-users experiencing problems with hardware, software, and networking issues."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Clinical Administrator",
+            "company": "Company Name, City , State",
+            "period": "January 2011 to April 2011",
+            "description": [
+                "Coordinated scheduling of monthly staff meetings, with participants from various parts of the company using both audio and video arrangements.",
+                "Supported all nurses and doctors in the practice."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Specialist, User Applications",
+            "company": "Company Name, City , State",
+            "period": "January 2007 to May 2010",
+            "description": [
+                "Monitored daily administration of Saba learning management system and Pedagogue assessment system for over 6,000 internal and field associates.",
+                "Diagnosed and provided first level support for transcript and learning management system issues."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Training Coordinator",
+            "company": "Company Name, City , State",
+            "period": "October 2001 to January 2007",
+            "description": [
+                "Managed department budget including estimates and accruals within 2% of target.",
+                "Managed internal logistics associated with training, such as training lists, invitations, attendance rosters, scheduling events, and assigning pre-work."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Centenary College, City , State",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in training coordination and system administration, which is indicative of their strong organizational skills and attention to detail. Their experience as a Business Development Coordinator demonstrates their ability to manage complex projects from start to finish, making them an excellent fit for roles that require both technical expertise and strategic vision."
+}

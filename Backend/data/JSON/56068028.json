@@ -1,0 +1,83 @@
+{
+    "full_name": "Career Focus",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "SAP GRC 10.1",
+        "SAP ECC 6.0",
+        "SRM 7.0",
+        "EWM 9.1",
+        "Sourcing 7.0",
+        "Solution Manager 7.01",
+        "BW 7.01",
+        "BPC 10.0",
+        "PI 7.3",
+        "Model N 5.6",
+        "HP Quality Center",
+        "Service Desk",
+        "IT Remedy",
+        "ServiceNow Platform",
+        "MS Excel",
+        "MS Access",
+        "QlikView"
+    ],
+    "work_history": [
+        {
+            "job_title": "Lead Senior SAP Auditor",
+            "company": "Company Name - City , State",
+            "period": "February 2014 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior SAP Security and Control Consultant",
+            "company": "Company Name - City , State",
+            "period": "September 2010 to January 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Audit Intern",
+            "company": "Company Name - City , State",
+            "period": "January 2010 to August 2010",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master : Accounting (GPA 3.7)",
+            "institution": "McCombs School of Business; University of Texas at Austin",
+            "year": 2009
+        },
+        {
+            "degree": "B.S : Accounting (GPA 4.0)",
+            "institution": "Jinan University; Guangzhou, China",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Public Accountant (CPA)",
+            "year": null
+        },
+        {
+            "name": "Certified Information System Security Professional (CISSP)",
+            "year": null
+        },
+        {
+            "name": "Certificate of Cloud Security Knowledge (CCSK)",
+            "year": null
+        },
+        {
+            "name": "Certified Internal Audit (CIA)",
+            "year": null
+        },
+        {
+            "name": "Certified Information System Auditor (CISA)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust professional profile in the field of IT security and auditing, with significant experience leading various stages of system development efforts, including requirements definition, design, architecture, testing, and support. Their expertise extends to managing internal audit engagements, developing corporate information security frameworks like COBIT, and advising executive management on cyber security matters. The depth of their skills is demonstrated through roles in both SAP auditing and broader IT audit practices, coupled with proficiency in various software tools and systems such as SAP GRC, ECC, and other related applications."
+}

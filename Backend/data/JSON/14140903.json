@@ -1,0 +1,71 @@
+{
+    "full_name": "Ibukun M. Ogunade",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Graduate Research Assistant",
+            "company": "Company Name City , State",
+            "period": "07/2013 to Current",
+            "description": [
+                "Ongoing researches include the effect of prototype sequestering agents on performance and milk aflatoxin M1 concentrations of dairy cows fed aflatoxin B1-contaminated diets.",
+                "The effect of selected lactic acid bacteria on the microbial composition and on the survival of pathogens in the rumen in context with their probiotic effects on ruminants.",
+                "An in-vitro study on the use of tropical plants and essential oils in mitigating methanogenesis in ruminant."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Lecturer",
+            "company": "Company Name City , State",
+            "period": "08/2010 to 06/2013",
+            "description": [
+                "Instructed a class of 156 students in animal feed and feeding course.",
+                "Lectured and communicated effectively with students from diverse backgroups.",
+                "Inspired students to translate their academic interests into the real world by taking positive actions."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. : Ruminant Nutrition",
+            "institution": "University of Florida",
+            "year": 2017
+        },
+        {
+            "degree": "Master of Science : Monogastric Nutrition",
+            "institution": "University of Agriculture",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Agriculture : Animal Nutrition",
+            "institution": "University of Agriculture, Abeokuta",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Grinter Fellowship for outstanding new PhD students",
+            "year": null
+        },
+        {
+            "name": "Certificate of outstanding academic achievement, University of Florida International Center",
+            "year": null
+        },
+        {
+            "name": "University of Agriculture Graduate Fellowship",
+            "year": null
+        },
+        {
+            "name": "Postgraduate Tuition Scholarship for First Class Students in the University",
+            "year": null
+        },
+        {
+            "name": "Durosaro, S.O., Ojo, A., Fadare, A.O., Olowofeso, O., Ilori, B.M., Osho, S.O., Ogunade, I.M. and Ozoje, M.O. (2013). Effect of Coat Colour on Water Intake and Feed Utilization of Intensively Reared West African Dwarf Sheep in the Humid Tropics.",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

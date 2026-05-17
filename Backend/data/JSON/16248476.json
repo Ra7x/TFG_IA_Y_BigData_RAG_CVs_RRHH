@@ -1,0 +1,61 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sous Chef",
+            "company": "Company Name City , State",
+            "period": "05/2015 to 01/2016",
+            "description": [
+                "Provided courteous and informative customer service in an open kitchen format.",
+                "Expertly estimated staffing needs and adjusted hourly schedules in accordance with demand patterns, budget and local labor laws."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef de Partie",
+            "company": "Company Name City , State",
+            "period": "04/2014 to 05/2015",
+            "description": [
+                "Expertly estimated staffing needs and adjusted hourly schedules in accordance with demand patterns, budget and local labor laws."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Lead Cook",
+            "company": "Company Name City , State",
+            "period": "07/2013 to 04/2014",
+            "description": [
+                "Followed proper food handling methods and maintained correct temperature of all food products.",
+                "Established and maintained open, collaborative relationships with the kitchen team."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Culinary Arts High School Diploma",
+            "institution": "City , State",
+            "year": null
+        },
+        {
+            "degree": "Culinary Arts",
+            "institution": "California, City, State",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        {
+            "name": "ServSafe",
+            "year": null
+        },
+        {
+            "name": "Food handlers card",
+            "year": null
+        }
+    ],
+    "english_level": "English/Spanish",
+    "matchmaking_summary": "The candidate is a seasoned sous chef with extensive experience in leading and managing culinary teams, particularly focusing on high-pressure environments. The skills highlighted include Bilingual (English/Spanish), ServSafe certified, emphasis on cost control through strategic purchasing decisions, and notable success in portioning menu items according to demand efficiently while maximizing profits."
+}

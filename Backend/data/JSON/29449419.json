@@ -1,0 +1,68 @@
+{
+    "full_name": "Chef Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Chef Manager",
+            "company": "Company Name - City , State",
+            "period": "08/2020 to Current",
+            "description": [
+                "Placed food orders with suppliers on a weekly basis, taking into account kitchen budget and expected demands.",
+                "Hired, trained, and managed all kitchen staff, including employee development, issuing disciplinary action, and conducting performance reviews."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef Manager",
+            "company": "Company Name - City , State",
+            "period": "08/2019 to 03/2020",
+            "description": [
+                "Placed food orders with suppliers on a weekly basis, taking into account kitchen budget and expected demands.",
+                "Hired, trained, and managed all kitchen staff, including employee development, issuing disciplinary action, and conducting performance reviews."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "General Manager of Operations",
+            "company": "Company Name - City , State",
+            "period": "01/2017 to 07/2017",
+            "description": [
+                "Created, managed, and executed business plan and communicated company vision and objectives to motivate teams.",
+                "Improved productivity while reducing staffing and operational costs by 7.5%."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Operations Manager",
+            "company": "Company Name - City , State",
+            "period": "01/2010 to 11/2016",
+            "description": [
+                "Devised, deployed, and monitored processes to boost long-term business success and increase profit levels.",
+                "Set, enforced, and optimized internal policies to maintain efficiency and responsiveness to demands. Reduced average contract expenses by 16% through aggressive negotiations with vendors."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "University of New Orleans",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Northwestern State University of Louisiana",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Servsafe",
+            "year": 2024
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the culinary field, marked by extensive experience as a Chef Manager, leading teams and managing operations. Their role has enabled them to hone skills in food ordering, budgeting, employee management, and adherence to safety regulations, which are crucial for maintaining quality and efficiency in high-volume environments such as school lunch programs and large catering services. The candidate's culinary innovation and adaptability to different POS systems also suggest a forward-thinking approach suitable for enhancing operations and customer satisfaction."
+}

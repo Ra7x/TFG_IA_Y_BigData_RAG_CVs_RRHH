@@ -1,0 +1,66 @@
+{
+    "full_name": "Joseph Mueller",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Quality Engineering",
+        "Process Improvement",
+        "Acceptance Testing",
+        "Strategic Planning",
+        "Organizational Development",
+        "Requirement Assessment",
+        "Coaching & Mentoring",
+        "Business Intelligence",
+        "SDLC",
+        "People Management",
+        "Team Building",
+        "Data Analysis",
+        "Oracle SQL/MS Access",
+        "Progress RDB",
+        "Power Point",
+        "Data Warehousing",
+        "HP Quality Center",
+        "MS Test",
+        "Rational software QA and PM templates",
+        "MS Word/Excel",
+        "MS Project",
+        "Visio",
+        "Clarity Software"
+    ],
+    "work_history": [
+        {
+            "job_title": "Adjunct Instructor",
+            "company": "Company Name",
+            "period": "January 1999 to November 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Software Developer/QA Project Lead",
+            "company": "Prodigy",
+            "period": "January 1988 to January 1996",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS in Computer Science",
+            "institution": "University of New Haven",
+            "year": 1992
+        },
+        {
+            "degree": "BS in Computer Science",
+            "institution": "Fairleigh Dickinson University",
+            "year": 1985
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AIT",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Joseph Mueller is a seasoned professional with extensive experience in both software development and education. His background includes roles as an Adjunct Instructor, where he has been instrumental in developing and implementing strategic plans for quality assurance processes and tools used across the Annuities Marketing Service group. He has also held positions requiring leadership skills such as leading the Leadership Development Program rotation, successfully navigating organizational and functional departments to enhance executive leadership exposure. His technical expertise is evident through his ability to manage complex projects like the development of the Resource Capacity Management tool and the Portfolio Management Database application, which required coordination across multiple departments and resources."
+}

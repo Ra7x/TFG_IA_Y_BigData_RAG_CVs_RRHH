@@ -1,0 +1,42 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Global Business Development Manager/Marketing",
+            "company": "Company Name City , State",
+            "period": "09/2015 to Present",
+            "description": [
+                "Grew customer base from 10 accounts to 35 accounts in a year's time.",
+                "Established over 30 new international sales relationships.",
+                "Closed deals with several Fortune 500 companies.",
+                "Recognized for aggressive lead generation and work ethic. Trained sales teams on educational products at seminars and special events. Worked closely with company executives to identify new business opportunities. Gathered all relevant materials for bid processes and coordinated bidding and contract approval."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Rep.",
+            "company": "Company Name City , State",
+            "period": "09/2012 to 08/2017",
+            "description": [
+                "Grew assigned sales territory over 75%.",
+                "Consistently second in sales among sales team; demonstrating ability to foster and close new business accounts.",
+                "Served as an employee of the year for Generosity of Service multiple times.",
+                "Achieved a ranking in the top 5% of sales representatives out of 10 representatives in the West Virginia, Kentucky and Ohio region. Managed a portfolio of 60 accounts which generated $1.2 million in revenue per year."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "West Virginia State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in business development and marketing, with proven success in establishing new accounts and fostering customer relationships. Their experience spans across various industries including technology (GigaSpaces Technologies) and food service (Buzz Food Service). The candidate demonstrates exceptional leadership skills through the training of sales teams and strategic account development. Additionally, their commitment to community involvement is evidenced by roles related to education and employment support for individuals with disabilities."
+}

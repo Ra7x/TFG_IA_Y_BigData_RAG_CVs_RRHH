@@ -1,0 +1,53 @@
+{
+    "full_name": "TONY BELL",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Manager",
+            "company": "The world's largest airline operating nine domestic hubs across the U.S.",
+            "period": "03/2013 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Consultant",
+            "company": "City, State",
+            "period": "06/2005 to 10/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Manager",
+            "company": "An organization empowering people living with mental illness and co-occurring substance disorder to live, learn, work, and participate successfully in their communities with integrated mental health services and community resources.",
+            "period": "03/2001 to 06/2005",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S : Communications",
+            "institution": "University of Phoenix",
+            "year": 2013
+        },
+        {
+            "degree": "HR Certificate/PHR Certification",
+            "institution": "University of Maryland",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "PHR Certification",
+            "year": 2003
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Tony Bell is a highly accomplished HR professional with extensive experience in strategic planning, organizational development, and management of Human Resources business operations. Her background includes managing all aspects of HR and ER for Customer Ops at DCA and LGA under the new American Airlines, handling ADA and Religious accommodation training, and aligning with Line Maintenance to reduce outstanding cases significantly. Tony has also demonstrated expertise in talent attraction and retention as well as cultural change initiatives, improving employee morale and benefits through strategic planning and performance management."
+}

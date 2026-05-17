@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "ASP.Net",
+        "VB.Net",
+        "Active Directory",
+        "ADO.Net",
+        "Dreamweaver",
+        "Web Development",
+        "AGILE",
+        "AJAX",
+        "HTML",
+        "IDE",
+        "Java",
+        "JavaScript",
+        "JQuery",
+        "C",
+        "C++"
+    ],
+    "work_history": [
+        {
+            "job_title": "Database Programmer/Analyst (.NET Developer)",
+            "company": "Company Name, City, State",
+            "period": "Jun 2014 to Feb 2016",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "University of Missouri",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Technology",
+            "institution": "Jawaharlal Nehru Technological University India",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has extensive experience in .NET development, specializing in front-end technologies such as ASP.Net, C#, JavaScript, and jQuery. They have worked on multiple projects involving data retrieval and manipulation with ADO.Net, Entity Framework, and LINQ queries. Their role required them to be involved in the entire software development lifecycle, collaborating closely with team members and stakeholders to ensure high-quality code and timely delivery of solutions."
+}

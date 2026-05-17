@@ -1,0 +1,58 @@
+{
+    "full_name": "Business Development Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name",
+            "period": "May 2011 to November 2014",
+            "description": [
+                "Managed a large outside marketing/sales territory to build referral relationships with physicians, employers, workers' compensation professionals, and medical case managers for six outpatient physical therapy clinics.",
+                "Maintained a physician office territory consisting of multiple specialties including orthopedics, family practice, internal medicine, pain, and podiatrists.",
+                "Facilitated clinical relationship activities for each Clinic Manager and attended monthly workers' compensation networking meetings to uncover new opportunities and cultivate relationships."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing/Outside Physician Rep",
+            "company": "Company Name",
+            "period": "January 2007 to May 2011",
+            "description": [
+                "Increased same store growth for three rehabilitation clinics by developing and maintaining referral relationships with physician offices.",
+                "Managed a territory of 250+ physician referral sources and represented the company at professional networking events."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing Director",
+            "company": "Company Name",
+            "period": "March 2003 to January 2007",
+            "description": [
+                "Increased same store growth for three rehabilitation clinics by developing and maintaining referral relationships with physicians, workers' compensation case managers, employers, and insurance companies.",
+                "Chosen as a leader of the sales quadrant which consisted of a 7-member integrated divisional team."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Resident Liaison",
+            "company": "Company Name",
+            "period": "January 1999 to January 2001",
+            "description": [
+                "Promoted assisted living facility through outside sales calls and networking, meeting with potential residents and their families to educate them regarding living accommodations and services."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Organizational Communication Business Management",
+            "institution": "ARIZONA STATE UNIVERSITY",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a successful track record in building and managing sales territories to cultivate relationships with professionals in the medical industry, specifically focusing on physical therapy clinics and workers' compensation. With experience in marketing, outside sales, management, and healthcare sectors, they have consistently achieved growth targets and developed strong referral networks, reflecting excellent interpersonal and communication skills along with a proactive work ethic."
+}

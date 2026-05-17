@@ -1,0 +1,49 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Supervisor",
+            "company": "Not Specified",
+            "period": "2018-2020",
+            "description": [
+                "As a shift supervisor of three employees, I was directly responsible for the maintenance and upkeep of twelve aircraft paint schemes.",
+                "Maintained an 0% accident rate in safety within my shop."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administration Clerk",
+            "company": "Not Specified",
+            "period": "2015-2018",
+            "description": [
+                "Prepare, type, and route correspondence and reports.",
+                "Organize and maintain files.",
+                "Receive office visits and handle telephone communications. Operate computers, word processing, and duplicating documents."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Aircraft Coating Technician Certificate",
+            "institution": "Florida State College of Jacksonville",
+            "year": null
+        },
+        {
+            "degree": "Welding Certificate",
+            "institution": "Tulsa Welding School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Marine Corps Achievement Medal",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has extensive experience as a supervisor in a corrosion control facility for the US Government, showcasing strong leadership and safety management skills. With roles involving aircraft paint schemes and adherence to strict technical manuals and safety procedures, there is evidence of reliability and professionalism."
+}

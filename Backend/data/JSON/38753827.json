@@ -1,0 +1,88 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "IT Strategy",
+        "Team building",
+        "IT Management",
+        "Enterprise platforms",
+        "Project management",
+        "Business continuity",
+        "Business Intelligence",
+        "Disaster recovery",
+        "Cloud computing",
+        "Budgeting/Cost control",
+        "SOX, HIPAA, GLBA",
+        "IT Infrastructure"
+    ],
+    "work_history": [
+        {
+            "job_title": "Vice President, Information Technology",
+            "company": "Company Name - City, State",
+            "period": "November 2012 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, IT Infrastructure",
+            "company": "Company Name - City, State",
+            "period": "March 2008 to November 2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, IT Operations - Windows",
+            "company": "Company Name - City, State",
+            "period": "October 2006 to March 2008",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Manager - Networking, Systems, & Support",
+            "company": "Company Name - City, State",
+            "period": "September 1999 to October 2006",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "System Administrator",
+            "company": "Company Name - City, State",
+            "period": "March 1996 to September 1999",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.B.A",
+            "institution": "University of Massachusetts - City, State",
+            "year": "December 2007"
+        },
+        {
+            "degree": "B.S",
+            "institution": "Arizona State University - Real Estate Graduation: May 1994",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified Systems Engineer (MCSE)",
+            "year": null
+        },
+        {
+            "name": "Microsoft Certified Systems Administrator (MCSA)",
+            "year": null
+        },
+        {
+            "name": "Cisco Certified Network Associate (CCNA)",
+            "year": null
+        },
+        {
+            "name": "Citrix Certified Administrator (CCA)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

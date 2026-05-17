@@ -1,0 +1,74 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Manager, Continuous Improvement",
+            "company": "Company Name",
+            "period": "November 2014 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "A&P Mechanic / Aircraft Technician",
+            "company": "Company Name",
+            "period": "April 2014 to October 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Technician",
+            "company": "Company Name",
+            "period": "September 2010 to September 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Associate",
+            "company": "Company Name",
+            "period": "September 2008 to August 2010",
+            "description": [
+                "Create shelf displays for games and gaming systems",
+                "Provide shoppers with detailed information used in the decision making process",
+                "Ensure games, iPods, media and accessories are properly stocked",
+                "Help other associates on the sales floor"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS : Aviation Business Administration, Safety",
+            "institution": "Embry-Riddle Aeronautical University",
+            "year": null
+        },
+        {
+            "degree": "Master Certificate in Six Sigma",
+            "institution": "Villanova University",
+            "year": "2014"
+        },
+        {
+            "degree": "AS : Aviation Maintenance",
+            "institution": "National Aviation Academy",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Master Certificate in Six Sigma",
+            "year": null
+        },
+        {
+            "name": "Certified Lean Six Sigma Black Belt",
+            "year": "2015"
+        },
+        {
+            "name": "Airframe and Powerplant Mechanics license issued by the FAA",
+            "year": "2010"
+        }
+    ],
+    "english_level": "Conversational",
+    "matchmaking_summary": "This candidate has a diversified background in aviation maintenance, continuous improvement management, and sales, demonstrating strong technical skills and an ability to lead cross-functional teams. With formal training in aircraft systems and extensive practical experience, they have developed into a versatile professional capable of managing complex projects and maintaining high safety standards across various sectors of the aviation industry."
+}

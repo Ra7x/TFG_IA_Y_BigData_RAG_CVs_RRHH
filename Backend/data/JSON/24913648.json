@@ -1,0 +1,108 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name - City , State",
+            "period": "08/2012 to Current",
+            "description": [
+                "Provides outstanding support to mission partners and other customers.",
+                "Ensures the confidentiality, integrity, and availability of systems and data available on the LAN.",
+                "Troubleshoots hardware and software components and manages the testing, installation and configuration of software.",
+                "Performs daily security inspections of entire DECC facility to include all secured and controlled areas. Identifies and mitigates all security vulnerabilities and coordinates with Security manager.",
+                "Coordinates with, and escorts all DECC visitors in secure areas and ensures only authorized personnel and equipment are permitted in controlled/secure areas.",
+                "Enclave LAN administrator for DECC Warner Robins."
+            ],
+            "technologies": [
+                "Network Administration",
+                "Remote access support",
+                "Systems analysis",
+                "Superb interpersonal skills",
+                "Preventative maintenance expert",
+                "Antivirus and spam blocking",
+                "Data backup and recovery systems",
+                "VPN configurations",
+                "Wireless Access Point LAN and WAN expertise",
+                "Performance testing"
+            ]
+        },
+        {
+            "job_title": "Computer Systems Administrator",
+            "company": "Company Name - City , State",
+            "period": "12/2007 to 08/2012",
+            "description": [
+                "Deploys computer systems and other hardware throughout the base.",
+                "Performs new and replacement desktop and laptop imaging for users.",
+                "Troubleshoot and correct local desktop firewall issues, and antivirus updating issues. Performs upgrades, installation of software and drivers, and essential desktop troubleshooting.",
+                "Team lead on deployment of over 150 SIPRNET workstations."
+            ],
+            "technologies": [
+                "Client and Server",
+                "Hardware",
+                "Data processing",
+                "Network Administration",
+                "Remote access support",
+                "Systems analysis"
+            ]
+        },
+        {
+            "job_title": "Information Assurance/Network Security",
+            "company": "Company Name - City , State",
+            "period": "01/2006 to 12/2007",
+            "description": [
+                "In-depth experience in multiple environments developing, implementing, and maintaining secure networks.",
+                "Duties ranged from installing and maintaining workstations to managing base boundary exception system."
+            ],
+            "technologies": [
+                "Network Administration",
+                "Remote access support",
+                "Systems analysis"
+            ]
+        },
+        {
+            "job_title": "Helpdesk Technician",
+            "company": "Company Name - City , State",
+            "period": "05/2004 to 01/2006",
+            "description": [
+                "Responsibilities included working with end users to resolve issues relating to Operating System issues (Win9x, NT, and Win 2000), Network Connectivity, TCP/IP configuration, upgrades, MS Office products and Internet connectivity.",
+                "Created/maintained user accounts, email boxes, distribution lists, and access permissions."
+            ],
+            "technologies": [
+                "Client",
+                "Data processing",
+                "Network Administration"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Jacksonville University - City , State",
+            "year": null
+        },
+        {
+            "degree": "Computer Information Systems",
+            "institution": "Jacksonville University - City , State",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CompTIA A+",
+            "year": null
+        },
+        {
+            "name": "CompTIA Security+",
+            "year": null
+        },
+        {
+            "name": "STI Certified Help Desk Professional",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a seasoned IT professional with over a decade of experience in various roles, from helpdesk technician to senior network administrator. Their expertise spans multiple areas including desktop and server imaging, firewall management, antivirus updates, and comprehensive understanding of network administration across LAN and WAN environments. The candidate's ability to troubleshoot complex technical issues efficiently ensures minimal downtime for critical operations. Demonstrated leadership through team leading in the deployment of over 150 SIPRNET workstations highlights their strategic thinking and managerial skills. In addition to strong professional experience, the candidate holds several certifications including CompTIA A+ and Security+, underscoring their expertise and continuous learning within the IT field."
+}

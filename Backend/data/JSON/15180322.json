@@ -1,0 +1,36 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": "[state]",
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Chef",
+            "company": "Company Name",
+            "period": "March 2007 to December 2008",
+            "description": [
+                "Extensive knowledge of all aspects of the food industry as well as the natural foods industry."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Culinary Arts AA degree",
+            "institution": "Baltimore International College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CNA",
+            "year": null
+        },
+        {
+            "name": "GNA",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's background in culinary arts and experience as a chef is notable, but there are gaps in his healthcare-related experiences that could be better aligned with the nursing role. With a strong educational foundation in Culinary Arts and an initial foray into patient care through GNA and CNA roles, the candidate shows potential adaptability and willingness to learn. However, the majority of their work history has been in non-healthcare sectors, which might require additional training or mentorship to align with nursing competencies. The clinical aspects mentioned are promising but accompanied by gaps that need to be addressed for a seamless transition into healthcare. Overall, while the candidate demonstrates initiative and passion for patient care, there's room for enhancing the experience base relevant to the RN role."
+}

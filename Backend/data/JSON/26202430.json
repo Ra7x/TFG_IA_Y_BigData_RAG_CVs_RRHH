@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Office Suite",
+        "SAP HCM",
+        "Success Factors",
+        "Service Now (ASKHR)",
+        "Panaya",
+        "SilkRoad - Red Carpet"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Consultant",
+            "company": "Company Name",
+            "period": "10/2016 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "People Analytics lead",
+            "company": "Company Name",
+            "period": null,
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Business System Applications Analyst",
+            "company": "Company Name",
+            "period": "02/2014 to 04/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HRIS Master Data Team Lead",
+            "company": "Company Name",
+            "period": "06/2011 to 02/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "SAP Timekeeping Analyst",
+            "company": "Company Name",
+            "period": "05/2009 to 11/2010",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Data and Applications Specialist",
+            "company": "Company Name",
+            "period": "04/2007 to 05/2009",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA : Business Administration",
+            "institution": "Campbell University",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "english_level": "Fluent",
+    "matchmaking_summary": "This candidate is a highly accomplished HR professional with extensive experience in both business analysis and system implementation. Their roles have consistently demonstrated a strong ability to bridge the gap between business requirements and technical solutions, leading to improved efficiency and effectiveness within HR processes. With expertise in multiple HRIS platforms including SAP and Success Factors, they are adept at implementing strategic improvements that support organizational objectives. Their leadership in data analysis and project management is particularly notable, showcasing their potential as a valuable asset to any team looking to enhance their HR operations."
+}

@@ -1,0 +1,51 @@
+{
+    "full_name": "Flight Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Flight Manager",
+            "company": "Current Company Name",
+            "period": "January 2013 to Current",
+            "description": [
+                "Manage daily operations for 80 to 120 aircraft and strengthen relationships with assigned crew members to ensure a seamless travel experience for the client.",
+                "Responsible for gathering and disseminating timely information to remedy disruptions caused by, but not limited to weather, human error and aircraft abnormalities.",
+                "Provide a timely, professional and educated resource to crew members by thoroughly researching every concern and calmly resolving elevated issues.",
+                "Train, mentor and act as a resource to new team members.",
+                "Collaborated with leadership to create new communication tools for faster and more effective communication between departments."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Associate",
+            "company": "Company Name",
+            "period": "January 2012 to January 2013",
+            "description": [
+                "Responsible for greeting customers and providing an enjoyable shopping experience through excellent customer service, product knowledge and communication.",
+                "Hired as a permanent employee after being hired to seasonal help resulting from high productivity. Independently designed store visuals using guidance from corporate standards."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Front Desk Coordinator",
+            "company": "Company Name",
+            "period": "January 2009 to January 2013",
+            "description": [
+                "Responsible for proving customer service, database instruction and fielding phone calls.",
+                "Spearheaded the creation of an interactive advertisement/ exhibit for a school play showcasing students writing and acting talents."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Applied Studies",
+            "institution": "Kent State University",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, referred to as 'Flight Manager', has demonstrated a successful track record in managing daily operations for aircraft fleets, with a strong emphasis on relationship building and efficient information dissemination. Their experience includes handling complex situations and serving as an educational resource for new team members. Additionally, the candidate's background in customer service and negotiation skills is evident through their ability to resolve conflicts effectively and provide exceptional support under pressure."
+}

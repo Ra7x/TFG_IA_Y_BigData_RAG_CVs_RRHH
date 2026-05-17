@@ -1,0 +1,83 @@
+{
+    "full_name": "Director of Information Technology",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Director of Information Technology",
+            "company": "Company Name",
+            "period": "11/2012 to Current",
+            "description": [
+                "Develops, tracks and controls long-term information technology operating budgets and cost and benefit analyses for IT spending initiatives.",
+                "Leads and assists technical upgrade projects for clients by coordinating with consultants and developers for data migration and integrations.",
+                "Coordinates with management teams to plan, develop, align and execute strategies that would meet client's vision, mission and purpose.",
+                "Reviews and assesses architecture design, implementation, testing and deployment needs to identify project requirements and reduce costs 18%."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Consulting IT Program Manager",
+            "company": "Company Name",
+            "period": "12/2014 to 12/2020",
+            "description": [
+                "Managed and implemented concurrent projects relating to business process re-engineering, software development and upgrades to foster productivity, throughput, and end-user engagement.",
+                "Performed program research and analyzed data collection to develop cost estimates and budgets.",
+                "Identified system needs and designed processes to support business requirements.",
+                "Collaborated with clients to understand technology staffing requirements and improved productivity while reducing staffing and operational costs by 15%.",
+                "Performed risk assessment of stakeholders, senior management, organization, infrastructure, and ITIL governance to effectively plan, develop, and manage schedules, resources, and costs.",
+                "Launched Salesforce data cleansing, migration, and integration programs to aid in gathering functional and business requirements to support team, and mitigate risks.",
+                "Integrated agile methodologies, emerging AI, digital, and social media technologies into end-user experience to foster adoption, continued engagement and increase sales profit levels 30%."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Products Specialist",
+            "company": "Company Name",
+            "period": "05/2008 to 11/2012",
+            "description": [
+                "Developed and fostered relationships with business owners and key executives to assess dynamic risk mitigation and business insurance needs and deliver solutions.",
+                "Successfully managed internal & external stakeholder engagement to aid in process and resource improvements to align strategic and industry compliance objectives.",
+                "Recorded and integrated CRM data in Salesforce from previous Access and Excel databases, streamlining analysis procedures for efficiency and accuracy.",
+                "Planned and executed events and marketing programs, producing 40% of goal of qualified leads.",
+                "Exceeded sales goal 12% by effectively applying analyzed data to marketing campaigns and sharing data interdepartmentally. Informed supervisors and company leaders on markets and regional sales needs to best meet customer needs and maximize revenue."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Product Design Project Team Lead",
+            "company": "Company Name",
+            "period": "11/2000 to 06/2004",
+            "description": [
+                "Demonstrated efficacy throughout project & product life cycles in applying flexible change management deliverables including training, communications, and stakeholder engagement to increase end-user adoption of project implementations.",
+                "Supervised four (4) concurrent projects for 16 & 17 Next Gen nuclear core clients in Brazil and South Korea by coordinating planning, designing, testing, budgeting and scheduling tasks.",
+                "Developed implementation methodologies to rein in project costs while meeting key milestones. Provided accurate, detailed quality assessments based on project drawings and technical specifications."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "Western Governors University",
+            "year": 2019
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University Of South Carolina",
+            "year": 2004
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Associate in Project Management",
+            "year": 2021
+        },
+        {
+            "name": "Project Management Institute (PMI)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out for their extensive experience in managing and leading complex IT projects, particularly within the realm of business process re-engineering and software development. Their strong background in strategic planning and stakeholder engagement, coupled with proficiency in agile methodologies and emerging technologies, positions them well to continue driving technological advancements and fostering organizational growth."
+}

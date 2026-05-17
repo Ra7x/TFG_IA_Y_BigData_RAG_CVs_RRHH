@@ -1,0 +1,74 @@
+{
+    "full_name": "CHEF",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Chef",
+            "company": "Company Name",
+            "period": "August 2007 to September 2009",
+            "description": [
+                "Prepped food for catered events such as weddings, parties and business luncheons.",
+                "Set-up tables and chairs for banquet and dining space."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef/Assistant Manager",
+            "company": "Company Name",
+            "period": "October 2007 to September 2009",
+            "description": [
+                "Prep and cook for lunch service.",
+                "Catered business lunches for CEO of the Museum.",
+                "Manage daily sales reports.",
+                "Train new personnel, both front and back of the house.",
+                "Track weekly food cost."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Cook",
+            "company": "Company Name",
+            "period": "October 2006 to October 2007",
+            "description": [
+                "Prep for dinner service.",
+                "Prep and cook for banquet parties of 50 or more clients.",
+                "Line cook during dinner service."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Cashier",
+            "company": "Company Name",
+            "period": "April 2004 to August 2005",
+            "description": [
+                "Process customer transactions.",
+                "Help customers apply for Sears credit cards.",
+                "Process customer return of merchandise.",
+                "Sort, fold, put away unwanted merchandise."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates: Applied Science-Medical Billing and Coding",
+            "institution": "Grantham University Online College",
+            "year": null
+        },
+        {
+            "degree": "Certification in Baking and Pastry",
+            "institution": "California Culinary Academy",
+            "year": "March 2006"
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Walla Walla High School",
+            "year": "June 2005"
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "CHEF brings forth a wealth of culinary experience and management skills, having held positions ranging from Chef to Chef/Assistant Manager at various companies. With over five years in the industry, CHEF is well-versed in both front-of-house operations and back-of-house responsibilities including menu preparation, banquet services, and sales management. Furthermore, CHEF's educational background in Applied Science - Medical Billing and Coding provides a unique perspective to potential employers seeking someone who not only excels in the culinary realm but is also adept at managing complex administrative tasks."
+}

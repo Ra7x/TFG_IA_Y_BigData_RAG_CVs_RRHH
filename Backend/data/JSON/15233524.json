@@ -1,0 +1,115 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Word",
+        "Excel",
+        "Power Point",
+        "Access",
+        "assembly",
+        "banking",
+        "clients",
+        "database management",
+        "directing",
+        "e-mail",
+        "Senior management",
+        "Fast",
+        "fundraising",
+        "Government",
+        "human resource",
+        "insurance",
+        "law",
+        "managing",
+        "marketing",
+        "market",
+        "marketing materials",
+        "Meetings",
+        "networking",
+        "online marketing",
+        "organizing",
+        "personnel",
+        "presentations",
+        "real estate",
+        "safety",
+        "selling",
+        "sales",
+        "seminars",
+        "staffing",
+        "strategy",
+        "transportation",
+        "web site development"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Business Development",
+            "company": "Company Name, City, State",
+            "period": "Jan 2009 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Director",
+            "company": "Company Name, City, State",
+            "period": "Jan 1997 to Jan 2008",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Owner",
+            "company": "Company Name, City, State",
+            "period": "Jan 1995 to Jan 1998",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Vice President",
+            "company": "Company Name, City, State",
+            "period": "Jan 1993 to Jan 1997",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager",
+            "company": "Company Name, City, State",
+            "period": "Jan 1992 to Jan 1993",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Director",
+            "company": "Company Name, City, State",
+            "period": "Jan 1989 to Jan 1992",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "Lebanon Valley College",
+            "year": null
+        },
+        {
+            "degree": "B.A, International Studies",
+            "institution": "Central Atlantic Intermediate School of Banking, Dickinson College, Indiana University of Pennsylvania, International Studies",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's career profile is impressive, showcasing a strong track record of leadership and management in various industries including workers' compensation, law, healthcare, and vocational rehabilitation. Their experience spans over three decades, from initial roles to top-level positions, demonstrating a deep understanding of business operations and strategic planning. The candidate has demonstrated expertise in establishing sales strategies, marketing functions, and fostering strong relationships with clients across different sectors. Notably, they have taken on various advisory and management roles that required a comprehensive approach to problem-solving and public speaking, which is essential for effective leadership."
+}

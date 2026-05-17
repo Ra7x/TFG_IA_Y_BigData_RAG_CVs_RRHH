@@ -1,0 +1,60 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "FINANCIAL INSTITUTION EXAMINER",
+            "company": "Company Name",
+            "period": "01/2010 to Current",
+            "description": [
+                "Commissioned bank examiner with over five years of experience with the FDIC.",
+                "Strong analytical skills and technical background in credit review, financial statement analysis, and intermediate accounting work.",
+                "In-depth knowledge and experience in interpreting and applying banking rules and regulations.",
+                "Recognized for high-quality team contributions during examinations of numerous financial institutions, including large, complex, and troubled institutions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "STUDENT INTERN",
+            "company": "Company Name",
+            "period": "05/2008 to 01/2010",
+            "description": [
+                "Processed loan applications from rural electric utility cooperatives, and prepared underwriting memos.",
+                "Performed credit analyses, ensuring that regulatory minimums for certain financial ratios were met.",
+                "Assessed loan feasibility through a detailed review of 10-year forecasted cash flows and sensitivity analyses, and examined borrowers' three-year historical financial statements to monitor performance trends.",
+                "Recommended loan approvals to the loan committee, resulting in a 100% approval rate and the disbursement of over $30 million in appropriated funds for new construction and storm damage repairs."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S: Finance",
+            "institution": "UNIVERSITY OF MARYLAND, COLLEGE PARK",
+            "year": null
+        },
+        {
+            "degree": "B.A : Government & Politics",
+            "institution": "School of Behavioral and Social Sciences",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "FINRA Series 91",
+            "year": "2014"
+        },
+        {
+            "name": "FDIC Safety and Soundness Technical Evaluation STAR Award",
+            "year": "2014"
+        },
+        {
+            "name": "Strong teamwork, technical knowledge, and high-quality contributions to loan review team at examination of a troubled institution, including identifying loan downgrades STAR Award",
+            "year": "2015"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in financial institutions, with specific expertise in credit review and regulatory compliance. Their experience includes analyzing financial statements and assessing the risk of loans for various institutions, indicating their ability to apply analytical skills effectively. Additionally, they have demonstrated leadership qualities through training programs and acting as examiner-in-charge during complex examinations."
+}

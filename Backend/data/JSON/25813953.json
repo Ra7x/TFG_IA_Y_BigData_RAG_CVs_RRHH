@@ -1,0 +1,52 @@
+{
+    "full_name": "Business Development Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Outlook",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Microsoft Office",
+        "Microsoft Word"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name, City , State",
+            "period": "08/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Event manager",
+            "company": "Company Name, City , State",
+            "period": "03/2015 to 08/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Call Center manager",
+            "company": "Company Name, City , State",
+            "period": "06/2014 to 03/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Costumer service representative / Call Center",
+            "company": "Company Name, City , State",
+            "period": "04/2014 to 06/2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Mesa High School",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate presents a strong background in customer service and business development, with experience managing diverse teams across multiple sectors. Their ability to implement effective marketing strategies and maintain high standards of professionalism is particularly noteworthy. With skills in strategic planning, negotiation, and utilizing digital platforms for promotion, the candidate is well-suited to contribute to any team focused on growth and customer satisfaction."
+}

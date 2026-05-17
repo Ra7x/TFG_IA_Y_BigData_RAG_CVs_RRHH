@@ -1,0 +1,70 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "MS Office Suite",
+        "SalesForce.com",
+        "Pipedrive.com",
+        "Birst/Intradiem Reports",
+        "Mailchimp.com"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Development Representative",
+            "company": "Company Name – City , State",
+            "period": "05/2017 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Development Representative",
+            "company": "Company Name – City , State",
+            "period": "09/2017 to Current",
+            "description": [
+                "Increased gross revenue by 6% per month.",
+                "Generate new business by adding new retailers and working with existing retailers to strengthen and grow the relationship.",
+                "Develop relationships with retailers via outbound cold calls and email campaigns to decision makers.",
+                "Follow 7 touches in 7 days plan for new prospects to set appointments.",
+                "Strengthen existing accounts by growing product feed and improving pricing.",
+                "Demonstrate solution and configure website integration."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Sales Producer",
+            "company": "Company Name – City , State",
+            "period": "02/2015 to 05/2017",
+            "description": [
+                "Consistently surpassed the agency standard of 20 policies per month.",
+                "Establish a referral network based on loan originators, real estate agents, new/used car and motorsports salesmen and my own personal network.",
+                "Developed marketing and partnership campaigns using a mix of targeted mailers, telemarketing and email drip campaigns.",
+                "Followed typical sales procedures on both internet and inbound sales leads.",
+                "Probed for life and financial service opportunities for all customers.",
+                "Provided customers with the utmost understanding during a loss and stood as a liaison between the customer and the claims department. Completed all customer service requests in a timely manner.",
+                "Solved underwriting obstacles for customers and new business."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors",
+            "institution": "KENNESAW STATE UNIVERSITY, Coles College of Business - City , State",
+            "year": "December 2017"
+        },
+        {
+            "degree": "Ph.D.",
+            "institution": "KENNESAW STATE UNIVERSITY, Coles College of Business - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CPR Certification",
+            "year": 2012
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong profile for roles in business development and sales, driven by results and achievement. With experience in various sectors including youth lacrosse coaching, fraternity membership, and financial services, the candidate demonstrates versatility and adaptability across different industries. Their proficiency in MS Office Suite, SalesForce.com, Pipedrive.com, and Birst/Intradiem Reports highlights their technical skills relevant to business operations and customer relationship management."
+}

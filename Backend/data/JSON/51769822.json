@@ -1,0 +1,104 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Specialist",
+            "company": "Company Name ï¼​ City , State",
+            "period": "June 2014 to June 2014",
+            "description": [
+                "Coordinated regular and temporary interviews for line management.",
+                "Conducted reference check vetting on potential candidates.",
+                "Interacted with potential employees, notifying them on application status and necessary information to complete application process. Assisted various departmental functions with payroll, employee relations and compensation files, filing confidential documents."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Leasing Agent",
+            "company": "Company Name ï¼​ City , State",
+            "period": "October 2012 to April 2014",
+            "description": [
+                "Greeting future residents, answering all questions regarding leasing, presenting models,. taking applications, following up with guests' walk-in, filing, taking work-orders,. payments (rent and fees)."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Assistant",
+            "company": "Company Name ï¼​ City , State",
+            "period": "September 2006 to October 2012",
+            "description": [
+                "Supported multiple level management team members (Initiated, coordinated, and executed administrative support to Branch Managers). Assisted Engineers and Project Managers with proposals, technical reports, invoicing clients, and collections.",
+                "Developed strategic and operational plan to improve the work flow by re-evaluating priorities, resulting in increasing efficiency to meet deadlines when sending out documents."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "French Speaking Executive Assistant",
+            "company": "Company Name ï¼​ City , State",
+            "period": "August 2005 to September 2006",
+            "description": [
+                "Updated CEO calendar, coordinated meetings with French clients. Bookkeeping duties."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Exhibitor Services Representative",
+            "company": "Company Name ï¼​ City , State",
+            "period": "August 2004 to August 2005",
+            "description": [
+                "Assisted Exhibitors with orders (office and show sites), freight billing, coordinated. with foreman for the set up and striking of exhibitor booths."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Payroll Clerk",
+            "company": "Company Name ï¼​ City , State",
+            "period": "March 1999 to August 2004",
+            "description": [
+                "Processed payroll weekly for 1500 employees (full time, part time, unions) using AS 400 payroll system. Demonstrated accuracy and fast pace to meet deadlines for payroll transmittals to Corporate.",
+                "Audited hours and PTO information, processed new hiring, terminations, and all data changes to employee reports. W-2 and I-9 for new hires, performed various other payroll and bookkeeping functions."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA : Administration Commercial",
+            "institution": "University of Grenoble ï¼​ City , France",
+            "year": null
+        },
+        {
+            "degree": "Marketing",
+            "institution": "University of Grenoble ï¼​ City , France",
+            "year": null
+        },
+        {
+            "degree": "Commercial English",
+            "institution": "University of Grenoble ï¼​ City , France",
+            "year": null
+        },
+        {
+            "degree": "Accounting",
+            "institution": "University of Grenoble ï¼​ City , France",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Customer Service",
+            "year": null
+        },
+        {
+            "name": "Commercial English",
+            "year": null
+        },
+        {
+            "name": "Accounting",
+            "year": null
+        }
+    ],
+    "english_level": "Proficient",
+    "matchmaking_summary": "Energetic and experienced administrative professional with a strong background in executive support roles, particularly within HR and accounting departments. The candidate's ability to implement procedural improvements through technological tools such as spreadsheets for open balance collection management showcases their analytical and innovative approach to problem-solving. With a proven track record of managing multiple tasks efficiently across various industries including real estate, technical translations, and customer service, the candidate is well-suited to contribute at higher levels in an organization."
+}

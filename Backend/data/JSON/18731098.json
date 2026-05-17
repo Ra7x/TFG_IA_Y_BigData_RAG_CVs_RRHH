@@ -1,0 +1,69 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Senior HR Manager",
+            "company": "Aegis Treatment Centers, LLC",
+            "period": "12/2006 to Present",
+            "description": [
+                "Manage all aspects of the daily operations Human Resources for multi location organization. Supervisory scope: staff of 6.",
+                "Employee Relations/Employee Retention: Oversight of all aspects of staff performance; performance evaluations, progressive discipline, mediation of staff disputes and grievance procedures in accordance with state and federal laws as well as company policies. Ensure proper staffing ratios contingent on patient census company-wide.",
+                "Management Coaching Staff training and development Policy development Full cycle recruiting New hire orientation Unemployment, workers' compensation and disability claims administration Track and analyze annual workforce turnover rates Prepare reports and recommend procedures to reduce employee absenteeism and turnover Developed and implemented personnel and payroll filing system that complies with current employment practices Salary administration Process all promotions, transfers, and terminations companywide.",
+                "Knowledge of Federal and State Employment Laws and ensures strict compliance with federal and state employment regulations Benefits/Open Enrollment administration Prepares financial statements, reconciled bank statements, manage cash flow, establishes monthly/yearly budgets, and file all state/federal taxes; coordinated with CPA for year-end tax completion Payroll oversight: time and attendance, bi-weekly payroll, quarterly goals/bonuses Accurately process payroll for all departments via ADP software and distributed checks to each branch; processed wage assignments including child support orders, and state/federal tax levies and garnishments System implementation/conversion Maintains HRIS system Coordinated all employee relation activities and special events; meetings, company luncheons, holiday parties, etc.",
+                "Researched, updated, implemented and maintained company health benefits program including 401(k) administration Completed disability insurance claim forms, unemployment verification forms, home loan verification of wages and employment forms, workers compensation wage statement forms, verification of employment history, medical insurance information for courts, levy officer, district attorneys office, etc."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Assistant III",
+            "company": "Company Name",
+            "period": "02/2005 to 12/2006",
+            "description": [
+                "Provided administrative support to two Senior Executives Customer Master Database maintenance Organized and oversaw the logistics for conference calls, in-house/off-site meetings, and luncheons.",
+                "Researched and booked travel arrangements; hotels, airline tickets, and transportation. Managed and maintained calendars, itineraries, and agendas Performed various office finance functions; invoicing, account receivables/payables, billings, bookkeeping, journal entries, account analysis and reconciliation Facilitating inventory control and the purchasing of supplies and materials Calendar coordinator Created and managed expense reports Maintenance of purchase order log Archive and track files Verify invoice and credit memo distribution General office manager duties."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Coordinator",
+            "company": "Company Name",
+            "period": "06/2004 to 02/2005",
+            "description": [
+                "Provided human resources support to management for multiple facilities regarding office procedures and policies. Recruiting Personnel file maintenance Employment verifications Payroll processing Reduction in payroll errors to less than 3% Benefits administration Maintain LVN and physician license renewals Maintain I-9 paperwork Processed FMLA, COBRA, LOA claims Special projects."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Financial Operations Assistant",
+            "company": "Department of Justice entity responsible for federal criminal prosecutions and civil cases involving the United States Government.",
+            "period": "02/2002 to 06/2004",
+            "description": [
+                "Data entry Filing and retrieving documents Paying and obligating invoices Creating and managing entire filing system for multiple fiscal years Monitoring stock levels Preparing travel authorizations Customer service involving vendor payments Greeting and directing visitors, copying Maintain and balance contract files Accounting/payment reposting."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "California State University Northridge",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelors of Arts Degree",
+            "institution": "UCLA",
+            "year": 2008
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Society of Human Resources Management (SHRM)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's career trajectory demonstrates a strong commitment to the field of human resources, with extensive experience managing diverse aspects across multiple healthcare and legal sectors. Their roles showcase significant expertise in HR management, including recruitment, retention strategies, compliance, and administrative responsibilities. The candidate's ability to lead teams and implement strategic changes has undoubtedly contributed to operational efficiencies within organizations. Furthermore, their background includes proficiency in finance and administration, which is crucial for maintaining accurate payroll systems, handling legal requirements, and supporting business operations."
+}

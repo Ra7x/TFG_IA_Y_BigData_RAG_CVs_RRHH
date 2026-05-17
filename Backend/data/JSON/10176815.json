@@ -1,0 +1,59 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "maintenance tracking software",
+        "Prezi",
+        "Microsoft Office Programs",
+        "Adobe",
+        "Access",
+        "Auto CAD",
+        "Commercial Multi-Engine",
+        "Single-Engine Pilot",
+        "Airline Dispatcher Certified",
+        "FAA Class 1 Medical",
+        "MATLAB",
+        "labVIEW"
+    ],
+    "work_history": [
+        {
+            "job_title": "Aviation Electronics Technician",
+            "company": "Company Name",
+            "period": null,
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Electronics Technician",
+            "company": "Company Name",
+            "period": null,
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Science : Aeronautical Science Applied Meteorology",
+            "institution": "Embry-Riddle Aeronautical University",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science : Electronic Engineering Technology",
+            "institution": "Tidewater Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Airline Dispatcher Certified",
+            "year": null
+        },
+        {
+            "name": "FAA Class 1 Medical",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in aviation electronics, with extensive experience troubleshooting and repairing radar systems, communication systems, navigation equipment, and various other electronic components. Their technical skills are complemented by strong educational achievements in Aeronautical Science Applied Meteorology and Electronic Engineering Technology. Fluent in Spanish and English, the candidate is a proactive and detail-oriented problem solver, capable of handling complex maintenance tasks and contributing significantly to system readiness within military aviation contexts."
+}

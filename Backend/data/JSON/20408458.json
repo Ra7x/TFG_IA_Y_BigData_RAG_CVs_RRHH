@@ -1,0 +1,89 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Support Specialist",
+            "company": "Company Name City , State",
+            "period": "01/2011 to Current",
+            "description": [
+                "With more than 10 years' experience in the IT industry; I have provided technical leadership for the design, deployment and operation of IT hardware and software.",
+                "I have built, implemented and sold numerous computers systems.",
+                "I have been instrumental in the service environment of the systems using the latest processor technologies like INTEL and AMD processors also have helpdesk support experience, Systems Analyst and a strong leadership in the management of IT Systems and devices including, but not limited to DELL, HP, IBM, MICROSOFT Software packages, setting up and maintaining networks for small businesses, setting CMOS and BIOS, installing Software Applications to fill customer's needs, also active directory administration in Novel and Windows and strong experience in data migration using Robocopy."
+            ],
+            "technologies": [
+                "Apollo",
+                "SunTrust EIS Data Migration Project",
+                "Robocopy",
+                "Remote Desktop Connection",
+                "eDirectory/NDS Report Generator",
+                "Carbon Copy",
+                "Netware Console One",
+                "NoRM -Novell Remote Management",
+                "Tree Size (Windows)",
+                "Remedy",
+                "SharePoint"
+            ]
+        },
+        {
+            "job_title": "Network Specialist ~ PC Technician IT Consultant Customer Engineer",
+            "company": "Company Name City , State",
+            "period": "12/2009 to 05/2010",
+            "description": [
+                "Prepare directory structures and applying appropriate permissions for users on the Network Attached Storage (NAS).",
+                "Send email notifications to the branch mgr, asst mgr, ROM, and area mgr's in order for them to prepare for the centralization of the branch, at the same time send a separate set of notification to the non-branch users working on a branch environment.",
+                "Use Carbon Copy to remote into a user's computer and move their .pst files from their home (H:) drive on the server to their local computer and reconfigure Outlook to use file from the new location."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Responsible for providing technical desktop support",
+            "company": "Company Name",
+            "period": "07/2009 to 10/2009",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Responsible for the network support of the recruiting team",
+            "company": "Radisson Hotel",
+            "period": "12/2008 to 05/2009",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Information Technology",
+            "institution": "University of Phoenix",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts : Paralegal Network Engineering",
+            "institution": "Southern College",
+            "year": 2001
+        },
+        {
+            "degree": "Diploma",
+            "institution": "Southern Technical Institute",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "MCSE",
+            "year": null
+        },
+        {
+            "name": "A+",
+            "year": null
+        },
+        {
+            "name": "NET+",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

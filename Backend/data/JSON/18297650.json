@@ -1,0 +1,68 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        ".NET",
+        "C",
+        "C++",
+        "Java",
+        "J2EE",
+        "SQL Server",
+        "Oracle",
+        "UNIX",
+        "Linux",
+        "Windows",
+        "Informatica",
+        "data modeling",
+        "data warehousing"
+    ],
+    "work_history": [
+        {
+            "job_title": "Technical Recruiter",
+            "company": "Mitra Technology Foundation",
+            "period": "01/2007 to 01/2008 City, State",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Technical Recruiter",
+            "company": "Company Name",
+            "period": "03/2006 to 1/2007 City, State",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Executive",
+            "company": "Company Name",
+            "period": "06/2002 to 06/2005 City",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Commerce",
+            "institution": "H. P. State University",
+            "year": null
+        },
+        {
+            "degree": "MLL Masters Labor Laws and Welfare",
+            "institution": "Symbiosis Law College",
+            "year": 2000
+        },
+        {
+            "degree": "PM Post Graduate Diploma in Management",
+            "institution": "Balaji Institute of Modern Management",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a strong background in technical recruiting, with expertise in recruiting for various levels and types of IT positions including Software Engineers/Architects (Distributed and Mainframe), Database Architects/Developers/Administrators, Network/System/Security Engineers, Web Developers, Quality Assurance/Test Engineers, Technical Program/Product/Project Managers, Development Managers, and Business Analysts. With experience in both corporate and non-profit sectors, the candidate has an extensive track record of recruiting high-demand technical professionals across a broad range of technical skill sets."
+}

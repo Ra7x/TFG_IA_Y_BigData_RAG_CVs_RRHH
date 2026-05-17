@@ -1,0 +1,93 @@
+{
+    "full_name": "Executive Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name, City , State",
+            "period": "2014-2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Associate Pastor",
+            "company": "Company Name, City , State",
+            "period": "2013-Present",
+            "description": [
+                "Assist Senior Pastor as the church's Outreach Minister by mentoring and counseling members of the church and community who have or is continuing to struggle with drugs and alcohol.",
+                "Prepared when called upon to preach sermons and assume leadership role when the Senior Pastor is away. Responsible for preparing Wednesday Evening Meals for up to seventy five church members."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Warehouse Worker/Delivery Driver",
+            "company": "Company Name, City , State",
+            "period": "2011-2012",
+            "description": [
+                "Assisted Warehouse Manager and Shop Manager with the loading and offloading of equipment and logistics off of large trucks.",
+                "Was often called upon to transport trucks to various locations throughout the country."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Safety Director/Office Manager",
+            "company": "Company Name, City , State",
+            "period": "2010-2011",
+            "description": [
+                "Responsible for ensuring the safe practice of truck drivers, mechanics, and oilfield workers throughout East Central Mississippi and West Alabama.",
+                "Coordinates and implements a training program in occupational and environmental safety. Responsible for the quality assurance inspections of equipment and personnel before, during, and after operations."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Culinary Arts Degree",
+            "institution": "Meridian Community College",
+            "year": 2014
+        },
+        {
+            "degree": "Ministry/Leadership",
+            "institution": "Vanguard University of Southern Cal, City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Combat Life Saver Course",
+            "year": "2007"
+        },
+        {
+            "name": "Department of Defense Certified Mediator Course",
+            "year": "2007"
+        },
+        {
+            "name": "Contractor Representative Course",
+            "year": "2007"
+        },
+        {
+            "name": "Department of the Army Inspector General Course",
+            "year": "2005"
+        },
+        {
+            "name": "Advanced Non-Commissioned Officers Course",
+            "year": "2005"
+        },
+        {
+            "name": "Primary Leadership Development Course",
+            "year": "1988"
+        },
+        {
+            "name": "Quarry Machine Operator Course",
+            "year": "1987"
+        },
+        {
+            "name": "Combat Bridge Builder Training",
+            "year": "1984"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile of leadership and culinary expertise. With multiple awards, educational achievements in ministry and culinary arts, coupled with extensive experience as an Executive Chef within healthcare facilities, this professional would bring exceptional skills to the role of Culinary Director or Sous Chef. Their ability to manage high-pressure environments efficiently positions them well for enhancing food quality and operational effectiveness in a dynamic setting."
+}

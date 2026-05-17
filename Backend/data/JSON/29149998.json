@@ -1,0 +1,59 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sourced, recruited for call center to all departments throughout the company.",
+            "company": "Company Name ï¼​ City , State",
+            "period": "03/2016 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Assistant",
+            "company": "Circle K -Naples, FL",
+            "period": "02/2011 to 10/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "AR/AP Representative",
+            "company": "Company Name ï¼​ City , State",
+            "period": "01/2007 to 01/2010",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Assistant",
+            "company": "Company Name ï¼​ City , State",
+            "period": "01/2004 to 01/2007",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates of Science : Human resources and Organizational Leadership",
+            "institution": "RASMUSSEN COLLEGE",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PHR certificate",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in Human Resources, with over three years of experience in various capacities that showcase strong administrative and interpersonal skills. Their roles emphasize detail-orientation, strategic thinking, and the ability to manage complex processes such as recruitment, benefits administration, and financial transactions like AR/AP processing. The candidate's educational background in Human Resources and Organizational Leadership, coupled with ongoing professional certification (PHR) through SHRM, highlights a commitment to continuous improvement and expertise in HR practices."
+}

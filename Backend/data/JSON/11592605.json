@@ -1,0 +1,58 @@
+{
+    "full_name": "Lisa",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name ï¼​ City , State",
+            "period": "11/2008 to 08/2014",
+            "description": [
+                "Managed visa related employment processes for all non-immigrant faculty and staff.",
+                "Improved productivity and enhanced visa related services.",
+                "Developed guidelines and tools for internal and external administration of non-immigrant employment procedures.",
+                "Reduced internal employment authorization processing times by approximately 30 percent.",
+                "Prepared, reviewed and submitted petitions for USCIS adjudication.",
+                "Maintained electronic database of petitions filed.",
+                "Served as a university point of contact for USCIS."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Coordinator",
+            "company": "Company Name ï¼​ City , State",
+            "period": "05/2000 to 11/2008",
+            "description": [
+                "Provided advice to faculty, staff, scholars and students by interpreting complex regulatory guidelines.",
+                "Thoroughly prepared and filed non-immigrant petitions to USCIS for non-immigrant students and employees.",
+                "Maintained highly confidential and sensitive data."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA : Justice Studies",
+            "institution": "Montclair State University ï¼​ City , State",
+            "year": 2002
+        },
+        {
+            "degree": "AS : Psychology",
+            "institution": "Essex County College ï¼​ City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "ABA Approved Paralegal Program",
+            "year": 2013
+        },
+        {
+            "name": "Certificate in SHRM Essentials of Human Resource Management",
+            "year": 2013
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Dedicated and focused Administrative Assistant with a strong background in HR Generalist roles, demonstrating expertise in visa-related employment processes and administration. Her ability to prioritize tasks, maintain meticulous attention to detail, and work self-directedly positions her for significant contributions in both administrative and HR capacities."
+}

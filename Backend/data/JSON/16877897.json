@@ -1,0 +1,79 @@
+{
+    "full_name": "Suma Kumari",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "SAP R/3 4.7",
+        "MS Office (Word, Excel, Power Point, Outlook, Internet Applications)",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Operating Systems: Windows 95/98/2000/XP"
+    ],
+    "work_history": [
+        {
+            "job_title": "Assistant Manager - HR",
+            "company": "VARROC POLYMERS PVT. LTD",
+            "period": "09/2012 to 08/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Manager - HR",
+            "company": "[Company Name]",
+            "period": "07/2010 to 07/2011",
+            "description": [
+                "- To maintain HR database.",
+                "- To generate various HR reports required by the management.",
+                "- To maintain organizational structures, create positions and jobs in SAP",
+                "- Preparation of Job Description and Roles & Responsibilities of department.",
+                "- Responsible for Establishment, Implementation & Maintaining effective Training & Development system in the organization."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Manager - HR",
+            "company": "[Company Name]",
+            "period": "05/2008 to 05/2010",
+            "description": [
+                "- Overlooking the recruitment process for providing best fit to the client as per their requirement.",
+                "- Understanding the requirement of the position in terms of competencies, experience etc.",
+                "- Sourcing suitable profiles from various sources as per requirement.",
+                "- Interviewing potential candidates to do an interest check for the requirement and judge their suitability.",
+                "- Coordinating with client to confirm profile suitability and scheduling interviews till final selection.",
+                "- Keeping a record of operations and deal with various recruitment enquires."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Education (B.Ed)",
+            "institution": "Magadh University",
+            "year": 2014
+        },
+        {
+            "degree": "MBA : Human Resource",
+            "institution": "Xavier Institute of Social Service",
+            "year": 2006
+        },
+        {
+            "degree": "Human Resource",
+            "institution": "Ranchi University",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": 2015
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Suma Kumari is a highly skilled Human Resource professional with over four years of experience in recruitment, organization development, time management, training & development, and performance management. Her expertise lies in handling various aspects such as Recruitment, Training Management, Employee Engagement, Audit, SAP-HR among others at VARROC POLYMERS PVT. LTD., where she has demonstrated strong communication, interpersonal, problem solving skills, and analytical abilities. Suma's ability to quickly grasp new technical concepts is evident from her proficiency in areas like SAP R/3 4.7, SQL, HTML, CSS, and JavaScript, alongside operational knowledge of Windows OS. Her leadership qualities are reflected through her role as a mentor and groomer of resources during her tenure at both companies."
+}

@@ -1,0 +1,81 @@
+{
+    "full_name": "Justin",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "SAP Web Intelligence",
+        "Informatica Data Explorer",
+        "MS Visio",
+        "MS Project",
+        "Rational Rose",
+        "Business Objects",
+        "SQL",
+        "UML",
+        "C",
+        "C++",
+        "Core Java",
+        "Perl",
+        "HTML",
+        "XML",
+        "PHP",
+        "Windows XP/Vista/7",
+        "Linux",
+        "Netezza",
+        "MS SQL Server 2005/2008",
+        "Oracle 9i/10g"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Systems Analyst I",
+            "company": "Company Name",
+            "period": "09/2014 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Analyst Intern",
+            "company": "Company Name",
+            "period": "05/2011 to 12/2011",
+            "description": [
+                "Assisted IT Admin for managing user access rights, user groups and documentation upload on MS SharePoint.",
+                "Analyzed business applications to determine if changes or upgrades are required by business users or processes.",
+                "Gathered business requirements and converted them into detailed technical and functional specifications.",
+                "Served as a technical liaison between end-users & application vendors to obtain solutions for application issues using HEAT ticketing system.",
+                "Tested vendor solutions and newly modified systems to ensure they meet client specifications.",
+                "Generate customized reports using Business Intelligence tools to meet user requirements."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Support",
+            "company": "Company Name",
+            "period": "05/2010 to 07/2010",
+            "description": [
+                "Used Sys-Aid ticketing software for handling service requests from library staff.",
+                "Responsible for troubleshooting and maintenance of hardware and software devices.",
+                "Maintained Local Area Network of UM Libraries and performed Ghosting, G-Disking processes."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS",
+            "institution": "University of Maryland",
+            "year": null
+        },
+        {
+            "degree": "B.E.",
+            "institution": "Mumbai University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's background in Information Management from the University of Maryland and experience as a Business Systems Analyst I suggest a strong capability to analyze complex data, understand business requirements, and translate them into technical specifications. This is supported by their involvement in designing marketing databases for clients and proficiency in various technologies such as SQL, UML, C, Java, and PHP. The candidate's role involves working closely with clients and stakeholders to define campaign audience requirements, program specifications, and business rules, indicating a strategic approach to understanding client needs and delivering tailored solutions."
+}

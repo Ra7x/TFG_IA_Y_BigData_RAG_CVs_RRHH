@@ -1,0 +1,51 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Office (Excel, Word, PP)",
+        "Google - Analytics",
+        "SQL",
+        "Outlook"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Development",
+            "company": "Company Name",
+            "period": "08/2015 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Operations Manager",
+            "company": "Company Name",
+            "period": "05/2014 to 08/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Coordinator",
+            "company": "Company Name",
+            "period": "01/2014 to 12/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales & Service Specialist",
+            "company": "Company Name",
+            "period": "05/2012 to 01/2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Stony Brook University",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate showcases a robust career trajectory in business development, operational management, and systems coordination with significant experience in managing customer relations and strategic planning. Their proficiency in technical skills such as Microsoft Office Suite and database management is notable, paired with strong leadership and team collaboration skills evident from their ability to lead brainstorming sessions for efficiency improvements within the organization."
+}

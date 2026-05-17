@@ -1,0 +1,81 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Research molecular/Research Microbiologist/Research Ecologist (Research Associate)",
+            "company": "Company Name",
+            "period": "July 2012 to July 2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Caregiver",
+            "company": "Company Name",
+            "period": "July 2012 to April 2013",
+            "description": [
+                "Observed and documented patient status and reported patient complaints to the case manager. Read and recorded temperature, pulse and respiration.",
+                "Completed and submitted clinical documentation in accordance with agency guidelines. Collected urine and fecal samples.",
+                "Assisted with adequate nutrition and fluid intake. Directed patients in prescribed range of motion exercises and in the use of braces or artificial limbs. Facilitated games and other activities to engage clients.",
+                "Positioned residents for comfort and to prevent skin pressure problems. Assisted with transferring residents in and out of wheelchairs and adaptive equipment. Tended to patients with chronic illnesses.",
+                "Charted daily information on the residents such as mood changes, mobility activity, eating percentages, and daily inputs and outputs. Recognized and reported abnormalities and/or changes in patients' health status to nursing staff. Documented resident records on daily flow sheets. Assisted with ADLs.",
+                "Provided patients and families with emotional support."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Department Manager",
+            "company": "Company Name",
+            "period": "July 2009 to March 2012",
+            "description": [
+                "Delivered excellent customer service by greeting and assisting each customer. Addressed customer inquiries and resolved complaints. Opened a new store location and assisted in recruiting and training new staff. Stocked and restocked inventory when shipments were received. Reorganized the sales floor to meet company demands. Directed and supervised employees engaged in sales, inventory-taking and reconciling cash receipts. Wrote order supply requests to replenish merchandise. Trained staff to deliver outstanding customer service. Addressed and corrected sales staff communication issues in a tactful and effective manner. Contributed to merchandising ideas at team sale meetings. Opened and closed the store, including counting cash, opening and closing cash registers and creating staff assignments. Placed special merchandise orders for customers.",
+                "Shared product knowledge with customers while making personal recommendations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Service Director",
+            "company": "Company Name",
+            "period": "April 2003 to June 2009",
+            "description": [
+                "Examined vehicles to determine the extent of damage or malfunctions. Communicated with customers regarding vehicle issues and potential repairs. Maintained a 95% customer service satisfaction rating.",
+                "Reviewed the work of 20 auto mechanics. Guided mechanics with decisions concerning repair and replacement of parts."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "LPN Certificate",
+            "institution": "Brown-Mackie College",
+            "year": null
+        },
+        {
+            "degree": "EMT-B Certificate",
+            "institution": "Phoenix College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Licensed LPN",
+            "year": null
+        },
+        {
+            "name": "EMT-B",
+            "year": null
+        },
+        {
+            "name": "HIPPA",
+            "year": null
+        },
+        {
+            "name": "Diabetes Type 2",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's profile is impressive, highlighting a strong background in both clinical practice and research across various fields including molecular biology, microbiology, ecology, and environmental science. Their experience as a Licensed Practical Nurse (LPN) equipped with a solid understanding of nursing practices coupled with hands-on laboratory work positions them to contribute effectively within healthcare environments. Additionally, their roles in customer service demonstrate exceptional interpersonal skills, adaptability, and the ability to manage diverse responsibilities efficiently."
+}

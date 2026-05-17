@@ -1,0 +1,53 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Partner; Business Development",
+            "company": "Company Name ï¼​ City , State",
+            "period": "11/2011 to 05/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Regional Manager; Consumer Engagement",
+            "company": "Company Name ï¼​ City , State",
+            "period": "06/2009 to 10/2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Regional Event Marketing Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "05/2002 to 06/2009",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "One-on-One Marketing Supervisor",
+            "company": "Company Name ï¼​ City , State",
+            "period": "05/1998 to 05/2002",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Representative",
+            "company": "Company Name ï¼​ City , State",
+            "period": "02/1992 to 05/1998",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts Degree",
+            "institution": "Stephen F. Austin State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned professional with over two decades of experience in various roles including business development, management, and marketing. With a strong background in both operations and strategic planning, they have demonstrated the ability to lead diverse teams towards achieving organizational objectives through effective leadership and strategic thinking."
+}

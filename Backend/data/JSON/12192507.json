@@ -1,0 +1,55 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Front Desk Attendant",
+            "company": "Company Name",
+            "period": "05/2015 to 10/2015",
+            "description": [
+                "Direct service to private airplanes. Marshaling, fueling and towing of aircraft."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Airline Operations Agent",
+            "company": "Company Name",
+            "period": "05/2014 to 07/2014",
+            "description": [
+                "Aircraft transit coordinator. Dispatchment of company aircraft. Cargo Operations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Ramp Agent",
+            "company": "Company Name",
+            "period": "12/2013 to 05/2014",
+            "description": [
+                "Kept records of room availability and guests' accounts, manually or using computers. Assisted guests with any special requests during their visits. Performed bookkeeping activities, such as balancing accounts and conducting nightly audits."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Bridgewater State University",
+            "year": 2015
+        },
+        {
+            "degree": "MBA",
+            "institution": "Embry-riddle Aeronautical University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Commercial Pilot License",
+            "year": null
+        }
+    ],
+    "english_level": "Bilingual",
+    "matchmaking_summary": "The candidate, with a background in Aviation Management and recently starting an MBA in Aviation focusing on International Business, demonstrates a strong educational foundation in the aviation industry. Their bilingual skills in English and Portuguese are notable assets for international business operations across various roles. The experience as a Front Desk Attendant showcases excellent customer service and administrative abilities in a unique aviation context."
+}

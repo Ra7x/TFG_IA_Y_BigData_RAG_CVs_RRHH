@@ -1,0 +1,97 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "TCP/IP",
+        "UDP",
+        "HTTP/S",
+        "DHCP",
+        "DNS",
+        "STP",
+        "HSRP",
+        "ISIS",
+        "RIP",
+        "OSPF",
+        "MPLS",
+        "FTP",
+        "SMTP",
+        "IPSec",
+        "VLAN",
+        "VPN",
+        "Wireshark",
+        "VMware",
+        "Cisco Packet Tracer",
+        "VirtualBox",
+        "Oracle",
+        "Windows Server",
+        "AWS",
+        "Active Directory",
+        "Linux",
+        "CentOs",
+        "Ubuntu",
+        "RHEL",
+        "Python",
+        "Bash Scripting",
+        "Data Networking",
+        "Linux for Network Engineers",
+        "Internet Protocols & Architecture",
+        "Network Security",
+        "Computer Communication Networks",
+        "Multimedia Communication",
+        "Active Directory",
+        "Ad",
+        "Apache2",
+        "Bash",
+        "CCNA",
+        "SMTP",
+        "switches",
+        "TCP/IP"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology and AWS Admin Intern",
+            "company": "Company Name",
+            "period": "04/2019",
+            "description": [
+                "- Researched and implemented a secure cloud infrastructure for migrating the financial data into AWS with seamless integration for company's financial department.",
+                "- Achieved an overall increment of 30% in efficiency by migrating the company's infrastructure to AWS cloud. Reduced the company's infrastructure cost by 10 times.",
+                "- Implemented secure off-site backups through scheduled weekly SSH dumps to remote server. Configured and troubleshot switches, routers and firewalls using TCP/IP protocols."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Network Engineer Intern",
+            "company": "Company Name",
+            "period": "10/2015",
+            "description": [
+                "- Built LAN and WAN for small-scale business enterprises using HTTP, DHCP, DNS, OSPF, VLAN."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Telecommunication and Networks",
+            "institution": "Northeastern University, Solapur University",
+            "year": "12/2019"
+        },
+        {
+            "degree": "Bachelor of Engineering : Electronics and Telecommunications",
+            "institution": "University Name",
+            "year": "06/2016"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AWS Certified Solutions Architect- Associate",
+            "year": "10/2018"
+        },
+        {
+            "name": "Cisco Certified Network Associate - CCNA 200-125",
+            "year": "Aug 2019"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in IT and cloud infrastructure, particularly with AWS. Their experience includes migrating financial data to the AWS platform for seamless integration within the company's financial department, demonstrating strategic thinking in leveraging cloud technology for business improvement. Additionally, their role as a Network Engineer Intern showcases technical skills in LAN and WAN configurations using advanced networking protocols such as TCP/IP, UDP, DHCP, DNS, OSPF, and VLAN."
+}

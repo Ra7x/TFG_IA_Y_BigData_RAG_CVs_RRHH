@@ -1,0 +1,94 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "HTML5",
+        "JavaScript",
+        "CSS3",
+        "PHP",
+        "water and nutrient management"
+    ],
+    "work_history": [
+        {
+            "job_title": "Research Associate",
+            "company": "Company Name",
+            "period": "2015-Present",
+            "description": [
+                "Managing sustainable horticultural crop production through environment control.",
+                "Hydroponics tomato production under controlled environment of light, water and nutrients.",
+                "Identification and characterization of drought and nutrient stress resistance varieties."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Research Assistant",
+            "company": "University of Kentucky",
+            "period": "2006-2010",
+            "description": [
+                "Field investigations of spatial variability on soil water storage and nitrogen status in corn and winter wheat in a no-till farmer's field.",
+                "Used soil water sensing capacitance probe, crop growth sensors; Green Seeker, Hydro-N sensor and Spectro radiometer to assess spatial variability at field scale."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Agricultural Officer",
+            "company": "",
+            "period": "2004-2006",
+            "description": [
+                "Acted as a technical consultant for effective knowledge translation and transfer of technology.",
+                "Worked on agronomic practices for field crops and fruits, vegetables and trees."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Junior Research Fellow",
+            "company": "Kerala State Land Use Board, Govt. of Kerala",
+            "period": "2000-2002",
+            "description": [
+                "Identified farming systems suitable for different agro-ecological zones of Kerala state, India.",
+                "Development of Site Specific Nutrient Management strategies for farm models of Kerala."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Research Assistant",
+            "company": "",
+            "period": "2000-2000",
+            "description": [
+                "Developed sustainable technologies to retain soil, moisture and vegetation in eroded regions using Coir Geo textiles.",
+                "Identified different types of coir geo textiles for conserving soil and water under varying slopes."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "PhD",
+            "institution": "University of Kentucky",
+            "year": null
+        },
+        {
+            "degree": "MS",
+            "institution": "Tamil Nadu Agricultural University India",
+            "year": 2002
+        },
+        {
+            "degree": "PhD dissertation: Soil water and crop growth processes in a farmer's field",
+            "institution": "Kerala Agricultural University India",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Water and nutrient management",
+            "year": null
+        },
+        {
+            "name": "Drought stress resistance varieties",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a distinguished career in agricultural research, spanning across various methodologies and technologies including hydroponics, soil analysis, GIS web application development, and statistical data analysis. With over a decade of experience in managing sustainable horticultural crop production and drought and nutrient stress resistance variety identification, the candidate's expertise spans multidisciplinary fields that include environmental control, field investigations, and agricultural extension. The extensive use of advanced tools like Licor 6400, CIRAS3, Campbell Scientific instruments for data analysis further underscores their proficiency in agricultural research."
+}

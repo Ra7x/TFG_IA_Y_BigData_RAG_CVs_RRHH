@@ -1,0 +1,77 @@
+{
+    "full_name": "AVIATION MECHANIC",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "MS Office (Excel, Outlook, PowerPoint, Word)",
+        "Aviation Maintenance",
+        "Calibration",
+        "Documentation",
+        "Maintenance",
+        "Accountability For",
+        "Assembly",
+        "Avionics",
+        "Blueprints",
+        "Budgets",
+        "Electrical Systems",
+        "Engines",
+        "Hazardous Waste",
+        "Hydraulics",
+        "Internal Controls",
+        "Quality Assurance",
+        "Scheduling",
+        "Schematics",
+        "Sequencing",
+        "Technical Publications",
+        "Training",
+        "Turbine",
+        "Aviation Maintenance",
+        "Audits",
+        "Aviation Maintenance",
+        "General Aviation",
+        "Logistics",
+        "Quality Control",
+        "Solutions",
+        "Testing"
+    ],
+    "work_history": [
+        {
+            "job_title": "Aviation Mechanic",
+            "company": "Company Name City, State Aviation Mechanic",
+            "period": null,
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Maintenance & Production Manager",
+            "company": "United States Navy, Oak Harbor WA",
+            "period": "8/2010 - Present",
+            "description": [
+                "Orchestrate aircraft maintenance activity across 12 work centers, supervising 200+ technicians in testing, troubleshooting, and upkeep of aircraft and engine subsystems on both fixed and rotor-wing models.",
+                "Direct organizational-level and intermediate-level maintenance programs; implement policies, improve processes, and provide technical supervision and management control of programs impacting aircraft maintenance activities.",
+                "Drive production quality control and administrative audits; collect, analyze, and interpret test data to provide senior leadership with crucial guidance for improving operational efficiency and performance."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Technical Management / Occupational Safety and Health",
+            "institution": "Embry-Riddle Aeronautical University, World Wide Campus",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science : Aviation Technology and Healthy Technology",
+            "institution": "Coastline Community College, Fountain Valley, California",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        {
+            "name": "OSHA 30-Hour General Industry Safety & Standards Certificate Skills",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out with a robust background in aviation maintenance, showcasing exceptional technical and leadership skills. With over two decades of experience across various roles within the military and as an aviation mechanic, the individual has demonstrated expertise in maintaining aircraft at peak operational readiness by effectively managing maintenance programs, projects, and operations. Their comprehensive understanding of technical requirements and ability to lead teams through complex processes positions them strongly in a role where precise diagnostics and timely repairs are paramount."
+}

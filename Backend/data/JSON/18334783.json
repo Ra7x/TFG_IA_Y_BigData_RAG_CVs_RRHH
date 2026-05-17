@@ -1,0 +1,75 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Director/Administrator",
+            "company": "Forbes Bros Inc",
+            "period": "Jan 2015 to Current",
+            "description": [
+                "Responsible for the HR department and supervising administrative staff and trained support staff. Handled all hiring and payroll.",
+                "Managed the construction of the new office on site. Facilitated the start of the company in Houston."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Administrator",
+            "company": "Company Name",
+            "period": "Jan 2013 to Jan 2015",
+            "description": [
+                "Responsible for preparing reports and financial data, training and supervising other support staff, and customer relationships. Prepared all bid proposals as well as administrating daily affairs."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Administrator",
+            "company": "Company Name",
+            "period": "Jan 2010 to Jan 2013",
+            "description": [
+                "Assist in the development of processes for support functions within the group.",
+                "Provided master document control and coordination for several concurrent transmission projects, including all information flows among owners, contractors, sub-contractors, utility companies, environmental consultants, landowners, and government agencies. Served as the main point of contact between contractors and all L-Con personnel."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Site Office Administrator",
+            "company": "E.ON Climate and Renewables",
+            "period": "2006-2010",
+            "description": [
+                "Responsible for all aspects of site office administration for E.ON's largest wind power construction site (in Roscoe, TX), comprising over 750 MW of wind power and over 2010 employees, contractors, and subcontractors.",
+                "Provided master document control and coordination for several concurrent wind projects, including all information flows between the owner, contractors, sub-contractors, wind turbine suppliers, utility companies, environmental consultants, landowners, and governmental agencies. Served as the main point of contact between contractors and all E.ON personnel."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Assistant",
+            "company": "Airtricity's US flagship Forest Creek and Sand Bluff wind farms sites near Big Spring, Texas",
+            "period": "Jan 2005 to Jan 2006",
+            "description": [
+                "Managed office for Airtricity's US flagship Forest Creek and Sand Bluff wind farms sites near Big Spring, Texas. Responsibilities included overseeing all document control, site office management, site HR needs (including timesheets and expense reports), and acting as meeting planner / facilitator for periodic staff / VIP site visits."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Assistant",
+            "company": "Company Name",
+            "period": "Jan 2001 to Jan 2002",
+            "description": [
+                "Assistant to the president of the company. Responsibilities included insight to all new business ventures to ensure timely completion and adherence to budget. Set up procedures for analyzing all financial information to determine the business expansion strategies."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business/Finance",
+            "institution": "University of New Mexico",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust professional profile with over 20 years' experience in managing diverse enterprises, ranging from small business development to large-scale renewable energy projects. Their expertise spans across project management, HR administration, operations management, and document control, indicating strong organizational and leadership skills. The 'matchmaking_summary' highlights the candidate's adaptability and ability to set up new offices and oversee ongoing operations efficiently. They demonstrate a track record of handling multiple responsibilities simultaneously in various business environments."
+}

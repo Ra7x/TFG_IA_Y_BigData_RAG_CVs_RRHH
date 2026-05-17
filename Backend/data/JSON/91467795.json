@@ -1,0 +1,98 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Consultant",
+            "company": "SGW Pharma Marketing",
+            "period": "Mar 2018 to Current",
+            "description": [
+                "Oversaw business, client and vendor negotiations.",
+                "Effectively directed internal marketing, communications and sales support staff.",
+                "Improved marketing plans, sales strategies and customer relations to maximize business development. Leveraged industry trends in client markets to shape value-added solutions and approaches for key audiences.",
+                "Streamlined operational efficiencies, developed sales tracking reports for planning by executive team.",
+                "Maintained strong understanding of competitors, their offerings and their presence across globe."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Account Executive",
+            "company": "American Laboratory Trading",
+            "period": "Oct 2017 to Feb 2018",
+            "description": [
+                "Promoted business growth in NC by maximizing existing client relationships and identifying new business opportunities through cold calling, networking, marketing and prospective database leads.",
+                "Completed daily outbound calls, up to 50 calls per day.",
+                "Discovered new opportunities to grow and expand inventory of products through product acquisition.",
+                "Successfully increased monthly sales revenue by 75% each month.",
+                "Kept detailed records of daily activities and client relations through Salesforce.com."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Southeast Sales Executive",
+            "company": "SGS Life Science Services",
+            "period": "Apr 2016 to Sep 2017",
+            "description": [
+                "Prospected and conducted more than 45 face-to-face sales calls per month with business executives and directors throughout assigned territory.",
+                "Successfully acquired average of 1.5 new customers per month achieving 108% of total Revenue Target for 2016.",
+                "Represented the company at focused industry trade show and/or networking events."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, Business Development",
+            "company": "Advantar Labs (now part of Eurofins)",
+            "period": "Feb 2013 to Apr 2016",
+            "description": [
+                "Secured new business by building strong client relationships and cultivating a deep understanding of sponsor needs.",
+                "Initiated two key partnerships which resulted in 47% revenue growth.",
+                "Successfully developed and planned relationship cultivating events to promote growth resulting in expansion of clientele base by 35%.",
+                "Developed innovative and targeted marketing strategies to support overall branding objectives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Account Manager I",
+            "company": "Cirrus Pharmaceuticals (now Recipharm)",
+            "period": "Sep 2011 to Feb 2013",
+            "description": [
+                "Developed strategies to drive partnering with 8 new clients in 2012 and grew underdeveloped territory with no existing contacts or leads.",
+                "Represented company at professional trade shows and conferences as subject matter expert; held information sessions and made presentations to win new business."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Consultant",
+            "company": "Tarheel Media Solutions",
+            "period": "Apr 2011 to Sep 2011",
+            "description": [
+                "Established new customer accounts through perseverance, dedicated cold calling and exceptional service.",
+                "Demonstrated products to show potential customers benefit/advantages and encourage purchases.",
+                "Researched and customized service proposals for clients."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Fundraising and Marketing Intern",
+            "company": "The Muscular Dystrophy Association",
+            "period": "Oct 2010 to Mar 2011",
+            "description": [
+                "Supported Fundraising Director in organization and management of all activities associated with community fundraising events.",
+                "Cultivated relationships with community leaders, businesses and local citizens in effort to draw attention to MDA and add new donors/volunteers."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of North Carolina Wilmington",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in business development, sales, and marketing within the life sciences industry. With over six years of experience, they have demonstrated success at securing new business through strong client relationships, innovative strategies, and effective communication. Their ability to leverage market trends for tailored solutions positions them as an asset in driving growth and expansion across various industries."
+}

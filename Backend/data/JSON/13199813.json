@@ -1,0 +1,70 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Director of Business Development",
+            "company": "Company Name",
+            "period": "04/2005 to 04/2015",
+            "description": [
+                "Developed and implemented growth initiatives in the most difficult scenarios, significantly increasing market share in any city assigned.",
+                "Led the implementation of plans to capture significant market share in mature markets through new opportunities identified.",
+                "Trained local staff to continue the example of growing accounts through excellent client service."
+            ],
+            "technologies": [
+                "Sales and Marketing",
+                "Market Research",
+                "Account Management"
+            ]
+        },
+        {
+            "job_title": "Director of Business Development/Political Relations Director",
+            "company": "Company Name",
+            "period": "01/1998 to 01/2005",
+            "description": [
+                "Focused on growing market share in Atlanta and Charlotte, leveraging client, political, and end-user relationships to grow market share by 90% in the three states.",
+                "Leveraged personal relationships with CEOs and Directors from key companies to secure work at projects for these clients."
+            ],
+            "technologies": [
+                "Business Development",
+                "Public Speaking",
+                "Problem Solving"
+            ]
+        },
+        {
+            "job_title": "Business Manager/Account Executive",
+            "company": "Company Name",
+            "period": "01/1995 to 01/1998",
+            "description": [
+                "Developed skills in sales and management, running local Firestone Automotive and Tire Stores as well as business-to-business direct cold-call sales for Transworld Systems."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Charleston Southern University",
+            "year": 1991
+        },
+        {
+            "degree": "Executive Communication",
+            "institution": "Dale Carnegie University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "English",
+            "year": null
+        },
+        {
+            "name": "10 Day Spanish Immersion",
+            "year": 2005
+        }
+    ],
+    "english_level": "Advanced",
+    "matchmaking_summary": "The candidate presents a robust background in business development and marketing, with notable achievements in increasing market share through strategic planning and relationship building across multiple markets. With expertise in sales force management and hands-on experience in both local and national markets, the candidate is well-versed in leveraging customer service to drive growth. His educational background in English from Charleston Southern University and professional certification in executive communication further highlight his ability to communicate effectively and strategically navigate complex business environments."
+}

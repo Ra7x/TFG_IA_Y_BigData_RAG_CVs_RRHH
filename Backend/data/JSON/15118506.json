@@ -1,0 +1,66 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Server 2003",
+        "2008",
+        "2012",
+        "Help Desk",
+        "Exchange Server 2007",
+        "2010",
+        "ITIL Service Catalog",
+        "VMware ESXi",
+        "Vendor Management",
+        "VMware vCenter",
+        "Budgeting",
+        "VMware Horizon View 5.x, 6.x, and 7.x",
+        "Project Management",
+        "Microsoft Hyper-V",
+        "SLA Management",
+        "Cisco UCM and Unity Asset Management"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Information Technology",
+            "company": "Company Name",
+            "period": "11/2012 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Administrator",
+            "company": "Company Name",
+            "period": "03/2008 to 11/2012",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Cardinal Stritch University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "VMware Certified Professional 5 - Data Center Virtualization",
+            "year": null
+        },
+        {
+            "name": "VMware Certified Professional 5 - Desktop Virtualization",
+            "year": null
+        },
+        {
+            "name": "ITIL Foundation Certified",
+            "year": null
+        },
+        {
+            "name": "Microsoft Certified Professional - Server 2012 Core Accomplishments",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Robert R. Jordan is a highly skilled and experienced IT executive with over a decade of leadership in the technology sector, specializing in enterprise-level infrastructure management for retail environments. His career has been marked by accomplishments such as successfully migrating from Microsoft Server 2003 to 2012, implementing VMware Horizon View, managing large-scale virtual environments, and overseeing help desks using ITIL standards. With a strong background in project management, including conversions of dealership management systems (DMS) and the implementation of digital storage processes that led to significant operational efficiency gains, Robert is well-versed in strategic technology deployment for organizations seeking to enhance their professional operations while ensuring robust security controls over vast amounts of customer data."
+}

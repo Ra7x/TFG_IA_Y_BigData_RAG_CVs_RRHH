@@ -1,0 +1,59 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Specialist",
+            "company": "Company Name, City , State",
+            "period": "07/2015 to Current",
+            "description": [
+                "Assisted with the establishment of the hiring process that is currently in use at the George's Employment and Training Center.",
+                "Assisted in the creation and implementation of the first electronic hiring process within George's, which pre-printed a new hire's SSN, address, the date and name, decreasing the time to hire someone from 1 hour to 30 minutes, on average.",
+                "Assisted with the development of the first electronic application for production hiring."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Specialist",
+            "company": "Company Name, City , State",
+            "period": "10/2010 to 07/2015",
+            "description": [
+                "Assisted the Managers in the staffing and compliance for 16 area locations.",
+                "Managed all aspects of the employee life cycle process, including on and off boarding."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR/Benefits Clerk",
+            "company": "Company Name, City , State",
+            "period": "03/2009 to 10/2010",
+            "description": [
+                "Developed reports on employee headcount, monthly HR reports and quarterly training reports.",
+                "Ensured new hire files were complete and accurate."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Clerk",
+            "company": "Company Name, City , State",
+            "period": "08/2007 to 03/2009",
+            "description": [
+                "Maintained open position postings.",
+                "Ensured all compliance laws were followed."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Skills",
+            "institution": "Rogers High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Fluent",
+    "matchmaking_summary": "The candidate has demonstrated a strong background in HR roles, including recruitment and compliance processes. Their experience spans various aspects of the human resources function, from initial hiring to employee benefits administration. The candidate's ability to streamline hiring procedures and maintain accurate records reflects a detail-oriented and people-oriented approach crucial for successful HR practices."
+}

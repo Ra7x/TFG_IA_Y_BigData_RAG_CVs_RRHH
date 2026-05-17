@@ -1,0 +1,53 @@
+{
+    "full_name": "Executive Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name",
+            "period": "04/2014 to 08/2016",
+            "description": [
+                "Co-ordinated and executed meals for various corporate clients; from parties ranging from 20 to 500 guests.",
+                "Implemented new cooking techniques and organizational protocols to lower food and labor cost.",
+                "Managed daily kitchen operations; identified and provided solutions for any problem areas."
+            ],
+            "technologies": [
+                "Food Safety",
+                "Sanitation",
+                "Batch Cooking",
+                "Sous vide technique",
+                "Ordering & Receiving"
+            ]
+        },
+        {
+            "job_title": "Chef/General Manager",
+            "company": "Company Name",
+            "period": "06/2012 to 04/2014",
+            "description": [
+                "Developed food and beverage menu for a new fast-casual restaurant.",
+                "Created standardized recipes to maintain quality control.",
+                "Handled all hiring, training, scheduling and payroll."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef de Cuisine",
+            "company": "Company Name",
+            "period": "06/2009 to 06/2012",
+            "description": [
+                "Worked with executive chef to develop and execute a daily-changing menu in a fine-dining establishment.",
+                "Tasted and smelled all prepared dishes, and observed color, texture and garnishes.",
+                "Initiated and maintained relationships with local farmers and ranchers to bring guests the highest quality ingredients while maintaining appropriate food and labor costs."
+            ],
+            "technologies": [
+                "Food Science"
+            ]
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents as a highly motivated and skilled executive chef with extensive experience in the restaurant industry, demonstrating strong leadership and interpersonal skills. Their track record includes successful implementation of new cooking techniques to reduce costs and maintaining high standards in menu development tailored to specific dietary needs. The role would benefit from their commitment to quality, palate for food science, and ability to communicate fluently in Spanish."
+}

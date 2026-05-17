@@ -1,0 +1,77 @@
+{
+    "full_name": "Lead Operations Engineer - Global Hawk Project",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Flight test management",
+        "Systems integration and test",
+        "UAS operations",
+        "Aircraft modification management",
+        "Flight test engineering",
+        "Team leadership"
+    ],
+    "work_history": [
+        {
+            "job_title": "Lead Operations Engineer - Global Hawk Project",
+            "company": "Global Hawk Project Company Name",
+            "period": "06/2006 to 01/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Operations Engineer",
+            "company": "Company Name",
+            "period": "01/1997 to 06/2006",
+            "description": [
+                "Project Manager. Missile Defense Agency DC-10 WASP Structural Restoration: Managed $5M project to investigate structural deficiencies with MDA platform aircraft.",
+                "Drafted the statement of work for the test effort.",
+                "Coordinated and managed the funding.",
+                "- Performed all coordination and facilitation to allow the customer's functional test agent (Raytheon Aircraft) to complete the analysis and testing on schedule.",
+                "Technical Manager, B-52H Launch Platform Aircraft Research Vehicle pylon construction: Supervised construction activities and schedule and performed as technical liaison between the pylon engineering design contractor and NASA fabrication personnel.",
+                "- Developed or reviewed quality assurance specification requirements.",
+                "- Primary mechanical designer of installation hardware for the electrical power conditioning and instrumentation systems.",
+                "Performed the conceptual design of pylon pneumatic system."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Engineer",
+            "company": "Company Name",
+            "period": "10/1986 to 06/1996",
+            "description": [
+                "Planned test programs to evaluate operability, suitability, and engine/airframe integration and compatibility of F-16 propulsion systems.",
+                "- Served as Government test monitor for contractor test programs.",
+                "- Interfaced with engine manufacture technical representatives and maintenance technicians on engine technical and maintenance issues.",
+                "- Served as customer propulsion system consultant. Monitored propulsion system data real-time during flight tests. Analyzed flight test data."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "California Polytechnic State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Defining System Requirements, NASA",
+            "year": 2004
+        },
+        {
+            "name": "Advanced System Safety Practices, NASA",
+            "year": 2001
+        },
+        {
+            "name": "Personnel Management for Executives (Resident Course), US Army",
+            "year": 1994
+        },
+        {
+            "name": "Hazards of High-Intensity Electromagnetic Radiation to Flight, CKC Laboratories",
+            "year": 1991
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the field of aerospace engineering with over two decades of experience in fixed and rotary wing flight testing, test management, systems integration, and UAV operations. Their role involves significant contributions to NASA's Global Hawk project, where they have demonstrated expertise in leadership and technical management across various aircraft modification and launch platform projects. The candidate's educational background in Aeronautical Engineering from California Polytechnic State University is complemented by a series of advanced system safety practices courses from NASA, indicating their continuous engagement with industry advancements. Their role involves strategic coordination and detailed project management across diverse sectors within the aerospace industry, highlighting strong organizational skills and adaptability."
+}

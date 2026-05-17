@@ -1,0 +1,68 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "ASP.Net 4.5",
+        "ASP.Net",
+        "VB.NET",
+        "Active Directory",
+        "Backup",
+        "Contract negotiation",
+        "CRM",
+        "Data Analysis",
+        "Data Processing",
+        "Databases",
+        "Disaster Recovery",
+        "ETL",
+        "EDI",
+        "ITIL",
+        "Training",
+        "Leadership",
+        "Marketing",
+        "Network analysis",
+        "Performance reviews",
+        "VoIP",
+        "Presentations",
+        "Process Enhancement",
+        "Product Development",
+        "Servers",
+        "SQL",
+        "SQL Server",
+        "Strategy",
+        "Desktop support",
+        "Visual Studio",
+        "Workflow"
+    ],
+    "work_history": [
+        {
+            "job_title": "VP of Information Technology",
+            "company": "Company Name",
+            "period": "07/2014 to 03/2017",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Systems",
+            "company": "Park University",
+            "period": null,
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Management",
+            "institution": "Park University",
+            "year": null
+        },
+        {
+            "degree": "Information Systems",
+            "institution": "Park University",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile as a VP of Information Technology, highlighting an impressive track record in IT leadership and strategic planning. Their core accomplishments emphasize cost savings through technology innovation and process optimization, which not only improved operational efficiency but also contributed significantly to the company's financial performance. The successful implementation of new systems such as the phone system, disaster recovery plan (DRP), and task management tools showcases their ability to deploy technological solutions that enhance business operations and employee productivity."
+}

@@ -1,0 +1,56 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name City , State",
+            "period": "01/2006 to Current",
+            "description": [
+                "Information technology enterprise business operator that demonstrated profitable annual revenue.",
+                "Researcher and statical analyst that increased financial growth 15% each quarter maximizing data analytics and customer retention software to win new and retain existing customers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Client Services Manager",
+            "company": "Company Name City , State",
+            "period": "06/1996 to 07/2005",
+            "description": [
+                "Sales and leasing consultant that consistently received BMW's honors award for highest in the nation sales and customer service achievements.",
+                "Finance Director that achieved recognition for surpassing sales goals for financial product presentations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Multi-unit Franchise Operator",
+            "company": "Company Name City , State",
+            "period": "03/1985 to 04/1995",
+            "description": [
+                "Entrepreneur that acquired multiple successful franchise units through acquisition and start up. Restauranteur that developed and sold businesses for profit over a ten year period."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "University District of Columbia - School of Business and Public Administration",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Product Development Certification",
+            "year": null
+        },
+        {
+            "name": "Federal Energy Management Professional (FEMP)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in business development and management, particularly within the information technology sector. With roles that involve research, data analysis, customer relationship management, and financial planning, this professional demonstrates expertise in strategic partnership building for business growth. Their leadership in non-profit organizations is commendable, contributing to environmental sustainability through green technology committee chairmanship at Prince George's Chamber of Commerce. The candidate holds multiple certifications relevant to their industry and has a proven track record of success across various management positions."
+}

@@ -1,0 +1,52 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [],
+    "education": [],
+    "certifications": [
+        {
+            "name": "SBA 8(a) Certification",
+            "year": null
+        },
+        {
+            "name": "ITIL v3 Foundation Certificate",
+            "year": null
+        },
+        {
+            "name": "VMware Technical Sales Professional 5 (VTSP 5)",
+            "year": null
+        },
+        {
+            "name": "VMware Sales Professional 5 (VSP 5)",
+            "year": null
+        },
+        {
+            "name": "VMware - MGMT (Management 5)",
+            "year": null
+        },
+        {
+            "name": "Riverbed Certified Solutions Professional",
+            "year": null
+        },
+        {
+            "name": "Palo Alto Networks Certificate",
+            "year": null
+        },
+        {
+            "name": "CompTIA A+ Certificate",
+            "year": null
+        },
+        {
+            "name": "CompTIA Network+ Certificate",
+            "year": null
+        },
+        {
+            "name": "Castle Rock SNMPc Certificate",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

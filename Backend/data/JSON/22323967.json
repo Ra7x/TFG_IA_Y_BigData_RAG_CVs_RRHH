@@ -1,0 +1,88 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Adobe Photoshop",
+        "ADP",
+        "Asset Management",
+        "branding",
+        "brochures",
+        "content",
+        "Customer Care",
+        "Final Cut Pro",
+        "graphics",
+        "Graphic",
+        "HR",
+        "Illustrator",
+        "InDesign",
+        "Innovation",
+        "inventory",
+        "Lotus Notes",
+        "marketing",
+        "marketing materials",
+        "materials",
+        "Microsoft Office",
+        "SharePoint",
+        "newsletter",
+        "presentations",
+        "process improvement",
+        "Project Management",
+        "promotional materials",
+        "publications",
+        "Quality",
+        "real-time",
+        "Recruitment",
+        "reporting",
+        "RFP",
+        "sales",
+        "stories",
+        "video",
+        "web design",
+        "website",
+        "articles"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Specialist, US HR Operations",
+            "company": "Company Name",
+            "period": "09/2015 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "IT, Marketing and Communications Co-op",
+            "company": "Company Name",
+            "period": "01/2014 to 05/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Relationship Coordinator/Marketing Specialist",
+            "company": "Company Name",
+            "period": "09/2009 to 10/2012",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts : Relational Communication",
+            "institution": "Western Connecticut State University",
+            "year": null
+        },
+        {
+            "degree": "Master of Arts : Corporate Communication & Public Relations",
+            "institution": "Sacred Heart University",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Senior Producer - 2014 SHU Media Exchange",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out with a diverse background in HR, marketing, and IT sectors. Their experience spans from detailed audit work to strategic project management for digital assets and internal communications. Demonstrating strong communication skills and adaptability across various platforms and tools such as ADP, SharePoint, and graphic design software, the candidate is well-equipped to contribute effectively in a dynamic corporate environment."
+}

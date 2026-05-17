@@ -1,0 +1,49 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Java",
+        "Oracle JD Edwards Enterprise",
+        "Epictome/WinAl",
+        "Data Collection",
+        "Internet",
+        "Social Media"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Business Development",
+            "company": "",
+            "period": "May 2014 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Fundraisor Director",
+            "company": "",
+            "period": "September 2012 to March 2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "MIAMI DADE COLLEGE",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science: Hospitality and Tourism Management Finance",
+            "institution": "FLORIDA INTERNATIONAL UNIVERSITY",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CFA (Chartered Financial Analyst)",
+            "year": null
+        }
+    ],
+    "english_level": "Fluent",
+    "matchmaking_summary": "The candidate's background is highly relevant to the role of a Director of Business Development. With extensive experience in financial analysis and corporate development, they have demonstrated success in optimizing operations and managing negotiations across multiple sectors including enterprise-wide financial operations, sales strategies, and fundraising initiatives. Their skills in leadership, strategic planning, and data collection are notably impressive for someone who has transitioned into business development roles from coaching positions initially within the tennis industry."
+}

@@ -1,0 +1,73 @@
+{
+    "full_name": "Anthony Nelson",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Field HR Associate",
+            "company": "FedEx Ground",
+            "period": "January 2015 to Current",
+            "description": [
+                "Ensures compliance with all employment laws, regulations, and FedEx Ground policies, procedures, and processes.",
+                "Identifies employee relations issues and resolves as appropriate.",
+                "Provides Human Resource (HR) advice to management and responds to employee inquiries.",
+                "Conducts investigations in a timely and appropriate manner."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Financial Aid Counselor",
+            "company": "Company Name, City , State",
+            "period": "May 2013 to November 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Financial Aid Advisor",
+            "company": "University of Clifton, City , State",
+            "period": "June 2010 to May 2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resource Coordinator",
+            "company": "Company Name, City , State",
+            "period": "November 2007 to March 2010",
+            "description": [
+                "Administered employee benefit plans including new hire orientation program, open enrollment process and wellness program.",
+                "Prepared, presented and distributed employee communications, publications and announcements."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Human Resource Management",
+            "institution": "Strayer University",
+            "year": 2014
+        },
+        {
+            "degree": "Bachelor of Arts : Human Resource Management",
+            "institution": "Strayer University",
+            "year": 2011
+        },
+        {
+            "degree": "Human Resource Management Bachelor of Arts",
+            "institution": "University of Clifton, City , State",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PHR certification - HR Certification Institute",
+            "year": 2006
+        },
+        {
+            "name": "HRCI certification: 2006 HR Certification Institute",
+            "year": 2006
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Anthony Nelson is a seasoned Human Resources professional with extensive experience in handling complex HR issues and providing strategic guidance to leadership teams. With over six years at FedEx Ground, he has demonstrated expertise in compliance management, employee relations, and HR policy development. His educational background in human resource management from reputable institutions further enriches his ability to contribute effectively to organizational success."
+}

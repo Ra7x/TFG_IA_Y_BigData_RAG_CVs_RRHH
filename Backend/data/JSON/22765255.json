@@ -1,0 +1,69 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Associate Director Business Development",
+            "company": "Lincoln Company Name City , State",
+            "period": "12/2012 to Current",
+            "description": [
+                "Led commercialization effort for the largest platform innovation program and the largest strategic partnership in the history of Kraft Foods with over $25MM capital investment in multi countries. Y1 combined GR +$300MM Avatar.",
+                "Responsible for leading team engagement which includes establishing strategic team meetings, review project time lines and cost regularly with the project team, facilitate creation of mitigation/contingency plans and manage communication to senior leadership and manufacturing facilities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Operations Supervisor",
+            "company": "Company Name City , State",
+            "period": "01/2012 to 12/2012",
+            "description": [
+                "Co-led the largest new product initiative in the history of Kraft Foods. Delivered $140MM GR in Y1.",
+                "Spearheaded first moment of truth and shopper relevancy by creating in store merchandising program and by designing and delivering sales materials and shelf set recommendations for top 5 customers.",
+                "Developed IMC by creating the consumer response plan for social media, direct consumer and CRM. Developed full recommendation on Direct to Consumer launch strategy, timing and resources.",
+                "Created pre and post launch performance and pricing trackers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Project Engineer",
+            "company": "BV AND ASSOCIATES, INC January 2000 to Jacksonville, FL",
+            "period": null,
+            "description": [
+                "Participated in the identification, planning, and execution of design projects.",
+                "Summarized the final project reports using FDOT (federal department of transportation) city standards, and quality specifications.",
+                "Applied engineering computer applications (Micro station and AutoCAD)."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "institution": "London University of North Florida, Coggin School of Business City , State , US",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science : Production Engineering Continuous Improvement and Management",
+            "institution": "EAFIT University Medellin, Colombia",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CBT Targeted Selection Certified Interviewer OLA (Organization Latinos at KFT)",
+            "year": null
+        },
+        {
+            "name": "Green Belt Lean Six Sigma",
+            "year": null
+        },
+        {
+            "name": "Color Analyst - Fashion Institute of Technology, NYC",
+            "year": null
+        }
+    ],
+    "english_level": "Fluent",
+    "matchmaking_summary": "This candidate stands out for their exceptional leadership skills and entrepreneurial vision. With over a decade of experience in business development and operations management at Kraft Foods, where they led significant commercialization efforts and new product initiatives, they have demonstrated the ability to drive expansion within fast-paced, high-growth environments. Their command of marketing strategy, innovation, and continuous improvement are particularly noteworthy. Fluent in English and Spanish, this professional is well-positioned to lead cross-functional teams and influence business growth through strategic partnerships and innovative solutions."
+}

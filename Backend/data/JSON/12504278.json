@@ -1,0 +1,52 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Phoenix Aviation",
+            "period": "January 2014 to Current",
+            "description": [
+                "- Provided extensive knowledge of aviation across multiple product lines, ensuring task-oriented and teamwork.",
+                "- Assisted underwriters and underwriter assistants in various departments including Agriculture, Commercial Aircraft, Commercial Airport, and Airline.",
+                "- Handled new business, renewals, endorsements, and mid-term changes for commercial and airline policies, generating monthly reports.",
+                "- Provided support to brokers daily on policy, certificate, loss run, invoice, and endorsement matters related to Agriculture, Commercial, and Airline products."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "AIG Aerospace",
+            "period": "February 2013 to January 2014",
+            "description": [
+                "- Gained expertise in aviation and assisted brokers, contributing to a team environment and excellent customer service.",
+                "- Utilized knowledge of aviation for risk assessment including aircraft specifications, pilot experience, etc., leading to computer-generated quotes and binders.",
+                "- Managed endorsements, binders, and policies for light general aviation, with ongoing renewals based on updated underwriter information."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Device Support Center Manager",
+            "company": "Flextronics",
+            "period": "January 2008 to Current",
+            "description": [
+                "- Developed managerial skills through supervision, communication, and management of staff performance.",
+                "- Analyzed daily reports for recommendations on strategic plans to enhance company metrics (quality and quantity).",
+                "- Handled inventory including mobile devices and accessories while documenting transactions, emphasizing the importance of customer issues being resolved promptly."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Baccalaureate of Science",
+            "institution": "University of Louisiana at Lafayette",
+            "year": 2008
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated expertise in customer service and aviation, particularly evident through their roles with Phoenix Aviation and AIG Aerospace. Their background includes handling complex policies, managing broker relations, and providing direct support to internal teams. Additionally, their tenure at Flextronics highlights strong managerial skills and a commitment to technological advancements, exemplified by their proficiency with mobile devices and latest technology trends."
+}

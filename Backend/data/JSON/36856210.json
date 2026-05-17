@@ -1,0 +1,53 @@
+{
+    "full_name": "Dedicated Information Assurance Professional",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Enterprise platforms",
+        "Information Assurance Project tracking",
+        "Risk Management Framework (RMF)",
+        "Hardware and software upgrade planning",
+        "Active Directory design and deployment",
+        "Product requirements documentation",
+        "Workstation build and deployment",
+        "Self-directed Systems Accreditation Packages",
+        "MS Visio",
+        "Red Hat Enterprise Linux installation and hardening",
+        "Decisive Network Design & Troubleshooting",
+        "High Performance Computing Domain Active Directory Layout",
+        "Data storage engineering"
+    ],
+    "work_history": [
+        {
+            "job_title": "Manager of Accreditation Efforts",
+            "company": "City, State Information Technology",
+            "period": "02/2011 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Engineer",
+            "company": "City, State Systems Engineer",
+            "period": "02/2006 to 02/2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Systems Analyst",
+            "company": "City, State Senior Systems Analyst",
+            "period": "02/1999 to 02/2006",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science",
+            "institution": "Florence Darlington Technical School",
+            "year": 1980
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a seasoned professional with extensive experience in Information Technology, particularly in areas of risk management and accreditation. Their career has spanned across multiple projects aimed at enhancing enterprise systems and security through technology upgrades and compliance measures such as RMF and STIG hardening. The most impressive aspect of their profile is the successful management of accreditation efforts for major departmental modernization projects, which included writing vulnerability management strategies, coordinating with external parties, and managing complex computer system assessments for risk analysis. This demonstrates strong leadership and strategic thinking skills in a technology-driven environment."
+}

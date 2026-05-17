@@ -1,0 +1,64 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Office suite",
+        "Global Mapper",
+        "Fiberglass tape",
+        "Stereomicroscope",
+        "Invertebrate field guide",
+        "Caloric centrifuge",
+        "GPS unit",
+        "Clinometer",
+        "Telescoping pinhole camera",
+        "Video recording equipment"
+    ],
+    "work_history": [
+        {
+            "job_title": "Plant Protection and Quarantine Technician",
+            "company": "",
+            "period": "May 2011 to August 2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Forest Insect Pest Aide",
+            "company": "",
+            "period": "May 2009 to August 2009",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Forest Insect Pest Aide",
+            "company": "",
+            "period": "May 2008 to August 2008",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate",
+            "institution": "Rutgers, The State University of New Jersey",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Keystone College",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        {
+            "name": "American Red Cross First Aid and CPR training",
+            "year": null
+        },
+        {
+            "name": "FEMA Federal Emergency Management Training",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a highly skilled environmental biologist with extensive experience in data collection and the study of invasive insects and plant hosts. Their proficiency in Microsoft Office, coupled with their ability to conduct field surveys for exotic pests like the Asian Long-Horned Beetle and Emerald Ash Borer, highlights their practical application of ecological knowledge in real-world situations. The combination of laboratory analysis skills and field experience demonstrates a comprehensive understanding of environmental health and conservation efforts."
+}

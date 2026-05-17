@@ -1,0 +1,66 @@
+{
+    "full_name": "Customer Service Representative",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Office",
+        "Verint",
+        "Siebel",
+        "RTA",
+        "Avaya",
+        "Operating Systems",
+        "Vista",
+        "Windows 7",
+        "Windows 8",
+        "Windows 10"
+    ],
+    "work_history": [
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Company Name, City , State",
+            "period": "08/2015 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Supervisor",
+            "company": "Company Name, City , State",
+            "period": "09/2014 to 07/2015",
+            "description": [
+                "Provides supervision and leadership to a team of 20 to 60 customer service representatives and through the various communication channels within operations (telephone, email, written correspondence, and web-chat).",
+                "Met contract specific goals/objectives as required. Extensive experience with the Healthcare Marketplace.",
+                "Supervise, develop, and coach CSRs to assure productivity, quality, attendance, and timeliness of work in the completion of assigned projects and departmental goals.",
+                "Maintain daily reports regarding adherence, service level, and staffed hours to assure CSR's and team are meeting contract and department goals.",
+                "Assume leadership responsibility for floor management (including agent placement), department tasks, and contact center incentives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Company Name, City , State",
+            "period": "10/2013 to 09/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Company Name",
+            "period": "06/2011 to 10/2013",
+            "description": [
+                "Handled 100 calls a day while being able to multi task and provide accurate information to the consumers while maintaining a high level of quality of service.",
+                "Practiced Conflict Resolution, refer unresolved customer grievances to designated departments for further investigation."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science",
+            "institution": "Eastern Kentucky University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Recognized for being able to promote exceptional results and productivity from a team of individuals. Six years experience within Contact Center Operations, supervised teams of 20 up to 100 employees. Extensive experience within the Contact Center Operations environment, including daily communications with all levels of leadership supervisor, management."
+}

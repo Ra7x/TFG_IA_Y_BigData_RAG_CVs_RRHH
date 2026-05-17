@@ -1,0 +1,147 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Apache",
+        "Cisco ASDM",
+        "Cisco VPN Client",
+        "Cisco IOS",
+        "Crow Canyon",
+        "DameWare",
+        "Dell",
+        "DHCP",
+        "DNS",
+        "ESET",
+        "Encryption",
+        "Exchange Server",
+        "Firewalls",
+        "Foxit Phantom PDF",
+        "Fibre Channel",
+        "FTP Servers",
+        "GP",
+        "Hardware",
+        "HP servers",
+        "Hyper-V",
+        "IBM",
+        "IIS",
+        "iPrism Web Security",
+        "IP",
+        "IT project management",
+        "Linux",
+        "Mac OS",
+        "MAS 90",
+        "McAfee",
+        "Media Servers",
+        "MySQL",
+        "Network Engineering",
+        "Network Security",
+        "Operating Systems",
+        "OSPF",
+        "PBX",
+        "PDF",
+        "PHP",
+        "PL/SQL",
+        "QuickBooks Enterprise",
+        "Quotas",
+        "Router",
+        "Sage Medical Manager",
+        "SAN",
+        "Solarwinds NPM",
+        "SolidWorks",
+        "Snapgear firewall/VPN appliances",
+        "SQL Server",
+        "SSIS",
+        "SSL",
+        "Symantec",
+        "System Recovery",
+        "Terminal server",
+        "Trend Micro",
+        "Toshiba PBX and VoIP phone system",
+        "UPS",
+        "URL Redirection",
+        "VPN Tunnels",
+        "VoIP",
+        "WebWASHERS",
+        "Windows 2000 Server",
+        "Windows 2003",
+        "Windows 7",
+        "Windows 8",
+        "Word",
+        "XHTML"
+    ],
+    "work_history": [
+        {
+            "job_title": "Senior Network Engineer",
+            "company": "Company Name - City , State",
+            "period": "10/2007 to 06/2008",
+            "description": [],
+            "technologies": [
+                "Cisco switches",
+                "Trend Micro products",
+                "Symantec Backup Exec"
+            ]
+        },
+        {
+            "job_title": "Information Technology Engineer",
+            "company": "Company Name - City , State",
+            "period": "03/2005 to 10/2007",
+            "description": [],
+            "technologies": [
+                "Cisco routers",
+                "HP ProCurve switches",
+                "Symantec products"
+            ]
+        },
+        {
+            "job_title": "Administration of Group Policy, Active Directory, DHCP, DNS, hardware and software troubleshooting, upgrades and migrations of legacy software packages.",
+            "company": "Company Name - City , State",
+            "period": "10/2008 to 07/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Manager",
+            "company": "Company Name - City , State",
+            "period": "07/2012 to Present",
+            "description": [
+                "Installed and supported SonicWall firewalls, VPN, wireless access points, multilayer switches, routers, and helped with Microsoft Exchange Server, Server 2012, Hyper-V installation.",
+                "Developed annual IT budget."
+            ],
+            "technologies": [
+                "SonicWall",
+                "Hyper-V",
+                "Cisco ASDM"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Information Technology Certification Classes - Network Engineering A+, Network+, MCSA, CCNA",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "M.A Counselor Education and Counseling Psychology in Administration of Student Personnel Services and Counseling in Post-Secondary Education",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "B.A Sociology - Sociology and Psychology",
+            "institution": "Not Specified",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "A detailed professional with extensive experience in network engineering and IT management. Skilled in Cisco and HP networking solutions, with expertise in managing firewalls, VPNs, and server environments. Proven track record in developing annual IT budgets through strategic planning and implementation."
+}

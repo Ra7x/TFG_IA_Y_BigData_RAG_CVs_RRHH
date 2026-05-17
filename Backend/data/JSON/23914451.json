@@ -1,0 +1,70 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Human Resource Manager",
+            "company": "Company Name - City , State",
+            "period": "May 2015 to Current",
+            "description": [
+                "Address inquires from employees and management regarding new-hire activity and ongoing employee relation issues. Advise top management on appropriate employee corrective actions.",
+                "Facilitate regular meetings to develop strategies that positively influence workplace relationships. Recruit and interview applicants daily.",
+                "Implemented an employee recognition and incentive program",
+                "Generate employee tracking reports each week."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resource Manager",
+            "company": "Company Name - City , State",
+            "period": "June 2004 to May 2015",
+            "description": [
+                "Support 12 units with over 1000 employees at all levels, including executive leadership. Analyze staffing needs and develop strategies to recruit, train, retain quality talent.",
+                "Create and utilize job descriptions within all departments.",
+                "Facilitate meetings to develop strategies that positively influence workplace relationships.",
+                "New hire and other HR related paperwork compliance.",
+                "Advise management. Work with operations to establish consistent hiring practices including succession planning.",
+                "Work with senior-level management to create fair and consistent HR policies and procedures. Review federal and state laws to confirm and enforce company compliance. Advise management on appropriate employee corrective actions. Guide operations on how to conduct background checks and verify references.",
+                "Employee performance evaluation process and merit program."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Front End Supervisor",
+            "company": "Company Name - City , State",
+            "period": "February 2001 to March 2004",
+            "description": [
+                "Coordinated activities of team members in multiple locations. Recruited, trained and developed customer service representatives. Created training manuals.",
+                "Monitored daily activities of customer support teams. Provided departmental reports and updates to senior management. Resolved customer questions, issues and complaints."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Technical Trainer",
+            "company": "Company Name - City , State",
+            "period": "June 1997 to February 2001",
+            "description": [
+                "Trained employees company protocols clearly and efficiently. Researched issues to resolve complaints and answer inquiries.",
+                "Built and maintained successful relationships with associates, vendors and customers. Mentored associates and managers."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor Of Science",
+            "institution": "Pennsylvania State University - City , State , United States",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Senior Professional in Human Resources (SPHR)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in human resource management with extensive experience across multiple sectors. Their proactive approach to addressing employee relations and compliance issues reflects their commitment to maintaining a healthy, productive work environment. The ability to recruit, train, and retain talent is evident through strategic planning and policy implementation which aligns well with organizational objectives."
+}

@@ -1,0 +1,68 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Senior Associate Business Development",
+            "company": "Company Name (City, State)",
+            "period": "January 2015 to Current",
+            "description": [
+                "Working with private hard money lender as a negotiator for real estate contracts, and business development.",
+                "Working with brokers and clients to secure funding for real estate projects both commercial and residential, business acquisitions. Build and maintain financial relationships with investors' brokers and funding partners."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "CEO",
+            "company": "Company Name (City, State)",
+            "period": "January 2011 to Current",
+            "description": [
+                "- Re-established brokering business after the real estate meltdown as an LLC in the state of Nevada.",
+                "- Owner operator in good standing with secretary of state.",
+                "- Duties to include but not limited to successfully negotiating large contracts valued in excess of 23 million dollars for clients with investors and or other funding sources."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "CEO",
+            "company": "Company Name (City, State)",
+            "period": "January 2001 to January 2005",
+            "description": [
+                "- Oct, 2008 structured The Lane Organization, LLC under records of the Nevada Secretary of State as a Limited Liability Corporation. Main function was brokering real estate notes, annuities, and structured settlements.",
+                "- Main skill was to contact high profile investors to spark interests in client offerings using investor databases and points of contact. Negotiating fees and price offerings between investors, clients and other interested parties."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree",
+            "institution": "National University (City, State)",
+            "year": 2012
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Midfield High School (City, State)",
+            "year": 1983
+        },
+        {
+            "degree": "Associate of Arts",
+            "institution": "PGCC Professional Golfers Career College (City, State)",
+            "year": "08/2011"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "MEDALS",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust professional background in business development and negotiations, demonstrating significant experience working with private hard money lenders to secure funding for real estate projects. With a military background that emphasizes leadership, problem-solving, and adaptability under stress, the candidate also displays strong interpersonal skills through maintaining relationships with clients and investors. Their diverse skill set includes contract negotiation, cold calling, and managing financial relationships, making them an ideal fit for roles requiring strategic business development and robust client interactions."
+}

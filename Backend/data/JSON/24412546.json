@@ -1,0 +1,95 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Associate",
+            "company": "Company Name - City , State",
+            "period": "January 2015 to Current",
+            "description": [
+                "- Responsible for prospecting and developing relationships for unqualified, and qualified sales leads through Market Master, Sales Force, cold calls and networking.",
+                "- Generated over 60 - 70 sales calls per day and distributed sales materials to the appropriate future clients. Secured appointments for the District Mangers I am assigned to."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Managing Director",
+            "company": "Company Name - City , State",
+            "period": "January 2000 to January 2015",
+            "description": [
+                "- Marketing and Management Company for telemarketing firms and the hospitality\\hotel industry.",
+                "- Projects include, Accelerated Financial Center, LLC, M.R. Carter, LLC, The Ramada Inn, Stuart, FL, The Tourist Information Center of Martin County in Stuart, Florida.",
+                "- With MRC, I contracted with MR Carter LLC, and Accelerated Financial Center, LLC. Responsible for all telemarketing functions and sales, sales relationship building and administration for both million dollar company's which handled consumer credit card interest rate reductions under the Federal Credit Cart Act.",
+                "- At the Ramada I was responsible for Guest Services, Group Sales, Conference Services and Catering and Restaurant Management for and Annual 4 million dollar budget.",
+                "- I also instituted a program for cold calling and utilizing our CRS with the Ramada to prospect potential clients, sales promotion, and client relationship development."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "General Manager",
+            "company": "Company Name - City , State",
+            "period": "January 1999 to January 2000",
+            "description": [
+                "- Developed and operated small thirty room upscale resort.",
+                "- Responsible for guest services, rooms, operations, accounting, and sales and marketing."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Sales",
+            "company": "Company Name - City , State",
+            "period": "January 1997 to January 1999",
+            "description": [
+                "- Responsible for all sales & marketing staff and sales aspects for the resort.",
+                "- This included public relations, client base relationship and awareness building and staff training to follow through with sales promotion processes."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Travel Industry Sales",
+            "company": "Indian River Plantation Resort & Yacht Harbor",
+            "period": "January 1990 to January 1997",
+            "description": [
+                "- Manager on Duty, Group Sales Manager, Director of Travel Industry Sales (Domestic and International). Was the leading Group Sales Manager for four years.",
+                "- Was appointed in 1995 as Director and developed the International and Domestic leisure markets. This portion of the leisure market room revenue increased by 2 million in 18 months."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Group Sales Manager",
+            "company": "Company Name - City , State",
+            "period": "January 1980 to January 1990",
+            "description": [
+                "- Management Trainee, Director of Conference Services & Catering, Group Sales Manager and Resort Manager on Duty. Trained in all departments of the property.",
+                "- Responsible for groups, and group bookings held at the property which involved the Midwest, Northeast, and Florida markets. Instituted a strong awareness and sales process which produced positive results to the property's bottom line."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Manager",
+            "company": "Company Name - City , State",
+            "period": "January 1975 to January 1980",
+            "description": [
+                "- Concentration on group, front and back of the house, for the Food & Beverage Division. Primary employment during College."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S.B.A",
+            "institution": "Xavier University - City , State",
+            "year": null
+        },
+        {
+            "degree": "M.B.A",
+            "institution": "Xavier University - City , State",
+            "year": 1978
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

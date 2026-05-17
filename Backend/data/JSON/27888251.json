@@ -1,0 +1,65 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Water Resources Specialist II",
+            "company": "Company Name - City , State",
+            "period": "January 2012 to Current",
+            "description": [
+                "Serves as Natural Resources Department lead to assist Lummi Planning and Public Works in obtaining and complying with federal permits for all large development projects on the Lummi Indian Reservation.",
+                "Experienced in multiple project management, including coordination with contractors, consultants, project managers, project engineers, and agency representatives.",
+                "Assists community members and applicants in understanding Tribal Codes of Laws and development requirements, including documentation and issuance of stop work orders for land use and permit violations.",
+                "Conducts site visits and performs assisted wetland delineations in support of development proposals and permit review."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Water Resources Technician III",
+            "company": "Company Name - City , State",
+            "period": "February 2007 to January 2012",
+            "description": [
+                "Coordinated and implemented the surface, marine and groundwater quality monitoring program for the Reservation. Conducted data entry and quality assurance and quality control to ensure collection of high quality usable data.",
+                "Assisted database programmer with database development for permit and water quality programs."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "North Puget Sound Gypsy Moth Supervisor",
+            "company": "Company Name - City , State",
+            "period": "May 2005 to November 2006",
+            "description": [
+                "Advertised, recruited, hired, trained and supervised six technicians as trappers for the Washington State Gypsy Moth Program.",
+                "Conducted meetings and attended meetings at the State office in Olympia."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Architectural Control Assistant",
+            "company": "Company Name - City , State",
+            "period": "March 2006 to June 2006",
+            "description": [
+                "Performed building plan submittal, review, and record keeping.",
+                "Served community members with questions on permit applications."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Western Washington University - City , State",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science",
+            "institution": "Whatcom Community College - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the field of water resources, with over four years of specialized experience as a Water Resources Specialist II. Their role involves significant responsibility for permit writing and land use planning on the Lummi Indian Reservation, necessitating strong coordination with contractors, consultants, and various agency representatives. The candidate's ability to interact effectively with community members and applicants while ensuring compliance with federal permits showcases their organizational skills and commitment to environmental stewardship."
+}

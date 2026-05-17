@@ -1,0 +1,71 @@
+{
+    "full_name": "Information Technology Coordinator",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Operating Systems: Installation & support of Microsoft Windows up to and including Windows 8.1",
+        "Sever Systems: Installation & support of Microsoft Server, up to and including Server 2012",
+        "SCO UNIX",
+        "Microsoft Active Directory",
+        "Database Software: Installation & support of Microsoft SQL up to and including SQL 2012",
+        "Microsoft Office 97 - 2013",
+        "Microsoft Access I. II. III",
+        "Email Programs: Microsoft Exchange, Ipswicth Imail",
+        "Navision Report Writer I & II",
+        "Content management platform: WebGui and Magento",
+        "Familiarity with a wide variety of Cisco and Fortinet Firewalls. 3Comm, Netgear, Hp and Cisco routers and switches",
+        "Expert knowledge of a variety of Smartphone operating systems including Windows Mobile, Blackberry, Android and IOS",
+        "Sprint Coral, Nortel and Free PBX VoIP phone and voice mail systems"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Coordinator",
+            "company": "Company Name City , State",
+            "period": "2003-Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Systems Manager",
+            "company": "Company Name City , State",
+            "period": "1996-Current",
+            "description": [
+                "Designed in house proprietary costumer relation database.",
+                "Designed and implemented Microsoft 2003 SBS.",
+                "Led design of corporate web site and internet marketing campaigns."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Management Bachelor of Arts",
+            "institution": "Curry College City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Active Directory",
+            "year": null
+        },
+        {
+            "name": "Microsoft SQL 2000 Design and Administration",
+            "year": null
+        },
+        {
+            "name": "Microsoft Access I, II, III",
+            "year": null
+        },
+        {
+            "name": "Navision Report Writer I & II",
+            "year": null
+        },
+        {
+            "name": "Comp-TA A+ Certified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, holding a robust background in Information Technology with extensive experience spanning over two decades, demonstrates exceptional skills across a wide array of technological domains. With expertise in operating systems, server management, and Cisco networking among others, the candidate has consistently demonstrated the ability to lead complex projects while maintaining efficient business processes. Their proficiency in various database software like Microsoft SQL and proprietary ERP solutions such as Navision showcases their versatility and adaptability in dynamic IT environments. The 'Administrate employee of the year' award highlights not only their professional prowess but also their commendable leadership qualities within the organization, making them a valuable asset to any team aiming for technological excellence."
+}

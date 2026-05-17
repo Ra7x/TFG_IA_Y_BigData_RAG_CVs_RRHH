@@ -1,0 +1,68 @@
+{
+    "full_name": "Post-Doctoral Research Fellow",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Post-doctoral Research Fellow",
+            "company": "Company Name",
+            "period": "May 2011 to January 2015",
+            "description": [
+                "Focused on production, purification and structure-function studies of multi-functional therapeutic peptides with Immunomodulatory, antiinflammation, anti-hypertension, anti-oxidation and anti-microbial effects.",
+                "Analyzed different enzymes/proteins as single molecules or as members of a network (e.g. signaling pathway), and their therapeutic/industrial applications.",
+                "Developed the methods and conducted research on process optimization, product formulation, protein engineering, and QSAR studies, in artificial neural network, response surface modeling and other statistical methods.",
+                "Designed and established new protein, peptide, and enzyme analytical methods and assay systems. Constructed gene cloning and different expression systems, and engineered the enzymes structures and functions. Studied the ADME of therapeutic molecules in vitro / in vivo, and developed different strategies for their delivery. Supervised 6 PhD, 5 MSc and 7 BSc students on multiple research projects. Taught university level courses in biochemistry and biophysics."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Graduate Research Assistant",
+            "company": "Company Name",
+            "period": "January 2007 to December 2009",
+            "description": [
+                "Recipient of the \"Al-Biruni 2007/2008 outstanding researcher award\" of enzyme and microbial technology research, and \"Invention, Innovation, Research and Technology Exhibition\" of University Putra Malaysia.",
+                "Designed and constructed recombinant fusion intra-, extra-cellular and cell surface display of a novel thermostable, organic solvent tolerant, regioselective lipase, which led to the development of a patent, 3 prototype biocatalysts and 4 journal publications."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Research Fellow",
+            "company": "Company Name",
+            "period": "September 2003 to July 2005",
+            "description": [
+                "Conducted research on enzyme biotechnology and bioelectromagnetics, which led to the development of novel approaches to inhibit/activate enzyme activity."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chaired the biochemistry and biophysics research lab",
+            "company": "Company Name",
+            "period": "February 1999 to July 2005",
+            "description": [
+                "Published 13 conference proceedings based on the conducted study on potential of electromagnetic fields to trigger the Phosphatidylinositol signal cascades and some of biomolecular hot points such as Na+/K+ ATPase and acetylcholinesterase."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "PhD",
+            "institution": "University Putra Malaysia",
+            "year": null
+        },
+        {
+            "degree": "MSc",
+            "institution": "University Putra Malaysia",
+            "year": null
+        },
+        {
+            "degree": "BSc",
+            "institution": "University Putra Malaysia",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

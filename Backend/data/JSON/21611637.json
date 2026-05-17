@@ -1,0 +1,50 @@
+{
+    "full_name": "Store Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name",
+            "period": "July 2013 to January 2014",
+            "description": [
+                "Delivers strong operational performance by executing against Sodexo and regulatory agency standards and programs, continually monitoring operations, and completing assessments and necessary action plans to provide optimal food quality and meal service.",
+                "Drives customer satisfaction, and maintains client relationships through rounding.",
+                "Ensures compliance to food safety, sanitation, and overall workplace safety standards.",
+                "Supervises, staffs, trains, conducts applicable rounding and manages the performance of the department to include the Food Service Supervisors and/or front line staff regarding food presentation, quality, cost control and food safety and sanitation.",
+                "Manages and controls resources and materials to ensure quality, adequacy of supply and cost control within budgetary guidelines. Assist in menu planning, pre-costing and post-costing."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Sous Chef",
+            "company": "Company Name",
+            "period": "November 2001 to April 2005",
+            "description": [
+                "Successful assist in direction of $1.5 million renovation of dining facilities and kitchens, including four restaurant, Culinary Learning Center, bistro, retail space and stations buffet.",
+                "Budget development and forecasting with focus on lean management through staff cross training and shifting manpower across Food and Beverage areas according to business requirements."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree",
+            "institution": "Sullivan College and the National Center for Hospitality",
+            "year": 1991
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Serve Safe Certification",
+            "year": null
+        },
+        {
+            "name": "Professional Cook Honors",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, identified as Store Chef, has a robust career history in the culinary field with extensive experience in executive chef and sous chef roles. Their track record includes successful menu development, budgeting, cost control, and staff training which have led to significant improvements in operational efficiency and guest satisfaction. The ability to lead large-scale kitchen renovations and implement lean management practices showcases their managerial and leadership skills. With certifications in food safety and culinary education, the candidate is well-versed in promoting healthy cooking techniques and health-promoting ingredient selection for both corporate and patient settings."
+}

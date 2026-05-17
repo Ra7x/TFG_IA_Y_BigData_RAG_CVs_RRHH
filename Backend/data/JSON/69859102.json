@@ -1,0 +1,59 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Costumer representative",
+            "company": "Company Name",
+            "period": "02/2018 to Present",
+            "description": [
+                "Answered customer questions and took orders. Assisted customers with finding solutions to their complaints, concerns and inquiries. Recommended, selected and helped locate merchandise based on customer needs and desires. Collaborated with customer service team members to give exceptional service throughout the entire shopping and purchasing experience. Built customer confidence by actively listening to their concerns and giving appropriate feedback. Extended customer subscriptions, offering discounts and promotions to ensure high customer retention rates. Confirmed that appropriate changes were made to resolve customers' problems."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sandwich Artist",
+            "company": "Company Name",
+            "period": "01/2017 to 02/2018",
+            "description": [
+                "Executed all daily tasks and assisted other team members when needed. Prepared food items, including sandwiches and other products to meet customer specifications. Assisted customers, including answering questions and preparing orders. Organized food preparation stations and replenished supplies as needed. Delivered superior customer service focused on quality and meeting customer needs in a timely manner. Cleaned and maintained all food preparation stations. Trained Sandwich Artists to apply attention to detail and commitment to quality. Communicated with customer to provide menu offering details and assist with decision-making."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Security Guard",
+            "company": "Company Name",
+            "period": "05/2015 to 01/2016",
+            "description": [
+                "Maintained order, responded to emergencies and enforced federal and local laws. Communicated with supervisors regarding any issues that occurred while on duty. Immediately reported fires, accidents and other safety hazards. Enforced all building rules and regulations in government facilities. Protected federal employees and their property by monitoring all access to government-owned and leased properties. Detained individuals when necessary to prevent security breaches. Patrolled the premises regularly to ensure safety of employees and visitors."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Florist helper / Delivery driver",
+            "company": "Company Name",
+            "period": "02/2011 to 03/2011",
+            "description": [
+                "Communicated information to customers about product quality, value and style. Consulted with customers on the latest styles and trends. Communicated merchandise needs and issues to appropriate supervisors in a timely fashion. Kept the showroom clean and maintained neat, orderly product displays. Interacted with customers and retail buyers to follow-up on shipping statuses and expedited orders."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Psja Early College High School",
+            "year": null
+        },
+        {
+            "degree": "Major in criminal justice, Minor in business administration",
+            "institution": "Texas A&M International University",
+            "year": "Expected Graduation date December 2020"
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has extensive experience in customer service roles, ranging from costumer representative to sandwich artist and security guard. Their background includes hands-on experience in food preparation, retail sales, and maintaining order through security duties. The candidate demonstrates strong communication skills, adaptability, and a commitment to providing top-notch customer service. They have also demonstrated teamwork and leadership qualities through their roles in student councils and FFA. With excellent organizational and public speaking skills, the candidate is well-suited for any entrepreneurial environment where they can contribute directly to client satisfaction and operational excellence."
+}

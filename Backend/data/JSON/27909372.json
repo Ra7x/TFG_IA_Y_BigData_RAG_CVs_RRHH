@@ -1,0 +1,51 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Chef Assistant",
+            "company": "Company Name",
+            "period": "09/2016 to Current",
+            "description": [
+                "Ensure cleanliness of kitchen work stations and operate dish washing machinery.",
+                "Assist chef in preparation and plating of meals for lunch and dinner services of up to 75 guests.",
+                "Arrange the banquet area according to expected guest flow and type of event.",
+                "Welcome customers and monitor flow between front and back-of-the-house operations.",
+                "Manage team of 10-15 students and delegate preparation tasks to ensure a smooth lunch/dinner service."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Public Relations Intern",
+            "company": "Bourne Braves",
+            "period": "May- September (14' and 15')",
+            "description": [
+                "Managed social media presence on Twitter, Instagram and Facebook for the Bourne Braves - Created 'Player Spotlights'.",
+                "Administered primary source of team funding - overseeing donation collections and raffle programs.",
+                "Coordinated volunteers for CCBL All-Star Game to maximize merchandise sales and food and beverage output for approximately 10,000 attendees."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Massachusetts",
+            "year": "2017"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CVENT Certified",
+            "year": null
+        },
+        {
+            "name": "TIPS Certified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate holds a Bachelor's degree in Hospitality and Tourism Management from the University of Massachusetts. With expertise in culinary operations, public relations, and customer service gained through various internships and practical experience roles, this candidate is well-versed in both front-of-house and back-of-house responsibilities within the food service industry. Their leadership skills are evidenced by their management position at Cape Cod Baseball League's Bourne Braves team, overseeing a team of student employees during game days. Additionally, their involvement with professional fraternities and participation in community service events highlight an engaged approach to both personal development and corporate social responsibility."
+}

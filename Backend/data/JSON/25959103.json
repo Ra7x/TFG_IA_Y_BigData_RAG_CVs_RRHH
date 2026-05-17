@@ -1,0 +1,92 @@
+{
+    "full_name": "Administrator of Information Technology",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "ADMINISTRATOR OF INFORMATION TECHNOLOGY",
+            "company": "Company Name",
+            "period": "January 17th 2007- Present",
+            "description": [
+                "Research, implement and support new technologies in support of developing public policy",
+                "Implement and support of 175-person infrastructure upgrades",
+                "Train technical and general staff in support processes and troubleshooting techniques",
+                "Establishes system specifications by conferring with users; analyzing workflow, access, information, and security requirements; designing system infrastructure.",
+                "Establishes system by planning and executing the selection, installation, configuration, and testing of PC and server hardware, software, LAN and WAN networks, and operating and system management systems;",
+                "Defines system and operational policies and procedures.",
+                "Maintains system performance by performing system monitoring and analysis, and performance tuning; troubleshooting system hardware, software, networks and operating and system management systems;",
+                "Designs and running system load/stress testing; escalating application problems to vendor."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "NETWORK SUPPORT ENGINEER",
+            "company": "Company Name",
+            "period": "August 17th 2004 - 2006",
+            "description": [
+                "Integrated, selected and developed procedures to support 3rd party.",
+                "Provided support for software, printing, and network access issues to the entire Senate community.",
+                "Provided senior level support to internal Help Desk operations.",
+                "Worked on integrating with 3rd party software.",
+                "Responsible for installation, configuration and support of Capitol Correspond SQL database.",
+                "Trouble shooting with HP printer issues.",
+                "Worked on connecting and configuring PC's, and NT servers to the network."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "SOFTWARE SPECIALIST",
+            "company": "Company Name",
+            "period": "August 15th 2000 - 2004",
+            "description": [
+                "Provides client site level 2 support of capitol Correspond database management software running on MS SQL database.",
+                "Responsible for installation, configuration and support of Capitol Correspond SQL database.",
+                "Provided client training for the use of Capitol Correspond Database."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts : National Security Studies Cyber Security",
+            "institution": "AMERICAN MILITARY UNIVERSITY",
+            "year": null
+        },
+        {
+            "degree": "Graduate Certificate: Aerospace, Cyberspace and Joint Professional Education.",
+            "institution": "AIR FORCE AIR COMMAND AND STAFF COLLEGE",
+            "year": 2013
+        },
+        {
+            "degree": "Master : Science Computer Information Systems Management",
+            "institution": "MARYMOUNT UNIVERSITY",
+            "year": 2007
+        },
+        {
+            "degree": "Bachelor of Science : Computer Information Systems",
+            "institution": "MARYMOUNT UNIVERSITY",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CompTIA A+",
+            "year": null
+        },
+        {
+            "name": "Network+",
+            "year": null
+        },
+        {
+            "name": "Security+",
+            "year": 2016
+        },
+        {
+            "name": "Certified Cyber Intelligence Professional (CCIP)",
+            "year": 2016
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in information technology, spanning over 14 years with specialization in desktop support and network management. With experience at the United Senate, they have demonstrated expertise in managing complex technological environments and providing high-level technical support. Their roles involve not only hands-on troubleshooting but also strategic planning such as system infrastructure design and policy development. The candidate's educational achievements in cybersecurity underscore their ability to adapt to advanced technologies and contribute effectively within a dynamic IT environment."
+}

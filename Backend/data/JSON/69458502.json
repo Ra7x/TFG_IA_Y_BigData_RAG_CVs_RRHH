@@ -1,0 +1,50 @@
+{
+    "full_name": "AVIATION ENGINEER",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Training program implementation",
+        "Process piping",
+        "Project management",
+        "Semi-conductor machine design",
+        "Scheduling tools",
+        "Structural red-line revisions",
+        "Electrical drafting"
+    ],
+    "work_history": [
+        {
+            "job_title": "City Aviation Engineer",
+            "company": "Company Name",
+            "period": "01/2015 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Intern",
+            "company": "Company Name",
+            "period": "01/2013 to 01/2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Science",
+            "institution": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY",
+            "year": null
+        },
+        {
+            "degree": "Applied Mathematics",
+            "institution": "EMBRY-RIDDLE AERONAUTICAL UNIVERSITY",
+            "year": 2014
+        },
+        {
+            "degree": "High School Degree",
+            "institution": "UNIDAD EDUCATIVA SAN NICOLA",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Fluent",
+    "matchmaking_summary": "AVIATION ENGINEER is a highly skilled and experienced professional with a strong background in aviation engineering, complemented by practical experience in operations management and advanced CAD drafting. The candidate's academic qualifications and hands-on experience in various roles within the aerospace industry not only highlight their technical prowess but also emphasize their ability to manage complex projects effectively. Their expertise in designing, developing, and testing electronic products, refining workflow processes, and improving organizational efficiency showcases a versatile skill set that would be invaluable for any team dedicated to advancing engineering technology."
+}

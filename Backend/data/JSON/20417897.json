@@ -1,0 +1,93 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Office Management",
+        "Calendar Management",
+        "Policies & Procedures",
+        "Manuals",
+        "Report & Document Preparation",
+        "Spreadsheet & Database Creation",
+        "Bookkeeping & Payroll Records Management",
+        "Meeting & Event Planning",
+        "Facility Management",
+        "SAP",
+        "Lotus Notes",
+        "Oracle",
+        "Access",
+        "Excel",
+        "PowerPoint",
+        "Word"
+    ],
+    "work_history": [
+        {
+            "job_title": "Executive Assistant HR",
+            "company": "Company Name",
+            "period": "01/2014 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Biller",
+            "company": "Company Name",
+            "period": "12/1999 to 05/2004",
+            "description": [
+                "- Processed incoming and outgoing shipments.",
+                "- Analyzed customer billing issues for corrective actions.",
+                "- Provided assistance to dock personnel and suppliers on shortages and overages. Assisted in special projects as needed."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Assistant",
+            "company": "Company Name",
+            "period": "10/1997 to 08/2013",
+            "description": [
+                "- Assisted the Director of Engineering, VP of Construction, HS&E Director and Human Resource Business Partner. Maintain documentation control for construction projects, new hire and safety training, purchasing activities, ensuring payment of all site utilities, and support accountant on account payable issues.",
+                "- Prepared monthly reports for capital projects, process change, utility usage, and overtime expenditures. Coordinated meeting, luncheons, corporate functions and internal training seminars.",
+                "- Assisted in organizing bid packages for onsite and offsite construction projects."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Assistant Underwriter",
+            "company": "Company Name",
+            "period": "03/1994 to 07/1996",
+            "description": [
+                "- Reviewed applications, letters, close outs, and cancellation policies.",
+                "- Advised clients on policy documentation, correspondence, cancellations, deletions, and additions. Prepared, review, rate, and issue renewals and new business policies.",
+                "- Maintained and developed quality control procedures for finance contracts."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "institution": "Centenary College",
+            "year": 2011
+        },
+        {
+            "degree": "Bachelor of Science : Business Administration",
+            "institution": "Business Administration Skills",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a versatile and skilled administrative career, ranging from small-scale bill processing to high-level HR support in a large, multi-faceted organization. Their experience includes managing sensitive information, coordinating complex events, and supporting diverse departments with various technological tools. The candidate's ability to adapt and manage multiple tasks efficiently is evident across their work history."
+}

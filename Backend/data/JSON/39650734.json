@@ -1,0 +1,48 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Assistant",
+            "company": "City , State",
+            "period": "04/2014 to 02/2016",
+            "description": [
+                "Assigned administrative assignments on a daily basis, demonstrating strong organizational skills and the ability to adapt quickly to new challenges in a dynamic environment.",
+                "Processed new recruits by coordinating with upper level management and co-workers, ensuring all necessary documentation was completed efficiently."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "General Manager",
+            "company": "City , State",
+            "period": "02/2013 to Current",
+            "description": [
+                "Promoted to interview and recruit new hires, successfully implementing training and compensation structures that have contributed to the sustained longer hours of operation, ultimately leading to increased company profits.",
+                "Managed restaurant financial objectives by developing strategic forecasts and budgets, controlling purchases and inventory effectively."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts : Humanities/English",
+            "institution": "THE UNIVERSITY OF THAI CHAMBER OF COMMERCE, City , Thailand",
+            "year": 2007
+        },
+        {
+            "degree": "Master of Science : Human Resource Management",
+            "institution": "Strayer University, City , State , USA",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Professional in Human Resources (aPHR)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate has demonstrated a strong background in human resource administration and customer service, with over five years of experience. Their ability to adapt quickly and efficiently handle various administrative tasks showcases their versatility and dedication. Additionally, the leadership skills demonstrated through managing recruitment efforts and controlling expenses indicate a proactive approach that would be valuable within any HR role."
+}

@@ -1,0 +1,85 @@
+{
+    "full_name": "SIMULATOR TECHNICIAN",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Experienced Electronic Technician",
+            "company": "Company Name",
+            "period": "April 2013 to May 2014",
+            "description": [
+                "Worked on AC/DC power and control systems.",
+                "Excellent troubleshooting skills in digital circuitry, test equipment operation, branch circuit wiring, and diagnostic testing."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Flight instruments Installation and repair",
+            "company": "Company Name",
+            "period": "April 2013 to May 2014",
+            "description": [
+                "Installation of avionics LRU's and Flight gauges on flight line.",
+                "Interpretation of blueprints and schematics.",
+                "Installation of Avionics equipment (AFCS, HSI, ADI, HUD, etc.).",
+                "Theory of operation of Avionics systems and Test sets."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Avionics technician",
+            "company": "Company Name",
+            "period": "January 2012 to January 2013",
+            "description": [
+                "Maintained CRJ-700,900 according to FAA standards and procedures.",
+                "Repaired and replaced Avionics equipment as required for proper functionality of aircraft."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Entry Avionics mechanic",
+            "company": "Company Name",
+            "period": "January 2007 to January 2008",
+            "description": [
+                "Wire Stamping and Cannon plug Termination and routing.",
+                "Installation of wire bundles and termination of grounding blocks."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Avionics shift supervisor, Avionics technician",
+            "company": "Company Name",
+            "period": "January 2006 to January 2012",
+            "description": [
+                "Avionics maintenance supervisor.",
+                "Interpretation of electrical and mechanical schematics, blueprints and diagrams.",
+                "Diagnosed equipment malfunctions and completed repairs to restore equipment and maintain uptime."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Electronics Troubleshooting Diploma",
+            "institution": "Army Aviation School of Logistics",
+            "year": 2007
+        },
+        {
+            "degree": "Associate of Science : Avionics Maintenance technology",
+            "institution": "Spartan College of Aeronautics",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        {
+            "name": "FAA Corrosion Control Academic Achievement Award",
+            "year": null
+        },
+        {
+            "name": "AEA Wiring Academic Achievement Award",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has extensive experience as an Electronic Technician with a strong background in A/C and D/C theory and troubleshooting skills, particularly in the avionics field. With roles ranging from entry-level mechanic to shift supervisor, they have demonstrated expertise in both hands-on technical repair work and supervisory responsibilities. Their ability to troubleshoot complex electrical systems is complemented by their thorough understanding of aviation regulations and standards."
+}

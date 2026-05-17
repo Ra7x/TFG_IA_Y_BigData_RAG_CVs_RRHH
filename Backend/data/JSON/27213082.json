@@ -1,0 +1,85 @@
+{
+    "full_name": "Not Specified",
+    "summary": "[...] Expertise in market analysis, forecasting and client needs assessments. Highly ambitious in business development with background in sales and marketing. Motivated in business sales with solid experience managing all levels of large-scale projects, including budgeting and administration. Experienced professional with strong leadership and relationship-building skills.",
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sr. Business Development Director",
+            "company": "Company Name",
+            "period": "01/2014 to Current",
+            "description": [
+                "Manage and develop business relations with insurance marketplace clients sales.",
+                "Direct sales team with software sales nationally.",
+                "Consult clients to assess technology requirements and advise on software to address their needs.",
+                "Lead project management for complete life cycle of software build and customization."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Program Manager",
+            "company": "Company Name",
+            "period": "01/2012 to 01/2014",
+            "description": [
+                "Successfully built the confidence and trust of major companies, in Xerox software and support through astute assessment of client needs and the development of strategies to meet them, raising customer satisfaction ratings from 'not happy' to 'extremely happy'.",
+                "Devised and implemented a core process for project management that ensured sustained support, eliminated errors and achieved high levels of customer satisfaction."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Quality Engineering Analyst",
+            "company": "Company Name",
+            "period": "01/2007 to 01/2011",
+            "description": [
+                "Instructor on Six Sigma tools and implementation techniques in a classroom setting.",
+                "Implemented Six Sigma site support for best practice, and lead 20 departments in Six Sigma Lean pilot projects on production line and business practices including conducting such process improvements as Root Cause Analysis."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Quality Engineering Analyst",
+            "company": "Company Name",
+            "period": "01/1997 to 01/2007",
+            "description": [
+                "Played a key role in the Advanced Projects Group - Radar cross section X and Ku band Material science methods for ceramic materials with AutoCAD Nozzle design for jet engine with infrared applications.",
+                "Technical analyst for F-22 F119 engine and F-35 F135 engine IR and Radar cross section analysis."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Distributed Computer Systems Analyst / Network Administrator",
+            "company": "Company Name",
+            "period": "01/1990 to 01/1996",
+            "description": [
+                "Provided computer consultancy and support for more than 200 workstations across 5 counties.",
+                "Installed and maintained Microsoft Windows server networks."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctor of Business Administration Management",
+            "institution": "Argosy University",
+            "year": null
+        },
+        {
+            "degree": "Master of Business Administration",
+            "institution": "Embry Riddle University",
+            "year": null
+        },
+        {
+            "degree": "B. S. Computer Science",
+            "institution": "Computer Science, 1984 Southern University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Airman (private pilot)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out for their comprehensive background in business development, covering roles from sales and marketing to intricate project management, with a significant focus on customer satisfaction. With experience in both IT program management and quality engineering within the aerospace sector, they demonstrate exceptional leadership skills that have contributed significantly to organizational success through strategic assessments and innovative process improvements."
+}

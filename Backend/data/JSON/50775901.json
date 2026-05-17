@@ -1,0 +1,60 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Administrative Assistant Senior Commander",
+            "company": "City , State",
+            "period": "September 2011 to September 2012",
+            "description": [
+                "Coordinated and scheduled training visits, briefings, appointments, correspondences and travel arrangements for the 1st Infantry Division Deputy Commanding General/Senior Commander.",
+                "Possess excellent people skills, with proven ability to communicate well with all levels of professionals.",
+                "Detail-oriented with proven effectiveness to multi task in high-impact and fast-paced environments, while juggling multiple priorities simultaneously with good judgment.",
+                "S3 Operations Noncommissioned Officer: 40+ hrs 40hrs Supervised, trained and led up to 5 soldiers on a daily basis. Responsible for creating and maintaining the Brigades operation orders, detailing and delegating tasks to subordinate units.",
+                "Maintain flight logs on incoming/outgoing flights and individual flight records."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Administrative Assistant",
+            "company": "City , State",
+            "period": "January 2011 to September 2011",
+            "description": [
+                "Served as the Executive Administrative Assistant to the Division Command Sergeant Major while facilitating the flow of information to and from the Division Command Sergeant Major, subordinate Command Sergeant Major and Sergeants Major, staff when necessary.",
+                "Coordinated and scheduled training visits, briefings, appointments, correspondences and travel arrangements."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Instructor",
+            "company": "Company Name",
+            "period": "June 2010 to December 2010",
+            "description": [
+                "Instructor for brigade junior leader course, me0ntoring and developing 54 students across a three month period. Developed lesson plan on composite risk management adopted as brigade standard."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Orderly Room Clerk",
+            "company": "Company Name",
+            "period": "January 2009 to June 2010",
+            "description": [
+                "Served as the company orderly room clerk personally responsible for developing and utilizing a company database to efficiently maintaining personnel records for 320 personnel and family readiness rosters.",
+                "Responsible for the training, health, welfare, and technical guidance of 3 personnel."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Kansas State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate possesses a Bachelor's degree in Interdisciplinary Social Science with a minor in Conflict Analysis and Trauma Studies, demonstrating strong academic background in social sciences. Their extensive experience includes roles such as instructor, orderly room clerk, and executive administrative assistant, showcasing skills in administration, people management, and detailed orientation to multifaceted tasks in high-pressure environments. The candidate's ability to coordinate training visits, briefings, and travel arrangements, coupled with detail-oriented performance, highlights their potential for effective leadership and coordination across various professional settings."
+}

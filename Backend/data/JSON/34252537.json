@@ -1,0 +1,58 @@
+{
+    "full_name": "Executive Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name",
+            "period": "01/2007 to 02/2016",
+            "description": [
+                "Catering Expert specializing in special events catering for clients such as the Walt Disney Company, Universal, CBS and ABC Studios, The Huntington Library and Gardens, Nestle USA, Wolfgang Puck and Valencia Country Club.",
+                "Consulting Chef Food E-Commerce service: Jewel City Bowl, The Waffle, Saddle Ranch, Waffle Fusion restaurant."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Kitchen Manager",
+            "company": "Company Name",
+            "period": "01/2000 to 01/2007",
+            "description": [
+                "Collaborate with General Manager on all restaurant operations: manage customer service & wait staff, supervise daily opening / closing activities, manage food and labor costs.",
+                "Responsible for staff scheduling, creation of daily prep lists for BOH, keeping kitchen on par with health code."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Kitchen Manager",
+            "company": "Company Name",
+            "period": "01/1983 to 01/1999",
+            "description": [
+                "Responsible for the BOH operations: hired, trained and supervised kitchen staff, managed budgets, negotiate vendors contracts and prepared food according to quality standards.",
+                "Accountable for monthly and annual budgets including action plans to drive sales by consistent high quality food and service standards."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor Degree",
+            "institution": "GEORGIA INSTITUTE OF TECHNOLOGY",
+            "year": 1984
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "ATLANTA CULINARY TECHNICAL SCHOOL",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CERTIFIED FOOD HANDLER",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile of culinary expertise, highlighted by their extensive experience as an Executive Chef and Kitchen Manager across multiple establishments. Their background includes catering to high-profile clients such as Walt Disney Company, Universal, and CBS, indicating strong event management skills and experience with upscale dining environments. The candidate's academic background in Marketing complemented by coursework in Culinary Management and Food and Beverage Operations positions them well for roles where strategic food service planning and business acumen are required."
+}

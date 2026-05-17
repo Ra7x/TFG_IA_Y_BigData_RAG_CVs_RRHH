@@ -1,0 +1,87 @@
+{
+    "full_name": "LEAD ENGINEER - FLUID SYSTEMS AND THERMAL ACCESSORIES",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "LEAD ENGINEER - Fluid Systems and Thermal Accessories",
+            "company": "Company Name",
+            "period": "September 2016 to Current",
+            "description": [
+                "Design Premix Liquid Fuel delivery system for GE 9F.04 and 9HA.02 Instrument Air system design and specification for GE Gas 9F.04 Provides hazmat specification based on IBC for various gas turbine skids.",
+                "Design water supply skids and accessories for purging and cooling of combustor nozzles. Conduct FMEA analysis of new products.",
+                "Size and select various gas turbine accessories such as fuel pump, filters, pressure transducers, water pump based of CFD and combustion requirement.",
+                "Work with supplier design control valves and mixing valves for various fluid system."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "DESIGN ENGINEER - Military & Commercial Engine Fluid Systems",
+            "company": "Company Name",
+            "period": "June 2015 to September 2016",
+            "description": [
+                "Provide design and redesign requirements and specifications for fluid system test hardware.",
+                "Review and provide engineering substantiation for Material Review Board documents for vendor components.",
+                "Investigate field related failures of military engine fluid system components. Leads component upgrades and improvement projects for fuel systems.",
+                "Establishes test procedure for afterburner fuel components, fuel pumps, Mechanical engine control units. Provide technical and engineering requirement for Vendor Substantiation documents.",
+                "Review and approve functional and dimensional changes to fluid system component request by vendor."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "DESIGN ENGINEER - New Product Definition",
+            "company": "Company Name",
+            "period": "February 2012 to January 2015",
+            "description": [
+                "Performed preliminary and detail design of engine hardware. Performed and interpret FEA Analysis for design reviews and assessment. Ensured technical requirements of components are being met.",
+                "Assigned ITAR/Export license for both technical data and hardware. Signed off on engineering drawings."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "DESKSIDE SUPPORT TECHNICIAN / IT SUPPORT",
+            "company": "Company Name",
+            "period": "June 2007 to January 2012",
+            "description": [
+                "Set up, tested and configured networks, desktops, laptops and printers. Performed routine software and hardware updates.",
+                "Performed routing preventative maintenance on computers. Coordinated hardware and software repair processes with outside vendors."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Account Associate",
+            "company": "Company Name",
+            "period": "September 2004 to June 2007",
+            "description": [
+                "Set up new Xerox printers and copiers for client use. Identified equipment options to satisfy client needs."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Mechanical Engineering",
+            "institution": "University of Dayton",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Science : Mechanical Engineering",
+            "institution": "Miami University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Science : Agricultural Engineering",
+            "institution": "Kwame Nkrumah University of Science and Technology",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Lean Six Sigma Certified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out with a comprehensive understanding of engineering principles and their application in product design, particularly within fluid systems and thermal accessories for aerospace hardware. Their experience spans across multiple stages of the product lifecycle, from initial conception through to manufacturing implementation. Demonstrated leadership skills have optimized collaboration between various departments to ensure high-quality output."
+}

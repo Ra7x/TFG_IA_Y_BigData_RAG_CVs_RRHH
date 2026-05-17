@@ -1,0 +1,67 @@
+{
+    "full_name": "Nolan",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Laborer",
+            "company": "Company Name, City, State",
+            "period": "08/2016 to 12/2016",
+            "description": [
+                "Aided in Aircraft mechanics, aircraft clean up, and restoration."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Laborer",
+            "company": "Company Name, City, State",
+            "period": "02/2016 to 05/2016",
+            "description": [
+                "Categorized livestock to be sold at auction. Worked with live animals in livestock pens and with auctioneers. In charge of loading and unloading livestock."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Laborer",
+            "company": "Company Name, City, State",
+            "period": "06/2014 to 08/2014",
+            "description": [
+                "Part time summer worker in charge of general labor and maintenance of parts and inventory."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Advance Diploma",
+            "institution": "HVAC New River Community College, City, State, USA",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Rural Retreat High School, City, State, USA",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CDL Class A Learners",
+            "year": null
+        },
+        {
+            "name": "Pesticide Applicator Certificate",
+            "year": null
+        },
+        {
+            "name": "Boating Safety Course Certificate",
+            "year": null
+        },
+        {
+            "name": "Hunter Safety Course Certificate",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Nolan is seeking an entry-level job with challenges, demonstrating excellent communication skills and the ability to work effectively both in team environments and independently. He has a strong background in practical labor across various industries such as aircraft mechanics, livestock categorization, and general maintenance. With his achievements in sports leadership and multiple certifications, Nolan shows potential for growth within an organization, aiming to improve himself through long-term employment."
+}

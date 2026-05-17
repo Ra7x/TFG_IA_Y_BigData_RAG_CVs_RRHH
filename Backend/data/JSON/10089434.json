@@ -1,0 +1,73 @@
+{
+    "full_name": "Information Technology Technician I",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Active Directory",
+        "Azure",
+        "anti-virus",
+        "Backup Exec",
+        "batch",
+        "Cacti",
+        "Cisco ASA",
+        "databases",
+        "DHCP",
+        "DNS",
+        "EMC",
+        "Enterprise Vault",
+        "ePO",
+        "firewall",
+        "file servers",
+        "GPO",
+        "HTML",
+        "IIS",
+        "ISA",
+        "LDAP",
+        "Linux",
+        "McAfee",
+        "Microsoft Office",
+        "Microsoft Windows",
+        "PowerShell",
+        "programming",
+        "proxy server",
+        "servers",
+        "scripts",
+        "SolarWinds",
+        "SQL",
+        "StorSimple",
+        "troubleshooting",
+        "VMware",
+        "VPN"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Technician I",
+            "company": "Company Name, City, State",
+            "period": "Aug 2007 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Services Liaison",
+            "company": "Company Name, City, State",
+            "period": "Aug 2005 to Aug 2007",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Florida International University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CompTIA Network+",
+            "year": 2014
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out with a robust background in Information Technology, highlighting extensive experience in managing user accounts across multiple Microsoft platforms such as Office 365 and Exchange Online, along with virtualization expertise using VMware. Their involvement in projects including disaster recovery planning demonstrates strong problem-solving skills and an understanding of critical IT infrastructure areas. The candidate's technical acumen extends to proficiency in technologies like PowerShell, VBScript, and a range of networking and security tools, reflecting a well-rounded approach across various aspects of IT."
+}

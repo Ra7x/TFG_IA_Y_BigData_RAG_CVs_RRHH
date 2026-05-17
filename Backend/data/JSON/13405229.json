@@ -1,0 +1,63 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Security BAGGAGE HANDLER/PERSONNEL SCREENER",
+            "company": "Company Name",
+            "period": "2014-Present",
+            "description": [
+                "Provide information to space 'A' travelers as well as PCS customers. Loaded over 5,000 60 to 75lb bags on state of the art Air Force 'X' ray equipment. Provided force protection security for the AMC military terminal.",
+                "Monitor all illegal material using the available x-ray, explosive and narcotics detection, magnetometer, hand held scanning equipment, and video monitoring camera. Illegal material includes weapons, explosives, narcotics, and any other materials which are unauthorized for air transportation."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Ordnanceman",
+            "company": "USS George Bush (CVN 77)",
+            "period": "2010-2012",
+            "description": [
+                "Inspect, maintained and repaired aircraft mechanical and electrical armament/ordnance systems.",
+                "Serviced aircraft guns and accessories.",
+                "Stowed, assembled and loaded aviation ammunition including aerial mines, torpedoes, missiles and rockets.",
+                "Serviced bomb, missile and rocket releasing and launching devices.",
+                "Loaded supplementary munitions.",
+                "Assembled, tested and maintained air-launched guided missiles.",
+                "Supervised operation of aviation ordnance shops, armories and stowage facilities."
+            ],
+            "technologies": [
+                "Weapons",
+                "Airborne Weapons",
+                "Aircraft Mechanical",
+                "Aviation"
+            ]
+        },
+        {
+            "job_title": "Armament Division Maintenance Technician",
+            "company": "Naval Strike and Warfare Center NAS Fallon",
+            "period": "2007-2010",
+            "description": [
+                "Performed scheduled/unscheduled maintenance and ordnance loading/downloading evolutions on 24 F/A18, 14 F-16, 4MH-60'S Aircraft.",
+                "Supervised, Inventoried, stored, ordered merchandise for Top Gun pilot school.",
+                "Cashier, Excel spreadsheet database, currency handler, bank handler responsibility."
+            ],
+            "technologies": [
+                "Maintenance",
+                "F-16",
+                "Retail Marketing"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Criminal Justice",
+            "institution": "Saint Leo University, Chesapeake, VA",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in aviation ordnance and maintenance, with experiences that demonstrate expertise in inspecting, maintaining, and repairing aircraft mechanical and electrical systems. Their roles involve critical security tasks such as monitoring for illegal materials and ensuring force protection measures are in place. The bilingual skills in Spanish provide an added value for cross-cultural understanding and operations."
+}

@@ -1,0 +1,80 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microbial testing",
+        "Endotoxin- LAL Test",
+        "Nano particle Size and Charge analysis by Malveren Nano ZS 90",
+        "Protein extractions",
+        "HPLC handling and Chromatography techniques",
+        "Polymerase chain reaction (PCR) technique",
+        "EPIC care",
+        "MS office",
+        "Efficient Internet Browsing",
+        "SAS programming",
+        "Epiphany Care"
+    ],
+    "work_history": [
+        {
+            "job_title": "EPIC Information Technology Specialist",
+            "company": "",
+            "period": "04/2017 to 06/2017",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Research Associate",
+            "company": "",
+            "period": "01/2016 to 11/2016",
+            "description": [
+                "Study of Tera Spectra and Tera imaging.",
+                "Analytical testing and method development and method validation.",
+                "THz imaging for nanotechnology: The relationship between nanotechnology and THz is bidirectional, in the sense that the concurrent developments can contribute to both technologies. THz modalities have helped the expansion of nanotechnology.",
+                "Maintenance and Calibration of Analytical Instruments such as HPLC, UPLC, UV, FT-IR, Dissolution apparatus, pH meter and analytical balances."
+            ],
+            "technologies": [
+                "HPLC",
+                "UPLC",
+                "UV",
+                "FT-IR",
+                "Dissolution apparatus",
+                "pH meter"
+            ]
+        },
+        {
+            "job_title": "Research Associate",
+            "company": "",
+            "period": "11/2013 to 12/2015",
+            "description": [
+                "Determine their thickness profile.",
+                "Analytical testing and method development and method validation.",
+                "Capillary electrophoresis (CE) methods used in submillimeter diameter capillaries and in micro- and nanofluidic channels. Chromatographic techniques (GC)."
+            ],
+            "technologies": [
+                "CE",
+                "GC"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Pharmacy : Bio Technology",
+            "institution": "JSS College of Pharmacy",
+            "year": 2010
+        },
+        {
+            "degree": "Bachelor of Pharmacy",
+            "institution": "Kakatiya University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "EPIC INFORMATION TECHNOLOGY SPECIALIST with a robust background in Bio-Pharma and extensive experience in analytical methods, including method development, validation, and transfer. Proficient in various techniques such as HPLC, GC, LC/MS, UPLC, TLC, FTIR, UV-VIS spectrophotometer, and KF coulometer, demonstrating a deep understanding of wet chemistry techniques. Experienced in handling cell lines, performing PCR methods, and managing mammalian cell culture. Strong background in biological activity assessment including Antimicrobial, cytotoxic, and genotoxic activities, reflecting a commitment to research in the pharmaceutical sector."
+}

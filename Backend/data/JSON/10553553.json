@@ -1,0 +1,60 @@
+{
+    "full_name": "Information Technology Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Manager",
+            "company": "",
+            "period": "03/2013 to Current",
+            "description": [
+                "Managed a four-person local IT team, allocating resources to ongoing projects and enforcing deadlines.",
+                "Drove business KPIs through rapid iteration of customer-facing product features.",
+                "Leveraged in-depth understanding of end-to-end customer experience to identify pain points and latent customer needs. Collaborated with the global team to resolve IT support cases."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Administrator",
+            "company": "",
+            "period": "06/2011 to 03/2013",
+            "description": [
+                "Designed and delivered mission critical infrastructure to ensure the highest levels of availability, performance and security.",
+                "Maintained security, backup, and redundancy strategies.",
+                "Ownership of IT Infrastructure and Client/Server management (Chicago, Houston, Montreal and Sydney).",
+                "- Collected, analyzed, and reported program metrics, including product technical performance measures and key performance parameters.",
+                "- Managed North America production data center (SaaS) and disaster recovery applications.",
+                "- Deploy and manage VMware architecture.",
+                "- Monitor and created automatic actions related to hardware and web servers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Network Administrator",
+            "company": "",
+            "period": "10/2008 to 05/2011",
+            "description": [
+                "Tested, configured and deployed Windows 7 operating system with Acronis Snap Deploy.",
+                "Deployed and tested Microsoft Exchange 2010 in VMware.",
+                "- Administered SQL 2005 database to run Dentrix and DEXIS software. Configuration and implementation of Group Policies."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "DePaul University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "DeVry University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Information Technology Manager with a strong background in managing and leading IT teams, optimizing system performance, and ensuring the technical infrastructure aligns with business objectives. Skilled in project management, risk analysis, and implementing cost-effective solutions to enhance enterprise platforms."
+}

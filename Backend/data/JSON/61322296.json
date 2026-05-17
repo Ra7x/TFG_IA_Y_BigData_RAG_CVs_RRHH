@@ -1,0 +1,61 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": "City, State",
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sous Chef",
+            "company": "Company Name",
+            "period": "May 2015 to February 2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Sous Chef/First Cook",
+            "company": "Company Name",
+            "period": "October 2006 to February 2016",
+            "description": [
+                "In charge of product and produce purchasing.",
+                "- Responsible for maintaining and inspecting kitchen produce as well as 'walk-in' ensuring the quality and integrity of food supply ensuring optimal cleanliness.",
+                "- Mentoring, training and supporting junior chefs, cooks and other back of the house personnel. Instructing in the proper perceiving and cooking techniques.",
+                "- Managed all action stations while maintaining high standards as well as ensuring food quality. Maintained OSHA and safety regulations.",
+                "- Monitored food preparation methods, portion sizes, garnishing and presentation of food ensuring food was prepared and presented in an optimal pristine manner.",
+                "- Created and maintained food and equipment inventories and reliable records.",
+                "- Established standards for personnel performance and customer service satisfaction."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef/ Cook 2",
+            "company": "Company Name",
+            "period": "July 2003 to November 2006",
+            "description": [
+                "Menu sampling and setting recipe amendments for special events and catering alongside of Executive Chef. Order Synchronization and maintenance of inventory control ensuring cost and stock management.",
+                "Customer Service satisfaction intake."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Line Cook",
+            "company": "Company Name",
+            "period": "June 1999 to February 2002",
+            "description": [
+                "Assisted management in all manners of running and preserving integrity of the 'hot line'.",
+                "Managed and maintained mise en place stations.",
+                "Responsible with assisting Executive Chef in creating daily specials and menus."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science",
+            "institution": "NEW YORK RESTAURANT SCHOOL",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's profile showcases a highly skilled and experienced Sous Chef with extensive experience in managing kitchen operations, menu creation, and staff training. Their strong background includes enhancing customer satisfaction through culinary excellence and efficient management of food preparation processes. With proven skills in both front and back-of-house activities, the candidate is looking for an opportunity to contribute to a unique working environment with excellent career development prospects."
+}

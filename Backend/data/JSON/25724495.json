@@ -1,0 +1,75 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Regional HR Manager",
+            "company": "Company Name",
+            "period": "Aug 2015 to Dec 2016",
+            "description": [
+                "Recruited 250 employees in 4 months for launching new RIBG (Rural Inclusive Banking Group) vertical of ICICI Bank.",
+                "Worked on 'Female Workforce attrition at Mid Managerial level' and suggested ways to retain, which was incorporated in policies.",
+                "Worked on streamlining recruitment and onboarding process at indusind Bank by suggesting changes in 'E-joining' portal."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Employee Relationship Manager",
+            "company": "Company Name",
+            "period": "May 2013 to Jun 2015",
+            "description": [
+                "Conducting regular branch visits for ground sensing.",
+                "- Making branch visit report and maintaining branch visit tracker.",
+                "- Handling employee queries regarding organization policies, transfer requests, salary and leaves etc. Maintaining and updating HRIS for the region.",
+                "Taking Induction Session of new joiners."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Recruitment Manager",
+            "company": "Company Name",
+            "period": "May 2011 to Apr 2013",
+            "description": [
+                "Handling Recruitment for entire Rajasthan RBG (Retail Banking Group) & RIBG (Rural Inclusive Banking Group) and GOG (Global Operations Group).",
+                "Managing entire recruitment life cycle right from sourcing,interviewing and negotiating/releasing offers till on boarding.",
+                "Ensuring all new joiners are included in Payroll."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Intern",
+            "company": "Company Name",
+            "period": "Mar 2010 to Jun 2010",
+            "description": [
+                "Taking and understanding requirements from clients, sourcing applicants using 'Mass Mailing, Job Posting', doing screening and lining them up for interviews with clients."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "ICFAI Business School",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Bharati Vidyapeeth College Of Engineering",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Human Resource",
+            "year": null
+        },
+        {
+            "name": "Electrical Engineering",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a highly skilled HR professional with extensive experience in recruitment, employee relations, and performance management. With over five years of experience across various roles within the HR field, they have demonstrated strong leadership abilities and expertise in talent acquisition and retention strategies. Their ability to successfully manage end-to-end recruitment processes, coupled with their proficiency in HRIS systems, makes them a valuable asset for any organization looking to enhance their HR operations."
+}

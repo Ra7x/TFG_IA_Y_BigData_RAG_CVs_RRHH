@@ -1,0 +1,87 @@
+{
+    "full_name": "Kazaryan, A.",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Project(s) Manager",
+            "company": "Company Name",
+            "period": "Jan 2015 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Consultant",
+            "company": "Company Name",
+            "period": "Sep 2015 to Dec 2015",
+            "description": [
+                "Provided methodological training directly to the Monitoring and Evaluation Department."
+            ],
+            "technologies": [
+                "Ethnography",
+                "Interactional Analysis",
+                "Content Analysis",
+                "Grounded Theory",
+                "Open Ended Interviews",
+                "Systematic Review of Research Literature"
+            ]
+        },
+        {
+            "job_title": "Compliance Officer",
+            "company": "Company Name",
+            "period": "Sep 2012 to Aug 2013",
+            "description": [
+                "Designed a comprehensive policy and procedure company manual for employees, patients, and shareholders.",
+                "Reviewing patient-pharmacist consultations, internal audits, and dealing with all compliance and ethics related issues.",
+                "Accomplished accreditation by the Utilization Review Accreditation Commission (URAC) for the company.",
+                "Built strategic pharmaceutical alliances resulting in signed contracts with major drug manufacturing companies to allow for the dispensing of new and/or limited distribution cancer treatments."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Collections Management Assistant",
+            "company": "Company Name",
+            "period": "Aug 2011 to Jun 2012",
+            "description": [
+                "Served as right hand assistant to the Manager of the Collections Department at UC Berkeley's Museum of Anthropology.",
+                "Supervised researchers, students, interns, and volunteers regularly as they worked with valuable and fragile artifacts, including human skeletal remains.",
+                "Organized the collection inventory, conducted database entry for all Oceania artifacts, and reviewed system entries by working interns and volunteers."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science & Philosophy",
+            "institution": "University of Oxford",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "University of California, Berkeley",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Arts",
+            "institution": "Glendale Community College",
+            "year": 2010
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Verified Internet Pharmacy Practice Sites (VIPPS) accreditation",
+            "year": null
+        },
+        {
+            "name": "Accreditation by the Utilization Review Accreditation Commission (URAC)",
+            "year": null
+        }
+    ],
+    "english_level": "Fluent",
+    "matchmaking_summary": "Ms. Kazaryan is an accomplished Medical Anthropologist with a deep commitment to human health and welfare from a sociocultural perspective. Her blend of research skills and project management expertise makes her a valuable asset for public service initiatives aimed at protecting and advancing the interests of human subjects through ethical practices and compliance standards."
+}

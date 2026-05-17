@@ -1,0 +1,101 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Director, Business Development",
+            "company": "Company Name - City , State",
+            "period": "October 2014 to Current",
+            "description": [
+                "Solely built and launched the CPG division of 2020 Companies within 90 days of hire.",
+                "Created strategic alliance with similar company that expanded our reach into Canada.",
+                "Closed business with 3 new CPG clients within first 6 months of employment.",
+                "Oversaw projects from conception to completion to ensure flawless execution for clients.",
+                "Consistently arranges client meetings locally and domestically to attain new or additional business.",
+                "Designed and implemented supporting sales reporting systems; designed customized templates in SalesForce.com to support field initiatives.",
+                "Developed cross-functional relationships with IT, Operations, Finance, Recruiting and Training to seamlessly integrate new division into existing culture."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Strategic Account Sales and Consulting",
+            "company": "Company Name - City , State",
+            "period": "December 2012 to August 2014",
+            "description": [
+                "Consistently exceeded monthly sales quotas by more than 100%.",
+                "Negotiated prices, terms of sale and service agreements for all programs, applications, and reporting services.",
+                "Oversaw sales forecasting, goal setting and performance reporting for all accounts.",
+                "Independently approached new opportunities in retail, selling outside of our targeted customer base.",
+                "Bundled numerous solutions when working with a customer's specific needs."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "National Sales Manager",
+            "company": "Company Name - City , State",
+            "period": "May 2012 to December 2012",
+            "description": [
+                "Oversaw National Accounts, distributors and broker partners to increase sales and distribution.",
+                "Performed key account reviews, develop strategic market direction and identified competition.",
+                "Created development and expansion plans to ensure market share growth.",
+                "Delivered detailed presentations to key accounts and broker objectives for upcoming year.",
+                "Forecasted sales projections, allowances, promotional activities and prepared category reviews."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Category Sales Manager",
+            "company": "Company Name - City , State",
+            "period": "March 2011 to April 2012",
+            "description": [
+                "Grew Walmart's business by an additional $3.3M million in revenue during first quarter.",
+                "Interacted directly with buyers at Kroger, Supervalu, Safeway, Publix, Kehe, Jetro.",
+                "Customized sales reports and presentations utilizing SAP, Retail Link, and other software.",
+                "Created a private label product from development to rollout for large Big Box retailer."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Strategic National Accounts",
+            "company": "Company Name - City , State",
+            "period": "October 2007 to March 2011",
+            "description": [
+                "Generated $26.8M in sales; grew the business with Sam's Club at Glazer's by 15.98% in first year.",
+                "Increased item distribution by nearly 100% in one high-profile Sam's Club.",
+                "Sold in excess of 3,600 items across many Glazer's categories for Sam's Club.",
+                "Managed vendors and inventory for 68 Sam's Clubs across 5 states.",
+                "Sold and implemented specialty buys to help drive incremental sales."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "National Sales Analyst",
+            "company": "Company Name - City , State",
+            "period": "March 2005 to August 2007",
+            "description": [
+                "Worked directly with Walmart buyers; Made recommendations based on analysis from Retail Link.",
+                "Researched and analyzed lack of distribution, exceptions and anomalies as well as trends."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "National Sales and Marketing Analyst",
+            "company": "Company Name - City , State",
+            "period": "October 1998 to March 2005",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "South Grand Prairie HS - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a compelling profile marked by expertise in business development and strategic account management. With extensive experience exceeding revenue goals, the candidate has consistently demonstrated success in market expansion across diverse sectors through effective customer relationship building and innovative sales strategies. Notably, within days of commencing employment at NCR, the candidate launched an entirely new CPG division of a 23-year-old firm, indicating rapid adaptation and executive capabilities."
+}

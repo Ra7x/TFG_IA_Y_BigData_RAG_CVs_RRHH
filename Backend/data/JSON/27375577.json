@@ -1,0 +1,78 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "VP of Business Development",
+            "company": "PainQx (PQX)",
+            "period": "01/2016 to Present",
+            "description": [
+                "- Led business development efforts for a diagnostic/software company focused on measuring pain through neural activity.",
+                "- Successfully raised $500k from angel groups and venture funds, and secured a $1M investment from a joint venture partner in China.",
+                "- Developed an economic model that showed cost savings of up to $8,500 per patient due to improved pain management strategies.",
+                "- Created financial statements including income statement, balance sheet, and cash flow to justify capital raise for investor presentations.",
+                "- Formed strategic alliances with Evoke Neurosciences and coordinated a market survey to validate the PainQx value proposition."
+            ],
+            "technologies": [
+                "Software Development",
+                "Neural Technologies"
+            ]
+        },
+        {
+            "job_title": "Co-Founder VP of Business Development",
+            "company": "LSN (Life Science News)",
+            "period": "06/2012 to 01/2016",
+            "description": [
+                "- Served as a key member of the founding team, focusing on market research and investor relations for biotech and medtech companies.",
+                "- Launched Boston Innovation Capital, brokering fundraising campaigns between $5M - $20M.",
+                "- Grew LSN to 22 employees with roles in business development, research, conference representation, and marketing.",
+                "- Developed pitch decks and websites for numerous biotech/medtech startups leading to increased investor engagement.",
+                "- Managed the entire operation including sales, financial projections, IT management, and strategic planning."
+            ],
+            "technologies": [
+                "Market Research",
+                "Financial Management"
+            ]
+        },
+        {
+            "job_title": "Co-Founder",
+            "company": "Abpro",
+            "period": "02/2011 to 07/2012",
+            "description": [
+                "- As a co-founder, responsible for generating custom monoclonal antibodies using a genetically engineered mouse platform.",
+                "- Led the company's growth from $700k in sales in 2010 to over $4M by 2012 through effective business development strategies.",
+                "- Created and implemented financial models that covered income, balance sheet, and cash flow for strategic planning."
+            ],
+            "technologies": [
+                "Biotechnology",
+                "Financial Modeling"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Finance",
+            "institution": "McCallum Graduate School at Bentley University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science: Economics & Finance",
+            "institution": "Bentley University",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Native Speaker in English",
+    "matchmaking_summary": "The candidate boasts a robust background in business development, particularly within the life sciences sector and clinical research. With experience in both startup environments and financial management roles, they bring expertise in market analysis, investor relations, and strategic planning that has contributed significantly to revenue growth for their previous companies. Their entrepreneurial spirit and ability to lead through innovation is evident from their work with data analytics (co-founder of a start-up) and software development (as VP of business development at PainQx). The candidate's academic background in finance further enhances their strategic capabilities, particularly in financial modeling and risk assessment that are critical for driving the economic value of new technologies."
+}

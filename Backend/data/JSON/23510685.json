@@ -1,0 +1,95 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Global HR Manager",
+            "company": "Company Name",
+            "period": "June 2012 to September 2015",
+            "description": [
+                "Leading US R&D Center Rockville, MD Relocation Project.",
+                "Managing Technical Leadership Program (TLP), a rotational leadership development program partnering with senior leaders in manufacturing and HR Business Partners across US, Germany, Italy, UK, Switzerland, China, India, and Brazil.",
+                "Designed and lead cross-function key strategic HR projects and programs for manufacturing (2,600+ employees): Flight Risk Analysis and Mitigation, Technical Development Global Career Framework, and Global Job Family Architect etc.",
+                "Facilitated 7 Global Engagement Survey 'Result to Action' deep-dive sessions with global function leaders and local HR partners biennially.",
+                "Partnered with Director of Leadership Development to redesign M Compass, the first-time manager development program.",
+                "Rolled-out Mentoring Program for developing top 40 talents within manufacturing organization annually.",
+                "Designed corporate and divisional learning nomination process to ensure fair allocation across manufacturing locations.",
+                "Drive and roll-out divisional HR processes globally, ensured timely completion, compliance and final submission to corporate: Performance Management Process, Organization Talent Review, and Stock Award Program Nominations etc."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Global HR Analyst",
+            "company": "Company Name",
+            "period": "November 2010 to June 2012",
+            "description": [
+                "Developed and implemented staffing process for Global TLP Associates with distinct approaches in China, India, and Brazil.",
+                "Provided online training support of technical knowledge, management skills, and language learnings for TLPs and top talents.",
+                "Organized Global HR Monthly Leadership Meeting with local HR heads around all manufacturing sites.",
+                "Facilitated performance calibration process and annual merit and incentive planning process for Manufacturing function."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name",
+            "period": "May 2009 to August 2010",
+            "description": [
+                "Analyzed competency and knowledge gap and designed action plans for IT functional off-shoring project in India.",
+                "Redesigned organizational structure & hiring strategies for 200 employees at a new manufacturing plant in Germany.",
+                "Designed & created Global Engagement Survey analysis reports for US, Latin America, IT, Finance, and Communications."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name",
+            "period": "July 2006 to June 2008",
+            "description": [
+                "Delivered strong management of diverse human resources functions for client base of over 300 employees at headquarters including staffing, training, organizational development, labor relations, and HR information systems administration.",
+                "Designated recruitment strategy action plan and set challenging benchmarks to evaluate recruiting partners.",
+                "Successfully staffed over 200 positions at headquarters and R&D laboratories in a timely and effective manner.",
+                "Utilized SAP Human Resources Information Systems (HRIS) for personnel changes; designed automatic analysis reports.",
+                "Collaborated with HRIS specialist to improve data accuracy in SAP system and monthly, quarterly, and annual reports."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Specialist",
+            "company": "Company Name",
+            "period": "August 2003 to July 2006",
+            "description": [
+                "Managed the implementation of HR practices and services among 2,200+ sales employees in 45 regional offices in China.",
+                "Developed HR plan with responsibility for performance evaluations, salary negotiations, headcount budget management.",
+                "Supervised Nestlé campus recruitment and interviewing process with Assessment Center tool among top universities in China."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Industrial and Labor Relations : Human Resources and Organizations",
+            "institution": "Cornell University, School of Industrial and Labor Relations",
+            "year": null
+        },
+        {
+            "degree": "BBA : Human Resource Management",
+            "institution": "TIANJIN UNIVERSITY OF FINANCE & ECONOMICS",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Global Professional of Human Resources (GPHR)",
+            "year": null
+        },
+        {
+            "name": "Professional of Human Resources (PHR)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate brings a unique blend of global HR management experience, strategic project leadership, and strong technical skills across various industries. With over a decade in the field, they have demonstrated success in driving HR programs aligned with business strategy to achieve successful outcomes, particularly within complex manufacturing environments. Their ability to manage diverse teams and oversee significant organizational changes speaks volumes about their capabilities as a global HR leader."
+}

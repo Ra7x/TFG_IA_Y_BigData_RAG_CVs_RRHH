@@ -1,0 +1,59 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Specialist/ Horizontal Engineer",
+            "company": "Company Name",
+            "period": "09/2007 to Current",
+            "description": [
+                "Carried out all recruitment processes including head-hunting, reaching potential candidates by telephone/email, applicants' resume screening, interviewing applicants, processed background checks, shortlisting, finalizing hiring and closing vacancies.",
+                "Carried out employee orientations and processed new hire paperwork, ensuring compliance with company requirements on time.",
+                "Created, organized, updated and maintained personnel files and the HR database.",
+                "Managed and coordinated employee training and development programs.",
+                "Communicated with management and executives for creation, refreshing and/or interpreting policy changes.",
+                "Provided administrative support for all HR functions, including filing, copying, general correspondence and support/preparation for meetings, trainings, orientations, executive travelling, etc."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Shipping Clerk",
+            "company": "Company Name - City , State",
+            "period": "03/2015 to Current",
+            "description": [
+                "Read customer order, work order, shipping order or requisition to determine items to be moved, gathered, or distributed or shipped.",
+                "Utilizing organizational and communication skills to train new hires on shipping operations and give progress reports to area supervisor.",
+                "Gathered information via SAP system and checked for accurate data to give nightly reports to team as well as supervisors."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Lead/Report Specialist",
+            "company": "Company Name - City , State",
+            "period": "07/2014 to 01/2015",
+            "description": [
+                "Performed financial data analysis and implemented improved reporting tools.",
+                "Prepared presentations and developed project plans.",
+                "Automated manual data processes with help of macros."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Grantham University",
+            "year": 2018
+        }
+    ],
+    "certifications": [
+        {
+            "name": "HUMAN RESOURCE",
+            "year": 2008
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the field of Human Resources with over ten years of extensive experience. Their background includes successful completion of recruitment processes, employee orientations, and administration of HR functions, which highlights their ability to manage personnel matters impacting business decisions. The candidate's proficiency in MS Office, fast learner capabilities, and professional certifications indicate a strong commitment to updating skills and aligning them with compliance laws."
+}

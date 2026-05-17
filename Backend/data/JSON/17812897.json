@@ -1,0 +1,63 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Manager",
+            "company": "Company Name",
+            "period": "Jan 2015 to Current",
+            "description": [
+                "Manage the Human Resource function for e-Cycle's corporate office as well as their fulfillment and data center, consisting of benefits and compensation administration, payroll, employee relations, policy compliance, and recruitment."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sr. HR Manager",
+            "company": "Company Name",
+            "period": "Jan 2013 to Jan 2015",
+            "description": [
+                "As a leader within the HR and Operations team, I was instrumental in partnering with local leadership and Corporate HR to develop and implement HR policies, processes, technology and services that are aligned to support our company's strategic initiatives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Director",
+            "company": "Company Name",
+            "period": "Jan 2008 to Jan 2012",
+            "description": [
+                "As a member of the executive team, I was directly and solely responsible for providing situation appropriate and policy compliant human resource support for 2 separate business units."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Representative",
+            "company": "Company Name",
+            "period": "Jan 2001 to Jan 2007",
+            "description": [
+                "Fulfilled a broad range of HR Generalist functions, including recruiting, administering benefits, overseeing disciplinary action and managing HR support staff."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "MOUNT VERNON NAZARENE UNIVERSITY",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Society for Human Resource Management (SHRM)",
+            "year": null
+        },
+        {
+            "name": "Muskingum Valley Human Resource Management Association",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has an impressive track record in managing human resources, particularly in the sectors of benefits administration and employee relations across multiple companies. With a strong background in HR practices and strategic partnering to support organizational initiatives, they demonstrate excellent leadership skills and commitment to legal compliance while fostering positive workplace cultures."
+}

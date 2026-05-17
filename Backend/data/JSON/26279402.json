@@ -1,0 +1,51 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Outside Machinist",
+            "company": "Company Name  City , State",
+            "period": "12/2012 to Current",
+            "description": [
+                "I am skilled in the installation of propulsion machinery, sea valves, steering gear, anchor handling equipment, elevators, pumps, ventilation fans, and weapons systems.",
+                "In the process of installing this equipment, experience is gained in the use of math, blueprints, precision tooling, and portable machine tools.",
+                "I have also become familiar with the procedures for precision line boring, precision alignment of machinery, bearing fitting, machinery assembly, surface machining, precision reaming, and machinery and weapons testing."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Ordnanceman",
+            "company": "Company Name  City , State",
+            "period": "11/1996 to 01/2012",
+            "description": [
+                "While assigned to the USS NIMITZ (CVN 68), from December 1997 to March 2004 as a 3M Zone Inspector during a 3 year Refueling Carrier Overhaul period, I was directly responsible for coordinating the efforts between 300 shipyard workers and 25 Navy Officers and Chiefs for over 40 Navy ship zones in which was recognized for maintaining an 85 % on time delivery rate.",
+                "While assigned to the USS CARL VINSON (CVN 70), from April 2004 to January 2007 as the Work Center Control Representative for Weapons Department; I prepared, controlled, documented, planned, and accounted for over 250 work candidates required for reentry work onboard the carrier in the shipyard.",
+                "Also I coordinated the work activities between the Navy, shipyard, and other subcontractors for multiple systems and equipment that have been expected and turned over to the Navy ahead of schedule."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Leading Petty Officer of Armament Weapons Support Equipment",
+            "company": "NAS Patuxent River, City , State",
+            "period": "01/2007 to May 2010",
+            "description": [
+                "While assigned to the USS NIMITZ (CVN 68), from December 1997 to March 2004 as a 3M Zone Inspector during a 3 year Refueling Carrier Overhaul period, I was directly responsible for coordinating the efforts between 300 shipyard workers and 25 Navy Officers and Chiefs for over 40 Navy ship zones in which was recognized for maintaining an 85 % on time delivery rate.",
+                "While assigned to the USS CARL VINSON (CVN 70), from April 2004 to January 2007 as the Work Center Control Representative for Weapons Department; I prepared, controlled, documented, planned, and accounted for over 250 work candidates required for reentry work onboard the carrier in the shipyard.",
+                "Also I coordinated the work activities between the Navy, shipyard, and other subcontractors for multiple systems and equipment that have been expected and turned over to the Navy ahead of schedule."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Not Specified",
+            "institution": "Tidewater Tech School of Welding",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's extensive professional experience in carrier overhaul planning, scheduling, and administrative skills make them an excellent candidate for the position. With over fifteen years of military service dedicated to the United States Navy and maintaining a Secret level security clearance throughout his career, including employment with Huntington Ingalls Industries where he maintained the clearance for several more years, the candidate brings not only technical expertise but also valuable experience in project coordination and administration."
+}

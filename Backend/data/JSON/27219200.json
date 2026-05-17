@@ -1,0 +1,91 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Director Business Development",
+            "company": "Company Name",
+            "period": "December 2007 to August 2014",
+            "description": [
+                "Generated several new accounts by implementing effective networking and marketing strategies increasing sales to $120M while maintaining targeted profit metrics.",
+                "Developed innovative business plans to expand vertical products offerings.",
+                "Implemented account plans to assure JDM/ODM computing business positioning company for $100M new market growth.",
+                "Developed global account strategy for key Aerospace and Defense accounts.",
+                "Managed key Computing & Storage accounts resulting in revenue increase from $120M to $480M while exceeding 4% profitability targets.",
+                "Developed and worked with multiple internal facilities to assure customer service and achieved key customer 'Supplier of the year and Strategic Partnership awards for 2 consecutive years."
+            ],
+            "technologies": [
+                "Account Management",
+                "Contract Negotiations",
+                "Customer Relationship Management",
+                "New Product Introduction (NPI)",
+                "Pricing Proposal Development"
+            ]
+        },
+        {
+            "job_title": "Regional Account Manager",
+            "company": "Company Name",
+            "period": "December 2001 to December 2007",
+            "description": [
+                "Developed several new accounts and provided regional sales leadership of the System Development Group.",
+                "Directed activity to assure new customer development and financial sales target were achieved.",
+                "Developed 5 new customers and increased revenue from $10M to $350 annually and significantly exceeded profitability targets."
+            ],
+            "technologies": [
+                "Account Management",
+                "Business Development",
+                "New Accounts"
+            ]
+        },
+        {
+            "job_title": "Director of Sales",
+            "company": "Company Name",
+            "period": "July 1991 to November 2001",
+            "description": [
+                "Developed the initial sales strategy to propel new revenue at 20% year over year growth rate for the Interconnect and Systems Solution divisions while maintaining 8% profit targets.",
+                "Directed North America sales staff and developed annual operating to support 10X increase in new customer.",
+                "Provide annual budget sales input and maintain customer forecast planning and service targets."
+            ],
+            "technologies": [
+                "Account Management",
+                "Business Development",
+                "Sales Organization"
+            ]
+        },
+        {
+            "job_title": "Quality Manager",
+            "company": "Company Name",
+            "period": "May 1981 to May 1991",
+            "description": [
+                "Managed the quality assurance staff for PCB and Interconnect products.",
+                "Maintained budgets and cost of quality targets.",
+                "Set up the statistical process control procedures and quality assurance programs in compliance to Telecom standards."
+            ],
+            "technologies": [
+                "Quality Assurance",
+                "Statistical Process Control"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "California University - California, Pennsylvania",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Sales Transformation",
+            "year": null
+        },
+        {
+            "name": "CRM Training and Certification (SalesForce.com)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a seasoned Business Development professional with extensive experience in managing sales, global account management, and new business development across diverse industries such as Aerospace & Defense, Computing, Industrial, and Telecom. With a proven track record of generating significant revenue growth through strategic planning, relationship management, and innovative business strategies, they have cultivated excellent customer relationships and exceeded profitability targets consistently."
+}

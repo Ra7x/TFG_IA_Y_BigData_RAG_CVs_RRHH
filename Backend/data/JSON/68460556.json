@@ -1,0 +1,61 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Word",
+        "Power Point",
+        "Excel",
+        "Access",
+        "Excel",
+        "Power Point",
+        "Microsoft Word"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Intern",
+            "company": "Company Name ï¼​ City",
+            "period": null,
+            "description": [
+                "Participated in human and technology interaction management with supervisor.",
+                "Developed an interface between website and databases via Excel that allowed House of Representatives and Senators more effective and easier access to information."
+            ],
+            "technologies": [
+                "Excel",
+                "Website"
+            ]
+        },
+        {
+            "job_title": "Media Student Assistant",
+            "company": "Company Name ï¼​ City",
+            "period": null,
+            "description": [
+                "Set up and maintained the Computer Aided Real-Time translation (CART) system in classrooms and various locations around campus, when needed.",
+                "Assisted staff, faculty and students on a daily basis with equipment repairs, customer service and technology problems. Verified that each classroom had the appropriate equipment and technology needed for success daily."
+            ],
+            "technologies": [
+                "Real-Time translation",
+                "Equipment repairs"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Information and Technology Management",
+            "institution": "American Sign Language Bloomsburg University of Pennsylvania ï¼​ City , State",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Dean's list above 3.50 GPA Spring 2016",
+            "year": null
+        },
+        {
+            "name": "Bloomsburg University Career Intensive Boot Camp Spring 2016",
+            "year": null
+        }
+    ],
+    "english_level": "Fluent",
+    "matchmaking_summary": "The candidate has demonstrated experience in IT support and interaction management, particularly through internships focused on technology development for accessibility improvements. Their technical skills are well-rounded with proficiency in Microsoft Office applications like Word, Excel, and PowerPoint, indicating strong foundational computer literacy. The educational background in Information Technology Management at Bloomsburg University provides a solid foundation for roles that require understanding of both IT operations and language interpretation, which is relevant to multicultural environments and support requirements. Fluency in English and American Sign Language suggests excellent communication skills across multiple languages and cultural contexts."
+}

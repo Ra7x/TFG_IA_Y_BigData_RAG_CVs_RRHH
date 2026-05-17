@@ -1,0 +1,48 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Generalist",
+            "company": "",
+            "period": "April 2013 to October 2013",
+            "description": [
+                "Served as central point of contact for employee relations matters.",
+                "Processed onboarding and new hire paperwork to ensure all employees were in company system for employment and payroll purposes.",
+                "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Administrative Assistant",
+            "company": "",
+            "period": "June 2009 to August 2012",
+            "description": [
+                "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.",
+                "Designed electronic file systems and maintained electronic and paper files. Maintained the front desk and reception area in a neat and organized fashion."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Waitress",
+            "company": "",
+            "period": "August 2010 to December 2010",
+            "description": [
+                "Assisted guests with making menu choices in an informative and helpful fashion. Maintained knowledge of current menu items, garnishes, ingredients and preparation methods."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BACHELOR OF ARTS",
+            "institution": "North Carolina Agricultural & Technical State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate has a strong background in administrative and customer service roles, demonstrating excellent communication skills and the ability to manage multiple tasks effectively. Their experience as an HR Generalist showcases their potential in handling employee relations and administration duties with professionalism and dedication. The psychological background complements this role well, indicating analytical thinking and attention to detail crucial for effective personnel management."
+}

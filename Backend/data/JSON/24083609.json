@@ -1,0 +1,38 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist (InfoSec)",
+            "company": "U.S. Army Medical Command and Defense Health Agency",
+            "period": "01/2012 to 11/2015",
+            "description": [
+                "Managed and monitored information systems and network security, as well as information systems security programs in support of the Information Security/Information Assurance mission.",
+                "Interpreted scan results, implemented corrective action, and prepared reports of findings to support network infrastructure."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chief Steward",
+            "company": "Fort Sam Houston, TX",
+            "period": "01/2000 to 01/2012",
+            "description": [
+                "Defended the interest of federal employees and managed the receptionist area.",
+                "Prepared employee's rebuttal to grievances and participated in arbitrations, mediations, and Alternate dispute resolutions."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science",
+            "institution": "Richard Bland College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in information technology and security, having worked for the U.S. Army Medical Command and Defense Health Agency to ensure network infrastructure is secure and efficient. Additionally, their experience as a Chief Steward demonstrates excellent interpersonal skills and ability to manage complex administrative tasks alongside handling grievances and participating in dispute resolutions."
+}

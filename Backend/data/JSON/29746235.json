@@ -1,0 +1,72 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Security Aide",
+        "Developmental Disabilities",
+        "Recreational Therapy",
+        "Project Management",
+        "Team Leadership",
+        "Risk Management"
+    ],
+    "work_history": [
+        {
+            "job_title": "Security Aide I",
+            "company": "Company Name - City , State",
+            "period": "2017 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Student Worker",
+            "company": "Company Name - City , State",
+            "period": "01/2016 to 01/2017",
+            "description": [
+                "Complete clerical and data entry tasks, interoffice mail and file important documents.",
+                "Support and provide coverage of the administrative desk; Adhere to the code of confidentiality in certain cases where discretion is required;.",
+                "Record odometer reading and maintenance support provided to University's vehicles and driver assistance during event functions when additional support as needed."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Resident Advisor",
+            "company": "Company Name - City , State",
+            "period": "08/2015 to 01/2017",
+            "description": [
+                "Provide guidance, social support and security within Residential Life community, and foster an environment that allows 40 students to meet their academic goals.",
+                "Increase students' knowledge of policies and procedures of Residential Life and increase students involvement in University, Residential Life committees and activities/events.",
+                "Managing and documenting policy violations; Reporting maintenance and facility concerns and conducting Health and Safety Inspections Other duties as assigned by Residence Director."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Wellness-Kinesiology",
+            "institution": "Lincoln University - City , State",
+            "year": 2017
+        },
+        {
+            "degree": "Diploma : Coaching",
+            "institution": "GC Foster College of Physical Education and Sports - City",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CPR Certificate",
+            "year": 2017
+        },
+        {
+            "name": "Basic Psychiatric Training Course Certificate",
+            "year": 2017
+        },
+        {
+            "name": "Lincoln University School of Education Honors Convocation Certificate of Excellence",
+            "year": 2017
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "A highly compassionate security aide with extensive experience working in the field of developmental disabilities, particularly focusing on therapeutic recreational services for adults. The candidate demonstrates strong interpersonal and organizational skills which have translated into successful outcomes during their career journey."
+}

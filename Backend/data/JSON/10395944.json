@@ -1,0 +1,79 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Line Service Technician",
+            "company": "Ideal Aviation",
+            "period": "03/2017 to Current",
+            "description": [
+                "Fuel Aircraft from Cessna to Gulfstream as well as helicopters.",
+                "- Marshaling in Aircraft.",
+                "- Pilot and Passenger communication.",
+                "- Towing and Pushing aircraft.",
+                "- Aircraft Cleaning.",
+                "- Aircraft Management."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Ramp Agent",
+            "company": "Ideal Aviation",
+            "period": "07/2016 to 03/2017",
+            "description": [
+                "Fueling of F-18, T-38, Boeing 737, E-2.",
+                "- Marshaling of inbound and outbound aircraft.",
+                "- Baggage for Allegiant Airlines.",
+                "- Pushback Operator for Allegiant Airlines.",
+                "- Use of Unicom and Deicing Military and Commercial Aircraft.",
+                "- Lavatory Service Use and Ground Power Unit.",
+                "- Pilot Communications."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Team Member",
+            "company": "Company Name",
+            "period": "12/2015 to 05/2016",
+            "description": [
+                "Run the computer system which entailed cash register and returns.",
+                "- Help customers with problems and show them where certain things were in the store.",
+                "- Load multiple bags of 50 pounds of animal feed into the store."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Event Staff",
+            "company": "Company Name",
+            "period": "04/2015 to 06/2016",
+            "description": [
+                "Set up for weddings, birthday parties, bridal showers, baby showers, etc.",
+                "- Drive customers in our six-seater gas-powered golf cart as well as our four-seater gas-powered golf cart and use the four-wheeler to pull trailers.",
+                "- Set up chairs and tables which required heavy lifting."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science",
+            "institution": "Southwestern Illinois College",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "FREEBURG COMMUNITY HIGH SCHOOL",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Private Pilot Certificate",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in aviation, starting with their current role as a Line Service Technician at Ideal Aviation where they are involved in fueling various types of aircraft and managing aircraft on the ramp. They have also worked as a Ramp Agent, gaining experience in handling commercial and military aircraft, including pushing and towing operations. The candidate's transition from retail to aviation is noteworthy, showcasing adaptability and potential for growth in the field."
+}

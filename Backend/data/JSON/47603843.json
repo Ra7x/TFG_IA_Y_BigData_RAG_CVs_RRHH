@@ -1,0 +1,65 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Android Studio",
+        "Java",
+        "XML",
+        "Android SDK",
+        "Google APIs",
+        "Jsoup",
+        "Firebase",
+        "Material Design",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap",
+        "Photoshop",
+        "Paint.net"
+    ],
+    "work_history": [
+        {
+            "job_title": "Head Chef",
+            "company": "Company Name",
+            "period": null,
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Ramp Agent",
+            "company": "Company Name",
+            "period": null,
+            "description": [
+                "Guiding aircraft traffic, baggage handling, maintaining security on ramp, removal of hazardous debris, customer support, cabin maintenance, operating Ground Support Equipment such as tugs, forklifts, and belt loaders.",
+                "Delivery of high priority air-freight to cargo in timely fashion."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science",
+            "institution": "Midlands Technical College",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science",
+            "institution": "Miami Dade College",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science",
+            "institution": "University of North Georgia",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, referred to as 'HEAD CHEF', has a focused educational background in Computer Science with the aspiration to become an Android app developer and foray into investment activities in the international markets. With hands-on experience in various tech stacks including Android Studio, Java, XML, Google APIs, and Firebase, the candidate demonstrates practical exposure to software development environments that are pivotal for roles involving mobile application development. The candidate's background also includes culinary arts expertise from positions as a Head Chef and Ramp Agent, highlighting strong operational skills and customer service experience in fast-paced environments."
+}

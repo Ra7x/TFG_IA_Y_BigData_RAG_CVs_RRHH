@@ -1,0 +1,54 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Human Resource Generalist",
+            "company": "Company Name, City , State",
+            "period": "Jan 2003 to Jan 2007",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resource Specialist",
+            "company": "Company Name, City , State",
+            "period": "Aug 2008 to June 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR CONSULTANT",
+            "company": "",
+            "period": "July 2014 to December 2014",
+            "description": [
+                "Partnered with legal department of multi-state client (40,000+ employees) to establish ADAAA and other workplace compliance. Identified and updated a backlog of LOA and accommodation issues."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S., Pharmacology",
+            "institution": "University of Dundee, Scotland",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PHR",
+            "year": null
+        },
+        {
+            "name": "GPHR",
+            "year": null
+        },
+        {
+            "name": "SHRM-SCP",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate possesses a strong background in full range of HR functions, including employee management, hiring, training, and compliance with State and Federal laws. Their experience includes establishing HR infrastructure during companies' transition from small to mid-size, implementing performance management processes, managing leave matters like FMLA, CFRA, and ADAAA, and providing guidance on recruitment and retention efforts that contribute significantly to business success."
+}

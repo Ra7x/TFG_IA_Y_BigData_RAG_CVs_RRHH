@@ -1,0 +1,52 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Consultant",
+            "company": "Company Name",
+            "period": "2014-Present",
+            "description": [
+                "Hired as consultant to establish sales systems, carry out sales campaigns, and provide product input on Business Intelligence Software.",
+                "Recruited five retail chains within 2 months representing 167 store locations, to commit to purchasing the client's software product and collaborate on its features, with the product is still in beta.",
+                "Implemented sales systems combining inbound and outbound lead generation, implemented new CRM, and re-launched the company website.",
+                "Designed sales forecasting software product, and collaborated on business intelligence software, leveraging a foundation in economics and experience with statistical forecasting."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Distribution Manager",
+            "company": "Company Name",
+            "period": "2014-2014",
+            "description": [
+                "Hired to develop distribution channels with auto dealerships and implement inbound marketing programs to sell the PLUGLESS charger for Electric Vehicles.",
+                "Secured the #1 dealership selling Electric Vehicles in Canada as a reseller Implemented sales systems for inbound lead generation, implemented new CRM Conducted lead generation programs and online marketing campaigns with 20%+ response rates."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Vice President of Marketing and Business Development",
+            "company": "Company Name",
+            "period": "2009-2014",
+            "description": [
+                "Joined San Francisco based technology startup as Director of Business Development to create partnerships with Telecom carriers. Brought company from $0 to $250,000/month within 10 months by closing exclusive deals with Verizon Wireless, T-Mobile, and Cricket Wireless by selling into executive, marketing, and IT departments.",
+                "Grew market share from 0% to 83% within 2 years by closing deals with 9 of the 11 largest cell phone carriers in North America which later included: AT&T, Alltel, US Cellular, Rogers, and TELUS.",
+                "Led negotiations for $3M/year Verizon Wireless contract, in a six-month sales cycle with negotiation centered on securing an exclusivity clause. Generated $90,000/month from co-marketing partnerships with sites such as AccuWeather.com and a network of College Sports sites.",
+                "Improved customer loyalty by 35% by optimizing promotional messaging around KPIs such as conversion rates and customer loyalty Boosted revenue per account 40% by developing channel sales program with promotional schedules for each account."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S : Economics",
+            "institution": "Virginia Commonwealth University",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has an impressive track record in business development and sales, demonstrating expertise in enterprise software and mobile technology. Their ability to exceed revenue targets consistently, such as the 90% market penetration with two software startups, highlights their strategic skills and effectiveness in closing deals. The background includes roles at startup tech companies where they've built significant partnerships with telecom carriers, contributing significantly to growth through channel sales."
+}

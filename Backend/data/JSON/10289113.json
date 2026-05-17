@@ -1,0 +1,49 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Director",
+            "company": "Company Name City , State",
+            "period": "05/1997 to Current",
+            "description": [
+                "Collaborate with multiple stakeholders to determine audience needs, quickly developing strategic plans that align with clients' business priorities and strategies.",
+                "Produce measurable results for clients by designing unique engagement initiatives for employees, sales channel partners, and consumer groups. Successfully managed significant intangible service sales to Fortune 500 clients.",
+                "Discover and grow business with customers who have the potential to spend over $1 million annually."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Account Territory & District Sales Manager / National Account Sales",
+            "company": "Company Name City , State",
+            "period": "08/1989 to 04/1997",
+            "description": [
+                "Responsible for growth of distributor sales volume, product mix, and motivation of direct sales forces.",
+                "Developed custom local training and marketing materials which were adopted by Nestle corporate."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Financial Operations Executive and Department Merchandising Manager",
+            "company": "Company Name City , State",
+            "period": "04/1988 to 08/1989",
+            "description": [
+                "Financial operations executive responsible for the South Bend store. Volunteered to manage the largest department as merchandise manager with highest per foot sales volume in the entire corporation during the fourth quarter of 1988.",
+                "Achieved several recognitions including President Achievement Guild Award winner four times and awarded 'The Over Achiever of the Year' by a most profitable direct customer."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "Western Michigan University",
+            "year": 1988
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in business development and sales, demonstrating strong strategic planning and execution capabilities across various roles. With experience in senior leadership positions within multiple companies, they have consistently achieved measurable results by tailoring solutions to clients' specific objectives, resulting in significant sales growth and customer satisfaction."
+}

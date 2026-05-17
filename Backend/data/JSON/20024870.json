@@ -1,0 +1,72 @@
+{
+    "full_name": "MBA graduate specialized",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "PHP",
+        "Java",
+        "C#",
+        "Visual Basic",
+        "HTML",
+        "Cording",
+        "Programming"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology (Internship)",
+            "company": "City , State Information Technology",
+            "period": "July 2014 to September 2014",
+            "description": [
+                "Examined problems between users and systems.",
+                "Worked at different stations of hospital, including: ER, Registration, Pharmacy, Central Sterile Supplies Department (CSSD), and Medical Supplies store room."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Analyst",
+            "company": "City , State Business Analyst",
+            "period": "September 2013 to December 2015",
+            "description": [
+                "Worked with Tourism Bureau to publish 'Taiwan Hot Spring Voucher' in order to promote Taiwan.",
+                "Generated 3K followers in Facebook Fan page within 3 months",
+                "Built and designed official website."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chief Executive Officer",
+            "company": "City , State Chief Executive Officer",
+            "period": "May 2012 to January 2015",
+            "description": [
+                "Expand five new business sites, two located at the large-scale department stores in the country.",
+                "Planned for cultural events, including Simple Life Festival in Taipei and Shanghai China.",
+                "Launched limited edition custom dress with bloggers, created record sales. 100 customer dresses were sold out within 4 hours. Increased sales by 25% in two quarters."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Business Administration (MBA)",
+            "institution": "Metropolitan State University City , State , USA",
+            "year": null
+        },
+        {
+            "degree": "Information Management Bachelor of Science",
+            "institution": "National Taipei University of Nursing and Health Science City , State , Taiwan",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Excelled in English Write,Read and Speak English",
+    "matchmaking_summary": "The candidate stands out for their multifaceted professional experience including roles as a Business Analyst and Chief Executive Officer. Their involvement in marketing initiatives such as the launch of limited edition dresses demonstrates strong organizational skills and strategic thinking. Furthermore, their educational background in Information Management with an MBA from a reputed institution suggests they can leverage both technical and business acumen effectively across various sectors including healthcare and IT."
+}

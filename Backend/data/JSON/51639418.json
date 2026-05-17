@@ -1,0 +1,64 @@
+{
+    "full_name": "Information Technology Bureau Deputy Director",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "IBM Enterprise z System & x Servers",
+        "Microsoft Windows",
+        "VMware ESX",
+        "Cloud Computing",
+        "Operating Systems (Microsoft Windows, z/OS, zVM, AIX, SUSE Linux)",
+        "Databases (SQL, DB2, ORACLE, ADABAS)",
+        "Tools (Office, Project, Visio, SharePoint, Exchange, MSCCM, SolarWinds Orion, Tivoli, Track-It!)"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Bureau Deputy Director",
+            "company": "Company Name",
+            "period": "January 2010 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior IT Project Manager",
+            "company": "Company Name",
+            "period": "July 2004 to August 2009",
+            "description": [
+                "Delivered technical direction for a multimillion dollar Monitoring and Controlling System.",
+                "Technical supervised the software analyst, programmers and database administrators during the software development and implementations of Department of Health compliance systems."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Business Consultant",
+            "company": "Company Name",
+            "period": "January 2003 to June 2003",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D. : Organization and Management",
+            "institution": "Capella University",
+            "year": null
+        },
+        {
+            "degree": "Educational Computing",
+            "institution": "University of Puerto Rico",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Fully bilingual in English and Spanish.",
+            "year": null
+        }
+    ],
+    "english_level": "Fully bilingual in English and Spanish.",
+    "matchmaking_summary": "The candidate is a seasoned professional with over fifteen years of experience directing and managing large and complex IT Operations and Data Center. Their technical expertise spans across various operating systems, databases, tools, and communication & security solutions, indicating a deep understanding and proficiency in the field. As a bilingual individual (English and Spanish), they have demonstrated leadership skills through direct management of 140 contractors and employees and technical guidance for over 900 employees. Their experience includes evaluations of cutting-edge technology solutions and the implementation of IT projects aligned with vocational rehabilitation administration, digitalization initiatives at the Department of Labor, and support systems in medical centers. The candidate's qualifications showcase a strong background in leadership, organizational management, and continuous process improvement within complex information technology environments."
+}

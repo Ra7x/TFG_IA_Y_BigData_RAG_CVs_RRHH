@@ -1,0 +1,63 @@
+{
+    "full_name": "HR MANAGER",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Manager",
+            "company": "Company Name City , State",
+            "period": "04/2015 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Operations Manager",
+            "company": "Company Name City , State",
+            "period": "04/2013 to 03/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Support Manager",
+            "company": "Company Name City , State",
+            "period": "10/2012 to 03/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Teller",
+            "company": "Company Name City , State",
+            "period": "02/2010 to 08/2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Retail Support",
+            "company": "Company Name City , State",
+            "period": "02/2008 to 01/2010",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Management & Organizational Leadership",
+            "institution": "St. Petersburg College",
+            "year": 2012
+        },
+        {
+            "degree": "Associate of Arts",
+            "institution": "St. Petersburg College",
+            "year": 2010
+        },
+        {
+            "degree": "Associate of Arts",
+            "institution": "Arthur Community College",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in management and leadership, with extensive experience in HR functions such as coaching, counseling, and training. They have demonstrated the ability to lead teams and influence organizational outcomes through effective communication and project management skills. Their diverse roles across various industries suggest adaptability and a proactive approach to career development. The absence of specific technical skills might be balanced by their broad professional background and demonstrated leadership qualities."
+}

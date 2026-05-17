@@ -1,0 +1,58 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "E-commerce Supervisor",
+            "company": "Company Name",
+            "period": "02/2015 to Current",
+            "description": [
+                "Plan and manage daily workload.",
+                "Lead and develop employees through teamwork and create continuous improvement through employee engagement that supports the company's values.",
+                "Continually looking for ways to improve quality, safety, and productivity and communicating those ideas throughout the network. Currently helping to organize and lead the Safety Committee."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Co-Owner",
+            "company": "Company Name",
+            "period": "01/2006 to 01/2010",
+            "description": [
+                "Develop and manage projects and budgets.",
+                "Experience in Real-estate law and procedures, contact with city offices, screen and select qualified renters. I continue to buy/renovate and rent out homes without a business name."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "E-commerce Coordinator",
+            "company": "Company Name",
+            "period": "03/2003 to 02/2015",
+            "description": [
+                "Continuously directing and leading individuals to complete the objective.",
+                "Sharp organizational skills preparing work assignments."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Electrical/Electronics Engineering Technology, AAS",
+            "institution": "Owens Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Photovoltaic Certification",
+            "year": 2007
+        },
+        {
+            "name": "Mentors of America Online/Phone course",
+            "year": 2006
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's experience in e-commerce management, leadership, and safety leadership positions highlights a strong ability to manage teams and improve operational quality. Their background in real estate and project management provides valuable insights into strategic planning and problem-solving within the corporate environment. The continuous improvement focus evident throughout their career demonstrates a proactive approach to efficiency and effectiveness."
+}

@@ -1,0 +1,91 @@
+{
+    "full_name": "HR DIRECTOR",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Director",
+            "company": "Company Name City , State",
+            "period": "09/2016 to Current",
+            "description": [
+                "Developed New Website for Agency, payroll processing changes, and implementation of new HRIS System.",
+                "Oversaw the employment process taking the lead role in clinician, physician and management team recruitment initiatives. Developed, maintain and interpret HR policy. Authored the Employee Handbook. Provided coaching and support to management and supervisors on performance management and other related issues.",
+                "Maintained in-depth knowledge of legal requirements related to day-to-day management of employees, reducing legal risks and ensuring regulatory compliance.",
+                "Evaluated and recommend changes to the employee benefits plan. Oversaw day to day administration of benefits."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Director",
+            "company": "Company Name City , State",
+            "period": "04/2009 to 09/2016",
+            "description": [
+                "Develped Supervisory Education, SHRO Website, SHRO HRIS System and Automation of payroll processing.",
+                "Established and directed a comprehensive statewide human resource program for both classified and unclassified State employees/positions in the Adjutant General's Department.",
+                "Resolved non-routine HR related issues associated as they arose; reviewed documents and approved all hires and promotions; reviews and approved, modified and/or disapproved wage/salary requests to hire individuals above the pre-established minimum classified or unclassified pay rate."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Manager/Sr. Recruiter",
+            "company": "Company Name City , State",
+            "period": "10/2003 to 06/2006",
+            "description": [
+                "Created an HRIS tracking system used for recruitment.",
+                "Responsible for Ramp up and hiring of all customer service agents, and other positions as needed. Placement and development of all advertising Met and exceeded all hiring goals."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Coordinator",
+            "company": "Company Name City , State",
+            "period": "03/1996 to 02/2000",
+            "description": [
+                "Developed HRIS database from ground up for employee records and monitoring.",
+                "Instrumental in reducing the use of Agency Staffing needs for hospital."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree",
+            "institution": "Friends University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Friends University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Kansas Health Institute -Health Outcomes for the State of Kansas",
+            "year": 1999
+        },
+        {
+            "name": "Project Management Institute Member",
+            "year": null
+        },
+        {
+            "name": "SHRM",
+            "year": null
+        },
+        {
+            "name": "Chamber of Commerce",
+            "year": 1999
+        },
+        {
+            "name": "Friends University President's Honor Roll",
+            "year": 1997
+        },
+        {
+            "name": "Friends University Dean's Honor Roll",
+            "year": 1997
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Over 20 years of experience in recruiting, with a strong focus on human resources executive management and HRIS development. Experienced in healthcare environments and adept at developing comprehensive human resource programs while ensuring compliance with legal requirements and regulatory standards."
+}

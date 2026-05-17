@@ -1,0 +1,27 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [],
+    "education": [
+        {
+            "degree": "Doctor of Education",
+            "institution": "Texas A&M University",
+            "year": null
+        },
+        {
+            "degree": "Masters of Education",
+            "institution": "Texas State University",
+            "year": null
+        },
+        {
+            "degree": "Bachelors of Science",
+            "institution": "Texas State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

@@ -1,0 +1,81 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Manager, Information Technology Project Management Office",
+            "company": "Company Name",
+            "period": "06/2008 to Current",
+            "description": [
+                "Primary role: Manage portfolio of all PMO projects related to Corporate Services, and manage portfolio of all Infrastructure related projects.",
+                "- Corporate Services Project portfolio includes such systems as Lawson, PeopleSoft, API, Centralized Warehouse (Infor/Lawson tools) and other non-clinical related applications",
+                "- Infrastructure Project Portfolio includes all services related to wired or wireless networking, intra-facility connectivity, onboarding and acquisition of other health care organizations",
+                "- Managing two teams of Project managers each with specialty field skills to work application or technical/ infrastructure projects. Monthly governance report out on each portfolio to executive committee to ensure priority and alignment to strategic goals are still accurate with influx of projects in the pipeline.",
+                "- Help PMO Trainer with Professional Development Skill building quarterly to determine soft skills that are needed for either PMO team. Encourage training and leadership skills within all team members to continue growth and improvement professionally for each team member's own unique goals",
+                "- Encourage and require PMP for all Senior level role project managers",
+                "- Monthly resource manager meeting to report out to Information Technology Management where there are resource gaps or conflicts with other projects within the clinical portfolio.",
+                "- Work closely with EPIC Project Management Office to share out resources wherever possible particularly related to technical dress rehearsal and preparation of facilities prior to go live."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Project Manager /Application Systems Analyst III",
+            "company": "Company Name",
+            "period": "06/2004 to 06/2008",
+            "description": [
+                "Primary role: Project manager for multiple new information technology systems per year, ranging from $500k to $4M budgets",
+                "- Lead team with CIO support to encourage all 'Application Analyst' roles to attend and participate in Project Management methodology training - beginnings of PMO for health care at High Point Regional",
+                "Responsible for all upgrades and ongoing software updates to multiple API Software tools. (HR/Payroll, Security, Scheduling and timekeeping systems)",
+                "- Lead a team of 60 members crossing over all clinical and corporate areas to implement enterprise staff scheduling solution Project manager for Radiology Information System and complete dictation replacement project",
+                "- Project Manager for HR Recruiting system (Halogen) and worked with HRIS team and vendor team to negotiate all aspects of implementation."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Analyst II/ Product Manager - Vantive (PeopleSoft tool)",
+            "company": "Company Name",
+            "period": "05/2001 to 06/2004",
+            "description": [
+                "Support Peoplesoft's Vantive application in nationwide call center environments.",
+                "- Brought up 3 new call centers on Vantive system and maintained support of existing three call centers.",
+                "- Performed 2 full system upgrades and managed all budget and aspects of project surrounding upgrade."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Analyst II/ Project Manager",
+            "company": "Company Name",
+            "period": "04/2000 to 05/2001",
+            "description": [
+                "- Project management for Patient Accounting and clinical upgrades, support of existing modules, and maintenance on MUMPS database in UNIX: IDX Hospital Software package.",
+                "- Oversee all related projects for Finance and Patient Accounting departments, supporting applications and issues with upgrades for financial departments."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Project Manager Intermediate /Software Analyst II",
+            "company": "Company Name",
+            "period": "12/1998 to 04/2000",
+            "description": [
+                "- Primary Financial Analyst on McKesson HBOC Star Financials, backup for McKesson HBOC Clinical system. Helped team to perform upgrade to new GUI based platform of STAR Financials",
+                "- Began studies in Project Management in the Healthcare environment, attended seminars on beginning methodology and PMO development. Implemented what is now known to be infancy stages of today's EMR - document based scanning for medical records and financial records."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Analyst/ Programmer",
+            "company": "Company Name",
+            "period": "05/1998 to 12/1998",
+            "description": [
+                "- Programmed in SQL for HBOC Clinical and Financial systems, developed various hospital reports for Financial departments. Project Manager on IMNET Electronic Medical Records software."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

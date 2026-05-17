@@ -1,0 +1,117 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Business Continuity",
+        "Technology Infrastructure",
+        "File",
+        "Lan",
+        "Architecture",
+        "Business Process Improvement",
+        "CDM",
+        "Cisco",
+        "Contracts",
+        "Ecommerce",
+        "Fulfillment",
+        "Network Security",
+        "Opex",
+        "Process Improvement",
+        "Procurement",
+        "Provisioning",
+        "Retail",
+        "Retail Marketing",
+        "Security",
+        "Case Management",
+        "Copy Machine",
+        "Disaster Recovery",
+        "Document Management",
+        "Enterprise Resource Planning",
+        "Increase",
+        "Lending",
+        "Operations",
+        "Roi",
+        "Server Virtualization",
+        "Virtualization",
+        "Active Directory",
+        "Databases",
+        "Directory Service",
+        "Engineer",
+        "Exchange",
+        "Lan/wan",
+        "Maintenance",
+        "Microsoft Exchange",
+        "Netware",
+        "Novell",
+        "Outlook",
+        "Backups",
+        "Its",
+        "Network Administration",
+        "Workstations",
+        "Certified Information Systems Security Professional",
+        "Cissp",
+        "Information Technology Infrastructure Library",
+        "Itil",
+        "Journal",
+        "Systems Engineer",
+        "Systems Security",
+        "Biochemistry"
+    ],
+    "work_history": [
+        {
+            "job_title": "Senior Vice-President and Chief Information Officer",
+            "company": "Company Name, City , State",
+            "period": "01/2009 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Vice-President, Information Technology",
+            "company": "Company Name, City , State",
+            "period": "01/2005 to 01/2009",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager/Senior Network Engineer, Information Technology",
+            "company": "Company Name, City , State",
+            "period": "01/2001 to 01/2005",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Network Administrator",
+            "company": "Company Name, City , State",
+            "period": "01/1997 to 01/2001",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts : Geography State University of New York at Stony Brook",
+            "institution": "State University of New York at Stony Brook, Stony Brook, New York",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified Systems Engineer",
+            "year": null
+        },
+        {
+            "name": "Certified Information Systems Security Professional CISSP",
+            "year": null
+        },
+        {
+            "name": "Certified Ethical Hacker (CEH) v8",
+            "year": null
+        },
+        {
+            "name": "Information Technology Infrastructure Library Foundations",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in IT management, with extensive experience leading and managing technology infrastructure for a range of industries. Their strategic approach to implementing new technologies and process improvements is evident through their work on developing micro-lending principles for low income immigrant families, as well as their role in shaping the future state of mission service and employment business verticals through technological innovation."
+}

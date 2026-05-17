@@ -1,0 +1,69 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Blackjack",
+        "Ultimate Texas Hold'em",
+        "Three Card Poker",
+        "Typing speed of 98 WPM",
+        "PowerPoint",
+        "Word",
+        "Access",
+        "Excel",
+        "Photoshop",
+        "Multi-tasking and organizational training"
+    ],
+    "work_history": [
+        {
+            "job_title": "Table Games Dealer",
+            "company": "Company Name, City , State",
+            "period": "November 2012 to June 2014",
+            "description": [
+                "Educated customers on game rules and mathematical probabilities of various wagers.",
+                "Increased volume and loyalty to the casino by attracting new players and building one-on-one relationships with guests. Took and paid bets and retrieved cards.",
+                "Inspected cards and equipment to be used in games to verify proper functioning. Processed customer transactions involving cash, and casino chips."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Server/Hostess/Cashier",
+            "company": "Company Name, City , State",
+            "period": "April 2010 to May 2011",
+            "description": [
+                "Delivered exceptional service by greeting and serving customers in a timely, friendly manner. Facilitated prompt and accurate seating and service of all guests.",
+                "Managed closing duties, including restocking items and reconciliation of the cash drawer."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Server/Waiter",
+            "company": "Company Name, City , State",
+            "period": "February 2009 to January 2010",
+            "description": [
+                "Delivered exceptional service by greeting and serving customers in a timely, friendly manner.."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Arkansas City High School",
+            "year": null
+        },
+        {
+            "degree": "Some Associates",
+            "institution": "Cowley County Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Multi-tasking and organizational training Completed course training in customer service and confrontation at First Council Casino Hotel",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a strong track record of providing exceptional customer service, particularly evident from their roles as a Table Games Dealer where they educated customers on game rules and mathematical probabilities of various wagers, demonstrating both their knowledge and ability to engage with clients in meaningful ways. Their experience also includes serving positions where they not only provided excellent customer service but actively anticipated guest needs and desires, reflecting a proactive approach to delivering memorable experiences."
+}

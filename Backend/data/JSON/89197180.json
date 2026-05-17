@@ -1,0 +1,124 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "International Business Development",
+            "company": "Company Name City , State",
+            "period": "11/2013 - Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "International Sales and Customer Service Manager",
+            "company": "Company Name City , State",
+            "period": "03/2007 - 10/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Contracts Administrator/Customer Service",
+            "company": "Company Name City , State",
+            "period": "04/2004 - 10/2004",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Company Name City , State",
+            "period": "06/2003 - 03/2004",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service and Logistics Manager",
+            "company": "Company Name City , State",
+            "period": "08/2000 - 03/2003",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "International Inside Sales Customer Service & Logistics Coordinator",
+            "company": "Company Name City , State",
+            "period": "08/1997 - 07/2000",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Manager/Bilingual Assistant",
+            "company": "Company Name City , State",
+            "period": "11/1996 - 08/1997",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing Clerk",
+            "company": "Company Name City , State",
+            "period": "07/1995 - 10/1996",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing and Export Assistant",
+            "company": "Company Name City , State",
+            "period": "08/1994 - 06/1995",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Assistant and Customer Service Representative",
+            "company": "Company Name City , State",
+            "period": "01/1992 - 07/1994",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "Irvine Valley College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Autonomous University of Guadalajara",
+            "year": null
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "Not Specified",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Professional Ethics",
+            "year": null
+        },
+        {
+            "name": "Work flow analysis",
+            "year": null
+        },
+        {
+            "name": "Negotiation skills",
+            "year": null
+        },
+        {
+            "name": "Product development",
+            "year": null
+        },
+        {
+            "name": "Staff training and development",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate possesses a robust background in international business development, sales, and customer service across various industries such as food and beverage. With experience managing international departments and handling cross-cultural interactions, the candidate demonstrates strong capabilities in strategic planning, negotiation skills, and cultural adaptability. Their track record of success in identifying process improvements and client relationship building highlights their value in leadership roles that require both operational efficiency and customer satisfaction."
+}

@@ -1,0 +1,74 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Personnel Security Specialist",
+            "company": "Company Name",
+            "period": "05/2014 to Current",
+            "description": [
+                "Presides over daily personnel security-related activities and maintenance of the established personnel security program in accordance with DoD Regulation 5200.2-R, Army Regulation 380-67 and knowledgeable of other DoD and federal agencies Personnel Security Program policies",
+                "Conducts prescreening interviews for Sensitive Activities (SA) position candidates",
+                "Conducts interviews with personnel requiring security clearances and provides assistance on use of e-QIP Processes, fingerprints in conjunction with initiating Single Scope Background Investigations (SSBIs) and National Agency Checks with Local and Credit Checks (NACLC)",
+                "Conducts Local Records Checks (LRCs) with Provost Marshall Office (PMO)",
+                "Communicates and coordinates directly with the Office of Personnel Management (OPM) along with the DoD CAF",
+                "Assists command personnel in completing rebuttal packets to Letters of Intent (LOI) to Deny/Revoke an initial or current security clearance determination with Statements of Reason (SOR) in response to DoD CAF correspondence",
+                "Oversees the suspension of all security clearances when denial or revocation is being recommended to the DoD CAF by commanders",
+                "Managed and maintained the Personnel Security Management (PSM) net in JPAS for the command",
+                "Grants Interim Secret and Top Secret access"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Security Specialist",
+            "company": "Company Name",
+            "period": "07/2012 to 05/2014",
+            "description": [
+                "Direct assistant to the command Special Security Officer (SSO) on all matters pertaining to personnel, information, Physical and industrial security",
+                "Continuous management and reporting on the administration of SCI-associated security programs",
+                "Enforcement of all rules and regulations to ensure that the Sensitive Compartmented Information Facility (SCIF) complied with all applicable construction and physical requirements, standards, and regulations",
+                "Management and supervision of personnel and daily activities within the view of the Special Security Office",
+                "Managed and maintained the Personnel Security Management (PSM) net on JPAS for over 5000 personnel, staff and transient",
+                "Advised higher level management officials by preparing narrative reports that identified security deficiencies of findings and recommendation for corrections of the deficiencies",
+                "Awarded for outstanding performance in providing 166 civilians and 66 foreign nationals with security clearance background checks associated with the Magnum Night Training Exercise",
+                "Assisted in the development of the initial SSO Plan of Actions and Milestones (POA&M) to reaccredit a SCIF",
+                "Conducted random and effective entry/exit reports (badge trace) via security software and video monitoring",
+                "Conducted physical workspace and personnel security inspections",
+                "Managed handling, storing, and destruction of classified materials in compliance with DoD directives",
+                "Enforced security policy on matters pertaining to processing, dissemination, and controlling of classified materials daily",
+                "Conducted security indoctrinations utilizing digital media support equipment"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Command Security Manager/ Aviation Ordnanceman",
+            "company": "Company Name",
+            "period": "01/2008 to 01/2011",
+            "description": [
+                "Maintained and organized file management for over 1500 security records for military, Civilian and contractor personnel per SECNAVINST 5510.36 instructions",
+                "Utilized Joint Personnel Adjudication System (JPAS) to enter data and verify U.S. Navy personnel security information",
+                "Tracked clearance eligibility and access for over 1500 personnel",
+                "Sorted applications, fingerprints, scheduled OPM notices, closed investigations, adjudications, SF-86s, SF-85Ps, investigations for military and civilians programs",
+                "Conducted personnel security interviews, as required, to clarify allegations of a questionable nature with regard to security clearance eligibility"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Education",
+            "institution": "Concordia University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "ECPI University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

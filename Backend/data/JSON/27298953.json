@@ -1,0 +1,89 @@
+{
+    "full_name": "Professional Summary",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Project Manager",
+            "company": "Company Name",
+            "period": "05/2010 to 02/2014",
+            "description": [
+                "Create project plans for new clients.",
+                "Coordinate the journey of clients through the compliance process.",
+                "Primarily responsible for maintaining client relationships.",
+                "Specifically focused on supporting clients with all their questions and requirements regarding investment adviser compliance, investment adviser registration and investment adviser obligations under SEC regulations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Private Family Care",
+            "company": "Company Name",
+            "period": "09/2009 to Current",
+            "description": [
+                "Daily one on one infant and child care in private home setting."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manufacturer's Representative",
+            "company": "Company Name",
+            "period": "02/2006 to 10/2011",
+            "description": [
+                "Create and support a nationwide network of clientele.",
+                "Represent national flag and flagpole manufacturers.",
+                "Interface with manufacturer's nationwide."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Kitchen Consultant",
+            "company": "Company Name",
+            "period": "07/2003 to 05/2006",
+            "description": [
+                "Operated independent business conducting in home kitchen shows demonstrating products, recipes, cooking techniques and quick tips.",
+                "Attracted customers to become a host and hold a show, created and expanded a network of clientele."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "US Business Development Manager",
+            "company": "Company Name",
+            "period": "03/2002 to 12/2004",
+            "description": [
+                "Responsible for developing US based network of dealers, manufacturer's representatives and distributors.",
+                "Acted as primary contact for Formenta's and PLP's base of national dealer, manufacturer's representative, and distributor network."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate in Human Resources Management",
+            "institution": "Bryant University",
+            "year": null
+        },
+        {
+            "degree": "General Courses",
+            "institution": "U Mass Dartmouth",
+            "year": null
+        },
+        {
+            "degree": "Marketing and Management and Human Resource Courses",
+            "institution": "Bristol Community College, Fisher Junior College, Emerson College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Human Resources Management",
+            "year": 2015
+        },
+        {
+            "name": "Management and Human Resource Courses",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust professional profile characterized by extensive experience in management, particularly within the realms of relationship management and human resource management. This expertise is supported by educational qualifications including a certificate in Human Resources Management from Bryant University and participation in various marketing and management courses across institutions like Bristol Community College, Fisher Junior College, and Emerson College. Demonstrating adaptability and skills in advertising, budgets, contract preparation, customer service, and more, the candidate has made significant contributions through roles such as Project Manager, Kitchen Consultant, and US Business Development Manager, where they have consistently maintained client relationships and driven business development efforts."
+}

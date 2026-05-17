@@ -1,0 +1,86 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "National Marine Fisheries Service NMFS Species Observer",
+            "company": "",
+            "period": "07/2015 to Current",
+            "description": [
+                "- Monitor for sturgeons (Atlantic and Shortnose) and other endangered species found within the dredging area of the $3.1 Billion New NY Bridge Project; ",
+                "- Monitor dredging, decanting and offloading operations of dredge materials for sturgeons and other endangered species; Collect and record biological data (length, weight, DNA samples);",
+                "- Collect and process fish specimens for necropsy;",
+                "- Communicate observations and finding to New York State Thruway Authority (NYSTA), New York State Department of Environmental Conservation (NYSDEC) and others when on site."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Environmental Research Assistant",
+            "company": "",
+            "period": "01/2011 to 06/2014",
+            "description": [
+                "- Performed laboratory analysis of water for physical and chemical parameters such as algae, temperature, conductivity, pH, salinity, dissolved oxygen, nitrite, nitrates and turbidity;",
+                "- Directed the Western Regional Aquaculture Center commercial farm tilapia feed trials, prepared reports and present research findings; Collected biological samples and conducted proximate analysis (protein, lipid, moisture and energy) on fish tissue and feed samples;",
+                "- Acted as a liaison between the UA Food Products and Safety laboratories, Montana State University and US Fish and Wildlife Service, Bozeman Fish Technology Center;",
+                "- Oversaw strict adherence to safety policies and procedures during testing; Managed the daily operations of the ERL Aquaculture Greenhouse."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Fisheries Officer",
+            "company": "",
+            "period": "01/2007 to 01/2011",
+            "description": [
+                "- Conduct environmental assessment of aquaculture facilities;",
+                "- Prepared technical reports detailing findings and recommendations from assessments;",
+                "- Identified and solved environmental problems arising from aquaculture facilities affecting the safety of water and land; Controlled water pollution and handled solid waste management;",
+                "- Removed impurities and harmful discharge from the water; Developed techniques for water recycling; Conduct extension services and monitored over 40 aquaculture farms to reduce environmental impacts of aquaculture;",
+                "- Managed the National Aquaculture, Fish Hatchery and Laboratory: Performed laboratory analysis of water for physical and chemical parameters such as algae, temperature, conductivity, pH, nitrite, nitrates, salinity, dissolved oxygen, and turbidity for this and other aquaculture facilities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Fisheries Officer",
+            "company": "",
+            "period": "01/2002 to 01/2007",
+            "description": [
+                "- Revamped the data collection program which led to the reduction of data gaps within the months and years;",
+                "- Examined and quantified the composition of fish species caught, discarded, and retained on commercial fishing vessels; Collected and analyzed biological and socio-economic data among others on Guyana's commercial marine species such as Southern Redsnapper ( _Lutjanus purpureus_ ), Seatrout ( _Cynoscion virescens_ ) and Bangamary ( _Macrodon ancylodon_ ) using models as specified by CRFM;",
+                "- Wrote scientific reports and presented the findings of data analyzed to various stakeholders."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D : Soil, Water and Environmental Science",
+            "institution": "University of Arizona",
+            "year": 2014
+        },
+        {
+            "degree": "MSc : Soil, Water and Environmental Science",
+            "institution": "University of Arizona",
+            "year": 2014
+        },
+        {
+            "degree": "Diploma : Management",
+            "institution": "University of London",
+            "year": 2006
+        },
+        {
+            "degree": "BSc. : Agriculture",
+            "institution": "University of Guyana",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "University of Arizona - Graduate Student Travel Award Institute of Environment, 2013",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's resume is impressive with a strong background in environmental science and extensive experience working in positions related to marine fisheries and water quality testing. Their skills encompass various aspects of environmental management, including wastewater treatment systems and waste disposal solutions, which are crucial for addressing modern environmental challenges. With an education at the Ph.D. level and practical experience spanning across several years, the candidate is well-equipped to contribute significantly as an Environmental Engineer or in a related field. The English proficiency inferred from their work experience suggests strong communication skills, making them suitable for international collaboration."
+}

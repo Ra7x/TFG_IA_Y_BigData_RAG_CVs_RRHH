@@ -1,0 +1,52 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Production Excellence Specialist",
+            "company": "Company Name",
+            "period": "October 2015 to January 2016",
+            "description": [
+                "Experienced in production scheduling, Lean manufacturing and design.",
+                "Knowledgeable of quality control standards.",
+                "Analytical, capable of procurement specialist for cost reduction and containment.",
+                "Expertise in 5S methodology, QA/QC/Audits reports, value stream mapping, multi-site operations.",
+                "Dedicated to product quality and process improvement strategies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Procurement and Operations Manager",
+            "company": "Insight Company",
+            "period": "February 2014 to September 2015",
+            "description": [
+                "Developed, updated, and maintained SOPs, Client Guidelines, HR and Technical Manuals and Protocols for Insight Company.",
+                "Managed professionally 14 employees for Insight Quality Services in Asian operations.",
+                "Accountable for implementation of strategic objectives, developing operations strategy, planning production services, and client communication."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Internal Production Auditor",
+            "company": "Company Name",
+            "period": "September 2013 to January 2014",
+            "description": [
+                "Actively suggested operational improvements to enhance quality, improve production times, and reduce costs.",
+                "Developed production tracking and quality control systems, analyzing production, quality control, maintenance, and other operational reports."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Maryland University College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Fluent (Read, Write and Speak)",
+    "matchmaking_summary": "Results-driven, skilled Quality Specialist focused on achieving success and increased productivity through improvements in quality, safety, operations, and administration. Expertise in quality control, quality assurance, lean management, Six Sigma, and techniques and methods for improving the efficiency process of an organization's quality procedure. Highly motivated with the aptitude and tenacity to resolve challenging issues and work productively with team members and supervisors to accomplish the organization's future vision and goal."
+}

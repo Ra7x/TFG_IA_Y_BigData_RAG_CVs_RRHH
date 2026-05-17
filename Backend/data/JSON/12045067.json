@@ -1,0 +1,62 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": "U.S.",
+    "tech_stack": [
+        "Information Technology (IT)",
+        "Project Engineer",
+        "Systems Integration Analyst",
+        "Command and Control (C2) facilities",
+        "Global Command and Control System (GCCS)",
+        "Unclassified Local Area Network (NIPRNET)",
+        "Secret Local Area Network (SIPRNET)",
+        "Sensitive Compartmented Local Area Network (SCI LAN)",
+        "Defense Red Switch Network (DRSN)",
+        "Global Command and Control System (GCCS)"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology (IT) Specialist",
+            "company": "Company Name IT Specialist",
+            "period": "December 2009 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Integration Analyst",
+            "company": "City , State, Company Name",
+            "period": "July 2009 to December 2009",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science (BS) : Information Technology",
+            "institution": "University of Phoenix",
+            "year": 2005
+        },
+        {
+            "degree": "Associates of Applied Science (AAS) : Electronic Technology",
+            "institution": "Cochise College",
+            "year": 2003
+        },
+        {
+            "degree": "Associate : General Studies",
+            "institution": "Cochise College",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in Information Technology (IT) with significant experience in managing large-scale projects involving complex data networks and telecommunications systems. Their role as a Project Manager and Lead Engineer at the Joint Special Operations Command (JSOC) highlights their ability to lead teams through substantial infrastructure projects, specifically focusing on technology integration for critical command facilities like the C4 facility. They demonstrate strong technical skills in system design, network management, and procurement processes that align with the demands of high-security environments."
+}

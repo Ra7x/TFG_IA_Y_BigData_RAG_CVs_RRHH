@@ -1,0 +1,63 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Telephone Interviewer",
+            "company": "The National Agricultural Statistics Service (NASS)",
+            "period": "04/2013 - Current",
+            "description": [
+                "Performs telephone interviews for a wide variety of surveys and censuses.",
+                "Telephones respondents and explains the purpose of survey or census to gain cooperation.",
+                "Obtains and records data on a survey instrument. Reviews information for completeness, edits and assists in the clerical processing of the collected information.",
+                "Migrated thousands of documents into an Enterprise Content Management System (ECM) to sunset legacy Intranet Server into a SharePoint environment."
+            ],
+            "technologies": [
+                "Microsoft Excel",
+                "Google Mail",
+                "Accounts payable and receivable"
+            ]
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Credit Control, LLC",
+            "period": "05/2011 - 12/2012",
+            "description": [
+                "Handled customer questions, complaints, and billing inquiries. Skilled in resolving customer issues with one call resolution, proactively offered alternative solutions where appropriate to retain customers' business."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Executive",
+            "company": "Leading Media and Entertainment Company",
+            "period": "12/2008 - 11/2010",
+            "description": [
+                "Monitored and reported on sales activities, followed up for management. Advised customers on forthcoming product developments and discussed special promotions.",
+                "Received potential client information to establish new internet service."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Stocking Associate",
+            "company": "Walmart",
+            "period": "12/2008 - 11/2010",
+            "description": [
+                "Received material into the store, prepared it for the store shelves. Checked deliveries for accuracy, verifying that quantities received matched bills of lading, purchase orders, and other documents. Organized the stock room to ensure accurate labeling, logical placement, neat arrangement.",
+                "Maintained ongoing and proactive communication with key partners about new arrivals, order overages/shortages, and delivery delays."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Gateway Institute of Technology / St. Louis Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate demonstrates a strong background in customer service and data collection, with experience handling telephone interviews for surveys and censuses. Their ability to interpret and process information efficiently is complemented by their skills in administrative tasks such as migrating documents into an Enterprise Content Management System (ECM) and managing accounts payable/receivable. The candidate's versatility is further highlighted through roles involving sales, customer service, and inventory management. Overall, they present a well-rounded professional with excellent interpersonal and technical skills."
+}

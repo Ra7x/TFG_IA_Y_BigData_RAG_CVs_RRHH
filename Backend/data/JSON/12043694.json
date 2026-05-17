@@ -1,0 +1,51 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Advanced Level Wheeled Vehicle Mechanic",
+            "company": "Company Name",
+            "period": null,
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Information System Security",
+            "institution": "Colorado Technical University",
+            "year": 2016
+        },
+        {
+            "degree": "Certificate of Completion : Network Administrator",
+            "institution": "Centriq Training",
+            "year": 2012
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CompTIA A+ Certified",
+            "year": null
+        },
+        {
+            "name": "Active Directory Windows Server 2008 R2",
+            "year": null
+        },
+        {
+            "name": "MCSE 70-640",
+            "year": null
+        },
+        {
+            "name": "MCSE 70-642",
+            "year": null
+        },
+        {
+            "name": "MCSE 70-646",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate boasts a robust background in advanced vehicle mechanics with expertise in maintenance, training, and leadership gained through military service. With certifications in both system security and network administration, the candidate is well-equipped to contribute to technical environments requiring strong problem-solving skills and compliance with regulatory standards such as OSHA and NAVOSH. Their experience in managing Government Owned Property, including over 125 vehicles worth approximately $3 million, highlights their ability to handle critical assets and personnel management effectively."
+}

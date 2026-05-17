@@ -1,0 +1,59 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Manager Operational Finance",
+            "company": "Company Name",
+            "period": "01/2002 to 12/2012",
+            "description": [
+                "Accountable for 2 departments operating budget, including developing annual operating plan, expense forecasts and other executive management reporting.",
+                "Responsibilities include negotiating competitive rates, purchasing, monitoring and enforcing contracts compliance. Report to executive management; manage staff of 2 direct reports.",
+                "Compile and analyze financial information with department heads Managing invoice approval, reconciliation and billing compliance of 25,000 invoices per year Develop integrated revenue/expense analyses, projections, reports, and presentations Create and analyze monthly, quarterly, and annual reports for accuracy Create key performance metrics for Finance and Executive Management.",
+                "Report was presented weekly to management Lead in several financial/operational projects which included a turning an aircraft into an Air Ambulance and relocating the company to increase profits Identify patterns and subsequent spending activities to help optimize purchasing strategies Maintained 2 departments budgets for the Airline and Flight Department Perform financial forecasting and reconciliation of internal accounts and chain vendors.",
+                "Present and discuss analysis with upper management along with goals Managed business relationships with suppliers, service providers, contract providers, and industry experts Develop annual operating plan and provide monthly expense forecast Identify patterns of demand and subsequent spending activities to help optimize purchasing strategies Negotiate purchase agreements, long-term strategic plan with our supplier of a necessary commodity, thereby allowing our company a leveraged position in terms of margin enhancement.",
+                "Determine the degree of risk/liability with contract compliance/non-compliance based upon annual spend with vendors and suppliers Lead in Operational Changes and communication to the entire company Management of the two fleet (Lear 35's) for passenger operations in quoting, reporting Profits and reconciliation of the expenses for the related operations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Trip Coordinator",
+            "company": "Company Name",
+            "period": "01/2018 to 04/2018",
+            "description": [
+                "Scheduled aircraft and coordinate flight crew to accomplish charter requests.",
+                "Resolve operational failures with customers, owners and flight crews.",
+                "Interpret both current weather and weather forecasts provided by the FAA. Familiarity with FAR/AIM, Part 135 Rules and Regulations.",
+                "Utilize FOS/NT, Microsoft Word, Excel and Outlook."
+            ],
+            "technologies": [
+                "FOS/NT",
+                "Microsoft Word",
+                "Excel",
+                "Outlook"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Science Business Administration",
+            "institution": "Franklin University",
+            "year": 2007
+        },
+        {
+            "degree": "Science in Financial Management",
+            "institution": "Franklin University",
+            "year": 2007
+        },
+        {
+            "degree": "Masters of Business Administration : Financial Leadership",
+            "institution": "Franklin University",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in financial management with extensive experience in cost control, procurement, and budget development. They have demonstrated leadership and strategic planning abilities by transforming roles within organizations and optimizing business processes. Their skills include advanced proficiency with Microsoft products for reporting and presenting, as well as effective communication and relationship management across various stakeholders."
+}

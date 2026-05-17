@@ -1,0 +1,99 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Customer Service Agent",
+            "company": "Company Name - City , State",
+            "period": "11/2020 to Current",
+            "description": [
+                "Assessed passenger documentation to determine destinations and to assign boarding passes.",
+                "Confer with customers to determine their service requirements and travel preferences.",
+                "Replied to inquiries regarding schedules, accommodations, procedures, and policies.",
+                "Provide clients with assistance in preparing required travel documents and forms.",
+                "Responded politely to passenger complaints regarding ticketing and baggage handling."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "City , State",
+            "period": "01/2010 to 12/2020",
+            "description": [
+                "Consulted with customers by telephone or in person to provide information about products or services.",
+                "Operate office machines such as, photocopiers and scanners, facsimile machines, voice mail systems, and personal computers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Agent",
+            "company": "G2 Secure Staff - City , State",
+            "period": "12/2016 to 11/2020",
+            "description": [
+                "Examine passenger documentation to determine destinations and to assign boarding passes.",
+                "Provide boarding or disembarking assistance to passengers needing special assistance.",
+                "Confer with customers to determine their service requirements and travel preferences.",
+                "Replied to inquiries regarding schedules, accommodations, procedures, and policies.",
+                "Provide clients with assistance in preparing required travel documents and forms.",
+                "Responded to passenger complaints regarding ticketing and baggage handling."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Recreation Assistant",
+            "company": "Company Name - City , State",
+            "period": "10/2016 to 12/2016",
+            "description": [
+                "Enforce rules and regulations of recreational facilities to maintain discipline and ensure safety.",
+                "Organize, lead, and promote interest in art, crafts, sports, games, camping, and hobbies.",
+                "Meet with staff to discuss rules, regulations and work-related problems."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Library Assistant",
+            "company": "Company Name - City , State",
+            "period": "10/2013 to 12/2013",
+            "description": [
+                "Maintain photocopiers, scanners, computers, and instruct patrons in proper use of such equipment.",
+                "Oversaw check-in and check-out process of library books and materials at circulation desk.",
+                "Replied to patrons' questions and assisted in finding materials requested."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Interdisciplinary Studies/Social and Behavioral Sciences",
+            "institution": "Los Angeles Southwest College - City , State",
+            "year": 2016
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Junipero Serra High School - City",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Customer Service Agent",
+            "year": null
+        },
+        {
+            "name": "Customer Service Representative",
+            "year": null
+        },
+        {
+            "name": "Recreation Assistant",
+            "year": null
+        },
+        {
+            "name": "Library Assistant",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate demonstrates a strong background in customer service with over 10 years of experience handling various aspects of client interactions, including detailed documentation review and complaint resolution. Their diverse work history spans across multiple industries, showcasing adaptability and the ability to handle different types of responsibilities effectively. The candidate appears highly organized and detail-oriented, which are essential skills for maintaining smooth customer relationships and ensuring compliance with policies."
+}

@@ -1,0 +1,54 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Chef De Cuisine",
+            "company": "Company Name",
+            "period": "04/2016 to Current",
+            "description": [
+                "Developed seasonal menu",
+                "Maintained quality of food while constantly keeping a low food cost",
+                "In charge of inventory/ordering",
+                "Responsible for hiring and firing of employees",
+                "Trained all new employees to uphold our standards"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef de Cuisine",
+            "company": "Company Name",
+            "period": "09/2014 to 04/2016",
+            "description": [
+                "Assisted in seasonal menu development.",
+                "In charge of inventory/ordering.",
+                "Fabricating proteins.",
+                "Handmade pastas daily."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sous Chef",
+            "company": "Company Name",
+            "period": "01/2014 to 09/2014",
+            "description": [
+                "Ran lunch service and Worked all stations for dinner in busy 300-400-person restaurant.",
+                "In charge of inventory and ordering.",
+                "Responsible for fabricating all proteins"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Occupational Studies Degree",
+            "institution": "Le Cordon Bleu Culinary Arts",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate boasts a robust culinary background with experience in high-end restaurants and has honed their skills in French cuisine, pasta making, and cost control. Their leadership roles indicate strong discipline and multi-tasking abilities while managing kitchen operations effectively."
+}

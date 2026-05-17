@@ -1,0 +1,68 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Manager",
+            "company": "Company Name City , State",
+            "period": "01/2007 to Current",
+            "description": [
+                "Perform professional administrative work involving the development, administration, and coordination of a comprehensive series of training and development opportunities for University staff and faculty.",
+                "Implementation of TESOL program (Teaching English to Speakers of Other Languages).",
+                "Conduct exit interviews with staff employees and develops procedures for resolving problems discovered through exit interviews. Responsible for implementation, maintenance and training for the Staff Performance Evaluation System.",
+                "Coordinate Service Awards, Staff Awards and Retirement Recognition programs. Responsible for the coordination of New Employee Orientation."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Representative III",
+            "company": "Company Name City , State",
+            "period": "01/2001 to 01/2007",
+            "description": [
+                "Promoted to fulfill a broad range of HR functions, including training employees on newly implemented PeopleSoft Time and Labor module, administering their FMLA program, and managing HR records.",
+                "Trained over 250 time keepers on time keeping techniques and best practices, conducting workshops and one-on-one coaching sessions that contributed to a successful implementation of PeopleSoft.",
+                "Leadership Development Training for faculty and staff. Translated and facilitated training in Spanish."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Restaurant Manager & Trainer",
+            "company": "Company Name City , State",
+            "period": "01/1993 to 01/2001",
+            "description": [
+                "Responsible for the overall business performance of managing the restaurant and training all new employees.",
+                "Special Events Responsible for hiring and training wait staff, bar staff and kitchen staff. Translated and facilitated training in Spanish."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science (BS)",
+            "institution": "TEXAS WOMAN'S UNIVERSITY City , State",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Society for Human Resource Management (SHRM)",
+            "year": null
+        },
+        {
+            "name": "North Texas Society for Human Resource Management (NTSHRM)",
+            "year": null
+        },
+        {
+            "name": "Texas Higher Education in Human Resources Association (THEHRA)",
+            "year": null
+        },
+        {
+            "name": "International TEFL and TESOL Training membership (ittt)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in human resources, spanning over two decades. With experience in various aspects of HR management including training and development, employee relations, policies creation, and legal compliance, the candidate demonstrates expertise in handling diverse HR functions effectively. Particularly noteworthy is their role in implementing TESOL programs, reflecting strong adaptability and cultural sensitivity. The extensive administrative experience coupled with a proactive approach to learning and professional development positions the candidate as an asset for HR roles that require strategic thinking and practical application."
+}

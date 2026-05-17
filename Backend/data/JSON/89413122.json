@@ -1,0 +1,53 @@
+{
+    "full_name": "Operations Research Analyst",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Operations Research Analyst",
+            "company": "Company Name City , State",
+            "period": "01/2010 to Current",
+            "description": [
+                "Initiated and managed program to test incoming radiation detection equipment into New York, New Jersey and Connecticut.",
+                "Since 2009, the project has tested over $25 million worth of equipment and more than 10,000 units."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name City , State",
+            "period": "03/2003 to 01/2010",
+            "description": [
+                "Data Collection and Test Manager for the Department of Homeland Security and NYPD collaborative acquisition program for a roadway deployed radiation detector prototype.",
+                "Planned and executed initial data collection effort in support of the acquisition project.",
+                "Effort involved coordination with NYPD, regional toll authorities, and National Laboratories."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name City , State",
+            "period": "08/1999 to 03/2003",
+            "description": [
+                "Designed data structures and developed systems for science related database applications."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS",
+            "institution": "New York University City , State",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Test and Evaluation Manager Level II",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned Operations Research Analyst with a robust background in project management, information technology, and procedure development. With over eight years of progressive management experience, the candidate has successfully initiated and managed complex projects related to radiation detection equipment testing. Their role involves managing teams, coordinating activities across departments, and providing technical support that has directly contributed to national security initiatives."
+}

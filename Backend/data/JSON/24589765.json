@@ -1,0 +1,78 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Government Relations, Communications and Organizational Development Director",
+            "company": "WSDOT Toll Division",
+            "period": "01/2014 to Present",
+            "description": [
+                "Develops strong partnerships with functional teams throughout WSDOT and region in delivering toll projects.",
+                "Oversees implementation of continuous improvement and Lean project.",
+                "Represents the division with the media, government and industry representatives, and citizens.",
+                "Serves as a strategic advisor to department executives on key tolling, communication and legislative strategies.",
+                "Leads strategic communication and government relations delivery plans with internal employees and stakeholders for the WSDOT Toll Division."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Budget and Program Development",
+            "company": "Washington State Ferries",
+            "period": "08/2008 to 09/2011",
+            "description": [
+                "Built strong partnerships between diverse internal partners and external stakeholders.",
+                "Cultivated Lean initiatives and projects in partnership with agency executives.",
+                "Developed organization's performance management program."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Program Management",
+            "company": "Greco Company",
+            "period": "04/2006 to 08/2008",
+            "description": [
+                "Led the Program Management for the AWV program with a $3.125 billion budget.",
+                "Directed 5 managers and a team of 33 employees.",
+                "Developed and rolled out new policies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Project Director, I-90 Corridor and Sound Move Projects",
+            "company": "WSDOT",
+            "period": "04/2006 to 08/2008",
+            "description": [
+                "Directed delivery of design and construction projects for high capacity transit in the I-90 corridor and for the completion of Sound Transit Sound Move projects.",
+                "Oversaw improved partnering and project coordination between WSDOT and Sound Transit design and engineering teams."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, Aviation Services and Planning",
+            "company": "WSDOT",
+            "period": "07/1995 to 03/2003",
+            "description": [
+                "Oversaw delivery of the WSDOT Pilot and Aircraft Registration Program, Aviation Planning, Outreach and Education Program.",
+                "Created the WSDOT Airport Land Use Compatibility Program, which now serves as a national model in protecting airports through local land use planning."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Central Washington University",
+            "year": null
+        },
+        {
+            "degree": "Executive Management Program, Evans School, University of Washington",
+            "institution": "University of Washington",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a highly experienced leader with a strong track record in government relations, communications, and organizational development. Their ability to establish trust and effective working relationships quickly is particularly noteworthy. The candidate demonstrates expertise in strategic planning and communication across diverse teams, which is crucial for roles that require leadership and collaboration within complex organizations."
+}

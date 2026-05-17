@@ -1,0 +1,67 @@
+{
+    "full_name": "HR CLERK",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Accounts Receivable Specialist III",
+            "company": "Company Name",
+            "period": "08/2000 to 06/2011",
+            "description": [
+                "Posted overhead invoices to appropriate general ledger accounts.",
+                "- Researched and resolved accounts payable discrepancies through invoice adjustments Coded and entered at least [50] invoices each day.",
+                "Effectively managed a high-volume of inbound and outbound customer calls."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Accounts Payable Clerk",
+            "company": "Company Name",
+            "period": "02/2014 to 03/2014",
+            "description": [
+                "Auditing of several months of Sprint bills to check for discrepancy in Plan rates.",
+                "Preformed calculations, collected bills, analyzed charges and complete variances in Excel Spreadsheets. Completed and developed a procedure for the Auditing of Sprint Bills."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Accounts Payable Clerk",
+            "company": "Company Name",
+            "period": "12/2013 to 02/2014",
+            "description": [
+                "Receive and verify invoices and requirements and match purchase orders to invoice Prepare batches of invoices for data entry by matching invoices to correct vendor number Responsible for management of the weekly check mailings In charge of maintaining updated vendor files and file numbers Daily task includes the management of a customer service line (payment status, missing invoice, etc.) In charge of getting necessary documentation of Auditing Department."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "AP/AR Clerk",
+            "company": "Company Name",
+            "period": "07/2013 to 11/2013",
+            "description": [
+                "Executed accounts receivable reporting enhancements and reconciliation procedures.",
+                "Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software.Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions.Verified details of transactions, including funds received and total account balances.Coded the general ledger and processed vendor invoice payments.Deposited third party checks, as well as monthly reserve transfers.Coordinated approval processes of all accounts payable invoices.Balanced batch summary reports for verification and approval.Researched and resolved billing and invoice problems."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Clerk",
+            "company": "Company Name",
+            "period": "04/2015 to 06/2015",
+            "description": [
+                "Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information.(backup).Made copies, sent faxes and handled all incoming and outgoing correspondence.Organized files, developed spreadsheets, faxed reports and scanned documents."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSBA : Human Resource Management",
+            "institution": "CTU Online",
+            "year": 2011
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in accounts receivable, accounts payable, and customer service areas, with deep expertise in SAP and other accounting software. Their roles have consistently required them to analyze data, resolve discrepancies, and manage high-volume transactions efficiently. The experience in property management showcases organizational skills and multitasking capabilities across various operational tasks. Additionally, the education in Human Resource Management suggests a potential for leadership and policy development within an organization."
+}

@@ -1,0 +1,88 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Software Development Life Cycle",
+        "Project Management",
+        "Oracle and SQL Server databases",
+        "Crystal Reports",
+        "Windows and UNIX environments",
+        "Automated Meter Reading and Utility Billing systems",
+        "Shell Scripting",
+        "SharePoint",
+        "Programming Languages: C/C++, PL/SQL, Visual Basic, Uniface, PHP, HTML, XML"
+    ],
+    "work_history": [
+        {
+            "job_title": "Consultant Experience Consultant",
+            "company": "Company Name – City , State",
+            "period": "05/2017 to Current",
+            "description": [],
+            "technologies": [
+                "GIS",
+                "CMMS"
+            ]
+        },
+        {
+            "job_title": "Utility Solutions Consultant",
+            "company": "Company Name – City , State",
+            "period": "02/2006 to 04/2017",
+            "description": [],
+            "technologies": [
+                "Cityworks CMMS application",
+                "Infor Enterprise Asset Management",
+                "SQL Server"
+            ]
+        },
+        {
+            "job_title": "CEO/Consultant",
+            "company": "Company Name – City , State",
+            "period": "02/2000 to 02/2006",
+            "description": [],
+            "technologies": [
+                "Crystal Info Server"
+            ]
+        },
+        {
+            "job_title": "Information Technology Consultant",
+            "company": "Company Name – City , State",
+            "period": "10/1999 to 12/1999",
+            "description": [],
+            "technologies": [
+                "PL/SQL Stored Procedures",
+                "Function"
+            ]
+        },
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name – City , State",
+            "period": "04/1996 to 04/1998",
+            "description": [],
+            "technologies": [
+                "GQL\\User",
+                "Sybase SQL Server database"
+            ]
+        },
+        {
+            "job_title": "Senior Programmer",
+            "company": "Company Name – City , State",
+            "period": "03/1994 to 04/1996",
+            "description": [],
+            "technologies": [
+                "Uniface 5.2",
+                "Oracle 7.3"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Computer Science",
+            "institution": "GEORGIA INTITUTE OF TECHNOLOGY - City , State",
+            "year": "December 1993"
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in information technology with extensive experience across various roles, from consultant to CEO. Their expertise includes software development lifecycle, project management, and proficiency in Oracle and SQL Server databases, as well as Crystal Reports tools. The candidate's experience spans multiple industries including utility solutions and billing systems. They demonstrate strong leadership skills through managing teams and handling critical infrastructure upgrades."
+}

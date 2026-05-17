@@ -1,0 +1,186 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "ABRA",
+        "Benefit Administration",
+        "Billing",
+        "Conflict Resolution",
+        "Crystal Reports",
+        "Excel",
+        "HRIS",
+        "Human Resources",
+        "Insurance",
+        "Local Government",
+        "Macomb Community College",
+        "Microsoft Word",
+        "PeopleSoft",
+        "Payroll",
+        "Personnel",
+        "Policies",
+        "PowerPoint",
+        "QuickBooks",
+        "SAP",
+        "Sales",
+        "Safety",
+        "Spreadsheets",
+        "Tax Returns",
+        "Written"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Assistant/Payroll",
+            "company": "Company Name, City , State",
+            "period": "01/2014 to 01/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Payroll & Benefits Coordinator",
+            "company": "Company Name, City , State",
+            "period": "01/2013 to 01/2013",
+            "description": [
+                "Process weekly payroll for 100 hourly and salaried Associates",
+                "Garnishment, Levy and Child Support processing",
+                "Compile weekly labor hours",
+                "Enter new hire information into HRIS/Payroll system",
+                "Assist with Annual Benefits Open Enrollment Process",
+                "Process employee status changes in payroll, personnel, and benefit records",
+                "Respond to Unemployment claims"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Office Manager",
+            "company": "Company Name, City , State",
+            "period": "01/2012 to 01/2013",
+            "description": [
+                "Calculate daily timesheets",
+                "Enter new hire information into HRIS/Payroll system",
+                "Process employee status changes",
+                "Respond to Unemployment claims",
+                "Maintain OSHA 300 and OSHA 300A Worker's Compensation accident reporting, loss time tracking",
+                "Process monthly billing",
+                "Process customer payments",
+                "Generate purchase orders"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Assistant/Payroll",
+            "company": "Company Name, City , State",
+            "period": "01/2009 to 01/2012",
+            "description": [
+                "Process weekly payroll for 100 hourly and salaried Associates",
+                "Garnishment, Levy and Child Support processing",
+                "Compile weekly labor hours",
+                "Enter new hire information into HRIS/Payroll system",
+                "Assist with Annual Benefits Open Enrollment Process",
+                "Process employee status changes in payroll, personnel, and benefit records",
+                "Respond to Unemployment claims",
+                "Establish written policies and procedures",
+                "Review applications and identified potential candidates for position openings",
+                "Worker's Compensation accident reporting",
+                "Maintain Company-wide MSDS documents, OSHA 300 and OSHA 300A",
+                "Coordinate quarterly meetings"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Safety & Benefits Coordinator",
+            "company": "Company Name, City , State",
+            "period": "01/2004 to 01/2009",
+            "description": [
+                "Determine monthly benefit eligibility",
+                "Maintain benefit HRIS system",
+                "Determine quarterly 401k eligibility",
+                "Monthly audit of medical, dental and voluntary insurance products",
+                "Process 401k Benefit Event Notices",
+                "Record Associate and customer accidents",
+                "Maintain OSHA 300 log and annual OSHA 300A for multiple locations",
+                "Maintain Company-wide MSDS documents",
+                "Worker's Compensation and General Liability accident reporting and investigation",
+                "Conducted annual safety training",
+                "Coordinate monthly random drug screens",
+                "Respond to Unemployment claims, effectively represent WESCO in Unemployment hearings",
+                "Establish written policies and procedures"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Payroll / Human Resources Assistant",
+            "company": "Company Name, City , State",
+            "period": "01/2002 to 01/2004",
+            "description": [
+                "Process weekly and biweekly payroll for over 300 hourly and salaried Associates",
+                "Garnishment, Levy and Child Support processing",
+                "Compile weekly labor hours",
+                "Enter new hire information into HRIS/Payroll system",
+                "Process employee status changes in payroll, personnel, and benefit records",
+                "Compilation and distribution of performance reviews to multiple locations",
+                "Transfer weekly payroll direct deposit file",
+                "Process weekly 401k payments with outside vendor",
+                "Timely and accurate reporting of new hires to the State of MI",
+                "Respond to Unemployment claims, effectively represent WESCO in Unemployment hearings"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources / Payroll Assistant",
+            "company": "Company Name, City , State",
+            "period": "01/2001 to 01/2002",
+            "description": [
+                "Primary contact between Human Resources and Corporate Payroll",
+                "Prepare and distribute disciplinary actions for unionized manufacturing plant",
+                "Maintain daily attendance records",
+                "Review applications and identified potential candidates for position openings",
+                "Assist with generating Union layoffs and recalls",
+                "Maintain accurate confidential employee files",
+                "Coordinate Annual Service Award Program"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Payroll Tax Analyst",
+            "company": "Company Name, City , State",
+            "period": "01/1999 to 01/2001",
+            "description": [
+                "Computed over 200 quarterly unemployment tax returns for every state in the Continental U.S.",
+                "Compiled withholding information for weekly tax deposits made via EFT",
+                "Examined tax information to file monthly and quarterly withholding returns for states and localities",
+                "Compiled divisional information to complete quarterly and annual Federal filings",
+                "Analyzed information for annual reporting to Federal, State and local government"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Payroll Clerk / Human Resources Assistant",
+            "company": "Company Name, City , State",
+            "period": "01/1996 to 01/1999",
+            "description": [
+                "Calculated weekly payroll for over 350 employees",
+                "Determined eligibility for health care benefits company-wide, including accurate maintenance of information",
+                "Liaison between 400 employees and health care insurance company",
+                "Maintain necessary materials required to conduct new hire orientations",
+                "Review applications and identified potential candidates for position openings",
+                "Research employee records to analyze unemployment eligibility",
+                "File New Hire reports to meet State compliance",
+                "Review weekly uniform billing for 200 employees, including verification of correct billing and submitted credits",
+                "Develop spreadsheets to track employee reviews, insurance, and holiday pay",
+                "Enable accurate payroll information to be extracted from spreadsheets"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.B.A : Human Resources",
+            "institution": "Not Specified",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

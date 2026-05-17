@@ -1,0 +1,90 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "General HR Assistant/Office Assistant",
+            "company": "Company Name",
+            "period": "August 2010 to February 2016",
+            "description": [
+                "Greet and screen patients, visitors, and staff, via telephone or in person, for the Medical Department and its related Programs, and answer inquiries.",
+                "Provide quality service that meets the needs of patients and clients as well as other customers - payers, families, referrers, and staff. General clerical duties including photocopying, fax and mailing, maintains inventory of medical supplies and instruments and maintain electronic and hard copy filing system.",
+                "Retrieve documents from filing system, maintains office equipment, monitors and maintains office supplies and forms.",
+                "Handle requests for information and data - Insurance authorizations, consult with insurance carriers to determine or obtain authorization for medical consults.",
+                "Resolve administrative problems and inquiries, prepare written responses to routine enquiries."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Specialist/Call Center",
+            "company": "Company Name",
+            "period": "November 2009 to April 2010",
+            "description": [
+                "Gather and assembles fiscal data and prepares various reports.",
+                "Monitor the expenditure of funds.",
+                "Resolve operational issues which arise at the center.",
+                "Receive and respond to questions and complaints from the public.",
+                "Recruit, train, develop work schedules and guide staff. Manage day-to-day activities of the Call Center in the absence of the manager."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Assistant",
+            "company": "Company Name",
+            "period": "December 2005 to December 2008",
+            "description": [
+                "Maintain organized job files for all positions with position documentation, applicant data, and interview notes.",
+                "Put together new hire packets and new employee folders for HR department.",
+                "Draft correspondence including offer letters, resume acknowledgements, etc. Process all new hire and termination paperwork and workflows; including filing."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Manager",
+            "company": "Company Name",
+            "period": "December 2002 to April 2005",
+            "description": [
+                "Assist end-users with a variety of tax preparation related issues.",
+                "Supervise and train staff, develops and oversee the completion of work, monitors the expenditure of funds."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Customer Service Representative",
+            "company": "Company Name",
+            "period": "August 1999 to December 2005",
+            "description": [
+                "Updating customer's information; inputting recent financial data.",
+                "Provide training and support to employees on banking procedures and terminology.",
+                "Answer customer inquiries and completed troubleshooting on banking software."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates Degree : Business Administration/Human Resources",
+            "institution": "Strayer University",
+            "year": null
+        },
+        {
+            "degree": "Essentials of Human Resource Management Certificate Program Skills",
+            "institution": "Prince George's Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a robust career progression in the HR and customer service sector, showcasing exceptional organizational skills, adaptability, and leadership. With experience spanning multiple industries including healthcare, banking, and financial services, they possess a comprehensive understanding of HR policies and procedures while maintaining a strong focus on client satisfaction through exemplary interpersonal and communication skills."
+}

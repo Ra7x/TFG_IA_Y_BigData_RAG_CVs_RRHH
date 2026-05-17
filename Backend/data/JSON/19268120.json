@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Kitchen Manager / Catering and events chef",
+            "company": "City , State",
+            "period": "07/2011 to 01/2014",
+            "description": [
+                "ServSafe certified",
+                "High volume production capability Culinary knowledge",
+                "Fluent in spanish"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Kitchen manager / Executive chef",
+            "company": "City , State",
+            "period": "01/2008 to 06/2011",
+            "description": [
+                "Delivered an exceptional dining experience with friendly, fast service.",
+                "Consistently adhered to quality expectations and standards."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Lead line cook",
+            "company": "City , State",
+            "period": "02/2001 to 01/2005",
+            "description": [
+                "Served fresh, hot food with a smile in a timely manner.",
+                "Communicated clearly and positively with co-workers and management."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED : Culinary arts",
+            "institution": "Lyndon B Johnson , City , State , USA",
+            "year": null
+        },
+        {
+            "degree": "Associate of Applied Science : Culinary arts",
+            "institution": "Lincoln college , City , State , USA",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Serve safe",
+            "year": null
+        },
+        {
+            "name": "AA in applied science",
+            "year": null
+        },
+        {
+            "name": "Station cook certificate",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in kitchen management and culinary arts, with extensive experience working in fast-paced restaurant kitchens. Demonstrated leadership skills through management positions at various establishments, showing the ability to train and supervise large teams, manage inventory and food costs, and ensure exceptional customer service. The bilingual Spanish/English skill set indicates adaptability and cultural competency suitable for a diverse range of clientele."
+}

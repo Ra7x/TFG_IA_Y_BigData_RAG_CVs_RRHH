@@ -1,0 +1,50 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Word",
+        "Excel",
+        "Power Point",
+        "E-Tools"
+    ],
+    "work_history": [
+        {
+            "job_title": "Safety Intern",
+            "company": "Company Name - City , State",
+            "period": "05/2015 to 08/2015",
+            "description": [
+                "Walkthroughs of plant to make sure proper personal protective equipment is being worn by all employees, transition from Material Safety Data Sheet to Safety Data Sheet, implement GHS labels for the chemicals, being in charge of safety to new hire orientation, safety audits, cost benefit analysis of new warning lights in one of our buildings."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Security Guard",
+            "company": "Company Name - City , State",
+            "period": "01/2014 to 07/2015",
+            "description": [
+                "Directing traffic entering and exiting the complex, providing direction to patrons,. answering questions and providing assistance as needed."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Associate",
+            "company": "Company Name - City , State",
+            "period": "05/2014 to 08/2014",
+            "description": [
+                "Providing quality service to our customers, cashiering, replenishing the merchandise, and straitening up the aisles at closing."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Millersville University of Pennsylvania - City , State",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a safety professional with experience in occupational health and environmental management. They have interned in safety roles, ensuring compliance with safety protocols and regulations. Their background includes customer service and security, demonstrating adaptability and ability to provide quality service under various operational environments."
+}

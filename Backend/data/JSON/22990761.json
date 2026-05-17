@@ -1,0 +1,79 @@
+{
+    "full_name": "Candidate Name",
+    "summary": "Enthusiastic and hardworking nursing school graduate. Graduated Salutatorian and Magna Cum Laude from Chamberlain University. My can-do attitude has led me to be a valued member to all my prior employers.",
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Patient Care Technician",
+            "company": "Not Specified",
+            "period": "12/2016 to 07/2017",
+            "description": [
+                "Interviewed patients, measured vital signs, and documented all information on patients' EMR.",
+                "Assisted nurses in pre-and postoperative therapy with treatments; inserting and discontinuing Foley catheter, discontinuing IV catheters, and maintaining IV fluids.",
+                "Collected and prepared laboratory specimens, preformed glucose monitoring.",
+                "Transported patients via wheel chairs and stretcher, assisted patients to ambulate around the unit. Notified nurses of any conditional changes of patients in my care.",
+                "Provided care and comfort to all patients, ensuring the best possible care."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Server",
+            "company": "Company Name",
+            "period": "06/2010 to 12/2014",
+            "description": [
+                "Assisted patrons during selection of food and beverages by presenting menu, and offering recommendations.",
+                "Transmitted orders to bar and kitchen by recording patrons' choices; identified patrons' special dietary needs and special requests.",
+                "Protected establishment and patrons by adhering to sanitation, safety, and alcohol beverage control policies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Electronic Technician",
+            "company": "Company Name",
+            "period": "09/2005 to 09/2009",
+            "description": [
+                "Drastically reduced aircraft discrepancies by 30% during my tenure with Patrol Squadron Sixteen.",
+                "Troubleshot, replaced, and repaired critical electronic equipment on 17 different P-3C aircraft avionic systems. Responsible for accurate and timely updating of aircraft log books. Accountable for over 10 junior sailors in my work center."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Company Name",
+            "company": "Not Specified",
+            "period": "07/2000 to 08/2005",
+            "description": [
+                "Assisted DVM with medical examinations, triaged incoming patients and managed clients throughout their visit.",
+                "Prepared animals for surgery, prepared surgical packs, monitored patients under anesthesia, and assisted Veterinarians during surgical procedures.",
+                "Performed dental procedures, x-rays, lab and bloodwork.",
+                "Gave vaccinations, obtained blood samples, and administered medications. Monitored and appropriately documented patient vital signs and activity.",
+                "Clearly communicated instructions to my clients and veterinary assistants."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Science Degree",
+            "institution": "Chamberlain University",
+            "year": null
+        },
+        {
+            "degree": "Associates of Arts",
+            "institution": "Florida State College of Jacksonville",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Registered Nurse- State of Florida",
+            "year": 2017
+        },
+        {
+            "name": "American Heart Association Basic Life Support (BLS) Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out for their dedication and the strong advocate role they play within healthcare settings. Graduating Salutatorian and Magna Cum Laude from Chamberlain University highlights a commitment to academic excellence, which is pivotal in nursing. Their experience as a Patient Care Technician demonstrates hands-on skills in patient care and interacting with medical teams, crucial in ensuring both patient well-being and smooth hospital operations."
+}

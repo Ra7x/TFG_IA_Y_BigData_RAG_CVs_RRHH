@@ -1,0 +1,50 @@
+{
+    "full_name": "Executive Director",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Director",
+            "company": "Company Name - City , State",
+            "period": "07/2012 to 02/2015",
+            "description": [
+                "Created new revenue streams through addition of two new fundraising events including a gala/dinner and 5K run.",
+                "Exceeded company objectives in selling exhibitor booths and in attendance at the annual convention. Exhibitor booths increased from 2%-8% yearly.",
+                "Managed projects for 36 volunteer Board of Director members, 6 committees and 5 regional chapters.",
+                "Prepared and distributed payroll for staff of three direct reports."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "President, Owner",
+            "company": "Company Name - City , State",
+            "period": "06/1998 to 07/2012",
+            "description": [
+                "Provided Association Management, meeting planning, conference planning and in-house registration processes for various associations including National Association of Pond Professionals, Georgia Green Industry Association, Georgia Turfgrass Association, Georgia Turfgrass Foundation Trust, Georgia Vegetation Management Association as well as providing only registration services to several other organizations.",
+                "Responsible for all aspects of Association Management including staffing, budgets, AP/AR, public relations and public affairs, to include lobbying at both the state and national level."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "The University of Georgia - City , State",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science",
+            "institution": "Abraham Baldwin Agricultural College - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "An accomplished leader with extensive experience in association management and leadership roles, particularly during economic downturns. Demonstrated success in creating new revenue streams through innovative fundraising events and managing complex projects involving multiple teams. Outstanding communicator and public speaker with a strong track record in strategic planning and negotiation, fostering growth while maintaining fiscal responsibility."
+}

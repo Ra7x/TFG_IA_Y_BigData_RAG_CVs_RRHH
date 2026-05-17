@@ -1,0 +1,61 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Entrepreneur General Manager",
+            "company": "Company Name",
+            "period": "11/2011 to 11/2013",
+            "description": [
+                "Managed the daily operations of the gas stations.",
+                "Oversaw sales, inventory and staff on a monthly basis.",
+                "Conducted and performed inspections of all gas equipment and facilities.",
+                "Maintained and obtained a clean and customer friendly environment for various customers. Enforced and implemented strict policies and procedures regulating the gas stations. Responsible for hire and managing more than 30 employees.",
+                "Oversaw the price management of fuels and merchandise.",
+                "Monitored monthly sales, and inventory, prepared monthly cash balance reports for the gas station and convenience store. Sought, prepared, negotiated and obtained contracts with USAID to deliver food and seeds throughout Haiti.",
+                "Created, prepared, and maintained records and documents related to the operation and administration of the delivery of assigned loads, and prepared reports related to the work.",
+                "Conducted researched, evaluated, and make decisions on what mode and route to take for transportation of loads throughout Haiti. Planned, organized, coordinated, prioritized, assigned, and evaluated the work of subordinate's employees."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Safety & Training Coordinator",
+            "company": "Company Name",
+            "period": "06/1995 to 01/2011",
+            "description": [
+                "Responsible for the preparation of training for more than 15,000 airport employees.",
+                "Planned, directed, oversaw, reviewed and evaluated the work of staff providing support to airport training program. Maintained or directed the maintenance of accurate records and files.",
+                "Monitored changes in legislation and FAA regulations that may affect training program operations or service delivery; evaluated their effect upon program activities and recommends appropriate policy and procedure modifications.",
+                "Developed and modified training techniques and formats to evaluate airfield vehicle operators or current program effectiveness and to determine the need for program modification and/or new training program development.",
+                "Test theoretical and practical knowledge of aviation safety and ramp safety. Analyzed training programs to assure competency of persons operating vehicle on the airfield. Prepared reports of airfield inspections to document findings."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor",
+            "institution": "Barry University",
+            "year": "2007"
+        },
+        {
+            "degree": "Associate",
+            "institution": "Miami Dade College",
+            "year": "2004"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate boasts over 17 years of experience in airport operations safety and training with an extensive knowledge of applicable federal rules and regulations affecting the safe and efficient operations of FAR Part 139 certified airports. Their career highlights include spearheading initiatives for online training to save thousands on overtime payments, leading a zero-runway incursions program during Miami International Airport's expansion project, and implementing a Tug Numbering System crucial during tug operations. With public policy background, data collection and analysis skills, exceptional organizational abilities, and proficiency in research and client relations, the candidate is well-equipped to contribute effectively across various roles."
+}

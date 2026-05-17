@@ -1,0 +1,60 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Lead Chef & Food Truck Manager",
+            "company": "Company Name",
+            "period": "05/2015 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name",
+            "period": "10/2012 to 02/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef, Owner",
+            "company": "Company Name",
+            "period": "05/2010 to Current",
+            "description": [
+                "Specialized in Healthy Cuisine and Personal Fit Meals.",
+                "Preparing meals for customers at various types of gyms.",
+                "Rotating healthy weekly menu choices; fresh local ingredients."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Culinary Apprentice",
+            "company": "Company Name",
+            "period": "05/2010 to 02/2012",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Glenelg High School",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "The Culinary Institute of America",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        {
+            "name": "ServSafe",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate holds a strong educational background in culinary arts from prestigious institutions such as the Culinary Institute of America, where they were exposed to world-class chefs and learned not only culinary techniques but also how to innovate with food. Their experience spans across various roles including leading chef positions in renowned restaurants like Walt Disney World's Artist Point Resort and managing a successful personal chef business, showcasing their versatility and expertise in the culinary field. They are ServSafe certified and demonstrate a passion for using fresh local ingredients to create healthy cuisine options that cater specifically to dietary needs."
+}

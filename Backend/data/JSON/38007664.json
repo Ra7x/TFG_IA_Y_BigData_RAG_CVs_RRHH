@@ -1,0 +1,72 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Director, Business Development",
+            "company": "Company Name",
+            "period": "Feb 2007 to Current",
+            "description": [
+                "Business Development in the pursuit of healthcare applications, transactional processing, data acquisition, data aggregation/mining, SaaS and Repository Services, data storage, IT support services, interoperability, ePresentation, payment integrity, and advanced data analytics for FWA.",
+                "Led and participated several large-scale federal and state government acquisition teams.",
+                "Author of several white papers and presentations to Client Leadership and legislative entities.",
+                "Results: 56 Opportunities, Opportunity TCV ranged from $2.5M to $257M, with a success rate of 19%."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "CEO and President",
+            "company": "Company Name",
+            "period": "Sep 2003 to Jan 2007",
+            "description": [
+                "Start-Up company within the State Government Markets providing IT Support Services and innovative software solutions in Provider Healthcare and land-related records.",
+                "Start up company developed IT-related services for State Governments' and private healthcare Provider records.",
+                "First Year growth to $2.1M, by December 2006 revenue growth to $7.3M, with a data repository over 500M-land related records for title companies and working on interoperability networks for Healthcare Providers and hospitals within the MidAtlantic State Region."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Vice President, Commercial Digital Services",
+            "company": "Company Name",
+            "period": "Feb 1996 to Aug 2003",
+            "description": [
+                "Applied Graphics Technologies (AGT) was part of the Mort Zuckerman Publishing Corporation as an IPO in 1996, providing new, innovative digital technology to the Publishing Firm's analog solutions, as well as the commercial markets.",
+                "Services offered were digital capture, management, storage, and presentation to large marketing firms, such as the NBA, NFL, Playboy, Life and Time magazines."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, National and Strategic Accounts - Digital and Applied Imaging Group",
+            "company": "Company Name",
+            "period": "Jan 1974 to Jan 1996",
+            "description": [
+                "A 22-year veteran within Kodak. Was an Industrial Engineer performing statistical release testing and Client engineering support services.",
+                "In 1983, trained as Sales Representative and maintained Federal Government sales within Washington D.C., Texas, North Carolina, California, and New York.",
+                "Transitioned over to Kodak's digital imaging and storage products and services in 1888 for Kodak's larger business units and the Federal Government."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "College of Continued Accredidation, Mechanical-Industrial Engineering",
+            "institution": "Rochester Institute of Technology",
+            "year": 1983
+        },
+        {
+            "degree": "Executive Management, Accelerated Management Program",
+            "institution": "Columbia University",
+            "year": 1990
+        }
+    ],
+    "certifications": [
+        {
+            "name": "HIPAA - Professional",
+            "year": 2002
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate boasts a comprehensive background in business development within the healthcare sector, particularly focusing on government opportunities. With over three decades of experience and expertise specifically in state and federal governments, they have excelled in roles that involve strategic pursuit, implementation, and management in complex regulatory environments. Their deep understanding of market trends, including game-changing legislation such as HIPAA, positions them as a crucial asset for identifying, developing, and nurturing new business partnerships within the healthcare industry. The candidate's ability to articulate federal government experiences across various sectors like Veterans Affairs, Centers of Medicare & Medicaid, DHS, FEMA, US Marshals, Coast Guard, CIS, ICE, IRS, FBI, HUD, FHA, Commerce, DOL, OPM, DoD, DC Gov., demonstrates a versatile and strategic approach to business development."
+}

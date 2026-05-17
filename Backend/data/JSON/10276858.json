@@ -1,0 +1,64 @@
+{
+    "full_name": "Candidate Name",
+    "summary": "Highly skilled in cooking and preparing a variety of cuisines. Inborn ability to explore new cooking avenues. Thorough understanding of sanitation needs of the kitchen. Operate kitchen equipment such as ovens and grills for cooking purposes. Maintain knowledge of all recipes so that the Head Chef's place can be filled in effectively in case of absenteeism.",
+    "location": null,
+    "tech_stack": [
+        "Food Prep CHEF",
+        "Kitchen productivity",
+        "Basic knife skills",
+        "Sanitation practices",
+        "Food handling knowledge"
+    ],
+    "work_history": [
+        {
+            "job_title": "Food Prep Chef",
+            "company": "Company Name, City , State",
+            "period": "09/2010 - 04/2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Cook",
+            "company": "Company Name, City , State",
+            "period": "06/2011 - 11/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Cook",
+            "company": "Company Name, City , State",
+            "period": "12/2012 - 03/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef",
+            "company": "Company Name, City , State",
+            "period": "06/2014 - 11/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Line Cook",
+            "company": "Company Name, City , State",
+            "period": "01/2014 - 12/2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma: Culinary/ Auto Body",
+            "institution": "William M Davies Career & Tech, City , State, USA",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Serve Safe 2015",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Exceptional culinary insight with a thorough understanding of sanitation needs in the kitchen. Proven ability to maintain high standards of food preparation and presentation even under high volume conditions, indicating strong organizational and multitasking skills. Motivated professional with over five years of experience in the food and beverage industry, skilled in various cuisines including Italian and American dishes, demonstrating versatility and adaptability in culinary practices."
+}

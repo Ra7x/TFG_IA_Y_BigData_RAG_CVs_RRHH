@@ -1,0 +1,57 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Production and Processing",
+        "Industrial Safety",
+        "Mechanical Troubleshooting",
+        "Basic Math",
+        "Computer Skills",
+        "Communication Skills",
+        "Time Management"
+    ],
+    "work_history": [
+        {
+            "job_title": "Federal Grain Inspector",
+            "company": "City, State",
+            "period": "06/2015 to Current",
+            "description": [
+                "Prepare grain samples for grading by preforming the necessary tests to determine moisture content, test weight, dockage, and presence of foreign material.",
+                "Perform specialized tests such as aflatoxin and protein analysis; calibrates equipment, grind samples, read results and enters reading on official certificates.",
+                "Inspect ship holds for loading, and safety procedures."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Process Operator Intern",
+            "company": "City, State",
+            "period": "06/2015 to 09/2015",
+            "description": [
+                "Monitor equipment functioning, observe temperature levels, and flow gauges. Perform regular unit checks in order to ensure that all equipment is operating as it should.",
+                "Control equipment to regulate the flow and pressure of gas to feed lines of boilers, furnaces, and related steam generating or heating equipment."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "B Class Electrician",
+            "company": "City, State",
+            "period": "01/2010 to 06/2015",
+            "description": [
+                "Install or calibrate electrical or mechanical equipment such as motors, engines, switchboards, relays, switch gears, meters, and pumps.",
+                "Cut, bend, or shape mental conduit for installation in new construction plant, using a hydraulic bender and pipe threader."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science",
+            "institution": "ITI Technical College",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in process operations and industrial safety, with a demonstrated ability to handle tasks requiring precision and efficiency. Their experience includes roles where they've been responsible for inspecting grain quality and ensuring the safety of shipping processes through specialized tests and inspections. With hands-on experience in electrical work and mechanical troubleshooting, complemented by basic computer skills and strong communication abilities, this candidate is well-suited for roles that require a combination of technical knowledge and practical application."
+}

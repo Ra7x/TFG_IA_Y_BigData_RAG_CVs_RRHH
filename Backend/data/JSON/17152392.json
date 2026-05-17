@@ -1,0 +1,73 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Supply Chain Manager",
+            "company": "Company Name",
+            "period": "2013-2014",
+            "description": [
+                "Achieved corporate goals through the development and execution of strategy, policy, and leadership.",
+                "Primarily but not limited to activities relating to master planning, tactical purchasing, receiving, warehousing, and shipping, and general materials management.",
+                "Created and implemented Supply Chain Operational Excellence plan and Business Process Improvement plan to increase inventory turns (from 4 average turns per year to 7 average annual turns per year) within a high mix, low volume global business environment. Controlled inventory assets to include expendable aircraft parts, Rotable and exchange pool assets, chemicals, miscellaneous shop supplies and consumable items valued at 6.8 million dollars.",
+                "Maintained a key role in the execution of monthly Sales, Inventory, and Operations (SIOP) goals.",
+                "Implemented lean principles, change management process, and best practices for all purchasing/procurement, material handling/storage, and logistics activities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Materials Manager",
+            "company": "Company Name",
+            "period": "2010-2013",
+            "description": [
+                "Responsible for sourcing and procuring all material required for repair and overhaul of jet engine and components as well as all contracts for outside services and long term agreements with suppliers.",
+                "Controlled $1.5 million in component parts inventory while maintaining 12 inventory turns annually.",
+                "Directed all purchasing activities and decisions (estimated annual volume $2 million).",
+                "Succeeded in cost reduction in procurement of all supplies, materials and services required to repair and overhaul jet engine components."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Contracts Supervisor",
+            "company": "Company Name",
+            "period": "2006-2010",
+            "description": [
+                "Interacted with Department heads to ensure the highest quality proposal was provided by meeting the customers' requirements for Value Added Services Programs, valued at $1.5 Billion.",
+                "Initiated a departmental wide interest for the customer and their needs, by guiding employees on how to research the customer, what they do and how we can better support their contract."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Purchasing and Procurement of military and civilian equipment",
+            "company": "Company Name",
+            "period": "1996-2001",
+            "description": [
+                "Reviewed the accuracy of purchase orders to ensure appropriate use of government funds.",
+                "Maintained inventory control through quarterly cycle counts."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "FIU College of Business",
+            "year": null
+        },
+        {
+            "degree": "B.S : Business Administration",
+            "institution": "State University of Maryland",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Lean Six Sigma Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Fluent",
+    "matchmaking_summary": "The candidate's career path showcases a strong background in supply chain management and procurement, with experience in both strategic planning and tactical execution. With multiple roles at various companies, the candidate has demonstrated expertise in inventory management, material handling, and supplier negotiations, especially focusing on cost reduction strategies that enhance organizational efficiency. The education leading up to these positions indicates an ongoing commitment to professional development and a grasp of contemporary business practices through advanced studies in Business Administration and Lean Six Sigma Certification."
+}

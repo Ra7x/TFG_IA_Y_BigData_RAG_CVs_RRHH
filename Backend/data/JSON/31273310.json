@@ -1,0 +1,118 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name",
+            "period": "07/2015 to Present",
+            "description": [
+                "Generate new business from cold calling efforts",
+                "Manage advertisement budget",
+                "Maintain key performance measures",
+                "Identify, coordinate and participate in client relationship-building activities and meetings. Assist sales managers with new and pre-owned sales through writing, negotiating, and closing sales",
+                "Design social media content and company webpage"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sponsorship & Exhibition Account Executive",
+            "company": "Company Name",
+            "period": "07/2015 to Present",
+            "description": [
+                "Research and develop a list of potential sponsors for each MMA event",
+                "Develop and maintain relationships with existing and potential sponsorship clients",
+                "Keep precise records of conversations with all clients and sponsors",
+                "Invoice sponsors once agreements have been reached",
+                "Coordinate various services for clients and sponsors",
+                "Assist in preparing promotional material",
+                "Maintain knowledge of MMA event timelines and sponsorship deadlines"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Internal Operations Manager",
+            "company": "Company Name",
+            "period": "08/2014 to 07/2015",
+            "description": [
+                "Manage reconditioning process of all pre-owned vehicles",
+                "Resolve customer complaints in a quick and friendly manner",
+                "Handle all internal service tickets",
+                "Sell customers additional service based off recommendations of technician",
+                "Increase service department revenue and profit by 30% in just 6 months",
+                "Develop and share best sales practice throughout service department",
+                "Support sales, business office, and buyer when needed"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Used Car Manager",
+            "company": "Company Name",
+            "period": "02/2013 to 08/2014",
+            "description": [
+                "Procure and sell pre-owned inventory through auction sites, 3rd party vendors, and physical car auctions",
+                "Assist sales professionals in pre-owned sales including customer relationship building, negotiating, and arranging financing",
+                "Increase pre-owned sales from 40 cars per month to 70 cars per month within 3 months"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Development Sales Manager",
+            "company": "Company Name",
+            "period": "07/2009 to 01/2013",
+            "description": [
+                "Cold and warm called 80-100 new and existing accounts per day.",
+                "Manage advertisement budget",
+                "Maintain key performance measures",
+                "Contact new and existing customers to discuss how specific products could meet their needs. Identify, coordinate and participate in client relationship-building activities and meetings. Assist sales managers with new and pre-owned sales through writing, negotiating, and closing sales"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Internet Sales Manager",
+            "company": "Company Name",
+            "period": "05/2007 to 07/2009",
+            "description": [
+                "Manage, analyze, and data mine CRM",
+                "Acquired new sales opportunity by filtering incoming calls and aggressive follow up with existing customers",
+                "Negotiate and close sales",
+                "Manage monthly online advertisement budget",
+                "Manage online inventory"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Consultant",
+            "company": "Company Name",
+            "period": "01/2007 to 05/2007",
+            "description": [
+                "Identify prospective customers using lead generating methods and performing an average of 60 cold calls per day.",
+                "Develop tools to track and monitor personal sales opportunities, deals in progress and finish contracts.",
+                "Retain and ensure proper handling and care of 150 existing client accounts."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "Argosy University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Winthrop University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CNA certificate",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in business development and management, with diverse industry experience including sales, marketing, and customer service. Their track record of increasing revenue and effectiveness within departments suggests strong strategic thinking and execution skills. The ability to handle both front-facing client interactions and internal operations efficiently indicates excellent organizational and multitasking abilities."
+}

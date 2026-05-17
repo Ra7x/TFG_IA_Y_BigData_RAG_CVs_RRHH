@@ -1,0 +1,57 @@
+{
+    "full_name": "Director of Information Technology",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Cloud Environments Design & Implementation",
+        "Network Design & Implementation VOIP",
+        "Cyber Security (NIST HITRUST/HIPAA)",
+        "Project Management",
+        "Technical Support Management",
+        "Budget Management"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Information Technology",
+            "company": "Company Name, City , State",
+            "period": "Sep 2005 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information technology Manager",
+            "company": "Company Name, City , State",
+            "period": "Sep 2003 to Sep 2005",
+            "description": [
+                "Identified, evaluated and led a bi-County steering committee in all technical aspect in an RFP release and selection process.",
+                "Managed a project support team including administrators, help desk staff and trainers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information technology Manager",
+            "company": "Company Name, City , State",
+            "period": "Sep 1998 to Mar 2003",
+            "description": [
+                "Acted as liaison between vendors, operation staff and the CFO for all major projects on time and on budget.",
+                "Managed the overall management, infrastructure and strategic planning of our National point of sale network at 100+ retail locations and 5 distribution centers."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S., IT",
+            "institution": "California State University, Mihaylo College of Business and Economics",
+            "year": null
+        },
+        {
+            "degree": "B.S., IT",
+            "institution": "University of Phoenix",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "As a seasoned Director of Information Technology with over a decade in the field, I have led and managed large-scale IT operations effectively. My expertise spans across cloud environments design & implementation, network design & implementation (VOIP), cyber security (NIST HITRUST/HIPAA), project management, technical support management, and budget management. With a strong focus on emerging technologies like SaaS and hybrid cloud environment deployment in 2008, I have consistently demonstrated foresight and financial prudence. My leadership has been instrumental in shaping the IT strategy and infrastructure for multiple organizations, fostering strategic partnerships to drive technological advancements."
+}

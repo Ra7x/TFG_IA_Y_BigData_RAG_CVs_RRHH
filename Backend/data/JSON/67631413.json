@@ -1,0 +1,32 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Aviation Safety Assistant",
+            "company": "Company Name - City , State",
+            "period": "Jan 1998 to Oct 2015",
+            "description": [
+                "- In my position as the Aviation Safety Assistant for operations I perform administrative tasks such as preparing travel arrangements and assisting with investigations by gathering information and drafting correspondence and reports for enforcements, accidents, incidents and complaint investigations.",
+                "- I maintain and coordinate the calendars, and schedules for my unit, and maintaining confidential files, the Facility Emergency Security Plan and the telephone availability list to insure daily office coverage.",
+                "- I enter payroll data, assist with the labor distribution reports, and insure accuracy on all operation's correspondence before they leave the office.",
+                "- Additionally I provide daily customer service and have been awarded customer service awards and recognitions along with 3 administrative employee of the year awards.",
+                "- Utilizing my programming, web designing and software education, I have created and maintained several useful SharePoint Databases and forms.",
+                "- In order to maintain the reliability of the SharePoint I perform weekly backups, manage users and continuously add new features and information as needed while providing training to all employees on the workings of SharePoint."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Learning Center Business School Graduate",
+            "institution": "Business Course - City , State , usa",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate boasts a rich history of administrative and aviation safety roles, demonstrating strong organizational skills, customer service expertise, and technological adaptability. With over 17 years of dedicated service in the Federal Aviation Administration, they have earned multiple awards for both commitment to quality and exemplary performance in administrative duties. Moreover, their knowledge and practical experience with SharePoint databases indicate a capability to manage complex systems effectively, an asset particularly relevant in the aviation safety sector where data integrity is paramount."
+}

@@ -1,0 +1,75 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "IT Manager",
+            "company": "Company Name, City , State",
+            "period": "December 2013 to Current",
+            "description": [
+                "Stabilize and manage infrastructure and applications for corporate and remote facilities.",
+                "Create standard hardware and software lists and purchased based on those lists.",
+                "Perform thorough IT audit and proposed various changes based on the audit.",
+                "Administer various information technology systems and applications, including planning and managing projects."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Technical Analyst",
+            "company": "Company Name, City , State",
+            "period": "October 2010 to December 2013",
+            "description": [
+                "Manage team of help desk technicians to ensure excellent customer satisfaction and prompt issue resolution for over 30 clients.",
+                "Administer various information technology systems and applications, including analyzing system performance."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Information Technology",
+            "company": "Company Name, City , State",
+            "period": "January 2010 to October 2010",
+            "description": [
+                "Manage corporate network and ensure high system availability. Develop backup and disaster recovery plan.",
+                "Reduce system downtime by diagnosing and resolving complex technology related issues."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Information Technology",
+            "company": "Company Name, City , State",
+            "period": "June 2004 to December 2009",
+            "description": [
+                "Manage corporate network and ensure high system availability. Maintain disaster recovery methods and backup procedures.",
+                "Administer multiple Local Area Networks (LANs) and oversee IT staff training."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Project Manager",
+            "company": "Company Name, City , State",
+            "period": "June 2000 to December 2003",
+            "description": [
+                "Provide leadership and direction to installation team members while investigating workflow in the radiology department.",
+                "Coordinate with vendors and hospital staff to determine project timelines."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Maryland University College",
+            "year": "May 2015"
+        },
+        {
+            "degree": "Computer Information Systems",
+            "institution": "Middle Tennessee State University",
+            "year": "August 1993"
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in IT management and technical analysis, demonstrating strong leadership and hands-on experience across various sectors. Their role as an IT Manager involves overseeing infrastructure and applications for both corporate and remote locations, which requires advanced troubleshooting techniques and project management skills. This role also demands financial budgeting expertise through the creation of fiscal year budgets and a deep understanding of information technology systems. The transition from Senior Technical Analyst to Director demonstrates a clear progression in leadership responsibilities."
+}

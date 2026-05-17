@@ -1,0 +1,89 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Network design and management",
+        "Enterprise Resource Planning implementation and management",
+        "Cloud Technologies",
+        "Internet Technologies",
+        "Small business development",
+        "Project management",
+        "Leadership/communication skills",
+        "Forecasting specialist",
+        "Business operations organization",
+        "Knowledge of Product Lifecycle Management (PLM)",
+        "Client account management",
+        "Hardware and software upgrade planning",
+        "Negotiations expert",
+        "Product requirements documentation",
+        "Budgeting expertise",
+        "Self-directed",
+        "Employee relations",
+        "Scrum methodology",
+        "Performance criteria tracking",
+        "Collaborative Decisive"
+    ],
+    "work_history": [
+        {
+            "job_title": "Senior Director, Information Technology",
+            "company": "Weston Educational Group Inc",
+            "period": "02/2015 to 11/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Manager, Student Information System",
+            "company": "American Career College and West Coast University",
+            "period": null,
+            "description": [
+                "Oversaw the Student Information System for both brands which had a student portal, faculty portal and several integrations into other systems such as a CRM system and internal applications developed on SharePoint platform.",
+                "Hired and managed a team of Business Analysts and support engineers to support the Student Information System (SIS).",
+                "Oversaw an off-shore development team in India to develop innovative solutions on SharePoint platform integrated into the SIS as a means of adding automation to enhance productivity and data validation.",
+                "Managed the relationships with vendors associated with the student information system."
+            ],
+            "technologies": [
+                "Campus Nexus Student, Student and Faculty portal",
+                "Accounting Systems: Sage Platinum, Microsoft Great Plains, AccountMate, SAP Business One",
+                "Learning Management Systems: Dialoge EDU; eCollege; Moodle",
+                "Customer Relationship Management Systems: Microsoft Great Plains CRM, Campus Nexus CRM",
+                "Enterprise BackOffice Systems: Microsoft Server, Microsoft SQL server, Microsoft Exchange, Microsoft SharePoint, Linux Storage Area Network, Active Directory, Microsoft Terminal Services, Microsoft Remote desktop Services, Citrix"
+            ]
+        },
+        {
+            "job_title": "President",
+            "company": "Aldreteem Inc",
+            "period": "01/2005 to 12/2004",
+            "description": [
+                "Accountable for the entire business including overall customer satisfaction and profitability.",
+                "Created new revenue streams by partnering with other ERP vendors that did not have our expertise to deploy solutions on Sage, SAP, Great Plains and Epicor."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, Client Services",
+            "company": "BatchMaster Software Inc",
+            "period": null,
+            "description": [
+                "Increased revenue by 60% through the creation of the client services department.",
+                "Created the Rapid implementation process where we reduced the implementation from months to 4 weeks."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration",
+            "institution": "Walden University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science : Information and Business Systems Technology",
+            "institution": "University of Essex",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

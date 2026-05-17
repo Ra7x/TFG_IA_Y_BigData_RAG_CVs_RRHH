@@ -1,0 +1,76 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "CHEF",
+            "company": "",
+            "period": "",
+            "description": [
+                "Served fresh, hot food with a smile in a timely manner.",
+                "Resolved guest complaints promptly and professionally.",
+                "Serviced orders to customers at windows, counters, and tables.",
+                "Cut and chopped food items and cooked on a grill or in fryers.",
+                "Packaged menu items into bags or trays and placed drink orders into carriers.",
+                "Operated large-volume cooking equipment such as grills, deep-fat fryers, and griddles.",
+                "Accurately measured ingredients required for specific food items.",
+                "Mastered Point of Sale (POS) computer system for automated order taking.",
+                "Carefully maintained sanitation, health, and safety standards in all work areas.",
+                "Frequently washed and sanitized hands, food areas, and food preparation tools.",
+                "Maintained a neat, well-groomed appearance including impeccable personal hygiene, hair restraint, and minimal jewelry that met company standards.",
+                "Followed all established restaurant practices and procedures.",
+                "Worked well with teammates and openly invited coaching from the management team.",
+                "Took initiative to find extra tasks when scheduled duties were completed."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Warehouse Picker/Stocker",
+            "company": "",
+            "period": "",
+            "description": [
+                "Maintained accurate stock records and schedules.",
+                "Selected products for specific routes according to pick sheets. Supervised material flow, storage, and global order fulfillment.",
+                "Unloaded, picked, staged, and loaded products for shipping."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Crew member",
+            "company": "",
+            "period": "",
+            "description": [
+                "I've done everything from opening the store with one other co-worker at 8 am in the morning to closing the store at 11 pm almost every night.",
+                "I've also worked several double shifts throughout my time there.",
+                "My experience is generally cashier & line cook, customer service based, Daily cleaning duties."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science",
+            "institution": "",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Medical Coder and Billing",
+            "year": null
+        },
+        {
+            "name": "Health Information Management",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in food service alongside warehouse operations, showcasing strong customer service skills, adaptability, and the ability to manage various tasks efficiently. Their experience at different levels within the same company demonstrates both versatility and reliability, making them an asset for roles that require multitasking and a can-do attitude."
+}

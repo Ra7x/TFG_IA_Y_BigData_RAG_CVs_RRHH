@@ -1,0 +1,87 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Call center/dialer operations",
+        "Multi-unit operations management",
+        "Underwriting",
+        "Change implementation/project management",
+        "Strategic planning",
+        "Relationship and vendor management",
+        "Operational Risk"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager, VP",
+            "company": "Company Name City , State",
+            "period": "12/2014 to Current",
+            "description": [
+                "Spearheaded sales of managemytests.com platform, resulting in a 1.2 million dollar increase in revenue over first six months.",
+                "Accountable for sales and overall customer satisfaction.",
+                "Spearheaded cross-functional initiative to achieve new business.Increased profits by 60% in one year through restructure of business line."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Lending Manager, VP",
+            "company": "Company Name City , State",
+            "period": "09/2009 to 10/2014",
+            "description": [
+                "Led a department consisting of two AVP's, ten managers, one business training consultant and 120 FTE.",
+                "Managed all facets of loss mitigation for private investors within Wells Fargo."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Collections Supervisor II",
+            "company": "Company Name City , State",
+            "period": "03/2007 to 09/2009",
+            "description": [
+                "Responsible for coaching, influencing, developing and managing team members including decisions relative to performance reviews, terminations, hires, discipline, salary actions, etc.",
+                "Provides quality customer service to internal and external customers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service and Collections Supervisor II",
+            "company": "Company Name City , State",
+            "period": "01/2001 to 03/2007",
+            "description": [
+                "Supervised the inbound and outbound Customer Service and Collections call teams.",
+                "Initiated monthly employee incentive programs for quality and quantity while managing to a budget."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Loan Processing Supervisor",
+            "company": "Company Name City , State",
+            "period": "01/2000 to 01/2001",
+            "description": [
+                "Analyzed loan application, preliminary title report, and credit report to determine which supporting documents to order.",
+                "Collaborated with loan officers to clear loan conditions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Loan Officer",
+            "company": "Company Name City , State",
+            "period": "01/1998 to 01/2000",
+            "description": [
+                "Responsible for generating leads via inbound and outbound solicitations.",
+                "Assessed prospective customers' needs to determine their interest in obtaining a loan."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BACHELOR OF ARTS : BUSINESS ADMINISTRATION",
+            "institution": "Univerity of Pheonix , State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate possesses a robust background in business development and management with a strong focus on strategic planning, team leadership, and customer service. With extensive experience managing multi-unit operations and handling critical functions such as underwriting and risk management, the candidate demonstrates exceptional leadership qualities and the ability to drive success through operational excellence and process improvement."
+}

@@ -1,0 +1,47 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name",
+            "period": "Jan 2009 to Jan 2011",
+            "description": [
+                "Problem Solver, Energetic Work Attitude.",
+                "Accomplishments Customer Assistance *Worked with company systems such as live Support and diligently completed all assigned tasks, working overtime as needed. Market Research * Interviewed clients via market research surveys to identify product issues and customer needs. Customer Service *Researched, calmed and rapidly resolved client conflicts to prevent loss of key accounts. Computed Data Reports,*Provided required weekly, monthly and quarterly reports listing sales figures and client track records."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Representative",
+            "company": "Company Name",
+            "period": "Jan 2008 to Jan 2009",
+            "description": [
+                "Developed new customer prospects or referrals. outbound and inbound phones calls , invite customers to our dealership for new promotions. Following leads and making appointments for service department."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Pharmacy",
+            "institution": "Carree College of America",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma, General Diploma",
+            "institution": "Thomas Jefferson High School",
+            "year": 1994
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in customer service and business development, marked by strong problem-solving skills, energetic work attitude, and a commitment to achieving high levels of customer satisfaction. With experience in both automotive and healthcare sectors, the candidate has honed their ability to manage challenging client interactions and deliver data-driven solutions. Their educational foundation in pharmacy technology, pharmacology, and pharmacy law further underscores their capability to contribute effectively within regulated industries."
+}

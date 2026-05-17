@@ -1,0 +1,62 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "C#",
+        "Java",
+        "VB.Net",
+        "C",
+        "C++",
+        ".Net Framework 4.0/4.5",
+        "ASP.Net",
+        "ASP.NET MVC",
+        "ADO.Net",
+        "Entity Framework",
+        "AJAX",
+        "Web Service",
+        "LINQ",
+        "JavaScript",
+        "jQuery",
+        "CSS",
+        "Bootstrap CSS",
+        "HTML",
+        "SQL",
+        "MySql",
+        "Visual Studio",
+        "Eclipse",
+        "NetBeans",
+        "Dreamweaver",
+        "Tortoise SVN",
+        "GitHub"
+    ],
+    "work_history": [
+        {
+            "job_title": "Database Programmer/Analyst (.NET Developer)",
+            "company": "Company Name",
+            "period": "Jun 2014 to Feb 2016",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science, Computer Engineering",
+            "institution": "University of Missouri",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Technology, Electrical and Electronics Engineering",
+            "institution": "Jawaharlal Nehru Technological University India",
+            "year": "May 2013"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in .NET development with expertise in front-end technologies like C#, ASP.Net, JavaScript, and jQuery. They have experience working with databases, including SQL Server, and are familiar with agile methodologies such as SCRUM. The candidate's ability to work on multiple projects simultaneously, handling responsibilities from design to deployment, indicates a versatile skill set suitable for technical roles in software development."
+}

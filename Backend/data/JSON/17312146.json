@@ -1,0 +1,53 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Conservation technician/maintenance",
+            "company": "",
+            "period": "03/2017 to 10/2017",
+            "description": [
+                "- Ensure customer needs are met at checkout, returns, special service department, prodesk registers, and train and coach new and existing cashiers.",
+                "- Create and edit the schedule to accommodate needs and sales flow."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Conservation technician/maintenance",
+            "company": "",
+            "period": "05/2016 to 10/2016",
+            "description": [
+                "- Regular upkeep of park buildings, structures, roadways, picnic and camping areas.",
+                "- Assist with summer programs/park visitor events."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Field technician and larvicider",
+            "company": "",
+            "period": "05/2015 to 10/2015",
+            "description": [
+                "- Perform site survey assessments, quality checks of biological control agents, collect, record, and process data.",
+                "- Use state department motor vehicle safely on public roadways."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of science",
+            "institution": "Shepherd University",
+            "year": null
+        },
+        {
+            "degree": "Associate of science",
+            "institution": "Hagerstown Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in conservation and maintenance, with experience in both retail customer service and environmental roles. Their skills in attention to detail, teamwork, and multi-tasking are directly applicable to maintaining park standards and ensuring visitor satisfaction. The ability to manage and coach staff indicates excellent management and leadership qualities."
+}

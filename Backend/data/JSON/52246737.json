@@ -1,0 +1,47 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Provisioning Technician",
+            "company": "City , State",
+            "period": "10/2012 to 08/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Consultant",
+            "company": "City , State",
+            "period": "12/2011 to 02/2013",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates of Arts and Sciences (AAS)",
+            "institution": "Business Administration Software Technology",
+            "year": null
+        },
+        {
+            "degree": "Associates of Arts (AA)",
+            "institution": "Information Technology",
+            "year": null
+        },
+        {
+            "degree": "Associates of Applied Sciences (AAS)",
+            "institution": "Network Security",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Comptia A Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the field of information technology, particularly focused on provisioning and consulting. With over five years of experience, the candidate has demonstrated expertise in IT governance, compliance management, and risk analysis. The ability to lead geographically diverse teams and influence change through process improvement is evident from the candidate's track record. Additionally, the candidate holds relevant certifications including Comptia A Certification that underscore their technical acumen."
+}

@@ -1,0 +1,5 @@
+instructor
+pydantic
+pymupdf4llm
+openai
+dotenv

@@ -1,0 +1,86 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name - City , State",
+            "period": "06/2016 to Current",
+            "description": [
+                "Inventoried food, ingredient, and supply stock to prepare and plan vendor orders.",
+                "Hired, trained and managed all kitchen staff, including employee development, issuing disciplinary action and conducting performance reviews.",
+                "Incorporated customer feedback in the experimentation and creation of new signature dishes.",
+                "Monitored linework processes to ensure consistency in quality, quantity, and presentation."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name - City , State",
+            "period": "01/2015 to 03/2016",
+            "description": [
+                "Consistently verified that kitchen staff followed all recipes and portioned serving guidelines correctly.",
+                "Actively participated in staff meetings and operated as an effective management team leader.",
+                "Identified opportunities to increase revenue, decrease kitchen expenses and maximize departmental productivity without compromising guest satisfaction."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name - City , State",
+            "period": "08/2012 to 01/2015",
+            "description": [
+                "Collaborated closely with the Food and Beverage Director to conduct staff meetings and resolve service, product and personnel issues.",
+                "Consistently kept a clean and safe environment by adhering to all federal, state and local sanitation and safety requirements.",
+                "Established and maintained open, collaborative relationships with the kitchen team."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sous Chef/Interim Executive Chef",
+            "company": "Company Name - City , State",
+            "period": "01/2009 to 08/2012",
+            "description": [
+                "Inspected dining and serving area to ensure cleanliness and proper set up.",
+                "Instructed cooks and other staff in the preparation, cooking, garnishing and presentation of food. Responsible for managing food production for a high volume account."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Kitchen Supervisor",
+            "company": "Company Name - City , State",
+            "period": "06/2005 to 06/2009",
+            "description": [
+                "Delivered quality service by providing a warm and welcoming environment.",
+                "Maintained clean dining room, lobby and service areas at all times."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "Savannah Technical University - City , State",
+            "year": null
+        },
+        {
+            "degree": "Food Preparation, Kitchen Management, Patisserie and Confectionery, International Cuisine",
+            "institution": "United States Air Force - City , State",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "ServeSafe Certified",
+            "year": null
+        },
+        {
+            "name": "ServSafe Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile marked by extensive experience in culinary arts, leadership roles, and conflict resolution. With over a decade of expertise working in various food service capacities, the candidate has demonstrated an ability to manage staff and operations effectively across multiple scales. Notably, their involvement in large-scale event planning and customer feedback integration into menu development suggests strong adaptability and an innovative approach to culinary innovation. The presence of servsafe certification indicates commitment to standards in food safety, a crucial aspect for any role in the culinary field."
+}

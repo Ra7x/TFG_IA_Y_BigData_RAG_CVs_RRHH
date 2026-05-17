@@ -1,0 +1,56 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Administration Office Assistant",
+            "company": "",
+            "period": "06/2010 to 08/2010",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Department of Public Safety (Rota, M.P., 96951, Songsong Village, CNMI)",
+            "company": "",
+            "period": "",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Nutrition and Agriculture Internship Trainee",
+            "company": "",
+            "period": "07/2012 to 08/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Teacher Aide for High School students",
+            "company": "",
+            "period": "02/2013 to 09/2013",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Rota High School",
+            "year": 2013
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "University of Portland",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Portland Helping Hands and Family Homeless Shelter",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Enthusiastic student-teacher with superb leadership and communication skills, fostering positive working environments. Effective in providing quality instruction, managing projects, and mentorship. Proficient in Microsoft Office programs and public speaking."
+}

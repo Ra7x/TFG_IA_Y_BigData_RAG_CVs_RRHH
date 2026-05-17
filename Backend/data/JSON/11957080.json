@@ -1,0 +1,114 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "MS Office Suite 2000-2016",
+        "O365",
+        "GroupWise",
+        "HEAT Call Logging",
+        "Crystal Reports",
+        "T3 VoiceMail",
+        "NetMotion",
+        "Novell iManager",
+        "Active Directory",
+        "Heatweb-fs",
+        "Windows 2000/XP/7/8/10",
+        "UNIX",
+        "DOS",
+        "ASP .NET",
+        "Client/Server",
+        "Database design",
+        "Database software",
+        "Desktop Publishing",
+        "equipment inventory",
+        "Front Office",
+        "help desk",
+        "HTML web design",
+        "Logging",
+        "Linux",
+        "Network administrator",
+        "Newsletter",
+        "procurement",
+        "repairs",
+        "SAP R/3",
+        "software installation",
+        "SQL",
+        "systems administration",
+        "technical support",
+        "training material",
+        "tutoring",
+        "Visual Studio",
+        "Web Applications"
+    ],
+    "work_history": [
+        {
+            "job_title": "Lead Information Technology Support Specialist",
+            "company": "Company Name ï¼​ City , State",
+            "period": "03/2016 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Support Specialist",
+            "company": "Company Name ï¼​ City , State",
+            "period": "04/2007 to 03/2016",
+            "description": [
+                "- Identify, troubleshoot, install, program, configure, upgrade, analyze and maintain various computer and network peripherals including mobile data computing devices.",
+                "- Determine appropriate course of action and conduct repairs, modifications, procurement, and replacement of internal peripherals as needed. Install, configure, and support enterprise class, SQL compliant database software.",
+                "- Document the procedures for other support personnel to use as reference material to assist in the support of these systems."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "End User Support Specialist",
+            "company": "Company Name ï¼​ City , State",
+            "period": "08/2004 to 03/2007",
+            "description": [
+                "- Ensure customer satisfaction by responding to calls to the help desk. Logs all customer questions and problems and tracks the same through to resolution.",
+                "- Field over 20,800 calls from user community per year. Analyze each call for problem symptoms then determine problem resolution."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Instructional Support Specialist",
+            "company": "Company Name ï¼​ City , State",
+            "period": "08/2002 to 05/2004",
+            "description": [
+                "- Provided administrative/secretarial support to all full- and part-time instructors in the Business Computer Information Systems Department.",
+                "- Worked cooperatively with Department Chair and all other faculty of the Business Education Department located on the Main Campus, Chico Center, Orland, Paradise, and Glenn County."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Instructional Support Asst I",
+            "company": "Company Name ï¼​ City , State",
+            "period": "02/2002 to 05/2002",
+            "description": [
+                "- Instructed and tutored Corporate Information Technology students in the basics of: Database design: including ERD diagrams, data dictionaries, using all functions of Microsoft Access.",
+                "- SAP R/3: enterprise wide functionality, materials requirement planning (MRP) functionality and to create a personnel file for a new employee."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Systems Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "06/1994 to 05/1997",
+            "description": [
+                "- Database Manager and Desktop Publisher Managed and maintained customized church database with 6000+ entries including membership, attendance, and contribution modules.",
+                "- Produced tailored reports for administrator using data analysis and manipulation techniques. Analyzed and produced visualized reports of abstract data."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S",
+            "institution": "California State University ï¼​ City",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

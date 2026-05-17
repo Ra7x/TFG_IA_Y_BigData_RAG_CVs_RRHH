@@ -1,0 +1,82 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name City , State",
+            "period": "12/2014 to Current",
+            "description": [
+                "Develops Human Resources policies, procedures, plans and budgets.",
+                "Ensures the safety of the workforce for recruitment, development and compensation of a superior workforce.",
+                "Promotes an employee-oriented culture that emphasizes quality, continuous improvement and high performance.",
+                "Conducts new employee orientation to foster positive attitude toward organizational objectives.",
+                "Serves as a link between management and employees by handling questions, interpreting and administering contracts and helping resolve work-related problems.",
+                "Serves on the executive management team and assists and advises company managers about Human Resources issues with regards to compensation, benefits, compliance, organizational development, HRIS, training & development and employee relations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name City , State",
+            "period": "02/2013 to 12/2014",
+            "description": [
+                "Administered various HR plans and procedures for all company personnel; assist in development and implementation of personnel policies and procedures; Ensure employee compliance.",
+                "Conducted recruitment efforts for all exempt and non-exempt personnel for shop and office which included temporary employees for each.",
+                "Assisted in evaluation of reports, decisions, and results of department in relation to established goals.",
+                "Recommended new approaches, policies, and procedures to effect continual improvements in efficiency of department and services performed."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resource Manager",
+            "company": "Company Name City , State",
+            "period": "10/2008 to 01/2013",
+            "description": [
+                "- Directed employee performance management program.",
+                "- Partnered with management team members on issues involving employee relations such as terminations, suspensions, EEOC claims and rule interpretations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Staffing Manager",
+            "company": "Company Name City , State",
+            "period": "10/2004 to 09/2008",
+            "description": [
+                "- Conducted background checks on candidates by obtaining information from law enforcement officials, previous employers and references.",
+                "- Explained employee compensation, benefits, schedules, working conditions and promotion opportunities."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA : Human Resource Management",
+            "institution": "Sam Houston State University",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science : Liberal Arts",
+            "institution": "North Harris Community College",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Energetic, Bilingual Human Resources Professional offering ~11 years of extensive and successful experience administering various HR plans and procedures. Emphasis on recruitment/retention, management and HR principles & practices. Expertise in employee relations and organization development through education, and experience, seeks a similar role to produce immediate growth contribution to a rewarding company."
+}

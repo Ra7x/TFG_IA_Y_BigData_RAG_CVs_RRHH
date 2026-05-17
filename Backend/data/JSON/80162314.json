@@ -1,0 +1,61 @@
+{
+    "full_name": "HR PROFESSIONAL",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Professional",
+            "company": "Company Name",
+            "period": "04/2013 to 06/2014",
+            "description": [
+                "Respond to and resolve issues or questions raised by employees or leaders regarding benefits, payroll, HR policies/procedures, general transactions or other HR-related activities.",
+                "Utilizes in-bound phone queue, e-mail, and face to face to receive inquiries as well as provide resolution. Provide accurate information and counsel to employees and/or people leaders on their questions and issues, escalating when appropriate."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Assistant",
+            "company": "Liyanage & Co",
+            "period": "07/2011 to 05/2013",
+            "description": [
+                "Trained under and worked with senior management to create HR policies and procedures; recruit employees; create group benefits databases; and develop orientation, training and incentive programs.",
+                "Manage leave-of-absence programs and personnel records; administer benefits enrollment and programs; administer HR budget; and handle HR assistant workplace issues."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Client/Advisor Professional",
+            "company": "Ameripise Financial",
+            "period": "11/2011 to 07/2012",
+            "description": [
+                "Assist advisor and clients in processing and maintain financial products and services offerings. Provide guidance and assistance on updating consumer lending products and other financial products."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Personal Banker",
+            "company": "Wells Fargo Bank",
+            "period": "09/2008 to 09/2011",
+            "description": [
+                "Customer assistance for personal/business/consumer lending products Working with Wells Fargo partners in privet banking, insurance, mortgage, investment and retirement to increase solutions and profits."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Art",
+            "institution": "Concordia University",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "University of Colombo",
+            "year": 2007
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "HR PROFESSIONAL is a dependable, self-motivated, and assertive professional with significant experience in HR roles across various industries. Their strong skills in recruitment, retention, employee relations, payroll, and policy management reflect a deep understanding of the complexities within human resources. The candidate has demonstrated a commitment to fostering positive workplace environments through effective communication strategies and personal accountability."
+}

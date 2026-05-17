@@ -1,0 +1,74 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "BUSINESS DEVELOPMENT SPECIALIST/AE",
+            "company": "Company Name â€“ City , State",
+            "period": "09/2012 to 07/2014",
+            "description": [
+                "Develop new business and manage existing accounts for #1-rated KESQ-TV / kesq.com.",
+                "Maintain relationships and service new and existing advertisers; conceptualize and produce all TV and radio commercials.",
+                "Research, plan, propose, budget, execute and assess all retail (and B2B) marketing, collateral, and support services for three branded entities within a 12-showroom chain.",
+                "Negotiate all media contracts, conceptualize and produce all TV and radio commercials. Conceptualize and produce all monthly CRM and direct mail campaigns, including mail list identification and procurement as well as campaign analysis.",
+                "Supervise web site construction, development, PPC/SEO initiatives, design report detailing web activity, create monthly reports utilizing Google Analytics, Clicky, etc. to ascertain campaign efficiency, web traffic and sales percentages and identify emerging industry trends to Company President."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "DIRECTOR OF MARKETING & ADVERTISING",
+            "company": "Company Name â€“ City , State",
+            "period": "01/2004 to 01/2012",
+            "description": [
+                "Responsible for all aspects of company branding, marketing, promotions and advertising.",
+                "Research, plan, propose, budget, execute and assess all retail (and B2B) marketing, collateral, and support services for three branded entities within a 12-showroom chain.",
+                "Negotiate all media contracts, conceptualize and produce all TV and radio commercials. Conceptualize and produce all monthly CRM and direct mail campaigns, including mail list identification and procurement as well as campaign analysis.",
+                "Supervise web site construction, development, PPC/SEO initiatives, design report detailing web activity, create monthly reports utilizing Google Analytics, Clicky, etc. to ascertain campaign efficiency, web traffic and sales percentages and identify emerging industry trends to Company President."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "CREATIVE MARKETING DIRECTOR",
+            "company": "Company Name â€“ City , State",
+            "period": "01/1998 to 01/2004",
+            "description": [
+                "Provide creative marketing / communications solutions and strategies from concept to final production (through distribution). Including work on: media planning and placement; product and image brand management; franchise campaign development; regional, national and international ad campaign development.",
+                "Partial client list: Columbia Pictures, Fox Sports, F/X, Heal The Bay, Sony Pictures Entertainment, NBC, Closets By Design, Los Angeles Dodgers, Earl Scheib, Environmental Enterprises, Western Nonwovens, Inc., etc."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "ADVERTISING AND MARKETING DIRECTOR",
+            "company": "Company Name â€“ City , State",
+            "period": "01/1993 to 01/1998",
+            "description": [
+                "Conceptualized, wrote, designed, and produced advertising and marketing campaigns and materials for the entire company.",
+                "Coordinated and ran day-to-day marketing advertising operations for all 25 company-owned and all 21 franchise offices, supervised all corporate advertising needs, as well as direct responsibility for individualized ad campaigns for over 1,200 sales agents.",
+                "Re-negotiated all L.A Times contracts - effectively saving company 24% in costs."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "PUBLICATION DESIGNER / EDITOR",
+            "company": "Company Name â€“ City , State",
+            "period": "01/1988 to 01/1993",
+            "description": [
+                "Responsible for the writing, editing, graphic design and production of university catalogs, ads, academic books, professional journals, direct mail campaigns, annual reports, newsletters as well as computer-generated presentation materials.",
+                "Created fund-raising campaigns; coordinated special event coverage, photography, and logistics; designed museum and exhibition signage and promotions, etc."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA",
+            "institution": "Not Specified",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

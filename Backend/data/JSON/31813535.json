@@ -1,0 +1,86 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sr. Business Development Director",
+            "company": "Company Name",
+            "period": "01/2014 to Current",
+            "description": [
+                "Manage and develop business relations with insurance marketplace clients sales.",
+                "- Direct sales team with software sales nationally.",
+                "- Consult clients to assess technology requirements and advise on software to address their needs.",
+                "- Lead project management for complete life cycle of software build and customization. Implemented marketing strategies which resulted in 12% growth of customer base."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Program Manager",
+            "company": "Company Name",
+            "period": "12/2012 to 01/2014",
+            "description": [
+                "Successfully built the confidence and trust of major companies, in Xerox software and support through astute assessment of client needs and the development of strategies to meet them, raising customer satisfaction ratings from 'not happy' to 'extremely happy'.",
+                "- Provided product sales support in closing client software purchases resulting in 1.8 million in sales in one physical year",
+                "- Devised and implemented a core process for project management that ensured sustained support, eliminated errors and achieved high levels of customer satisfaction.",
+                "- Managed projects and support teams providing high quality of service to Xerox clients in Europe and USA, installing and supporting scanned invoice data software and international network installation between 4 countries.",
+                "- Directed a team of 15 in the setup of a complex Xerox mailroom in Poland, networked between 3 countries, with a budget of $2M. Provided project management for full lifecycle enhancement and break fix projects, recovering lost revenue."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Quality Engineering Analyst",
+            "company": "Company Name",
+            "period": "01/2007 to 01/2011",
+            "description": [
+                "Led training as instructor on Six Sigma tools and implementation techniques in a classroom setting.",
+                "- Assisted in preparation of marketing materials for inter-departmental clients.",
+                "- Implemented Six Sigma site support for best practice, and lead 20 departments in Six Sigma Lean pilot projects on production line and business practices including conducting such process improvements as Root Cause Analysis.",
+                "- Sales engineer support for rocket engine and jet engine sales for NASA, Lockheed, and US Airforce.",
+                "- Coordinated Six Sigma best business practices/tier audits/environmental health and safety planning for rocket engine production and NASA support with configuration management."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Distributed Computer Systems Analyst / Network Administrator",
+            "company": "Company Name",
+            "period": "01/1990 to 01/1996",
+            "description": [
+                "Provided computer consultancy and support for more than 200 workstations across 5 counties.",
+                "- Installed and maintained Microsoft Windows server networks.",
+                "- Coordinated and managed computer equipment logistics."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctor of Business Administration Management",
+            "institution": "Argosy University",
+            "year": null
+        },
+        {
+            "degree": "MBA : Avaition",
+            "institution": "Embry Riddle University",
+            "year": 2004
+        },
+        {
+            "degree": "Bachelor of Science : Computer Science",
+            "institution": "Southern Adventist University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Airman certificate (private pilot)",
+            "year": null
+        },
+        {
+            "name": "Six sigma",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust professional profile characterized by exceptional achievements in multiple sectors including aerospace, IT, and quality engineering. Demonstrated success as a top-producing sales professional and expert in large-scale project management with solid experience managing all levels of projects, inclusive of budgeting and administration. This strategic approach extends to handling client relations and technology requirements for national software sales, showcasing expertise not only in business development but also in delivering tailored solutions that meet precise technological needs. The candidate's ability to lead transformative change through Six Sigma methodologies and environmental health strategies speaks volumes about their capacity to drive efficiency, cost reduction, and enhanced customer satisfaction within complex organizational frameworks."
+}

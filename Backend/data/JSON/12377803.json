@@ -1,0 +1,43 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name City , State",
+            "period": "Jan 2014 to Present",
+            "description": [
+                "Manage new and existing accounts and develop them to their fullest potential to ensure consistent recurring revenues.",
+                "Also in charge of providing clients with a service that continually delivers significant value and meets their needs."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name City , State",
+            "period": "Jan 2012 to Jan 2014",
+            "description": [
+                "Manage new and existing accounts and develop them to their fullest potential to ensure consistent recurring revenues.",
+                "Also in charge of providing clients with a service that continually delivers significant value and meets their needs."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Organizational Leadership Human Resources",
+            "institution": "Colorado State University",
+            "year": null
+        },
+        {
+            "degree": "Master of Business Administration : Business Administration",
+            "institution": "Colorado State University-Pueblo",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out for their robust background in business development and management, showcasing a comprehensive understanding of internal processes and organizational structure. Their experience spans across multiple sectors including finance, accounting, and customer service, which highlights adaptability and a knack for driving revenue growth through strategic client engagement."
+}

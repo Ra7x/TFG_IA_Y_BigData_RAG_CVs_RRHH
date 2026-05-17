@@ -1,0 +1,128 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Administrative Assistant",
+            "company": "Company Name (June 2012 to June 2013)",
+            "period": "June 2012 to June 2013",
+            "description": [
+                "Assist with creating all documents and a bookkeeping/accounting system.",
+                "Payroll and Bookkeeping.",
+                "Tax preparation for accountants."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Independent Consultant",
+            "company": "Company Name (February 2012 to Current)",
+            "period": null,
+            "description": [
+                "Market and sell high quality kitchen tools and accessories through in-home demonstrations, booths at trade shows and fundraiser programs.",
+                "Create and publish monthly newsletters for customers and other consultants.",
+                "Help plan, lead, and execute monthly kitchen consultant meetings and potential consultant workshops."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Paraoptometric Technician",
+            "company": "Company Name (May 2008 to October 2009)",
+            "period": null,
+            "description": [
+                "Answered phones, greeted patients, and scheduled patients, called in prescriptions to pharmacies, and set up patient referrals to other doctors.",
+                "Gathered and recorded patient history.",
+                "Performed pre-examination tests using techniques, procedures and equipment as instructed. Assisted optometrists conducting and recording patient examinations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales and Service Specialist",
+            "company": "Company Name (October 2007 to March 2008)",
+            "period": null,
+            "description": [
+                "Accepted phone orders for flower arrangements. Represented items for 10 different companies.",
+                "Reconciled customer issues. Accepted payments for orders. Issues credit when necessary. Answered customer questions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Shift Lead / Assistant Manager",
+            "company": "Company Name (March 2007 to May 2007)",
+            "period": null,
+            "description": [
+                "Took and ordered inventory. Operated cash register. Prepared food following customers' specifications.",
+                "Reconciled income and prepared and made bank deposits. Trained and scheduled employees and began interviewing employees when store closed. Assisted General Manager."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Associate",
+            "company": "Company Name (March 2006 to May 2007)",
+            "period": null,
+            "description": [
+                "Answered questions regarding the store and its merchandise.",
+                "- Bagged / packaged purchases.",
+                "- Maintained a clean and safe work environment.",
+                "- Faced and cleaned shelves, counters, and tables.",
+                "- Computed sales prices and received cash or credit payment.",
+                "- Described merchandise and explained use, operation, and care of merchandise to customers.",
+                "- Greeted customers and ascertained what each customer wanted or needed."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Rep",
+            "company": "Company Name (February 2006 to March 2006)",
+            "period": null,
+            "description": [
+                "- Answered phone calls for RCA Electronics.",
+                "- Performed troubleshooting duties for customers. Logged information into computerized system.",
+                "Looked up and cross referenced information in order to assist customers in an accurate manner."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Secretary",
+            "company": "Company Name (August 2004 to August 2005)",
+            "period": null,
+            "description": [
+                "- Answered phone calls in a professional manner.",
+                "- Greeted customers.",
+                "- Completed shop tickets.",
+                "- Operated office machinery.",
+                "- Accepted payments and wrote receipts.",
+                "- Performed payroll and bookkeeping functions.",
+                "- Used a computer.",
+                "- Set up a website and listed cars for sale on the Internet.",
+                "- Completed paperwork for titling/retitling (title transfers)."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Medical Billing and Coding",
+            "institution": "Cowley County Community College",
+            "year": 2012
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Stillwater High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Paraoptometric",
+            "year": "expired"
+        },
+        {
+            "name": "Safety Training",
+            "year": "expired"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a comprehensive professional background with experience in various administrative and customer service roles, predominantly within the healthcare and sales sectors. Their technical skills include proficiency in Microsoft Office applications (Access, Excel, Outlook, PowerPoint, Word) as well as knowledge of QuickBooks 2012 and specific electronic medical record software like Medisoft and Eyefinity. The candidate's educational background is aligned with a Medical Billing and Coding Associates Degree coupled with practical experience in both administrative and sales environments, indicating adaptability and versatility within professional settings."
+}

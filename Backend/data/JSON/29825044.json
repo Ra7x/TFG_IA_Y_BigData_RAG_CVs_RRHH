@@ -1,0 +1,62 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Director of Business Development",
+            "company": "Privacy Data Systems, LLC",
+            "period": "07/2007 to 09/2015",
+            "description": [
+                "Directed sales and marketing strategies for a cloud-based secure communications platform.",
+                "Developed and implemented technical sales and marketing plans, including competitive analysis and market research.",
+                "Managed the development of training materials, product positioning, and branding.",
+                "Led efforts in public and media relations, web and print content development, and client support post-sales.",
+                "Administered the company's CRM system (Salesforce) with reporting, dashboards, custom applications, and data management."
+            ],
+            "technologies": [
+                "SenditCertified",
+                "encrypted messaging",
+                "large file transfer",
+                "eSignatures",
+                "cloud-based encrypted storage",
+                "biometric authentication",
+                "web, desktop and mobile apps",
+                "MS Outlook integration",
+                "customized API/web services"
+            ]
+        },
+        {
+            "job_title": "Director of Franchise Sales",
+            "company": "Corporate Atlantic Region, Help-U-Sell Real Estate",
+            "period": "01/2003 to 12/2007",
+            "description": [
+                "Managed a large 9-state region, overseeing marketing to potential franchisee candidates.",
+                "Utilized technology to increase efficiency during the consultative sales process."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Analyst/Specialist",
+            "company": "Company Name (Dates not specified)",
+            "period": null,
+            "description": [
+                "Analyzed product need on both company-wide and individual-store basis.",
+                "Allocated merchandise units based on intricate sales criteria.",
+                "Inspected incoming merchandise for quality control."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Texas A&M University",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate presents a strong profile in the field of business development, particularly in the context of cloud software solutions. With over eight years of experience, they have demonstrated expertise in developing and implementing strategic sales and marketing plans to enhance product positioning and market penetration. Their background includes roles that require creativity and innovation under pressure, which are key for successful leadership positions in dynamic tech environments. The candidate's involvement in youth sports coaching has likely honed their skills in planning, organization, and communication, further supporting potential success in a role where they can contribute to the development of company vision and strategy."
+}

@@ -1,0 +1,75 @@
+{
+    "full_name": "Director of Information Technology",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Service Now",
+        "ITIL",
+        "Active Directory",
+        "Office 365",
+        "Cerner EHR system",
+        "MS Project",
+        "SAP",
+        "PeopleSoft",
+        "SQL",
+        "Cisco",
+        "VoIP",
+        "BroadVision",
+        "Altris document management technology"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Information Technology",
+            "company": "Company Name",
+            "period": "10/2013 to Current",
+            "description": [
+                "Member of the Health Care Executive team responsible for the delivery of technology to two hospitals, 40 clinics, Public Health, Behavioral Health, Medical Examiner and the County's Health Insurance plan.",
+                "Implemented Service Now, ITIL Active Directory and Office 365 for the agency.",
+                "Responsible for the agency's Informatics organization.",
+                "Oversaw the outsourcing of the agency's Cerner EHR system, implemented two major Cerner upgrades and developed the technology plan to implement the agency's new hospital.",
+                "Developed and managed the County's Project Leadership Academy."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Project Manager/Architect/Business Analyst",
+            "company": "Company Name",
+            "period": "04/2001 to 10/2013",
+            "description": [
+                "Health Care Agency - Electronic Health Record System Managed the implementation of a $50 million Cerner system across two hospitals, 40 clinics and Public Health in 14 months.",
+                "Land Management Providing Project Management Office (PMO) oversight and mentoring to project managers on a major upgrade ($4.5 million) to the County's Land Management and Permitting System.",
+                "Fire Department Enterprise Architecture Initialization, analysis and estimating for a $6 million upgrade of the Fire Department's IT systems including the development of a data warehouse and executive dashboards.",
+                "Property Tax Led a team of analysts to develop a comprehensive requirements document for a replacement property tax system.",
+                "Managed the requirements definition, design, development and implementation of several large Law Enforcement / Public Safety systems."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Principal Consultant/Senior Project Manager",
+            "company": "Company Name",
+            "period": "03/1997 to 04/2001",
+            "description": [
+                "Acted in roles including Project Management, Architect and Lead Designer on various projects for the company's CRM practice.",
+                "RR Donnelley - Managed the design and development of a customer B2B portal.",
+                "Advest - Managed the design and development of a Web-based workflow enabled electronic new account form system.",
+                "Franciscan Winery - Developed a CRM and Decision Support solution across several departments and vendors based on Epiphany technology."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "Pepperdine University",
+            "year": null
+        },
+        {
+            "degree": "BS",
+            "institution": "Loyola Marymount University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a distinguished career in the field of information technology, spanning over two decades. With expertise in senior project management and architecture roles across diverse sectors including healthcare, local government, and aerospace/defense contracting, the candidate has demonstrated exceptional leadership and strategic decision-making skills. Notably, their tenure at the County level involved pivotal transformations such as implementing advanced IT systems like Cerner EHR and Service Now, alongside critical infrastructure upgrades like the Countywide Microwave project. The development of a robust technology strategy and the Project Leadership Academy under their guidance highlights the candidate's commitment to organizational improvement through technological advancement."
+}

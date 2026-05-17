@@ -1,0 +1,49 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Aviation Supply Specialist",
+            "company": "Company Name",
+            "period": "05/2002 to 07/2013",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Monroe Senior High",
+            "year": 2001
+        },
+        {
+            "degree": "Certificate of Completion",
+            "institution": "Marine Corps Institute",
+            "year": 2013
+        },
+        {
+            "degree": "Certificate of Completion",
+            "institution": "Marine Corps Institute",
+            "year": 2006
+        },
+        {
+            "degree": "Certificate of Completion",
+            "institution": "Marine Corps Institute",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        {
+            "name": "NAVAL AVIATION SURVIVAL TRAINING",
+            "year": 2006
+        },
+        {
+            "name": "High School Diploma",
+            "year": 2001
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, with over a decade of experience in aviation supply management and leadership roles within the military, has demonstrated exceptional skills in logistics and team management. With a robust background managing over $300 million worth of equipment during global operations, their responsibilities encompassed not only safety and shipping but also strategic planning and emergency response training. Their accomplishments include maintaining accountability for significant equipment sections and achieving high mission capability ratings with zero discrepancies. The candidate's military education has been instrumental in developing traits such as responsibility, leadership, and commitment to duty, making them a value asset to any organization focusing on supply chain management and aviation operations."
+}

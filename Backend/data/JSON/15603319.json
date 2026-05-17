@@ -1,0 +1,62 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "GRADUATE RESEARCH ASSISTANT",
+            "company": "Florida Agricultural & Mechanical University",
+            "period": "01/2013 to 04/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "PLANT PROTECTION OFFICER - Entomology",
+            "company": "City",
+            "period": "10/2011 to 12/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "FIELD AND LAB RESEARCH ASSISTANT",
+            "company": "City",
+            "period": "12/2002 to 10/2011",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Entomology",
+            "institution": "Florida Agricultural & Mechanical University",
+            "year": 2016
+        },
+        {
+            "degree": "Bachelor of Science : Environmental Science",
+            "institution": "Knox Community College",
+            "year": 2011
+        },
+        {
+            "degree": "Associate of Science : General Agriculture",
+            "institution": "College of Agriculture Science and Education",
+            "year": 2006
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Entomological Society of America (ESA)",
+            "year": null
+        },
+        {
+            "name": "Florida Entomological Society",
+            "year": null
+        },
+        {
+            "name": "Minorities in Agriculture, Natural Resources and Related Sciences (MANNRS)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a highly skilled professional with extensive experience in the agricultural sector, particularly in research related to biological control using member from the Coleopteran family. They have successfully determined the biology, reproduction, and effect of chemicals on specific invasive insects, showcasing strong analytical and experimental skills. Their background includes managing cultures under various conditions and conducting field evaluations for effective pest management solutions. The candidate holds several professional affiliations and has publications in relevant fields. Their dedication to research and ability to analyze data make them an asset for any position requiring expertise in entomology and agricultural science."
+}

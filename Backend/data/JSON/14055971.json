@@ -1,0 +1,76 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Representative",
+            "company": "Company Name, City , State",
+            "period": "November 2014 to Current",
+            "description": [
+                "Identified prospective customers using lead generating methods and obtained leads through cold calls.",
+                "Managed organization's South Texas and West Texas region and performed full sales cycle duties, therefore increasing division profits. Quoted prices for services outlined in brochure."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Clerk",
+            "company": "Company Name, City , State",
+            "period": "September 2012 to November 2014",
+            "description": [
+                "Ensured that team member responsibilities were defined and understood. Established and maintained effective communication system.",
+                "Planned travel arrangements for executives and staff. Managed the receptionist area, including greeting visitors and responding to telephone and in-person requests for information."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Registrar",
+            "company": "Company Name, City , State",
+            "period": "October 2009 to September 2012",
+            "description": [
+                "Maintained detailed administrative and procedural processes to improve accuracy and efficiency. Organized and maintained file system, and files correspondence and other records.",
+                "Coordinated meetings with education staff and served as main liaison between registration process throughout graduation."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Admitting Specialist-ER Registration",
+            "company": "Company Name, City , State",
+            "period": "March 2008 to October 2009",
+            "description": [
+                "Maintained a state of readiness and alertness for all incoming patients.",
+                "Collected pertinent information from the patient, family and friends, medical records and prescriptions. Verified that information in the computer system was up-to-date and accurate."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Taft High School, City , State",
+            "year": null
+        },
+        {
+            "degree": "",
+            "institution": "Del Mar College, City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Employee of the Year 2010 at South Texas Vocational Technical Institute",
+            "year": null
+        },
+        {
+            "name": "Promoted to Registrar after 1 year of employment at STVT.",
+            "year": null
+        },
+        {
+            "name": "Promoted to Business Development Representative after 18 months of employment at GIS.",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a comprehensive background in business development and administration, highlighted by their ability to manage customer relations effectively across various industries. Demonstrating skills in strategic planning and sales engagement since a young age, this professional's expertise spans multiple sectors including vocational education and healthcare technology, showcasing adaptability and commitment."
+}

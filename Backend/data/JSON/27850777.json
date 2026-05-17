@@ -1,0 +1,48 @@
+{
+    "full_name": "Business Development Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name",
+            "period": "09/2015 to Current",
+            "description": [
+                "Increased monthly sales by 50% by implementing strategies to develop and expand existing customer base. Cold and warm called 80+ new and existing accounts per day.",
+                "Developed a new customer base consisting of 3 accounts. Generated new accounts by implementing effective networking and content marketing strategies. Identified strategic partnerships and gathered market information to gain a competitive advantage."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name",
+            "period": "03/2013 to 09/2015",
+            "description": [
+                "Developed and integrated market plans to efficiently position the company brand within targeted markets. Coordinated and managed major proposal processes from initiation to implementation.",
+                "Marketed and developed key accounts by favorably representing the company at membership and community functions. Researched economic processing factors to determine the best process and sales strategies. Leveraged existing network of contacts with new commercial prospects."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Talent Acquisition Consultant / Account Executive",
+            "company": "Company Name",
+            "period": "07/2010 to 12/2012",
+            "description": [
+                "Recruited and interviewed 48 applicants per year. Increased the employee base by 40% to meet changing staffing needs.",
+                "Advised managers on the market regarding prospect candidates and recommend needed changes. Identified staff vacancies and recruited, interviewed and selected applicants."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Arts",
+            "institution": "University of California, Santa Cruz",
+            "year": 2010
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate demonstrates a strong background in business development and talent acquisition, utilizing skills in negotiation, market research, and strategic partnerships to drive growth for companies. With experience in both corporate settings and start-up environments, they are well-versed in sales management, marketing, and technical presentations, making them an asset for any company looking to expand or enhance their business strategies."
+}

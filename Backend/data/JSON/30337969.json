@@ -1,0 +1,58 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Owner, Personal Chef",
+            "company": "Company Name",
+            "period": "January 2006 to January 2014",
+            "description": [
+                "Established successful marketing and sales strategies including implementation of Gourmet-to-Go sales counter at local supermarket.",
+                "Acquired 20 new clients within first year of business and continued growth throughout remainder of ownership.",
+                "Managed entire selling cycle, acquisition of new clients, needs assessment, bid proposal and pricing, to negotiations, sales closing and follow up."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Environmental Scientist",
+            "company": "Company Name",
+            "period": "January 2001 to January 2006",
+            "description": [
+                "Performance of Phase I and Phase II Environmental Site Assessments, National Environmental Policy Act Reviews and Real Estate Transaction Screens throughout Midwest.",
+                "Interpretation of analytical results, development of corrective actions and presentation of findings in formal reports.",
+                "Performance of Hazardous Material Surveys including comprehensive asbestos, lead based paint and mold investigations and evaluations for industrial, residential, and commercial facilities throughout Michigan."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "institution": "University of Michigan",
+            "year": 2003
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Wayne State University",
+            "year": 1999
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Hazardous Materials Manager",
+            "year": 2004
+        },
+        {
+            "name": "Accredited Asbestos Building Inspector - Michigan",
+            "year": 2003
+        },
+        {
+            "name": "OSHA 29 CFR 191.120 40-hour Hazardous Waste Training and subsequent 8-hour refresher courses",
+            "year": 2002
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in environmental science, including experience performing site assessments and hazardous material surveys. Their transition to the Personal Chef business demonstrates strong marketing and sales acumen, with strategic insights into client relationship management and market expansion. The combination of technical skills from their Environmental Science degree and practical entrepreneurial experience highlights a proactive approach to problem-solving and customer service."
+}

@@ -1,0 +1,47 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Representative",
+            "company": "Company Name City , State",
+            "period": "01/2017 to Current",
+            "description": [
+                "Directly supports the outside sales team.",
+                "Percentage to quota last 3 quarters: 133%, 144%, 200%."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Sale Representative and Team Lead",
+            "company": "Company Name City , State",
+            "period": "07/2013 to 01/2017",
+            "description": [
+                "Responsible for New England, Northeast, and Southern sales territories.",
+                "Percentage to quota the last nine quarters: 201%, 116%, 226%, 80%, 100%, 64%, 129%, 98%, 106%."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Journalism and Technical Communication",
+            "institution": "Colorado State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Emerging Leaders Program certified",
+            "year": null
+        },
+        {
+            "name": "Employee of the Month (July 2017)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a strong track record in sales and business development, with notable achievements in quota attainment and team leadership. Their experience includes managing meetings with potential clients, running discovery calls, and moving deals through sales stages, particularly focusing on penetrating companies with significant annual revenue. With certifications in leading programs and recognition for exemplary performance, the candidate is well-suited to contribute effectively across a range of roles requiring strong interpersonal and sales skills."
+}

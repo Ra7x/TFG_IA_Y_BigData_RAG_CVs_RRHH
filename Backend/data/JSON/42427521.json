@@ -1,0 +1,61 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Office (Word, Access, Excel, Outlook, Powerpoint)",
+        "Windows XP",
+        "Windows Vista",
+        "C++",
+        "ANCDs",
+        "GPS",
+        "AFCS System",
+        "IFF",
+        "transponder",
+        "gyros",
+        "HUDs",
+        "CIS",
+        "HIS",
+        "VSI",
+        "Night Vision Goggles"
+    ],
+    "work_history": [
+        {
+            "job_title": "Program Manager",
+            "company": "Company Name",
+            "period": "June 1999 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Quality Assurance/Technical Inspector",
+            "company": "Company Name",
+            "period": "May 1998 to Current",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors Degree : Aeronautical Engineering",
+            "institution": "Embry-Riddle Aeronautical University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "GFEBS",
+            "year": null
+        },
+        {
+            "name": "CPR/Combat Lifesaver",
+            "year": null
+        },
+        {
+            "name": "FCC License",
+            "year": null
+        }
+    ],
+    "english_level": "Intermediate",
+    "matchmaking_summary": "This candidate boasts a robust background in aviation and program management, with over two decades of experience ensuring strict adherence to safety protocols and fiscal responsibilities. Notably, their tenure includes roles that have spanned both Windows XP and Vista platforms, indicative of adaptability in IT environments. The candidate's expertise extends across various technical domains including avionics, electronic systems maintenance, and financial auditing, making them a valuable asset for any organization requiring detailed oversight and strategic execution."
+}

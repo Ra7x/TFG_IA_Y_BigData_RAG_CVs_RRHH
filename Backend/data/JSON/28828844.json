@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name, City , State",
+            "period": "02/2013 to 06/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name, City , State",
+            "period": "01/2008 to 06/2011",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "HUNTER COLLEGE, City , State",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts",
+            "institution": "BOROUGH OF MANHATTAN COMMUNITY COLLEGE, City , State",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Human Resources Generalist Certification",
+            "year": null
+        },
+        {
+            "name": "Payroll Coordinator Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The HR generalist candidate boasts over fourteen years of experience in the fast-paced field of human resources, demonstrating exceptional skills in areas such as benefits administration, employee relations, recruiting, and payroll processing. Their strong customer service orientation, combined with a detail-oriented approach, positions them for success in any team environment. The candidate's ability to resolve conflicts creatively and adapt swiftly under changing organizational scenarios highlights their versatility and suitability for strategic HR roles."
+}

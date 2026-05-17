@@ -1,0 +1,83 @@
+{
+    "full_name": "Vice President Information Technology - Software Engineering",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Vice President Information Technology - Software Engineering",
+            "company": "",
+            "period": "03/2018 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Vice President - Solutions Delivery",
+            "company": "",
+            "period": "07/2015 to 03/2018",
+            "description": [
+                "- Defined and executed product vision for Safelite's overall core systems architecture that drives business growth from 5 national contact centers, 600+ retail locations, 6000 mobile technicians, 90 warehouses, 2 distribution centers, multiple customer driven responsive web applications and customer app engagement tools.",
+                "- Drove adoption of agile methodologies across technology teams and business units.",
+                "- Built high-performance and autonomous agile product teams that are highly engaged with Safelite's business teams to deliver product value for our customers.",
+                "- Extended Safelite's core systems to enable the overall OMNI channel vision for Safelite to be able to seamlessly service customers on central, unified platform that provides consistent service regardless of customer channel of choice.",
+                "- Managed successful delivery of customer engagement initiatives: \"watch us on our way\" app; service emails, 2-way text, text to chat, web chat, multi-modal self-service experience, chat bots pilot, IVR via AWS connect, personalized promo codes, email campaigns leveraging sales force marketing cloud etc.",
+                "- Launched \"Road to Innovation\" program to engage/motivate team members and promote innovation in leading the change and adopting emerging technologies to renovate systems and improve customer experience.",
+                "- Led architecture and delivery of first ever cloud based end-to-end claim solution to support all types of claims in 5 national contact centers."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director Of Technology",
+            "company": "",
+            "period": "04/2013 to 07/2015",
+            "description": [
+                "- Managed successful delivery of web responsive self-serviced digital portals for policyholders, agents, insurance claim/adjusters and cash customers.",
+                "- Led legacy safelite.com site upgrade to modern web responsive self-service site. Online conversion and self-service usage went up from 15% to ~60% in 3-4 years.",
+                "- Managed the design & implementation of new services layer with restful APIs to enable echo systems for other insurance carriers to integrate.",
+                "- Led the implementation of end-to-end IVR solution for key insurance partner and API integrations from insurance partner's website for glass scheduling.",
+                "- Oversaw the implementation of new inventory management and forecasting systems to Oracle EBS and GAINS."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Manager",
+            "company": "",
+            "period": "02/2008 to 04/2013",
+            "description": [
+                "- Transformed Safelite's systems and IT teams for Safelite Solutions, Safelite AutoGlass and Service AutoGlass business units from legacy platforms and run-support teams to modern systems and smaller product teams capable of extending needed business functionality and supporting Safelite's growth.",
+                "- Managed the effort to re-platform legacy point of sale, pricing, scheduling, work order management, and inventory system. Lead technical efforts to move to a distributed service architecture using .NET to build applications and WCF services.",
+                "- Managed the implementation of new glass claims management system and migrated 200+ insurance carriers glass claim processing from legacy mainframe system. Lead designs & architecture to move to a distributed architecture using .NET C#, and SQL server."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Team Lead",
+            "company": "",
+            "period": "06/2003 to 02/2008",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Consultant",
+            "company": "",
+            "period": "04/1998 to 06/2003",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mini MBA",
+            "institution": "Boston University",
+            "year": null
+        },
+        {
+            "degree": "BS",
+            "institution": "Anjuman Engineering College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

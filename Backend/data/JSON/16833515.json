@@ -1,0 +1,71 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Typing Speed",
+        "QuickBooks",
+        "Apple or Macintosh Computers",
+        "MS Outlook",
+        "Photoshop",
+        "MS PowerPoint",
+        "MS Excel",
+        "MS Word",
+        "Fork lift operation (cherry picker)",
+        "(Stand up forklift)"
+    ],
+    "work_history": [
+        {
+            "job_title": "AVIATION MAINTAINER",
+            "company": "Aviation Maintainer",
+            "period": "August 2017 - April 2018",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Customer Service Representative",
+            "period": "April 2011 - March 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Technician",
+            "company": "Computer Technician",
+            "period": "January 2010 - June 2010",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Shift Manager",
+            "company": "Shift Manager",
+            "period": "May 2004 - June 2009",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "West Orange-Stark High School",
+            "year": null
+        },
+        {
+            "degree": "GED",
+            "institution": "West Orange-Stark High School",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        {
+            "name": "BCT certified",
+            "year": null
+        },
+        {
+            "name": "Driver's License Class C - Standard Driver's License",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

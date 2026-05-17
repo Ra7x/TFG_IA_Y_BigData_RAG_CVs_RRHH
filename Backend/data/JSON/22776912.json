@@ -1,0 +1,53 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Cloud Technology implementation and deployment",
+        "Digital PBX, Cellular, Smart Devices and VoIP Technology",
+        "ERP deployment, implementation and development",
+        "Web sites design & implement complex interactive Web sites including Intranets",
+        "Mobile App deployment",
+        "Retail knowledge with IT deployment and support, Point of Sales & Bar-Coding systems",
+        "Point to Point Wireless Antenna Systems and WiFi deployment",
+        "LAN,WAN for data/voice using copper, fiber and wireless networks",
+        "Client/Servers & Specialty servers such as Citrix and Virtual, etc.",
+        "Enterprise Backup, Recovery and Storage Methodologies",
+        "Security Analysis and Deployment including cell phones and mobile devices"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Information Technology /Chief Technology Officer",
+            "company": "Company Name",
+            "period": "2007-2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager/Director",
+            "company": "Company Name",
+            "period": "2000-2006",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS : Information Technology",
+            "institution": "Western Oregon University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Limited Energy Journeyman",
+            "year": null
+        },
+        {
+            "name": "State of Oregon",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong track record in the IT sector, holding positions as Chief Technology Officer where they've demonstrated expertise and leadership through strategic planning and implementation of technological advancements. Their experience spans across various industries including law firms, real estate holdings, and financial services, indicating their ability to adapt technologies to support different business needs efficiently."
+}

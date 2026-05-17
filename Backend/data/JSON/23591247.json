@@ -1,0 +1,60 @@
+{
+    "full_name": "Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Cooking",
+        "Prepping food",
+        "Inventory control",
+        "Strong communication skills",
+        "Sound judgment",
+        "Adaptable",
+        "Computer-savvy",
+        "Creative"
+    ],
+    "work_history": [
+        {
+            "job_title": "Chef",
+            "company": "Current Company Name",
+            "period": "April 2015 to Present",
+            "description": [
+                "Cooking and prepping food for guests.",
+                "Daily inventory assignments providing friendly customer service."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Head Cashier",
+            "company": "Company Name (October 2011 to August 2013)",
+            "period": null,
+            "description": [
+                "Provide customer service to the customers.",
+                "Handle daily money counts."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Head Cashier",
+            "company": "Company Name (March 2010 to December 2011)",
+            "period": null,
+            "description": [
+                "Provide a comfortable environment for customers.",
+                "Knowledge of movies and videos."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [],
+    "certifications": [
+        {
+            "name": "High School Diploma",
+            "year": null
+        },
+        {
+            "name": "Liberal Arts",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong profile in the culinary field, highlighting experience not only in cooking and food preparation but also in customer service. With roles spanning across multiple companies as a Head Cashier and finally settling into a Chef position, the candidate has demonstrated versatility and adaptability in their professional career. The accumulation of skills such as inventory control, strong communication, and decision-making underlines their ability to contribute effectively within a team. Given the calm demeanor even under pressure, it suggests strong interpersonal and problem-solving skills. These qualities are valuable assets that would seamlessly integrate into any culinary or hospitality setting."
+}

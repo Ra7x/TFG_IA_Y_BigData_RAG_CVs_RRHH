@@ -1,0 +1,101 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "A+ certification",
+        "Active Directory",
+        "CCNA",
+        "Cisco Certified Network Associate",
+        "DHCP",
+        "E-mail",
+        "FAX machines",
+        "Ghost",
+        "IP",
+        "LANs",
+        "Microsoft Certified Professional",
+        "MCSE",
+        "Network+",
+        "Networking",
+        "Networks",
+        "Printers",
+        "Routers",
+        "Switches",
+        "Systems Engineer",
+        "Troubleshooting",
+        "Windows 7",
+        "Windows Server"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "",
+            "period": "2015-Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Technical Specialist",
+            "company": "",
+            "period": "2007-2014",
+            "description": [
+                "Set up and maintain the network infrastructure both wired and wireless configuration.",
+                "Setup and maintained all user's computers including hardware and software.",
+                "Set up and assisted users with their e-mail accounts.",
+                "I maintained security on our networks in which only company users could access the network.",
+                "Setup and configured users android phones so they could access the company's resources."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Computer Network Support Technician",
+            "company": "",
+            "period": "2001-2007",
+            "description": [
+                "Provide statewide data telecommunications and on the-site problem analysis and resolution; consultation; hardware and software installations; technical guidance and support for personal computing equipment.",
+                "Provide local and wide area networking support, which included router switch and server configurations, and installations and problem resolutions.",
+                "Troubleshoot all network components including routers switches servers and patch panels."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Junior Network Administrator",
+            "company": "",
+            "period": "1999-2001",
+            "description": [
+                "Performed the installation and removal of all programs on a network in a teaching and testing facility.",
+                "Assigned rights and permissions to users and servicing them on the network.",
+                "Troubleshoot all hardware as well as software problems on the network."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "",
+            "institution": "George Mason University",
+            "year": null
+        },
+        {
+            "degree": "",
+            "institution": "Northern Virginia Community College (NVCC)",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CompTIA A+ certification",
+            "year": null
+        },
+        {
+            "name": "MCSE - Microsoft Certified Professional Systems Engineer",
+            "year": 2003
+        },
+        {
+            "name": "CCNA (Cisco Certified Network Associate)",
+            "year": 1988
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned Information Technology Specialist with over a decade of experience in maintaining and configuring network infrastructure, managing user computers, and ensuring network security. Their background includes roles that highlight their technical expertise across various hardware and software platforms, including Windows and Macintosh environments, Android phones, printers, scanners, fax machines, and classroom projectors. The candidate holds multiple certifications relevant to the field, indicating a strong dedication to professional development in Information Systems and Networking."
+}

@@ -1,0 +1,101 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Plant Operator",
+            "company": "Company Name",
+            "period": "06/2009 to 02/2015",
+            "description": [
+                "Monitored process units and quality control testing performance for plant processes and water quality sampling.",
+                "Operate and maintained filtration process units and water system control equipment.",
+                "Made sound and logical judgments regarding process changes.",
+                "Closely inspected equipment for any mechanical or safety issues. Reviewed the daily computer log and reported any inaccuracies in the process.",
+                "Responded to and initiated proper corrections to process alarms. Routinely drained unwanted fluids.",
+                "Coordinated ongoing maintenance and housekeeping of the plant. Read automatic gages at proper intervals to determine flow rate of gas.",
+                "Recorded daily tank inventory. Daily plant inspections. Started up, shut down and checked plant processes.",
+                "Directed routine preventative maintenance such as adjustments, cleaning and painting equipment. Maintained correct temperature, levels and pressures on process systems and equipment.",
+                "Recorded all operating data on daily work sheets from laboratory analysis and flow metering equipment. Communicated effectively with operators and supervisors on a technical level.",
+                "Executed field service work including all plant motor, compressor, chiller, piping, valve maintenance and repairs with little to no supervision.",
+                "Performed quality control tests on lab equipment and lab analysis. Interpreted results of process control analysis and made adjustments to optimize plant performance.",
+                "Maintained current knowledge about the latest operating and maintenance practices with continuing education courses."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Associate",
+            "company": "Company Name",
+            "period": "01/2008 to 05/2009",
+            "description": [
+                "Sales of all plumbing indoor and outdoor materials.",
+                "selling plumbing supplies and material, unloading trucks and stocking shelves."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Auto Mechanic",
+            "company": "Company Name",
+            "period": "01/2007 to 03/2008",
+            "description": [
+                "Service cars and trucks, tire repair, brake replacement, oil changes, transmission flush, radiator flush, all auto repair."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Structure Mechanic",
+            "company": "Company Name",
+            "period": "09/1996 to 07/2007",
+            "description": [
+                "Maintain liquid/gaseous oxygen and nitrogen systems. Remove, inspect and re-install oxygen components. Replenish and service liquid/gaseous oxygen and nitrogen containers, tanks, and holding carts.",
+                "Daily safety inspection on aircraft and supporting oxygen and nitrogen systems. Apply operating procedures for servicing of aircraft, transfer trailers or direct filling equipment with liquid/gaseous oxygen and nitrogen.",
+                "Perform ground checks and correct operation, mechanical work and upkeep of all aircraft oxygen and nitrogen systems and support equipment.",
+                "Maintain aircraft safety equipment, canopy and environmental systems. Maintain aircraft fire extinguishing systems.",
+                "Supervise 7 to 15 person work group. Use and supervise the use of computers for record keeping, reports, and inventories. Troubleshoot and repair malfunctioning equipment. Train subordinates in operation, maintenance, and repair of oxygen and nitrogen, canopy, environmental, fire detection and suppression and egress systems.",
+                "Maintain shop publications, files, technical directives and manuals."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mechanical Classes",
+            "institution": "2008 University of Montana",
+            "year": null
+        },
+        {
+            "degree": "Multiple education courses and training within the Navy",
+            "institution": "2005 Navy",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Advanced Oxygen/Nitrogen Training",
+            "year": null
+        },
+        {
+            "name": "Leadership Training",
+            "year": null
+        },
+        {
+            "name": "Safety Training",
+            "year": null
+        },
+        {
+            "name": "Recruit Basic Training",
+            "year": null
+        },
+        {
+            "name": "Tow Tractor (aircraft)",
+            "year": null
+        },
+        {
+            "name": "Tow Tractor (equipment)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in plant operations, particularly in the handling of cryogenic air separation units which are critical for producing high-quality oxygen, nitrogen, and argon liquids essential for various industrial applications. Their experience spans multiple sectors including plumbing sales, automotive repair, and aviation maintenance, showcasing versatility and adaptability across different technical fields. The candidate's training within the Navy highlights their expertise in handling complex systems and maintaining safety standards crucial for both mechanical operations and environmental control."
+}

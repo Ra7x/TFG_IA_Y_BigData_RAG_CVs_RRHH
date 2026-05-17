@@ -1,0 +1,77 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Batch Record Coordinator / Document Control",
+            "company": "Company Name City , State",
+            "period": "02/2015 to Current",
+            "description": [
+                "Responsible for document control involving all aspects of the production batch record and master manufacturing record. Produce a Batch Record for each order received.",
+                "Creates the Master Manufacturing Record for any new products.",
+                "This includes all specifications which are defined by the customer and regulatory agencies, i.e., FDA - GMP (21 CFR 111) and TGA (Therapeutic Goods Administration is the regulatory body for therapeutic goods in Australia.)",
+                "Makes any modifications necessary to existing Batch Records and ensure that changes are properly approved and documented. This includes any formulation changes, deviations and change controls to the Master Manufacturing Record.",
+                "Maintains other documents and files that relate to the production of Batch Records (Master Formula, Master Manufacturing Record, Finished Product Testing Specifications), and ensures that any changes are properly documented (change controls).",
+                "Review any printed material included as part of a finished product to ensure that all claims made on the label are consistent with the formula.",
+                "Efficiently communicates with all areas of the company to maintain accurate records."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Quality Assurance Specialist",
+            "company": "Company Name City , State",
+            "period": "09/2013 to 02/2015",
+            "description": [
+                "Responsible for systems involving Quality Assurance at Albion facilities.",
+                "Oversees and improves the facility's current quality manufacturing functions.",
+                "Designed, implemented, and update quality trending measures for all of Albion's facilities. Trending measures include tracking of material yields as well as costs.",
+                "Measures are published company wide and formalize a summary of all data that is presented to the Executive staff.",
+                "Designed and implemented a testing program for testing particles, oil, water, and microbial levels in the compressed air system according to ISO 8573.",
+                "Review all batch records for adherence to the Quality HACCP Plan.",
+                "Provided direct involvement with the design and implementation of new procedures relating to in-house projects to further develop and improve manufacturing systems and processes according to GMP (21 CFR 111) and ISO standards.",
+                "Efficiently communicates with all levels within the company."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Specimen Processor",
+            "company": "Company Name City , State",
+            "period": "06/2010 to 09/2013",
+            "description": [
+                "Facilitates laboratory organization and patient care by ordering, preparing, and directing testing to appropriate lab / testing. Trained and mentored new employees.",
+                "Responsible for accurately receiving, ordering, processing, labeling, and auditing specimens according to established procedure. Recognize factors that may affect testing outcomes, take appropriate action to solve problems, and consistently document solutions according to established protocols.",
+                "Trained and maintained appropriate knowledge of all computer systems and test ordering practices insuring all specimens are properly entered in all computer systems.",
+                "Effectively communicates specimen collection and handling requirements, providing service to external and internal customers. Performs and documents quality assurance checks and provides correction/maintenance.",
+                "Identify opportunities for continuous process improvement and execute project conception, data collection, and implementation. Performs sterile specimen preparation techniques.",
+                "Follows appropriate documentation protocol and properly identify patients and correctly label samples."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Virginia tech",
+            "year": null
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "Champlain College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Quality Assurance Specialist - NSF / 21 GFR 111 Course completion.",
+            "year": null
+        },
+        {
+            "name": "Quality Assurance Specialist - AirCheck Academy, Trace Analytics Corporation - Course completion for compressed air testing in a food grade facility according to ISO 8573.",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

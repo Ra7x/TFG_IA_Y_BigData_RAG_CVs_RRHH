@@ -1,0 +1,57 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "ASP.NET",
+        "C#",
+        "Web Technologies: SharePoint 2010, ASP.NET 4.0/3.5/2.0, MVC 4 Application Software:",
+        "Visual Studio 2008/2010/2013",
+        "SQL Server Management Studio",
+        "Databases: SQL Server 2005/2008 R2, MySQL, Oracle",
+        "Others: HTML, JQuery, CSS, JavaScript, Bootstrap, JIRA"
+    ],
+    "work_history": [
+        {
+            "job_title": "ASP.NET Web Developer",
+            "company": "Company Name City , State",
+            "period": null,
+            "description": [
+                "Migration of IU Print website (print.iu.edu) from ColdFusion to ASP.Net using MVC Framework.",
+                "Create a prototype dashboard for IU Print Analytics module using High Charts."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Company Name City , State",
+            "period": null,
+            "description": [
+                "Designed and developed an application to migrate legacy data to ASP.Net application by providing the ability to validate the data to meet the business rules for the new application.",
+                "Design the story board using HTML and CSS and design database for applications by analyzing the customer requirements. Perform code reviews of the modules developed by other team members and participate in pair programming to improve the coding standards of the overall application.",
+                "Preparation of build packages and actively participate in integration and deployment phase of the applications."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters in Computer Science",
+            "institution": "Indiana University - Bloomington",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Technology in Computer Science and Engineering",
+            "institution": "Jawaharlal Nehru Technological University, Andhra Pradesh, India",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "RFA",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has extensive experience in ASP.NET web development, utilizing a variety of technologies including C#, MVC framework, and database management systems such as SQL Server and MySQL. Their background includes successful migration projects from ColdFusion to ASP.NET, along with the creation of analytical tools using High Charts. The candidate's skills are well-rounded, reflecting their ability to handle complex software development tasks, including system design, code reviews, and deployment phases. They possess professional certifications in RFA, indicating a commitment to continuous learning and expertise in their field."
+}

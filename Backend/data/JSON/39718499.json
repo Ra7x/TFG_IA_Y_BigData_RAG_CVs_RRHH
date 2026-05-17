@@ -1,0 +1,37 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Assistant Football Coach",
+            "company": "Company Name ï¼​ City , State",
+            "period": "03/2014 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Property Maintenance Assistant",
+            "company": "Company Name ï¼​ City , State",
+            "period": "09/2010 to Current",
+            "description": [
+                "Distribute media equipment to classrooms",
+                "Instruct professors through the application of Microsoft and Internet services",
+                "Answer phone calls and maintain an organized office for students and professors to enter freely",
+                "Performed various maintenance duties necessary to maintain and enhance the value of residential and commercial properties Duties included: mowing, landscaping, sealing driveways etc."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Utica College",
+            "year": 2014
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Exceptional interpersonal communication skills and customer service skills have been evident throughout the candidate's professional experiences, making them a reliable and valuable asset in team environments. With a background in marketing from Utica College and a strong work ethic demonstrated through multiple roles including coaching and property maintenance, the candidate shows potential for effective leadership across various disciplines."
+}

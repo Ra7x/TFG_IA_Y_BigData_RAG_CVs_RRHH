@@ -1,0 +1,62 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "account management",
+        "cables",
+        "cabling",
+        "Help Desk",
+        "Linux",
+        "MS Exchange server",
+        "Sharepoint",
+        "network security",
+        "desktop support",
+        "Unix",
+        "HP Unix",
+        "VBscript",
+        "Visual Basic Programming",
+        "Windows Server"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist I",
+            "company": "Computer Network Specialist Company Name – City , State",
+            "period": "07/2008 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Technology Specialist III",
+            "company": "Company Name – City , State",
+            "period": "06/2001 to 07/2008",
+            "description": [
+                "- Install and configure HP network switches, program switch ports and assign vlans, connect network wall ports and terminate network cables when necessary, troubleshoot network port communication errors and take appropriate action to correct problems, utilize TCP/IP utilities such as ping, tracert and ipconfig to diagnose network problems, installed and maintain Whats up network device connectivity monitoring software and configured the program to send sms messages when a device or service goes down, installed and maintained Blackberry Enterprise server for MS Exchange server, Fedora Core Linux with Multi Router Traffic Grapher, 2 Windows 2003 domain controllers, Renaissance Learning and Read 180 servers, Xiotech SAN and TNT network security appliance, written a number of dos and vbscript scripts to automate many functions, including student user account creation by exporting data from the student information system formatting the export file and to create approximately 5000 student user accounts, create home folders and set permissions, utilized group policy to secure workstations or install new software, implemented the district Geographic Information system by recommending ArcGIS software to my manager and worked with city and county agencies to acquire base layers and created additional layers such as school sites and attendance areas, communicated with teachers, managers and students, installed and supported a variety of software including anti virus, Office, Fortress desktop security, Rosetta Stone, Escape financial system and other education software, I used Ghost software to image computers when necessary.",
+                "- I serve as the Lan Administrator."
+            ],
+            "technologies": [
+                "HP network switches",
+                "Whats up network device connectivity monitoring software",
+                "Blackberry Enterprise server for MS Exchange server",
+                "Fedora Core Linux",
+                "Multi Router Traffic Grapher",
+                "Windows 2003 domain controllers",
+                "Renaissance Learning and Read 180 servers",
+                "Xiotech SAN",
+                "TNT network security appliance",
+                "Linux",
+                "Windows Server"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Not Specified",
+            "institution": "College Name",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a comprehensive background in Information Technology with extensive experience as a LAN Administrator. Their skill set includes managing over 100 servers, administering Active Directory and MS Exchange Server, maintaining multiple SANs, and configuring network security solutions such as Proofpoint Spam filter and iBoss web filter. They have expertise in utilizing TCP/IP utilities for diagnostics, implementing geographic information systems (GIS) using ArcGIS software, and supporting a wide array of operating systems including Windows Server 2016, 2012, 2003, 2000, as well as Linux variants like HP Unix. The candidate's technological versatility is evident from managing Hyper-V clusters to overseeing the implementation of Alertus Desktop alerting and Ghost imaging for computer management."
+}

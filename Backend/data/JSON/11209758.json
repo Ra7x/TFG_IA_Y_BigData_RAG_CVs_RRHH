@@ -1,0 +1,39 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Senior Executive",
+            "company": "DFW Personal Chef",
+            "period": "07/2008 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Tax Specialist",
+            "company": "Company Name - City , State",
+            "period": "01/2015 to 04/2017",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager",
+            "company": "Company Name - City , State",
+            "period": "05/2002 to 06/2008",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science: Business Management",
+            "institution": "Saint Joseph University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in business management with a deep understanding of accounting, taxation, marketing, sales, and administrative procedures. Their expertise spans across various industries including culinary services for personal chefs and senior tax specialist roles within the financial sector. The candidate demonstrates strong analytical skills evidenced by their ability to analyze data, scrutinize profit and loss statements, and inform strategic decision-making processes. Furthermore, the candidate's experience in leadership positions showcases their capability to lead teams and implement operational strategies that contribute to business growth."
+}

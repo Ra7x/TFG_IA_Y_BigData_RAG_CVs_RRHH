@@ -1,0 +1,66 @@
+{
+    "full_name": "Business Development Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Founder / Business Development Manager",
+            "company": "Company Name City, State",
+            "period": "April 2007 to Present",
+            "description": [
+                "Founded a language service to assist individuals and corporations with foreign language requirements.",
+                "Offered Italian and French classes to professionals and children in a classroom environment and privately. Developed proprietary teaching and training materials tailored for each student group.",
+                "Provided translation services (written and simultaneous) in Italian, French, and English across various industries including communications, bio-medical, and aviation.",
+                "Responsible for the acquisition of new business and retention of existing clients in North America and EMEA. Collaborated with the Managing Partner to formulate strategies aimed at increasing profitability."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales and Marketing Manager",
+            "company": "Company Name City",
+            "period": "October 2006 to March 2008",
+            "description": [
+                "Responsible for the overall sales and marketing policies that reflect the company's strategies and objectives.",
+                "Developed and implemented a sales and marketing program and corporate identity for the UK start-up company.",
+                "Planned and created all of the company's marketing and communication materials."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "VP Sales and Marketing",
+            "company": "Company Name City",
+            "period": "March 1994 to July 2001",
+            "description": [
+                "Reporting directly to the CEO, coordinated and directed the company's sales and marketing functions for EMEA.",
+                "Generated revenue from sales during this term in excess of $10m."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Assistant",
+            "company": "Company Name City",
+            "period": "January 1991 to December 1994",
+            "description": [
+                "Reporting directly to the Chairman, responsible for all administrative support relating to scheduling, expenses, meetings, travel, client relationship management.",
+                "Assisted in special projects of cost control for selling and non-selling functions."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MSc Shipping, Trade and Finance",
+            "institution": "CITY UNIVERSITY BUSINESS SCHOOL",
+            "year": "Dec 1990"
+        },
+        {
+            "degree": "BA (Honors) French and Italian",
+            "institution": "THE UNIVERSITY OF HULL",
+            "year": "July 1989"
+        }
+    ],
+    "certifications": [],
+    "english_level": "Fluent",
+    "matchmaking_summary": "The candidate presents a robust background in business development and sales, coupled with language proficiency, suggesting strong capabilities for strategic market analysis and client relationship management. Their experience in various industries from aviation to bio-medical through communications demonstrates adaptability and cross-industry expertise. The detailed work history showcases not only the acquisition of new business but also strategies for enhancing profitability."
+}

@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Specialist",
+            "company": "Company Name",
+            "period": "03/2016 to 08/2017",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Analyst",
+            "company": "Company Name",
+            "period": "08/2014 to 06/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, Classification/Compensation",
+            "company": "Company Name",
+            "period": "10/2012 to 02/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, Recruitment/Classification/Compensation",
+            "company": "Company Name",
+            "period": "06/2004 to 01/2013",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts: English Lit/Language",
+            "institution": "NC State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in HR with over 15 years of experience, primarily focused on recruitment and compensation management. They have demonstrated expertise in managing full-cycle recruitment processes, ensuring candidates meet the required knowledge, skills, and abilities (KSAs) for various positions. Their roles also include handling preemployment checks such as background and drug screens, contributing to a comprehensive candidate qualification process. Additionally, they are involved in developing competency and skill-based pay programs tailored to different occupational areas including medical professionals like nurses, mechanical operators, and civil engineers. The candidate's experience spans across multiple sectors, highlighting their adaptability and ability to manage complex HR functions."
+}

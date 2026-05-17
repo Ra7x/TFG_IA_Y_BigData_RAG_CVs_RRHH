@@ -1,0 +1,74 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Coordinator",
+            "company": "Company Name",
+            "period": "01/2014 - Current",
+            "description": [
+                "Worked across all levels of the organization to support the Corporate Information Officer (CIO) and the Senior Leadership Team. Enabled the CIO and Senior Leadership Team to effectively and efficiently execute their duties by continuously managing, maintaining appointment calendars, and documentation of forecasted project plans/milestones, communications derived from their initiatives, commitments, and ongoing management functions.",
+                "Single Point of Contact (SPOC) for in-house Information Technology Operations Assessment. Maintained client files, vendor files and dealt sensitively with confidential material and general office management. Supported business resiliency management program (BRM) in developing key principles and scope documentation. Supported IT communication and employee engagement by working cross-functionally to develop and organize IT Town halls and other functions.",
+                "Gathered and analyzed data to understand and assist in improving IT business communication, and functions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Assistant",
+            "company": "Company Name",
+            "period": "01/2013 - 09/2013",
+            "description": [
+                "Key executive support person in the management, coordination, and implementation of the operations of the Quality department; responsible for interacting on behalf of several Vice Presidents with all elements of the department and to foster productive relationships among key executives.",
+                "Organized, managed, and executed initial and follow-up communications, travel, facilities set-up, programs and program participants. Oversaw the management of the Vice President's calendar and relieved him of managerial detail including, but not limited to, scheduling, rescheduling, and prioritizing as needed.",
+                "Onboarded and separated employees."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Legal Administrative Supervisor",
+            "company": "Company Name",
+            "period": "10/2006 - 07/2012",
+            "description": [
+                "Coordinated the support function in the Law School Division, Chicago Office. Supervised temporary staff, performed administrative personnel related activities, monitored workflow, supervised and oriented new employees, and ensured efficiency of work processes.",
+                "Supported the Vice President of Sales, Director of Sales and several Attorneys within the law school organization and assisted with projects as needed."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "CFTC - Computer Forensics Technician Certification",
+            "institution": "2014 College of Lake County",
+            "year": null
+        },
+        {
+            "degree": "CFAC - Computer Forensics Analyst Certification",
+            "institution": "2014 College of Lake County",
+            "year": null
+        },
+        {
+            "degree": "Certificate of Completion, Paralegal Studies",
+            "institution": "2013 College of Lake County",
+            "year": null
+        },
+        {
+            "degree": "Computer InformationSystems Emphasis in InfoSec",
+            "institution": "Strayer University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Encase and FTK Certification",
+            "year": null
+        },
+        {
+            "name": "Cisco Studies - CCNA, CCNA-Security, CCNA-Voice",
+            "year": "2012 - 2013"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Highly talented and accomplished Paralegal with extensive experience in investigative and online legal research. More than 5 years of experience working in the legal field. Knowledgeable in all aspects of case preparation and representation, previous court experience, familiar with filings, petitions, case management, and interviewing. Excellent research, documentation, reporting abilities, outstanding communication and presentation skills. Predisposed to procedural and methodological approaches to problem solving and analysis. Detail oriented with a demonstrated commitment to excellent customer service."
+}

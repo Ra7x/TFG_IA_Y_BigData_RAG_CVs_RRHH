@@ -1,0 +1,60 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name City , State",
+            "period": "07/2005 to Present",
+            "description": [
+                "Acquired and established successful business development, operations and high impact initiatives throughout the Dallas market. Collaborate through consultations with decision makers to meet their specific needs for new and repeat business.",
+                "Recognized as top sales generator, increasing sales level by 60% in 2007 alone.",
+                "Developed department's first incentive performance plan which motivated staff and resulted in 23% average sales increase annually. Managed a portfolio of 25 simultaneous accounts, which generated $400 thousand in revenue."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Student Loan Consultant",
+            "company": "Company Name City , State",
+            "period": "06/2013 to 02/2015",
+            "description": [
+                "Drive sales as in a leadership position. Negotiated details Loan forgiveness programs to clients based on their needs and interests, resulting in cost effective payments and forgiveness of student loans ranging from 20-100%.",
+                "Consistently ranked in top 10 of sales representatives out of 75 representatives in the company.",
+                "Successfully Acquired a portfolio of over 400 clients, which generated $200 thousand in revenue per year."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Territory Sales Manager",
+            "company": "Company Name City , State",
+            "period": "02/2007 to 03/2009",
+            "description": [
+                "Created strategies to expand client base with homeowners, businesses and grow existing customer sales through referrals.",
+                "Managed organization's third largest region and performed full sales cycle duties, increasing annual sales by 20%."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Route Sales Associate",
+            "company": "Company Name City , State",
+            "period": "08/2003 to 02/2007",
+            "description": [
+                "Negotiated new promotions with Fortune 500 companies, including Wal-Mart, Sam's Club, Target and Kroger.",
+                "Managed a portfolio of large format accounts, which generated over $1.5 million in revenue per year."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Grambling State University City , State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile marked by extensive experience in business development and account management across various sectors. Their strengths lie in their strategic approach to sales, negotiation skills, and ability to lead high-performing teams. With roles that span from Senior Account Manager to Business Development Manager, the candidate has consistently demonstrated exceptional results in driving revenue growth through client engagement and market expansion strategies."
+}

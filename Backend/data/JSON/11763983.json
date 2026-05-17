@@ -1,0 +1,102 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Darwin",
+        "Act",
+        "Attendance Advisor",
+        "ERP/AS400",
+        "HRIS",
+        "ADP Payroll",
+        "Paycor",
+        "Internet Explorer",
+        "Outlook",
+        "Kronos",
+        "IFAS",
+        "PeopleSoft",
+        "Epicor",
+        "Winspak",
+        "E2",
+        "WASP"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name - City , State",
+            "period": "Sep 2014 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Representative",
+            "company": "Company Name - City , State",
+            "period": "Jul 2014 to Aug 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Coordinator",
+            "company": "Company Name - City , State",
+            "period": "Mar 2014 to Jul 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name - City , State",
+            "period": "Nov 2013 to Feb 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Representative",
+            "company": "Company Name - City , State",
+            "period": "Jul 2012 to Sep 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Manager",
+            "company": "Company Name - City , State",
+            "period": "Jan 2002 to Jul 2012",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "HR Walsh College - City , State",
+            "year": null
+        },
+        {
+            "degree": "Bachelors Degree",
+            "institution": "Walsh College - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Michigan Judo Development Association Board Member",
+            "year": null
+        },
+        {
+            "name": "Certified Nage No Kata Instructor",
+            "year": null
+        },
+        {
+            "name": "Society for Human Resource Management",
+            "year": null
+        },
+        {
+            "name": "Volunteer Judo Instructor",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a highly experienced HR professional with over a decade of experience in various roles, including full-cycle recruitment and management. With comprehensive knowledge of HR practices and compliance regulations, they have successfully built the HR function from scratch in their current role and demonstrated strong communication skills by fostering positive relationships across departments. Seeking to leverage their expertise in implementing strategic HR initiatives that align with organizational goals."
+}

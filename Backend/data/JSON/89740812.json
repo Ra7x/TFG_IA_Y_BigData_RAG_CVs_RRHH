@@ -1,0 +1,74 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Director of Marketing, Communications and IT",
+            "company": "Company Name, City , State",
+            "period": "02/2013 to Current",
+            "description": [
+                "Develop strategies based on knowledge of policy, nature of market and trend projections to facilitate growth as well as aid in resiliency planning for the College which is a triad encompassing the Cooperative Extension Program, Cooperative Agricultural Research Center and Academics.",
+                "Manage the College's internal and external communications systems in conjunction with university's public relations, press and marketing communications units in the public and private sector.",
+                "Assess and translate materials into print, online and social media.",
+                "Create systems and procedures that maintain and manage contact lists of associates and prospective associates; implement event registration procedures and develop systems to expand customer relations.",
+                "Attend and actively participate in College Advisory Board meetings, committee meetings, conference calls and functions. Advise the office of the Dean on matters important to stakeholders relating to the College."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Program Specialist",
+            "company": "Community and Economic Development, Cooperative Extension Program, CAHS.",
+            "period": null,
+            "description": [
+                "Created and provide solutions as a consultant for clients in the area of technical assistance for sustainable business strategies.",
+                "Developed creative and specialized curriculum that will effectively reach a target audience and provide impactful education that will improve their standard of living and satisfy stakeholders.",
+                "Provided marketing expertise in e-media productions such as radio and television programs as well as social media solutions and other online publications.",
+                "Supervised a staff of students providing them guidance through mentorship in marketing, customer service, business operations and professional development."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "Company Name",
+            "period": "01/2003 to 01/2012",
+            "description": [
+                "Consulted with customers to perform needs analysis, determine project scope and define problem solutions that focus on increasing client revenue and ROI.",
+                "Developed statements of work for project proposals to acquire new accounts.",
+                "Designed various types of e-media including retail e-commerce sites, content management systems and web portals. Developed marketing content to include design layout, copy, graphic art and various electronic media productions.",
+                "Monitored and analyzed results to optimize online marketing and enhance the customer experience with a focus on developing long term customer relationships."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Business Administration (MBA)",
+            "institution": "University of Phoenix",
+            "year": null
+        },
+        {
+            "degree": "Microsoft Certified Systems Engineer (MCSE), Software Applications",
+            "institution": "Southern Methodist University",
+            "year": 1994
+        },
+        {
+            "degree": "Bachelor of Science : Mechanical Engineering, Computer-Aided Design",
+            "institution": "Prairie View A&M University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "LEAD21 Executive Leadership Program",
+            "year": 2015
+        },
+        {
+            "name": "Microsoft Certified Systems Engineer (MCSE), Software Applications",
+            "year": 1994
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a distinguished career in marketing, communications, and IT, with over ten years of experience in the field. With roles ranging from Director to Program Specialist and Web Developer, they have demonstrated expertise in creating strategic plans that enhance organizational growth and customer relations. Their background includes developing innovative content for various media platforms such as radio and television, along with managing a team of students providing them guidance in professional development. The candidate's educational achievements are substantial, including an MBA focused on marketing and certifications in IT areas."
+}

@@ -1,0 +1,17 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [],
+    "education": [
+        {
+            "degree": "Bachelor of Fire Science",
+            "institution": "Thomas Edison State College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

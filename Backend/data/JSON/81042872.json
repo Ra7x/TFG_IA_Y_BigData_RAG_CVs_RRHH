@@ -1,0 +1,64 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "EndNote",
+        "Softmax Pro",
+        "MS-Office Suite ( Excel, PowerPoint & Word )",
+        "C/C++",
+        "Windows & Mac OS"
+    ],
+    "work_history": [
+        {
+            "job_title": "Research Scientist",
+            "company": "Company Name ï¼​ City , State",
+            "period": null,
+            "description": [
+                "Develop automated immunochemical based diagnostic assays (ELISA) for oncology drugs which enable patients to receive chemotherapy drugs in doses individualized to their personal needs.",
+                "De facto leader for a project to troubleshoot an existing diagnostic assay to improve sensitivity and reproducibility as well as to accommodate a new dosing regimen for the same drug.",
+                "Responsible for designing and carrying out experiments in a GLP/GMP environment as well as analyzing data and presenting it. Key communication point to the management.",
+                "Responsible for writing regulatory reports."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Investigative Toxicology Intern",
+            "company": "Company Name ï¼​ City , State",
+            "period": null,
+            "description": [
+                "Gained expertise in preclinical drug development with emphasis on toxicology.",
+                "Enhanced molecular biology laboratory skills in techniques such as RT-PCR, & ELISA.",
+                "Using statistical analysis, successfully identified a gene signature from RT-PCR data for drug induced liver oxidative stress.",
+                "Successfully carried out Assay Qualification and Validation for MesoScale Discovery Assay (ELISA).",
+                "Enhanced communication skills through regular presentations in the organization."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Research Assistant",
+            "company": "Company Name ï¼​ City",
+            "period": null,
+            "description": [
+                "Acquired substantial experience in R&D working on a project titled 'Isolation, Characterization & Cross Inoculation Studies of Rhizobia under Salinity Conditions'.",
+                "Successfully isolated rhizobial species that survived up to a salinity of 40 dS/m, almost as high as sea water."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Science , Biotechnology",
+            "institution": "University of Pennsylvania",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Engineering (Honors) , Biotechnology",
+            "institution": "Birla Institute of Technology & Science ï¼​ City",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Highly motivated Research Scientist possessing proficiency in numerous disciplines of the biotechnology and in-vitro diagnostic ( IVD ) industry. Known as a self-starter with skills such as analytical, decision making, effective communication, adaptability, and leadership. Accomplishments include conducting reverse genetic screens for histone modifications affecting organismal lifespan, identifying an acetyl transferase affecting cellular conditions under stress, and isolating bacteria from natural sources for various applications. Demonstrated ability to lead projects and communicate effectively at managerial levels."
+}

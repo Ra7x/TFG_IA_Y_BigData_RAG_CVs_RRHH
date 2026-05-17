@@ -1,0 +1,81 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Adobe Photoshop",
+        "Anatomy",
+        "Agency",
+        "Biology",
+        "Chemistry",
+        "conferences",
+        "database",
+        "direct marketing",
+        "Drupal",
+        "Edit",
+        "Environmental Health",
+        "GIS",
+        "grants",
+        "Health Promotion",
+        "Information Technology",
+        "Leadership",
+        "Materials",
+        "meetings",
+        "Excel",
+        "Office",
+        "Microsoft PowerPoint",
+        "Publisher",
+        "Word",
+        "Photo Editing",
+        "Physiology",
+        "Presentations",
+        "press releases",
+        "quality",
+        "quantitative analysis",
+        "Research",
+        "Statistics",
+        "strategy"
+    ],
+    "work_history": [
+        {
+            "job_title": "Program Analyst",
+            "company": "Company Name",
+            "period": "09/2014 to 01/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Program Analyst",
+            "company": "The Office of External and Governmental Affairs",
+            "period": "06/2012 to Current",
+            "description": [
+                "- Identify and develop over 30 new & existing national partnerships among stakeholders that reflect an understanding of FNS's strategic plans and goals.",
+                "- Act as a liaison between FNS and partners; requires the development of comprehensive work plans, event itineraries, presentations, reports/summaries, and portfolio evaluation and feedback",
+                "- Disseminate information to appropriate internal and external partners through detailed written correspondence, press releases, conference calls, and in-person meetings",
+                "- Edit and finalize reports submitted to senior leadership on expansion and growth of FNS program through specific initiatives",
+                "- Provide planning, technical assistance, execution, and production for over 400 webinars",
+                "- Demonstrate quantitative analysis methods to determine efficiency of efforts relating to partners and the general public",
+                "- Collect best practices from partners throughout the country to highlight and duplicate in other regions",
+                "- Strategically analyze GIS mapping to increased anti-hunger outreach by identifying high risk areas and cross referencing with available resources",
+                "- Head of pilot projects in rural, underserved communities to demonstrate the impact of youth engagement",
+                "- Acts as a subject matter expert representing FNS at advisory board meetings and conferences, as well as staffs senior leaders and political appointees at local and national events"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Public Health",
+            "institution": "Loma Linda University",
+            "year": null
+        },
+        {
+            "degree": "Bachelors of Science",
+            "institution": "George Mason University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated expertise in public health and program management, particularly in engaging stakeholders to promote initiatives like the U.S. Department of Agriculture's Food Waste Challenge and improving nutrition education in schools. They have successfully managed external communications and partnerships with a focus on enhancing food security programs and community engagement. Their skills in quantitative analysis and strategic planning are instrumental in driving the expansion of FNS outreach efforts."
+}

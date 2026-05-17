@@ -1,0 +1,56 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Representative",
+            "company": "Company Name",
+            "period": "11/2008 to 02/2016",
+            "description": [
+                "Managed communication regarding employee orientation and open enrollment for benefits.",
+                "Designed new employee packages and sent them via mail and email. Drafted department-specific employee announcements.",
+                "Resolved personnel issues regarding human resources matters needing clarification, submissions and corrections. Provided administrative HR support to 1200+ employees at all levels, including executive leadership and C&W Railway, in a manufacturing environment Employee Relations- effectively handled questions, interpreted and administered Collective Bargaining Agreements and policies, and resolved benefits and payroll related problems.",
+                "Talent Acquisition- Collaborated with hiring managers to recruit qualified employees and made hiring recommendations. Took initiative to work with crafted maintenance personnel in order to successfully source qualified candidates for these hard to fill positions. Onboarding & Orientation- Managed the recruiting and on-boarding process of all hourly employees.",
+                "Conducted and coordinated new employee orientations at all levels to help facilitate organizational objectives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Clerk Typist",
+            "company": "Company Name",
+            "period": "08/2008 to 11/2008",
+            "description": [
+                "Prepared correspondence and completed data entry for public records and departmental reporting.",
+                "Responsible for registering sex offenders."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sr. Merchandise Assistant, Replenishment Leader, Office Associate",
+            "company": "Company Name",
+            "period": "02/2002 to 08/2008",
+            "description": [
+                "Managed women's soft lines departments and Replenishment Team in a $3M dollar big box store Enforced sound merchandising and loss control strategies.",
+                "Excelled in building, motivating, coaching, and training hourly teams Responsible for cash handling procedures and daily opening/closing procedures."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Colorado State University",
+            "year": null
+        },
+        {
+            "degree": "Apparel and Merchandising",
+            "institution": "Colorado State University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in human resources, with experience ranging from employee orientation and benefits management to talent acquisition and relationship building. Their ability to handle confidential information, excellent communication skills, and commitment to providing high-quality work suggest they are well-suited for roles that require meticulous attention to detail and effective interpersonal interactions."
+}

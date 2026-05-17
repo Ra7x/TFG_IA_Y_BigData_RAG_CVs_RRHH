@@ -1,0 +1,53 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Health Care Administrator",
+            "company": "Company Name - City , State",
+            "period": "April 2015 to May 2017",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Director",
+            "company": "Company Name - City , State",
+            "period": "April 2013 to April 2015",
+            "description": [
+                "Mets and exceeds occupancy and revenue goals as a result of the development and implementation of an effective sales and marketing campaign as well as proper utilization of customer oriented internal systems.",
+                "Community has increased occupancy to full capacity - resulting in community exceeding projected year over year revenue growth. Have developed and maintained relationships by making sales calls outside the community to medical, insurance, legal and financial professionals, hospital discharge planners and social workers, skilled nursing facilities, home health, hospice and clery. Advised and educated them on current availability and programs for a successful partnership.",
+                "Developed creative marketing strategies to differentiate community from the competition on a limited budget including creative outreach programs and events.",
+                "Have provided regional Marketing support to increase sales/move-ins for sister communitite on stretch assignements as requested by Regional Director."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Community Relations Director",
+            "company": "Company Name - City , State",
+            "period": "March 2012 to April 2013",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "The University of Alabama",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Licensed Insurance Agent",
+            "year": "January 2006 to January 2013"
+        },
+        {
+            "name": "Patient Relations Coordinator",
+            "year": "January 2001 to January 2006"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in healthcare administration with experience spanning roles such as Executive Director and Community Relations Director, indicating strong leadership and strategic planning skills. Their career progression also includes stints as a Licensed Insurance Agent and Patient Relations Coordinator, highlighting their versatility and expertise in customer-facing roles. The focus on relationship development through proactive outreach to medical, insurance, legal, and financial professionals underscores effective networking abilities and a deep understanding of the healthcare industry's inner workings."
+}

@@ -1,0 +1,56 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "IT Support Technician",
+            "company": "Company Name City , State",
+            "period": "12/2014 to Current",
+            "description": [
+                "Provide technical assistance and support for incoming queries and issues related to computer systems, software, and hardware.",
+                "Respond to queries either in person or over the phone.",
+                "Vast troubleshooting capabilities with IOS.",
+                "Train computer users.",
+                "Maintain daily performance of computer systems."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Network Assistant Intern",
+            "company": "Company Name City , State",
+            "period": "01/2014 to 05/2014",
+            "description": [
+                "Assisted University network administrator with daily tasks including wireless, VDI, patchwork, Network infrastructure, hardware management, and server room operations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Technology Assistant Intern",
+            "company": "Company Name City , State",
+            "period": "08/2013 to 05/2014",
+            "description": [
+                "Maintained 489 page University website.",
+                "Managed and completed daily work orders for University Help Desk.",
+                "Attended weekly administrative technology meetings relating to technology problems/solutions."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "William Woods University",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        {
+            "name": "IC3 Internet and Computing Core Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a strong background in IT support, with experience in network/hardware/operating system troubleshooting and technical support. Their involvement in multiple projects that encompass website development, business communications, and advanced web capabilities indicates their proficiency in developing solutions for complex technological issues. The educational background in Management Information Systems is well-aligned with the tech stack required for these roles."
+}

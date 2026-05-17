@@ -1,0 +1,63 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Assistant Chef",
+            "company": "City , State",
+            "period": "01/2012 to 06/2014",
+            "description": [
+                "Led and trained workers of 4 in food preparation, service, sanitation, and safety procedures.",
+                "Resolved customer complaints regarding food service.",
+                "Purchased or requisitioned supplies and equipment needed to ensure quality and timely delivery of services."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "SBA-Kitchen",
+            "company": "City , State",
+            "period": "07/2010 to 05/2014",
+            "description": [
+                "Check the quality of raw or cooked food products to ensure that standards are met.",
+                "Assists Executive Chef and Sous Chefs with preparing food for Presidential functions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Restaurant Cook",
+            "company": "City , State",
+            "period": "08/2008 to 06/2009",
+            "description": [
+                "Inspect and clean food preparation areas, such as equipment and work surfaces, or serving areas to ensure safe and sanitary food-handling practices.",
+                "Ensure food is stored and cooked at correct temperature by regulating temperature of ovens, broilers, grills, and roasters."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Cook",
+            "company": "City , State",
+            "period": "08/2005 to 06/2008",
+            "description": [
+                "Inspect and clean food preparation areas, such as equipment and work surfaces, or serving areas to ensure safe and sanitary food-handling practices."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Healthcare Administration",
+            "institution": "NEW ENGLAND COLLEGE",
+            "year": null
+        },
+        {
+            "degree": "Culinary Arts",
+            "institution": "ART INSTITUTE OF WASHINGTON",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned professional with extensive experience in kitchen operations and food service. With a background in Healthcare Administration, the candidate brings an analytical mindset to problem-solving and customer service. The ability to lead and train staff effectively showcases strong interpersonal skills and managerial potential. Despite not detailing specific culinary arts or healthcare certifications, the overall profile indicates a competent and adaptable professional ready for further career advancement."
+}

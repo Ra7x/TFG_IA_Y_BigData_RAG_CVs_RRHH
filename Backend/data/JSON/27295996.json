@@ -1,0 +1,83 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Citrix XenApp 6.5 Basic Administration",
+        "IT Security Essentials",
+        "Spiceworks 101: Foundations",
+        "Scribe",
+        "Salesforce PaaS",
+        "VMware vSphere environment management",
+        "Citrix Infrastructure, XenApp, Access Gateway and NetScaler",
+        "EMC Avamar and Arkeia backup solution",
+        "Microsoft Exchange 2007/2010, Office365 Administer",
+        "Norton Ghost, Macrium Reflect, Acronis, FOG, Clonezilla",
+        "Active Directory, DHCP, DNS, WINS, GPO, backups"
+    ],
+    "work_history": [
+        {
+            "job_title": "IT Director",
+            "company": "Company Name",
+            "period": "August 2015 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Application Specialist",
+            "company": "Company Name",
+            "period": "August 2013 to August 2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name",
+            "period": "February 2011 to August 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Specialist I",
+            "company": "Company Name",
+            "period": "October 2010 to January 2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Network Assistant",
+            "company": "Company Name",
+            "period": "February 2010 to July 2010",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science",
+            "institution": "Hennepin Technical College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Zaporizhzhya Pedagogical College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "IT Security Essentials",
+            "year": null
+        },
+        {
+            "name": "Spiceworks 101: Foundations",
+            "year": null
+        },
+        {
+            "name": "VMware vSphere environment management",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's extensive experience in IT, spanning over a decade, positions them as a seasoned professional with deep expertise across various technologies and domains. Their track record includes roles that require strategic planning and execution in managing critical IT infrastructures for companies of varying sizes, from support functions to director-level responsibilities. The candidate has demonstrated proficiency in multiple areas including network administration, disaster recovery, database management, and cloud services such as Citrix, XenApp, VMware, Hyper V, Dynamics CRM, Dynamics GP, and enterprise software procurement. Their background also includes leadership roles in managing teams and optimizing business processes, which suggests strong interpersonal and strategic thinking skills."
+}

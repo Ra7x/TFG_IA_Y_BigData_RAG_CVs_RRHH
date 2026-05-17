@@ -1,0 +1,102 @@
+{
+    "full_name": "JAVA INTERN",
+    "summary": null,
+    "location": "City, State",
+    "tech_stack": [
+        "servlets",
+        "JSP",
+        "J2EE technologies",
+        "Hibernate3.x",
+        "JPA",
+        "Spring 3.0",
+        "Struts 2.0",
+        "EJB",
+        "JMS",
+        "Design patterns",
+        "SQL",
+        "Pl/SQL",
+        "HTML5",
+        "CSS",
+        "Java Script",
+        "AngularJS",
+        "Jquery and bootstrap",
+        "C",
+        "C++",
+        "Unix system programming",
+        "CUDA",
+        "Perl",
+        "Data Structures",
+        "Operating system concepts",
+        "multicore and multi-threaded programming",
+        "SAN",
+        "UNIX",
+        "Eclipse",
+        "IOmeter",
+        "Code Warrior",
+        "vi editor",
+        "Visual Studio",
+        "Arduino",
+        "Oracle 11g",
+        "Code Blocks",
+        "iSCSI initiator",
+        "NetApp internal tools",
+        "Navicat",
+        "JConsole",
+        "JMeter",
+        "tomcat",
+        "JBOSS",
+        "Git"
+    ],
+    "work_history": [
+        {
+            "job_title": "Java intern",
+            "company": "Current Company Name",
+            "period": "May 2013 to Present",
+            "description": [
+                "Designing and implementing Leave Management System for internal use (Spring MVC)",
+                "Receiving training in core java and J2EE technologies",
+                "Consuming and producing web services for a bank application",
+                "Creating Single Page Application in AngularJS"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Test contractor (Performance and Benchmarking team)",
+            "company": "",
+            "period": "May 2014 to May 2015",
+            "description": [
+                "Executed test cases and analyze performance numbers against benchmarks",
+                "Conducted root-cause analysis for performance degradation in controller firmware builds by running continuous performance verification (PCV) tests daily.",
+                "Participated in scrum meetings",
+                "Automated using Action Word Script (AWS), batch script, Java ( Member of automation team)"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Graduate Research Assistant",
+            "company": "",
+            "period": "Dec 2013 to May 2014",
+            "description": [
+                "Managed and maintained NIAR composites database",
+                "Created charts and updated the database",
+                "Wrote macros for doing data analysis"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science Computer Science",
+            "institution": "Wichita State University",
+            "year": 2015
+        },
+        {
+            "degree": "Bachelor of Engineering Computer Science",
+            "institution": "BMSCE",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, identified as JAVA INTERN, has demonstrated a solid foundation in server-side technologies such as servlets, JSP, and J2EE, along with proficiency in client-side scripting using HTML5, CSS, JavaScript, AngularJS, and jQuery. Their experience extends to system programming in languages like C and C++, Unix environment management, data structures, operating systems concepts, multicore programming, and database technologies including SQL and PL/SQL. The candidate has hands-on involvement in projects that range from the development of a binary search tree for file record sorting (C on Linux) to advanced GPU optimizations using parallel Apriori algorithms. In addition, they have practical experience with web services consumption and production, as well as full-stack development within frameworks such as Spring MVC and Hibernate coupled with front-end technologies in AngularJS. The candidate's roles include the design and implementation of a leave management system for internal use, contributing to performance testing, and maintaining databases, reflecting strong analytical skills, teamwork capabilities, and adaptability to new technologies."
+}

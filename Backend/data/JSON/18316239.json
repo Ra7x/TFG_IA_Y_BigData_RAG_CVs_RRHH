@@ -1,0 +1,45 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name",
+            "period": "12/2004 to 01/2012",
+            "description": [
+                "Guiding the startup and management of a full spectrum of HR operations, systems and programs.",
+                "Created HR policies and procedures, recruited employees, created group benefits databases, developed orientation, training, and incentive programs.",
+                "Managed leave of absence programs, personnel records, benefits enrollment, and administer HR budget. Handled HR generalist workplace issues."
+            ],
+            "technologies": [
+                "HRIS applications (UltiPro, PeopleSoft Enterprise Human Resources, ADP)",
+                "MS Office (Word, Excel, PowerPoint, Access, Outlook)"
+            ]
+        },
+        {
+            "job_title": "HR Representative",
+            "company": "Company Name",
+            "period": null,
+            "description": [
+                "Promoted to fulfill a broad range of HR functions including recruiting and training employees, administering benefits, overseeing disciplinary action and managing HR records.",
+                "Cochaired annual flexenrollment meetings, resolved conflicts between employees and insurance carriers, coordinated health fairs to promote employee wellness and performed exit interviews."
+            ],
+            "technologies": [
+                "HRIS applications (UltiPro, PeopleSoft Enterprise Human Resources, ADP)",
+                "MS Office (Word, Excel, PowerPoint, Access, Outlook)"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science",
+            "institution": "Ecotect Institute",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a highly organized and detail-oriented HR professional with extensive experience in project management, finance, employee recruitment and retention, staff development, mediation, conflict resolution, benefits, compensation, HR records management, and legal compliance. Their proven track record includes negotiating win-win compromises, developing team-building programs, writing personnel manuals, corporate policies, job descriptions, and management reports. The candidate's strategic approach to workflow and process improvements has significantly improved department efficiency."
+}

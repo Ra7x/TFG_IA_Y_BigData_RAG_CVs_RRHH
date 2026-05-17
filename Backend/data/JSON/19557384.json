@@ -1,0 +1,45 @@
+{
+    "full_name": "Business Development Leader",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Leader",
+            "company": "Company Name",
+            "period": "Feb 2010 to Nov 2017",
+            "description": [
+                "Spearheaded company-wide marketing campaigns introducing new products which boosted sales by more than 67% in just 1 year.",
+                "Ensured long-term profitability by researching and renegotiating vendor and customer contracts. Identified and eliminated loss making products and promoted profitable ones.",
+                "Single-handedly developed a large customer base for a new product range increasing sales from zero base to more than $2 million in just under 4 years.",
+                "Demonstrated strong leadership by recruiting, training and managing more than 20 employees across different locations and multiple departments."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Teaching Assistant",
+            "company": "Company Name",
+            "period": "Aug 2007 to Dec 2009",
+            "description": [
+                "Worked for two and half year as graduate teaching assistant, teaching organic chemistry laboratory to undergraduates.",
+                "Trained over 250 students in basic to semi-advanced theoretical and laboratory skills in organic chemistry."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Science",
+            "institution": "Virginia Tech",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Technology",
+            "institution": "Institute of Chemical Technology",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a seasoned Business Development Leader with over seven years of experience in sales, marketing, and business development roles. With a strong background in managing cross-functional teams and negotiating contracts that ensure long-term profitability, the candidate has successfully led the transformation of a small chemical trading firm into a thriving manufacturer, national distributor, and global manufacturer's sole-trading partner. The ability to source strategic products through competitive bidding showcases a competitive edge in market development. The educational background in Organic Chemistry provides a solid foundation for analytical and data-driven decision making within business environments."
+}

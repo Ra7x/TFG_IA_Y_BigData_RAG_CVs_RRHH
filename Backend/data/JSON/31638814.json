@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name City , State",
+            "period": "05/2010 to Current",
+            "description": [
+                "Responsible of the selling of hydraulic & pneumatic equipment in Mexico and USA to clients in the Energy, Chemical & Mining industries",
+                "Meeting quotas of $1.4M USD annually by renewing contracts and opening new accounts within assigned territory",
+                "Pioneered sales outreach to potential US clients and developed sales plan to increase client base outside of Mexico",
+                "Scheduling 2-3 in-person client meetings with potential US customers on a quarterly basis",
+                "Managing accounts in the energy industry like PEMEX and in the metallurgical & chemical industry like MET-MEX Peñoles",
+                "Developing business plans to identify key opportunities and deliver added value to up-sell products and services to key accounts",
+                "Booking customer follow-up calls or in-person meetings with Top 50 accounts bi-monthly to maintain customer retention",
+                "Generating sales reports and forecasts for management review",
+                "Preparing quotations that meet customers specific needs and support collections efforts."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Representative",
+            "company": "Company Name City , State",
+            "period": "07/2009 to 04/2010",
+            "description": [
+                "Obtained new accounts by selling financial products and services to consumers and businesses",
+                "Consistently achieved sales quota by making 50-60 outbound cold calls per day to potential prospects",
+                "Maintained relationships to offer the best customer service and provide a personalized financial advice."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "St. Edward´s University City , State",
+            "year": 2009
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in business development with a focus on international markets, particularly Mexico and the USA. With experience in both multinational corporations and small businesses, they have demonstrated an ability to acquire new accounts while maintaining relationships at both customer service levels. Their bilingual capabilities (English and Spanish) are evident throughout their professional journey, making them a suitable candidate for roles requiring cross-cultural communication and sales strategies targeting diverse markets."
+}

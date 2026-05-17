@@ -1,0 +1,59 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Co-owner/Executive Chef",
+            "company": "Company Name",
+            "period": "03/2010 to 01/2017",
+            "description": [
+                "Successfully manage a café style restaurant, increasing sales through quality food, exceptional service and value.",
+                "Plan menus, estimate food and beverage costs, purchase and maintain adequate inventory to meet needs.",
+                "Assist in creating innovative marketing campaigns to increase visibility of the restaurant.",
+                "Manage financial areas including budgeting, cost control, payroll and general accounting.",
+                "Keep abreast of all state and federal laws and regulations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Receiving Clerk/Purchasing Coordinator Director of Purchasing",
+            "company": "Company Name",
+            "period": "02/2009 to Present",
+            "description": [
+                "Maintain an atmosphere of enthusiastic customer awareness with an emphasis on fast, friendly customer service.",
+                "Formulate supplier inventory and pricing database for LCB-Dallas utilizing the new BirchStreet ordering system.",
+                "Create database production templates to procure weekly food orders to meet departmental needs.",
+                "Continuously price-check various items available and received through multiple Avendra suppliers to ensure accurate and best pricing for like products.",
+                "Ensure all student supplies such as uniforms, textbooks and toolkits are managed month to month and are distributed accurately to provide accountability with minimal variance."
+            ],
+            "technologies": [
+                "Food-Trak",
+                "BirchStreet",
+                "Word",
+                "Excel"
+            ]
+        },
+        {
+            "job_title": "Catastrophe Insurance Claims Adjuster",
+            "company": "Company Name",
+            "period": "01/2004 to 01/2009",
+            "description": [
+                "Outsourced through various insurance companies during catastrophe situations.",
+                "Handled approximately 100-200 claims directly with the insured."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "LE CORDON BLEU COLLEGE OF CULINARY ARTS",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate boasts a robust background in culinary management and operations, with extensive experience in purchasing across diverse sectors including food service and construction. Their strategic thinking has been instrumental in enhancing customer experiences and financial performance within the restaurant industry, as evidenced by their role as Co-owner/Executive Chef. Additionally, their tenure as Director of Purchasing showcases strong leadership in inventory management and supplier relations, utilizing advanced technological tools to optimize business processes. The educational foundation in Culinary Management from LE CORDON BLEU COLLEGE OF CULINARY ARTS aligns well with the operational expertise demonstrated throughout the career, emphasizing a comprehensive understanding of culinary practices and industry standards."
+}

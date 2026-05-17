@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Training & Development Specialist/HR",
+            "company": "Company Name ï¼​ City , State",
+            "period": "09/2013 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Workforce Development and Human Resource Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "08/2006 to 01/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Advanced Director",
+            "company": "Company Name ï¼​ City , State",
+            "period": "07/2000 to 01/2007",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Merchandise Manager/Human Resource Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "09/1991 to 03/1996",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Management/Human Resource Management",
+            "institution": "University of Phoenix",
+            "year": 2015
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in Human Resources, particularly in Training & Development and Employee Engagement. With over ten years of experience successfully leading training programs and managing HR functions across various industries, the candidate demonstrates strong leadership skills complemented by proficiency in digital tools like Microsoft suite and HRIS systems. The strategic approach to talent acquisition and retention, coupled with a commitment to continuous learning, aligns well with roles focused on organizational development. The educational background in Business Management/Human Resource Management further substantiates the candidate's aptitude for HR practices."
+}

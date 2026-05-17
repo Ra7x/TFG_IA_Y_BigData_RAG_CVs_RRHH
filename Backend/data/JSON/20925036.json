@@ -1,0 +1,61 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Office",
+        "Google Search",
+        "Yahoo Search",
+        "LinkedIn Search"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Executive",
+            "company": "Company Name - City , State",
+            "period": "05/2014 to 04/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Executive",
+            "company": "Company Name - City , State",
+            "period": "01/2012 to 03/2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Human Resource Management",
+            "institution": "Cardiff University UK",
+            "year": null
+        },
+        {
+            "degree": "Master of Science : Human Resource Management",
+            "institution": "Wales U K",
+            "year": null
+        },
+        {
+            "degree": "MBA : Human Resource",
+            "institution": "MIT School of Business - City , State, India",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science : Computer Science",
+            "institution": "MGM College - City , State, India",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "FSMS Lead Auditor Course by URS, Delhi (Oct 2011)",
+            "year": null
+        },
+        {
+            "name": "Understanding of a Training Process at UK and Indian Customer Care Centers, 2009. Summer Internship (MBA HR): Recruitment and Selection at Reliance Group, 2007.",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in Human Resources with extensive experience handling end-to-end recruitment processes, payroll management, and employee master data processing. Demonstrating strong skills in Microsoft Office suite including Word, Excel, PowerPoint, and Outlook, the candidate efficiently utilizes online job portals and social media for sourcing candidates. With expertise in SAP HCM systems and compliance with statutory labor laws, the candidate has a comprehensive understanding of HR processes across various departments. A significant accomplishment is the transition of HRSS & Payroll Processes which highlights her ability to adapt and implement technological solutions within the human resources domain."
+}

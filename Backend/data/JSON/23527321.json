@@ -1,0 +1,112 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Head, Information Technology and Information Center",
+            "company": "Company Name",
+            "period": "March 2015",
+            "description": [
+                "Provide leadership and direction to the GMS Information Center - a collection of data scientists and analysts dedicated to the production of high-value analytics to support manufacturing."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, Supply Chain and Logistics Information Technology",
+            "company": "Company Name",
+            "period": "October 2010 to March 2015",
+            "description": [
+                "Established supply chain technology direction for global manufacturing organization.",
+                "- Established the GMS Information Center - an organization dedicated to providing advanced analytical capabilities to support the manufacturing organization.",
+                "- Delivered key transformational projects including: Demand Planning Solution (SAP APO), Supply Planning and Sales and Operations Planning (Kinaxis RapidResponse), Inventory Optimization (Kinaxis RapidResponse). Provide leadership and direction to delivery and business analysis teams executing projects.",
+                "- Lead business process re-engineering efforts and provide guidance and support to business subject matter experts. Supported development and execution of Global Sales and Operations process."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Director, COMET Program",
+            "company": "Company Name",
+            "period": "November 2009 to October 2010",
+            "description": [
+                "- Responsible for managing the delivery efforts for the global COMET program, focusing on the procurement, employee expense management and eSourcing areas.",
+                "Directed ongoing rollouts in North America, Europe and Asia Pacific regions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, SAP Center of Excellence",
+            "company": "Company Name",
+            "period": "May 2005 to November 2009",
+            "description": [
+                "- Responsible for a $15MM annual budget; 75 FTEs and 30+ offshore (mix of consultants and employees); adept at remote management with domestic staff in New Jersey, Tennessee, Delaware and international staff in Europe and Singapore.",
+                "- Reduced compensation costs by nearly $1MM through offshore utilization; Retooled legacy JDE personnel for inclusion on the SAP ERP team.",
+                "- Led deployment of centerpiece SAP solution for the US Pharmaceutical Business and key solutions for Asia Pacific, Europe and South America.",
+                "- Led upgrade effort for APO solution for healthcare products segment of business.",
+                "- Led the effort to design, solution and deploy a global SAP template for Schering-Plough; Solution will reduce current footprint down to a single instance of SAP.",
+                "- Acquisition team member and leader of integration efforts for US and APAC commercial operations. Overall responsibility for leadership development through the Management Readiness Program. Managed the Project Manager Capability Review Program."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, Supply Chain Systems",
+            "company": "Company Name",
+            "period": "January 2002 to May 2005",
+            "description": [
+                "- Led the effort to implement SAP for the US Commercial operations of Schering - Plough. Solution included key Order to Cash functionality and Warehouse Management for US Pharmaceutical distribution channels. Provided consultative support to projects being executed in Belgium (APO) and Singapore (R/3)."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, Commercial and Field Force Systems",
+            "company": "Company Name",
+            "period": "April 1998 to January 2002",
+            "description": [
+                "- Led a team of developers implementing web-based solutions for support of Schering - Plough's field forces in the United States.",
+                "Key projects included Formulary Management, Account Management, Customer Relationship Management, Field Force Expense Management and Managed Care Account Planning. Designed, developed and delivered training programs for field force personnel to prepare them to properly utilize deployed technology."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, Service Delivery Systems",
+            "company": "Company Name",
+            "period": "April 1997 to May 1998",
+            "description": [
+                "- Led the implementation of outbound call center solutions for key operations in the Ohio call center.",
+                "- Led the implementation of script systems for pharmacists to make and accept patient calls regarding treatment in support of the Disease Management Programs for Smoking Cessation, Hypertension, High Cholesterol, Multiple Sclerosis and Congestive Heart Failure."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, Client Services Systems",
+            "company": "Company Name",
+            "period": "February 1994 to April 1997",
+            "description": [
+                "- Led the implementation of the Marketing and Client Services application for the front-office organization of the global bond operations.",
+                "- Led the implementation of a Portfolio Accounting System for the Global Advisors subsidiary of the Prudential. Oversaw the implementation and support of the LAN and PC technology teams for the Global Advisors subsidiary."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "institution": "University of Maryland",
+            "year": 2003
+        },
+        {
+            "degree": "Master of Science",
+            "institution": "Computer Science",
+            "year": 1994
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Computer Science",
+            "year": 1990
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a visionary leader with over 20 years of experience in Fortune 500 companies, notably at Schering-Plough where they played a pivotal role in establishing the SAP Center of Excellence and leading significant technology transformation initiatives. Their expertise spans across business process reengineering, remote management of globally dispersed teams, acquisition integration efforts, and digital solution deployments. The candidate's experience is particularly notable for their ability to drive technological advancements that not only reduced costs but also significantly enhanced operational efficiency."
+}

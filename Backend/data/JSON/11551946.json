@@ -1,0 +1,91 @@
+{
+    "full_name": "Senior Business Development Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Senior Business Development Manager",
+            "company": "Company Name, City , State",
+            "period": "May 2014 to March 2015",
+            "description": [
+                "Responsible for growing engineering services to major Food & Beverage and Chemical clients through strategic alliances, creating new service solutions such as product lifecycle management, asset management, enterprise mobility and Internet of Things, to enhance productivity and reduce cost at client operations.",
+                "Familiar with various onsite-offshore engagement models."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, Sales & Marketing",
+            "company": "Company Name, City , State",
+            "period": "April 2011 to May 2014",
+            "description": [
+                "Turned around the sales and profitability of this European manufacturer of centrifuges, filters, dryers and ball valves, for bio-pharmaceuticals, specialty chemicals, agro-chemicals and other industries, by a combination of setting clear strategic direction and smart tactical execution.",
+                "Used thought leadership, consultative sales and relationship-building to more than double the sales in 2 years, while creating a robust sales funnel for continued growth."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales/Application Engineer",
+            "company": "Company Name, City , State",
+            "period": "June 2007 to April 2011",
+            "description": [
+                "Provided direct sales and application engineering expertise to users of size-reduction, classifying, mixing and drying equipment as well as downflow/laminar flow booths and active/passive isolation systems to the specialty chemicals, minerals and other industries.",
+                "Used consultative sales/relationship-building to generate outstanding bookings each & every year."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Consultant",
+            "company": "Company Name, City , State",
+            "period": "January 2003 to January 2007",
+            "description": [
+                "Provided sales, marketing, process and application engineering expertise to users of process equipment in the life-science, chemical, mining, and other industries for this specialized centrifuge consulting firm."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager, Sales and Marketing",
+            "company": "Company Name, City , State",
+            "period": "December 1997 to January 2002",
+            "description": [
+                "In charge of sales and marketing management to launch several filtering centrifuge products to pharmaceutical, fine chemical, biotech customers worldwide through strategic planning, sales channel set-up, mar-com planning and event management programs.",
+                "Set-up design office and manufacturing partner overseas."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Product Manager",
+            "company": "Company Name, City , State",
+            "period": "April 1993 to November 1997",
+            "description": [
+                "Responsible for filtration equipment sales/marketing to bio-pharmaceutical, chemicals, and other customers.",
+                "Liaisoned with Swiss partner to launch high-$ filter in US for chromatography resin filtration."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "BS & MS (Mech. Engineering)",
+            "institution": "Not Specified",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in business development and sales within the filtration and drying systems industry, particularly for bio-pharmaceuticals, fine chemicals, agro-chemicals, and other specialized sectors. Their experience spans across marketing management, strategic planning, direct selling, and consultative sales techniques that have contributed to notable revenue growth and customer satisfaction."
+}

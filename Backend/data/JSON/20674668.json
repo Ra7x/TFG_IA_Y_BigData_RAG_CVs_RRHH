@@ -1,0 +1,55 @@
+{
+    "full_name": "Information Technology Specialist III (DRUPAL DEV)",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "C++",
+        "Java",
+        "JavaScript",
+        "PHP",
+        "Python",
+        "AJAX",
+        "SQL",
+        "PL/SQL",
+        "HTML",
+        "HTML5",
+        "XHTML",
+        "CSS",
+        "CSS3",
+        "UML",
+        "Design Patterns",
+        "Oracle JDeveloper",
+        "Eclipse",
+        "BlueJ",
+        "jGRASP",
+        "Apache Struts",
+        "Apache",
+        "Tomcat",
+        "MS Office",
+        "Oracle Database Server",
+        "Windows",
+        "OS X",
+        "UNIX",
+        "Selenium",
+        "Behat"
+    ],
+    "work_history": [
+        {
+            "job_title": "Lead Drupal Developer for the NYSED.GOV redesign project",
+            "company": "Company Name",
+            "period": "08/2015 - Current",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Computer Science",
+            "institution": "City College of New York of the City University of New York, The",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned Drupal developer with over five years of experience in site building and development. With expertise in both frontend and backend development, as well as theming skills, the candidate has successfully led projects for NYSED Redesign using Drupal 7 and Drupal 8 versions. Demonstrating strong problem-solving and analytical skills, the candidate's professional background spans across multiple concurrent project management, with a focus on creating secure and functional sites for clients."
+}

@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Customer Service Representative",
+            "company": "Company Name",
+            "period": "11/2012 to Current",
+            "description": [
+                "Respond to inquiries about HR policies and procedures from clients and their dependents via telephone, emails, fax and walk-ins.",
+                "Ensure that all queries are logged and tracked in Remedy database to promote quality assurance.",
+                "Liaise with related departments, to include HR Teams, Visa, Payroll, Accounting and Travel to deliver timely service.",
+                "Educate clients about the availability and usage of self -service options."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Consultant Project Manager",
+            "company": "Company Name",
+            "period": "09/2009 to 07/2012",
+            "description": [
+                "Wrote policy and procedures and completed other Department of Health licensing requirements for credentialing.",
+                "Wrote all business related correspondence.",
+                "Collected data to create client database.",
+                "Organized client record filing."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Liaison Officer",
+            "company": "Company Name",
+            "period": "07/2006 to 04/2009",
+            "description": [
+                "Organized presentations with business partners regarding objectives to achieve.",
+                "Partnered with physicians to obtain prior authorizations for services.",
+                "Maintained and managed over 100 clients' accounts."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "institution": "Southeastern University",
+            "year": null
+        },
+        {
+            "degree": "Private Business Law",
+            "institution": "City, State, France",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in HR customer service, complemented by project management experience and proficiency in legal processes. Their adaptability to diverse roles within the organization indicates strong interpersonal and communication skills. Notably, their accomplishments highlight exceptional handling of client inquiries and adherence to high standards for quality assurance."
+}

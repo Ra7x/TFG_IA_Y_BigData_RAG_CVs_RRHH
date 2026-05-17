@@ -1,0 +1,91 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Non Commissioned Security Officer",
+            "company": "Current Company Name ï¼​ City , State",
+            "period": "2018-2020 or Jan 2015 to Present",
+            "description": [
+                "Understand and successfully execute post orders.",
+                "Manage typical issues and problems professionally.",
+                "To serve as a general security presence and visible deterrent by continually performing duties in an alert, professional manner.",
+                "Detect suspicious activities.",
+                "Observe criminal acts and rule infractions at or near my post which may be a threat to the facility, the client or employees at my work site.",
+                "Report all incidents, accidents or medical emergencies to the appropriate persons including my supervisor, in a timely manner.",
+                "Monitor C*Cure and closed circuit camera system.",
+                "Issue temporary badges to contractors, vendors, and visitors with proper identification.",
+                "Monitor temperatures in the server room and reset alarms if any due to high/out of range temperatures."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Petty Officer 3rd Class Aviation Ordnanceman",
+            "company": "Current Company Name ï¼​ City , State",
+            "period": "2010-Present",
+            "description": [
+                "Provide security and physical protection for service members.",
+                "Train fellow Sailors in security duties.",
+                "Assist in riot control and riot prevention.",
+                "Provide vital attack, defense and logistic support to the fleet."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Home delivery technician and warehouse associate",
+            "company": "Sears, San Marcos, TX",
+            "period": "2008-2009",
+            "description": [
+                "Delivery and install appliances in customers homes.",
+                "Unload daily trucks of new inventory.",
+                "Managed and inventoried product including hand tools to major home appliances.",
+                "Janitorial duties in and around the store."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "3rd Class Petty Officer Aviation Ordnanceman",
+            "company": "U.S. Navy, Coronado, CA",
+            "period": "2001-2005",
+            "description": [
+                "Weapons Systems Operations Install, adjust, and test bomb racks, shackles, ejectors and launchers.",
+                "Test, adjust, and align aircraft gun systems.",
+                "Load, download, install and remove aircraft guns and gun components.",
+                "Load, download, assemble and disassemble aircraft missiles, rockets, and pyrotechnics.",
+                "Troubleshoot electrical and electronic equipment and wiring circuits.",
+                "Conduct authorized searches, conduct surveillance, identify narcotics and dangerous drugs, apprehend suspects, issue weapons and ammunition, conduct field sobriety tests, administer breathalyzer tests, secure crime and accident scenes, inspect crime and accident scenes, preserve evidence at crime scenes, seize evidence and contraband, mark and tag evidence and contrabanda"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate",
+            "institution": "Northridge/Eastview/Cedar Park Campus",
+            "year": null
+        },
+        {
+            "degree": "Associate Degree",
+            "institution": "Austin Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "NAS North Island, 2003-03-22",
+            "year": null
+        },
+        {
+            "name": "Small Arms Training",
+            "year": null
+        },
+        {
+            "name": "Special Response Training",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

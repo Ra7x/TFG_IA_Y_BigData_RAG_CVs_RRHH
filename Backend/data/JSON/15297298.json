@@ -1,0 +1,109 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Practice Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "Aug 2014 to Current",
+            "description": [
+                "Develop annual planning, budgeting and productivity levels for corporate accounting.",
+                "Prepare detailed business and financial activity reports and use financial ratios and statistical trending for market-wide growth.",
+                "Improvements to top line growth by 39.4% through building an effective hospital team, ensuring a safe and engaging environment, and improving medical quality and business performance.",
+                "Responsible for cost containment, cash control/banking, asset protection, loss prevention, inventory management, Federal and DEA compliance.",
+                "Develop and deploy new hospital initiatives including training physician partners, implementing an efficient patient workflow from intake to discharge and community marketing/outreach campaigns."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "Sep 2012 to Sep 2013",
+            "description": [
+                "- Ensured regulatory compliance and integrity of health information systems.",
+                "- Provided support during surveys, ADR, and internal audits."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "Sep 2008 to May 2011",
+            "description": [
+                "- Revised technology initiatives, and developed strategic/operations plans to drive business operations. Provided all technical support for EMR (Allscripts) projects.",
+                "- Developed, authored, distributed, and enhanced processes and improved procedural manuals/policies Standardized purchasing, procurement, inventory, and network operations.",
+                "- Championed mission-critical operational changes which required new system, network, and telecommunication system training and employee development."
+            ],
+            "technologies": [
+                "EMR (Allscripts)"
+            ]
+        },
+        {
+            "job_title": "Marketing Director",
+            "company": "Company Name ï¼​ City , State",
+            "period": "Feb 2007 to Sep 2008",
+            "description": [
+                "- Led marketing initiatives including service packaging, advertising campaigns, seminar rollouts agency placements, endorsements, media activities, service reviews, and website referrals.",
+                "- Oversaw communication and 3rd part public relations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Information Systems",
+            "company": "Company Name ï¼​ City , State",
+            "period": "Jan 2004 to Feb 2007",
+            "description": [
+                "- Implemented the agency's first disaster recovery plan to minimize productivity loss.",
+                "- Established equipment lifecycles to maximize use of technology throughout the organization.",
+                "- Created and delivered agency computer/security training collateral and instruction to increase end user knowledge and minimize agency risks."
+            ],
+            "technologies": [
+                "EMR (Allscripts)",
+                "Verizon cell phone plan",
+                "Field Force Manager"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA)",
+            "institution": "Keller Graduate School of Management ï¼​ City , State",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science , Telecommunications Management",
+            "institution": "DeVry University ï¼​ City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Cisco Certified Network Associate (CCNA/CCAI)",
+            "year": null
+        },
+        {
+            "name": "Leadership Training",
+            "year": null
+        },
+        {
+            "name": "ITIL Foundations Certification",
+            "year": null
+        },
+        {
+            "name": "Sniffer University - Sniffer Distributed Training Certified",
+            "year": null
+        },
+        {
+            "name": "Certified Novell Administrator (CNA 5.1)",
+            "year": null
+        },
+        {
+            "name": "HIPAA/HITECH Regulation Skills",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Este candidato presenta una sólida experiencia en gestión de sistemas y procesos, así como en el sector de la salud. Su capacidad para liderar equipos y mejorar procesos ha sido esencial para aumentar la eficiencia operativa y la calidad del paciente tanto internamente como en el contexto de una operación corporativa diversa. Con un fuerte background académico en administración y telecomunicaciones, este candidato destaca por su compromiso con soluciones innovadoras y eficientes, lo que ha resultado en significativos avances en la implementación de estrategias tecnológicas cruciales para el cumplimiento regulatorio y la seguridad informática. Su experiencia transdisciplinar y su habilidad para liderar cambios estratégicos hacen que sea un candidato valioso tanto en entornos corporativos como médicos."
+}

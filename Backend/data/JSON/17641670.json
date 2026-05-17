@@ -1,0 +1,37 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "University of San Diego extension, CA",
+            "year": null
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "Not Specified",
+            "year": null
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "Not Specified",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

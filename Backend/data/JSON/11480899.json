@@ -1,0 +1,96 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Manager",
+            "company": "Sunningdale Tech (Thailand) Co., Ltd.",
+            "period": "04/2016 to Current",
+            "description": [
+                "Report directly to CEO",
+                "Transformed HR from administrative role to strategic business partner, including working with management level to drive key business and implement performance initiative, conducted extensive analysis of existing HR Organization and Development business plan to up dated all policies, procedure, service, program and operation."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR & Admin. Manager",
+            "company": "Sekisui s - lec (Thailand) Co., Ltd.",
+            "period": "09/2013 to 04/2015",
+            "description": [
+                "Develop standardized organizational model to clarify authority and responsibilities.",
+                "Learning and development as providing guidance on learning and development for manager and their team as well as set up training system, implementing and identify areas that need to attention and improvement.",
+                "Ensure legal compliance by monitoring and implementing applicable labor law requirements, conducting investigation, maintaining record, representing the organization at hearing.",
+                "Deal with complex disciplinary/grievance and HR issues, using HR and company knowledge evidencing appropriate decision making skills",
+                "Overseeing and manage all administrative activities of the company, ensuring that all work processes are maximized for efficiency."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "General Administration Asst. Chief",
+            "company": "ESIE, Rayong",
+            "period": "11/2002 to 09/2013",
+            "description": [
+                "Promoted to fulfill a broad range of HR functions, including Purchasing and General Administration to ensure that meet the company's goal.",
+                "Managed recruitment process in an effective and efficient manner.",
+                "Maintain up-to-date recruitment progress and implemented a reporting process on manpower concerns.",
+                "Conducts interview up to executive levels and arranges interviews for management levels."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "General Manager and HR Director",
+            "company": "Type of business : Steel and Metal Worksheet.",
+            "period": null,
+            "description": [
+                "Take responsibility for conceptualizing and spearheading new HR initiatives, development and management of an effective and responsive human resource functions, as well as leading the HR team in the full spectrum of human resource activities."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Public Administration",
+            "institution": "National Institute of Development Administration (NIDA)",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelor of Education",
+            "institution": "Chulalongkorn University",
+            "year": 2002
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Human Resource Management (PM and APM Certification Course)",
+            "year": null
+        },
+        {
+            "name": "Analytical Problem Solving and Prevention",
+            "year": null
+        },
+        {
+            "name": "Tax ISO/TS 16949 & ISO 14001 requirements",
+            "year": null
+        },
+        {
+            "name": "Leadership Competency and Work Performance Appraisal",
+            "year": null
+        },
+        {
+            "name": "Labor Law Balance Scorecard and KPI",
+            "year": null
+        },
+        {
+            "name": "Happy Work Place Welfare and Salary Structure",
+            "year": null
+        },
+        {
+            "name": "Recruitment Compensation and Benefit Corrective and Preventive Action By 8D report and Why Why Analysis Technique",
+            "year": null
+        }
+    ],
+    "english_level": "Intermediate",
+    "matchmaking_summary": "The candidate presents a robust background in HR management with extensive experience in both strategic and administrative roles. With a strong track record of transforming HR functions into strategic business partners, the candidate has demonstrated expertise in recruitment, training, compliance, and performance management. The continuous improvement and strategic planning skills evident from their career trajectory indicate a proactive approach to organizational development aligned with business objectives."
+}

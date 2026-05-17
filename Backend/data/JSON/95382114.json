@@ -1,0 +1,49 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name",
+            "period": "09/2013 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "SALES MANAGER",
+            "company": "Company Name",
+            "period": "01/2010 to 01/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Intelligence Analyst",
+            "company": "Company Name",
+            "period": "11/2002 to 11/2007",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Rutgers University",
+            "year": null
+        },
+        {
+            "degree": "Executive Education; Management",
+            "institution": "Stanford University Graduate School of Business",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Global War on Terrorism Service Medal",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned business development manager with a proven track record of success in leading strategic initiatives across various governmental sectors. Their international development experience and effective leadership have resulted in sales and project development operations amounting to over $50m USD. With a background as an Intelligence Analyst at the National Security Agency, the candidate demonstrates analytical skills, strategic thinking, and cross-functional communication abilities that are crucial for driving successful business outcomes."
+}

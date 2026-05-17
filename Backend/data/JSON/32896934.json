@@ -1,0 +1,79 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": "City , State",
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Clerk",
+            "company": "Company Name",
+            "period": "02/2016 to Current",
+            "description": [
+                "Coordinate and oversea recruitment and orientation program support for other HR assigned special projects.",
+                "Coordinates and support for hiring of temporary hourly employees."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Coordinator",
+            "company": "Company Name",
+            "period": "01/2012 to 01/2015",
+            "description": [
+                "Coordinates, oversees, and performs a wide variety of administrative, secretarial, and program support activities.",
+                "- Serves as primary point of operational and administrative contact for internal and external constituencies, often on complex and confidential issues.",
+                "- Participates in the coordination, supervision, and completion of special projects and/or events."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Assistant/Bookkeeper",
+            "company": "Company Name",
+            "period": "01/2010 to 01/2012",
+            "description": [
+                "Provides high-level administrative support for human resources, accounts payable, and purchasing departments.",
+                "- Primary duties includes bookkeeping (A/R, A/P, and General Ledger) duties related to daily maintenance and financial period closure as well as Human Resources support focusing on payroll administration, compensation and benefits administration responsibilities. HR duties included applicant tracking, employee records maintenance, benefits and compensation, payroll, and Workers Compensation reporting."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Clerical II",
+            "company": "Company Name",
+            "period": "01/2000 to 01/2010",
+            "description": [
+                "Provides high-level administrative support by conducting research, preparing statistical reports, handling information requests, and performing clerical functions such as preparing correspondence, receiving visitors, arranging conference calls, and scheduling meetings.",
+                "Provides HR administrative support including administration of timekeeping system, coordination of employee time-off scheduling, maintenance of employee information and interpretation of policy regarding employee time-off. Administrator to three databases (Labor, Skills and MRP Vacation Calendar)."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Secretary",
+            "company": "Company Name",
+            "period": "01/1983 to 01/1999",
+            "description": [
+                "Provides bookkeeping and clerical support including monthly invoicing, correspondence, receiving visitors, arranging conference calls, and scheduling meetings.",
+                "Provides support for Human Resource functional areas including tracking for Workers Compensation, developing employee handbook, and maintaining the material safety data sheets."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree, BSM/HRM",
+            "institution": "University of Phoenix",
+            "year": null
+        },
+        {
+            "degree": "Associates Degree : Business Management",
+            "institution": "Blue Ridge Community College",
+            "year": 1985
+        }
+    ],
+    "certifications": [
+        {
+            "name": "SHRM-CP Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate possesses a strong background in Human Resources, ranging from recruitment and administration to compensation and benefits. With experience spanning over two decades across various industries, the candidate demonstrates expertise in managing HR functions with an emphasis on continuous improvement and strategic planning. Their involvement in multiple projects from developing employee databases to implementing policies showcases their ability to drive organizational effectiveness through technology and policy updates."
+}

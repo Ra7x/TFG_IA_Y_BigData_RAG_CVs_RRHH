@@ -1,0 +1,51 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Production Supervisor / Value Stream Leader",
+            "company": "Company Name",
+            "period": "October 2014",
+            "description": [
+                "Responsible for daily production needs within the basic compressor build lines.",
+                "Reviewed production orders, schedules, delivery dates and inventory levels to determine product availability.",
+                "Mastered the intricacies of the process flow within each department.",
+                "Established and adjusted work procedures to meet production schedules.",
+                "Supervised production schedules, production quality and on time delivery.",
+                "Implemented root cause and corrective actions to remove production constraints and improve product quality.",
+                "Improved efficiency and productivity by eliminating waste and production constraints."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "ENGINEERING LAB MANAGER",
+            "company": "Company Name",
+            "period": "July 1997 to October 2014",
+            "description": [
+                "Responsible for building and assembling test compressors and auxiliary test equipment, recording test procedures and results, and making recommendations for changes in equipment, product, and/or test methods.",
+                "Perform tests using standard engineering test procedures and equipment without supervision such as performance test, oil carryover, vibration and noise testing.",
+                "Resolve routine instrumentation and testing problems or malfunctions.",
+                "Make recommendations for changes / improvements to products to reduce cost or enhance quality.",
+                "Coordinated and developed new product design in collaboration with engineering staff."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Graduate",
+            "institution": "John Wood Community College",
+            "year": 1998
+        },
+        {
+            "degree": "High School",
+            "institution": "Quincy Senior High School",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in production and engineering, with over two decades of experience managing projects and teams. Their expertise includes leading value stream mapping and overseeing both day-to-day operations and strategic initiatives aimed at improving product quality and efficiency. With strong leadership skills and a commitment to continuous improvement, the candidate is well-suited for roles that require a detailed understanding of manufacturing processes and a proven ability to drive organizational change."
+}

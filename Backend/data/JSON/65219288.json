@@ -1,0 +1,41 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Entrepreneur General Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "12/2011 to 12/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Safety & Training Coordinator",
+            "company": "Company Name ï¼​ City , State",
+            "period": "06/1995 to 01/2011",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor",
+            "institution": "Barry University",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Member, Small Business Association (2008 - present)",
+            "year": null
+        },
+        {
+            "name": "Member, AAAE",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a highly accomplished professional with extensive experience in aviation operations and safety management. With over 15 years in the field, they have demonstrated strong leadership skills through managing multiple aspects of airport operations, including training programs for more than 15,000 employees and overseeing safety meetings and compliance with FAA regulations. Their expertise also includes loss prevention strategies that led to significant improvements in company revenue. The candidate's experience spans across various responsibilities such as budget management, contract negotiation, personnel management, and equipment oversight. This professional has transitioned these skills into successful entrepreneurship through managing a gas station and planning new business lines, showcasing versatility and adaptability."
+}

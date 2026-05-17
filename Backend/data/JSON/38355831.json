@@ -1,0 +1,112 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Aviation Technician",
+            "company": "SkyWest Airlines",
+            "period": "10/2007 to Current",
+            "description": [
+                "Perform aircraft maintenance, preventative maintenance, repairs, and alterations.",
+                "Research schedule inspections, and parts on BK117-C2, Bell 206, Bell 407, Bell 430, and Pilatus PC-12."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Technician",
+            "company": "Company Name (City, State)",
+            "period": "08/2006 to 01/2007",
+            "description": [
+                "Performed aircraft maintenance, aircraft alterations, and aircraft repairs.",
+                "Gained training on all systems for Embraer Brasilia, Bombardier CRJ-200 series, CRJ-700 series, and CRJ-900 series aircraft."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Automotive Technician",
+            "company": "Company Name (City, State)",
+            "period": "09/2004 to 01/2006",
+            "description": [
+                "Automotive diagnosis and repair on Mitsubishi and Other brands of new and used cars.",
+                "Auto computer reprogramming and computer scanning."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Turbomeca Arriel 1 Line 1 and 2 maintenance course",
+            "institution": "Turbomeca Training center",
+            "year": 2013
+        },
+        {
+            "degree": "Model EC145 (BK117 C2) Airframe Field Maintenance",
+            "institution": "American Eurocopter training center",
+            "year": 2012
+        },
+        {
+            "degree": "Bell model 407 Electrical Maintenance Training",
+            "institution": "Bell Helicopter Training Academy",
+            "year": 2011
+        },
+        {
+            "degree": "Rolls-Royce model 250 series IV FADEC training",
+            "institution": "Rolls-Royce",
+            "year": 2010
+        },
+        {
+            "degree": "Human factors in maintenance",
+            "institution": "Grey Owl aviation consultants",
+            "year": 2010
+        },
+        {
+            "degree": "Bell model 407 Field Maintenance Training Course",
+            "institution": "Bell Helicopter Training Academy",
+            "year": 2007
+        },
+        {
+            "degree": "Level 1 Dye Penetrate Inspection",
+            "institution": "Skywest Airlines",
+            "year": 2006
+        },
+        {
+            "degree": "Associate of Science : Aviation Technology",
+            "institution": "Salt Lake Community College",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Turbomeca Arriel 1 Line 1 and 2 maintenance course",
+            "year": 2013
+        },
+        {
+            "name": "Model EC145 (BK117 C2) Airframe Field Maintenance",
+            "year": 2012
+        },
+        {
+            "name": "Bell model 407 Electrical Maintenance Training",
+            "year": 2011
+        },
+        {
+            "name": "Rolls-Royce model 250 series IV FADEC training",
+            "year": 2010
+        },
+        {
+            "name": "Human factors in maintenance",
+            "year": 2010
+        },
+        {
+            "name": "Bell model 407 Field Maintenance Training Course",
+            "year": 2007
+        },
+        {
+            "name": "Level 1 Dye Penetrate Inspection",
+            "year": 2006
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a comprehensive background in aviation maintenance, with experience working on various aircraft types and systems. They have gained extensive training in multiple areas of aviation technology, including electrical and mechanical maintenance courses for Bell Helicopters, Rolls-Royce engines, and Airbus helicopters among others. Their transition from automotive to aviation maintenance showcases their adaptability and technical skills. The candidate has a strong educational foundation in aviation technology with notable achievements such as winning second place in the state competition for Aviation Skills USA and receiving the Presidents Award four times at Salt Lake Community College."
+}

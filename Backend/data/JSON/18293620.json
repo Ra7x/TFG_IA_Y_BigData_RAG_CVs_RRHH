@@ -1,0 +1,102 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sr. Business Development Manager",
+            "company": "Company Name - City , State",
+            "period": "04/2015 to Current",
+            "description": [
+                "Surpassed annual quota by 125% in 2015.",
+                "Scheduled and attended at least 10 appointments per week.",
+                "Organized joint sale calls with current customers and outside vendors, including the W hotel, Atlanta Hawks, TruGreen, LG, etc.",
+                "Vast knowledge and use of Salesfore.com.",
+                "Successful at working with senior level decision makers in various verticals including hospitality, technology, logistics, healthcare, contractors, etc."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Entrepreneur",
+            "company": "Company Name - City , State",
+            "period": "11/2016 to Current",
+            "description": [
+                "Developed and implemented a comprehensive salesperson training program.",
+                "Prospected to obtain new accounts while maintaining relationships with existing accounts.",
+                "Directed targeted marketing efforts that introduced new products and promoted product visibility. Optimized the Ride Ad website and all social media accounts to boost traffic to the sites."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sr. Business Development Manager",
+            "company": "Company Name - City , State",
+            "period": "04/2015 to 11/2016",
+            "description": [
+                "Surpassed annual quota by 125% in 2015.",
+                "Scheduled and attended at least 10 appointments per week.",
+                "Organized joint sale calls with current customers and outside vendors, including the W hotel, Atlanta Hawks, TruGreen, LG, etc.",
+                "Vast knowledge and use of Salesfore.com.",
+                "Successful at working with senior level decision makers in various verticals including hospitality, technology, logistics, healthcare, contractors, etc."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Account Executive",
+            "company": "Company Name - City , State",
+            "period": "12/2013 to 04/2015",
+            "description": [
+                "Exceeded quota on a monthly basis, averaging 140% to plan.",
+                "Handled the highest volume account in assigned territory by closing Wellstar Health Group (over 20 locations). Ongoing generation of new leads through relationship building with property managers, building owners, referral partners, social media, cold calling and door to door sales."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Account Manager",
+            "company": "Company Name - City , State",
+            "period": "04/2011 to 01/2014",
+            "description": [
+                "Managed a portfolio of over 300 accounts generating $3 million in sales and revenue.",
+                "Led sales calls with team members to establish sales and customer retention goals.",
+                "Assisted clients in building networking sites to increasing their overall profitability in their business. Maintaining excellent knowledge of our products and services (SaaS, websites, etc.) in order to understand customers' needs and provide solutions to those needs."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Consultant",
+            "company": "Company Name - City , State",
+            "period": "01/2009 to 03/2011",
+            "description": [
+                "Established more than 30 new accounts, earning a combined profit of over $200k a year.",
+                "Recognized as top sales generator, increasing sales level by 45% in 2009 alone.",
+                "Received company Employee Performance Award after maintaining record sales achievement of 20% growth five months in a row. Exceeded targeted sales goals by 175%."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Account Executive",
+            "company": "Company Name - City , State",
+            "period": "05/2006 to 04/2008",
+            "description": [
+                "Adhered to all federal and state compliance guidelines relative to retail mortgage lending. Interviewed an average of 40 mortgage loan applicants per month.",
+                "Received Employee of the Month Award for a 70% rate of closed loans."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "Enterprise State Junior College",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Troy University",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

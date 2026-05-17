@@ -1,0 +1,45 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Director",
+            "company": "Company Name",
+            "period": "January 2014 to January 2015",
+            "description": [
+                "Communicate orally and written with children, parents, staff, volunteers, guardians, therapist, case workers with a variety of economic backgrounds, withholding confidential or sensitive information with discretion.",
+                "Develop, implement, and monitor training programs suitable for employee retention.",
+                "Skilled in identifying problems, determining accurate and relevant information, generating and evaluating alternatives to make decisions.",
+                "Develop policies and procedures, researching, drafting, editing, and revising according to federal, state, and county laws, ensuring compliance.",
+                "Pre-screen candidates to ensure they are a strong fit for the position by matching their skills with the needs of the organization."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Human Resources Management",
+            "institution": "Webster University",
+            "year": null
+        },
+        {
+            "degree": "Business Administration",
+            "institution": "Benedict College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "South Carolina Notary Public",
+            "year": null
+        },
+        {
+            "name": "CPR and First Aid",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate brings a wealth of experience in human resource management, with a proven track record of devising successful recruiting plans that have led to significant new hires. Their analytical skills and interpersonal abilities are particularly noteworthy, enabling them to effectively handle complex employee relations and training programs. They possess deep knowledge of labor laws and HR policies, which they apply diligently to maintain compliance and foster a positive work environment."
+}

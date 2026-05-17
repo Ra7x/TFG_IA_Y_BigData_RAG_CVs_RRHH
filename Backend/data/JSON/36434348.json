@@ -1,0 +1,116 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "ASP.net",
+        "Active Directory",
+        "Adobe Acrobat",
+        "Adobe Dreamweaver",
+        "Adobe Photoshop",
+        "application design",
+        "arts",
+        "billing systems",
+        "Business Objects",
+        "business operations",
+        "C++",
+        "client server",
+        "Crystal Reports 9",
+        "databases",
+        "Database Design",
+        "disaster recovery",
+        "forms",
+        "framework",
+        "government",
+        "grants",
+        "help desk support",
+        "Help desk",
+        "HTML",
+        "computer support",
+        "leadership",
+        "marketing materials",
+        "Microsoft Access",
+        "Microsoft Office",
+        "Microsoft SharePoint",
+        "migration",
+        "Oracle database",
+        "PL/SQL",
+        "personnel",
+        "project management",
+        "purchasing",
+        "report writing",
+        "reporting",
+        "Requirements gathering",
+        "SAP",
+        "SDLC",
+        "servers",
+        "Software Development",
+        "Microsoft SQL Server",
+        "SQL",
+        "strategy",
+        "strategic planning",
+        "System administration",
+        "Visual Basic",
+        "Web Intelligence",
+        "web development",
+        "Windows Server"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Manager",
+            "company": "Company Name - City , State",
+            "period": "April 2005 to Current",
+            "description": [
+                "Managed computer support staff of college serving over 150+ employees",
+                "Responsible for planning and implementation of major modifications/upgrade to the entire computing environment of the college",
+                "Involved in IT Governance efforts of the campus to develop infrastructure and security policy",
+                "Overseer help desk support which included troubleshooting hardware, software and Windows servers",
+                "Managed multiple projects (varying in scope, time frame and difficulty) to develop applications or other IT solutions for various needs of the Faculty, staff and students.",
+                "Administer data needs of the college including data security, database development/maintenance and report generation",
+                "Responsible for the purchasing appropriate computing equipment that would fit the various needs of the college Faculty and staff."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "System Analyst",
+            "company": "Company Name - City , State",
+            "period": "June 2003 to April 2005",
+            "description": [
+                "Managed efforts of staff to accomplish various tasks related to new system migration project.",
+                "Generate SQL for data population and complex report writing using PL/SQL and Crystal Reports 9 to accommodate new system migration project.",
+                "Maintain and improve existing databases used to manage every-day workflow."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Graduate Assistant-Technical Writer",
+            "company": "Company Name - City , State",
+            "period": "January 2002 to May 2003",
+            "description": [
+                "Developed user manuals and training materials for computer systems used by police. personnel.",
+                "Tested web and client server applications to ensure that user requirements were met."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Management Information Systems",
+            "institution": "University of Illinois - City , State",
+            "year": null
+        },
+        {
+            "degree": "Information and Decision Sciences",
+            "institution": "University of Illinois - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate possesses a robust background in Information Technology, marked by over a decade of experience managing IT support and application development operations within various educational and non-profit settings. With a strong emphasis on aligning business systems with organizational policies and guidelines, the candidate has demonstrated expertise in both strategic planning and hands-on troubleshooting across diverse technological domains."
+}

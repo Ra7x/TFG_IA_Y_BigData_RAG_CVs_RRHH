@@ -1,0 +1,71 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Manager",
+            "company": "Company Name, City , State",
+            "period": "04/2013 to Current",
+            "description": [
+                "Manages application database/hardware systems used to track Chapter 13 bankruptcy cases, all office technologies, information systems, and anti-spam/antivirus servers.",
+                "Evaluates, recommends, implements, supports, and troubleshoots hardware and software.",
+                "Maintains LAN/WAN infrastructure, connectivity, and security as well as LAN user documentation. Performs disaster recovery planning.",
+                "Administers licenses and service contracts; schedules service visits from vendors and suppliers.",
+                "Defines, documents, assesses, and updates IT-related procedures as needed. Creates and maintains user accounts, including email.",
+                "Inspects all employees' computers quarterly to ensure compliance of configuration and settings with office policies. Coordinates special projects.",
+                "Designed and implemented network infrastructure enhancements to improve performance, security, remote access, and connectivity."
+            ],
+            "technologies": [
+                "Network Engineering",
+                "Helpdesk Administration",
+                "Software Licensing",
+                "Disaster Recovery",
+                "Backup/Restore Operations/Project Management"
+            ]
+        },
+        {
+            "job_title": "Network Analyst",
+            "company": "Company Name, City , State",
+            "period": "08/1987 to 06/2012",
+            "description": [
+                "Led a team of five network and equipment support specialists.Configured, maintained, analyzed, and troubleshot Nortel and Juniper networks, systems, and equipment.",
+                "Planned, designed, installed, configured, and tested wireless networks (WLAN from Cisco, Nortel, and Meraki) in multiple facilities; documented standards for US operations; trained users; and monitored performance.",
+                "Replaced 125 field and service laptops by programming standard images and custom configurations on each machine, completing the six-week project on schedule despite disruption of parts availability due to a tsunami.",
+                "Championed the use of computers in manufacturing cells to provide drawings and also facilitate order tracking in conjunction with the ERP system."
+            ],
+            "technologies": [
+                "Nortel",
+                "Juniper",
+                "Cisco",
+                "Meraki"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Leadership",
+            "institution": "Walden University, City , State",
+            "year": 2015
+        },
+        {
+            "degree": "Master of Science : Information Systems Management",
+            "institution": "Project Management Walden University, City , State",
+            "year": 2013
+        },
+        {
+            "degree": "Bachelor of Science : Information Systems Management Mechanical Engineering",
+            "institution": "Walden University, City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "MCP, CompTIA Network+, CompTIA A+",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the field of Information Technology Management with extensive experience across various aspects such as network engineering, helpdesk administration, disaster recovery planning, and software licensing. They hold advanced technical skills in managing LAN/WAN infrastructure, configuring hardware, troubleshooting systems, and maintaining cybersecurity measures. The candidate's career progression highlights their ability to lead teams, handle database management, and drive process improvements through technological innovations. With certifications that include both network administration and general IT competencies, the candidate is well-prepared for roles where technical leadership and strategic thinking are essential."
+}

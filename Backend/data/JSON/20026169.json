@@ -1,0 +1,60 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Aircraft Sales Professional",
+            "company": "Aircraft Sales Company Name - City , State",
+            "period": "02/2013 to Current",
+            "description": [
+                "Research aircraft in various advertisement media.",
+                "Investigate currency of aircraft within the FAA aircraft data registry.",
+                "Research and investigate if each aircraft is compliant to FAA (FARS and CFR)/DOT standards.",
+                "Research and analyze each component on each aircraft.",
+                "Research and investigate aircraft bluebook for price differentials.",
+                "Help create an appraisal for each aircraft.",
+                "Photo each aircraft and their respective log books for the use of advertisement and to make sure the records are current with proper maintenance and proper weight and balance.",
+                "Help with advertisement and facilitate the sale of each aircraft."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Intern",
+            "company": "Company Name - City , State",
+            "period": "01/2012 to 05/2012",
+            "description": [
+                "Airport Safety Inspections (Daily, Weekly and Monthly)",
+                "Investigate, research and analysis of loss of customer retention and fuel purchase income.",
+                "Uphold current State Aviation Laws Revision and New Aviation tax laws Investigate, research and analysis of loss of customer retention and fuel purchase income.",
+                "Authored a new written policy for Line Crews Safety Gear (Vest) and designed them Hess Steel Company C- 60 Licenses."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's of Science Technology Aviation Management - Human Factors",
+            "institution": "Arizona State University (ASU) - City , State",
+            "year": "2012"
+        },
+        {
+            "degree": "Bachelor of Science in Aviation Science",
+            "institution": "Utah Valley University (UVU) - City , State",
+            "year": "2008"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Commercial Welder",
+            "year": null
+        },
+        {
+            "name": "Certified InstructorAir Traffic Control",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in aviation and construction management, with expertise in regulatory compliance and aircraft research. Their experience includes managing crews in various industrial projects and holding certifications in welding and air traffic control. The transition into aircraft sales is promising given their demonstrated ability to navigate complex technical information and interact professionally across industries."
+}

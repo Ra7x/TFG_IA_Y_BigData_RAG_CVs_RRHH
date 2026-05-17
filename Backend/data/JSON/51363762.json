@@ -1,0 +1,80 @@
+{
+    "full_name": "AMC COMPUTER SPECIALIST AND INTERN",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Cobol Programming",
+        "Information Technology",
+        "ADA Programming",
+        "Software Development"
+    ],
+    "work_history": [
+        {
+            "job_title": "Lead Cobol Programmer",
+            "company": "AMC Computer Specialist and Intern",
+            "period": "Sep 1989 to Sep 1992",
+            "description": [
+                "Wrote two programs to estimate the cost for the Panama Canal Conflict.",
+                "Coordinated with QA testers for end-to-end unit testing and post-production testing.",
+                "Implemented system security and data assurance software.",
+                "Developed custom software solutions for the organization.",
+                "Oversaw deployment, configuration, and documentation procedures.",
+                "Implemented and tested enhancement feature requests to enhance product functionality.",
+                "Resolved customer issues by establishing workarounds and solutions, debugging, and creating defect fixes."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Specialist (Special Assignment)",
+            "company": "AMC Computer Specialist and Intern",
+            "period": "Jun 1992 to Oct 1993",
+            "description": [
+                "Detailed as Junior Engineer for PM EWRSTA Camp Evans (Wall, New Jersey). Assisted the Lead Software Engineer in writing the code to repair the Kiowa 58D helicopter computer module. Project was successful from coding to test and evaluation.",
+                "Authorized to go TDY to Fort Bragg, N.C. to test our code in the vehicle.",
+                "Briefed 300 civilians and 60 soldiers on the test, evaluations, and repair of the aircraft under the orders of the PMEWRSTA PM Colonel Arthur Hurtado (Fort Myers, Florida).",
+                "Served as a Lead Project Manager using the Artemis Schedule Publisher software to track Electronic Warfare systems and the respected repair schedules."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "AMC Computer Specialist and Intern",
+            "period": "Sep 1992 to Sep 2011",
+            "description": [
+                "Managed principles, evaluation techniques, and systems management and planning (2003-2011).",
+                "Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training, in response to customer requirements (2003-2011)."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "AMC Computer Specialist and Intern",
+            "period": "Sep 2011 to Current",
+            "description": [
+                "Efficient planning and delivery of customer support services, including installation, configuration, troubleshooting, customer assistance, and/or training in response to customer requirements (2011-2015).",
+                "Knowledge of Local Area Network security requirements and techniques to protect computer systems from viruses, data tampering, and unauthorized system entry (2011-2015).",
+                "Utilizes knowledge of information technology principles, methods, and security regulations and policies to administer various information security programs (2011-2015)."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Pillar College",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified Professional (MCP)",
+            "year": 2006
+        },
+        {
+            "name": "Security Plus",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, with over two decades of experience in the Information Technology field, exhibits a deep understanding and expertise across various aspects including Cobol programming, information technology management, system security implementations, customer support services, and local area network protections. Their career progression showcases strong leadership capabilities as evidenced by their role as Lead Project Manager, where they coordinated project efforts to ensure successful outcomes for software development projects aimed at enhancing enterprise systems' functionalities and security measures. The candidate holds significant certifications in IT management and has been involved in critical roles that necessitate adherence to strict information technology principles and regulations."
+}

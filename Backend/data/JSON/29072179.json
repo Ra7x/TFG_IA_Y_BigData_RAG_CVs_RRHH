@@ -1,0 +1,55 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sous Chef",
+            "company": "Company Name ï¼​ City , State",
+            "period": "March 2013 to Current",
+            "description": [
+                "Supported all kitchen operations when chef was absent.",
+                "Assisted in maintaining preparation and service areas in a sanitary condition.",
+                "Received exceeds expectations ratings on performance reviews.",
+                "Recognized by peers and management for going above and beyond normal job functions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "General Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "March 2009 to February 2013",
+            "description": [
+                "Managed morning rush of over [Number] customers daily with efficient, levelheaded customer service.",
+                "Adhered to recipe and presentation standards for specialty coffee drinks.",
+                "Managed 14 team members, including scheduling, training, and conflict resolution."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "General Equivalency Diploma (GED)",
+            "institution": "Des Moines Community College ï¼​ City , State",
+            "year": null
+        },
+        {
+            "degree": "Serve Food Safe Certification",
+            "institution": "Urbandale Community Schools ï¼​ City , State",
+            "year": "August 2000"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Dean Vaughn Medical Terminology",
+            "year": null
+        },
+        {
+            "name": "Principal Financial Group Skills benefits, cash register, CPT, customer service, delivery, Financial, forms, ICD-9, insurance",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate brings a positive attitude and strong work ethic to any team. Known for being an adaptive team player with a deadline-driven approach and excellent customer service skills. Highly accomplished in maintaining performance standards, having received numerous 'exceeds expectations' ratings on performance reviews from peers and management."
+}

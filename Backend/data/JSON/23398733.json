@@ -1,0 +1,35 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Tutor",
+            "company": "Tutoring Company Name",
+            "period": "01/2013 to 01/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Manager",
+            "company": "Company Name",
+            "period": "01/2008 to 01/2014",
+            "description": [
+                "Tracked financial transactions.",
+                "Monitored accounts receivable, accounts payable. Negotiated with vendors and customers.",
+                "Produced profit and loss statements."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [],
+    "certifications": [
+        {
+            "name": "Professional Medical Coding and Billing Program",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a unique blend of educational, administrative, and technical skills. With experience as a tutor and an office manager, they have honed their ability to work with diverse groups and manage complex systems, which are highly relevant for roles in medical coding and billing. Their commitment to learning is evident through the completion of a specialized training program in professional medical coding. The educational background complemented by practical experience provides a solid foundation for contributing effectively as a healthcare coder."
+}

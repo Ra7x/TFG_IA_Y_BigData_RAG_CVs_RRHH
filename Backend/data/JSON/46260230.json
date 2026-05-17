@@ -1,0 +1,129 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Issue escalation",
+        "Server and System Administration",
+        "Reporting and analysis",
+        "End-User Training",
+        "Quality control",
+        "Program installations",
+        "Schematic understanding",
+        "Software testing",
+        "Critical thinking",
+        "Server improvements",
+        "Data management",
+        "Data backups",
+        "Network Administration",
+        "Project management",
+        "Experience in leadership",
+        "Security technologies",
+        "Improvement plan knowledge",
+        "Network configuration",
+        "Supervision",
+        "Time management",
+        "Hardware repair",
+        "Active Directory knowledge",
+        "Computer configurations",
+        "Cybersecurity analysis",
+        "System upgrades",
+        "System Administration",
+        "New program installations",
+        "Microsoft Office",
+        "Organizational leadership",
+        "MS Office Troubleshooting and Maintenance",
+        "Apple iOS Technician",
+        "Equipment repair",
+        "Help desk assistance",
+        "Power and hand tool use",
+        "Application software testing",
+        "Troubleshooting and repairs",
+        "Mechanical abilities",
+        "Preventative maintenance",
+        "Information Systems Security Professional",
+        "Telecommunications systems",
+        "Advanced knowledge of Windows OS",
+        "Component repairs",
+        "Advanced knowledge of Google Chrome OS",
+        "Multitasking",
+        "Soldering Part inspections",
+        "Database management"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name",
+            "period": "11/2011 - Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Quality Control Inspector Contractor",
+            "company": "Company Name",
+            "period": "04/2019 - Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Network Analyst",
+            "company": "Company Name",
+            "period": "06/2016 - 05/2018",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Quality Control Manager",
+            "company": "Company Name",
+            "period": "07/2013 - 08/2015",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Science Science Technology",
+            "institution": "The Federal Polytechnic, Ado-Ekiti",
+            "year": null
+        },
+        {
+            "degree": "F.A.A Aircraft Dispatcher License Aviation",
+            "institution": "Phoenix East Aviation",
+            "year": 2014
+        },
+        {
+            "degree": "Certificate Cybersecurity Policy For Aviation And Internet",
+            "institution": "University Of Colorado At Boulder",
+            "year": 2020
+        },
+        {
+            "degree": "Certificate",
+            "institution": "GOOGLE I.T SUPPORT",
+            "year": 2021
+        }
+    ],
+    "certifications": [
+        {
+            "name": "IT Security: Defense against the digital dark arts",
+            "year": null
+        },
+        {
+            "name": "Operating System and You: Becoming a power user",
+            "year": null
+        },
+        {
+            "name": "The Bits and Bytes of Computer Networking",
+            "year": null
+        },
+        {
+            "name": "System Administration and IT Infrastructure Service",
+            "year": null
+        },
+        {
+            "name": "Technical Support Fundamentals",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

@@ -1,0 +1,84 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Training Manager",
+            "company": "Company Name City , State",
+            "period": "08/2011 to 09/2015",
+            "description": [
+                "Creating and implementing training programs and overseeing the development of careers.",
+                "- Set performance metrics, evaluate productivity, and help workers create long-term career plans within an organization. Develop, implement, and monitor training programs within an organization.",
+                "- Supervise technical training for staff.",
+                "- Conduct orientation sessions.",
+                "- Create training materials and develop multimedia visual aids and presentations. Create testing and evaluation processes.",
+                "- Evaluate needs of company and plan training programs accordingly.",
+                "Conduct performance evaluations.",
+                "Provide classroom training, demonstrations, on-the-job training, meetings, conferences, and workshops."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Owner/Partner Defense Contractor",
+            "company": "Company Name City , State",
+            "period": "10/2006 to 07/2011",
+            "description": [
+                "Supervised, and trained employees for high level security Military Intelligence operations, recruited quality personnel for special assignments, conducted high level briefings and debriefing for various security level investigations at Federal locations to Military, civilian and Congressional personnel.",
+                "- Developed business plans, budgets, cost proposals, task schedules, cost analysis and projections; issued status/quality control plans and reports.",
+                "- Developed specific scenarios and created specific characters per U.S.Military specifications adhering to strict government guidelines. Provided experienced instructors/role players who educate and assist Military and civilian personnel prior to deployment. Created comprehensive lesson plans to instruct Military and civilian personnel.",
+                "Developed customized programs to support and enhance the security agencies of the United States government."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Program Administrator II, Project Manager. Training Specialist II: US Army (CISAC)",
+            "company": "Company Name City , State",
+            "period": "01/2004 to 09/2006",
+            "description": [
+                "Consultant and liaison to the Department of Interior (DOI) and Department of Defense (DOD) to effectively modernize inventory/ cataloging processes for sensitive and classified files, material and property. Single point of contact for project scheduling and changes.",
+                "- Capture Manager: Contract Acquisition: Procure, write and implement new and existing Request for Purchase/Quotes opportunities RFP/RFQ)"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Role Player",
+            "company": "Company Name City , State",
+            "period": "01/2003 to 01/2004",
+            "description": [
+                "Provided services as a role player in support of CISAC for US Army Intelligence Center.",
+                "- Research & Development: Created new scenarios for Field Training Exercises (FTX) Cadre and teams, used world events as guidelines. Executed quality assurance programs."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts (Equivalent)",
+            "institution": "University of the South",
+            "year": null
+        },
+        {
+            "degree": "Associates (Equivalent)",
+            "institution": "Coleman University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Training and Development Military & Civilian Training",
+            "year": null
+        },
+        {
+            "name": "Supervision and training Master Black Belt Instructor",
+            "year": null
+        },
+        {
+            "name": "Certified Train the Trainer (T3)",
+            "year": null
+        }
+    ],
+    "english_level": "Intermediate/Expert",
+    "matchmaking_summary": "The candidate is a highly skilled Training Manager with over 10 years of experience in various training environments. They have proven expertise in developing and implementing innovative solutions, leadership development, curriculum development, and trainer workshops (T3). Their background includes management of remote employees, handling high-level security operations, and working closely with government agencies to enhance inventory/cataloging processes for sensitive information. The candidate's strong technical skills in MS applications are complemented by their broad experience across diverse industries, demonstrating adaptability and capability to rapidly take on new challenges."
+}

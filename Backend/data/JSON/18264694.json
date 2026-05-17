@@ -1,0 +1,92 @@
+{
+    "full_name": "President Career Focus",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "President",
+            "company": "Company Name",
+            "period": "August 1999 to January 2002",
+            "description": [
+                "Provided contract services to organizations through implementation of global business strategies: identifying new business opportunities, conducting market research, market promotions, trade show representation, and product demonstrations.",
+                "Awarded Contract with Southern U. S. Trade Association to implement a Canadian/US Trade Mission, arranged and conducted conferences, handled guests transportation, assembled media kits and press releases: Master of Ceremony for several of the conferences and made presentations on international marketing.",
+                "Negotiated on behalf of buyer/sellers for several large bulk commodity export transactions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, International Trade Division",
+            "company": "Company Name",
+            "period": "November 1996 to August 1999",
+            "description": [
+                "Supervised maintenance of international trade database and export trade lead program.",
+                "Provided strategic direction, management, budgetary allocation, training, & staffing of Atlanta and Brussels offices.",
+                "Consulted with companies in development of global business strategies.",
+                "Organized and managed trade show pavilions throughout Asia and the Americas.",
+                "Developed seminars on international trade: secured speakers, and facility locations.",
+                "Linked local suppliers with foreign buyers & distributors through trade shows, missions and promotional campaigns."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Director",
+            "company": "Company Name",
+            "period": "May 1995 to November 1996",
+            "description": [
+                "Appointed to the U.S. Department of Commerce-International Trade Division's District Export Council.",
+                "Responsible for securing new logistic accounts; Computed air and ocean freight rate quotations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Cotton/Textile Broker & Sales Manager",
+            "company": "Company Name",
+            "period": "October 1991 to November 1994",
+            "description": [
+                "Successful track record of increasing cotton fiber and textile sales in the Southern U. S. and international markets; met or exceeded all company quotas.",
+                "Expanded domestic and overseas textile accounts through prospecting, cold calling and computer networks."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Supervisor-Risk Fleet Management",
+            "company": "Company Name",
+            "period": "January 1989 to January 1990",
+            "description": [
+                "Supervised and managed staff of five employees.",
+                "Coordinated property, casualty and automobile insurance coverage."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Budget Analyst/Legislative Relations",
+            "company": "Company Name",
+            "period": "January 1988 to January 1988",
+            "description": [
+                "Liaison to six large state government agencies; Negotiated budgetary requests with facility managers."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters in Business Administration",
+            "institution": "Mercer University, Stetson School of Business and Economics",
+            "year": 1993
+        },
+        {
+            "degree": "Bachelors",
+            "institution": "University of Georgia, Terry College of Business Administration",
+            "year": 1987
+        },
+        {
+            "degree": "Associate",
+            "institution": "Middle Georgia College",
+            "year": 1984
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

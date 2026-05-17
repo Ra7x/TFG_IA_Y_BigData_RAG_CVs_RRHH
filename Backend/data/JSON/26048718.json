@@ -1,0 +1,91 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sr. HR Consultant",
+            "company": "City , State",
+            "period": "01/2009 to 11/2012",
+            "description": [
+                "Forecasted customers' needs by utilizing Need Assessments of assigned departments to plan, design, develop, implement, and evaluate educational programs. Developed Leadership and Management/Supervisor level courses as well as track pre-course and post-course progress. Instructed all Mandatory Classes required by Harris County Hospital District and the Federal Government and update policies in real-time. Organized logistics for course offerings."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources/Education Instructor III",
+            "company": "City , State",
+            "period": "01/2009 to 11/2012",
+            "description": [
+                "Instructed CPR, SAMA, and Driver's Safety courses for Harris County Hospital District. Collaborated with interdisciplinary team members to develop hospital-wide workshops/seminars and provide applicable training and/or coaching."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Manager",
+            "company": "City , State",
+            "period": "07/2007 to 09/2008",
+            "description": [
+                "Responsible for human resource management of staff including recruitment, selection, wage determination, promotions, employee relations, explanation of benefits, disciplinary actions, credentialing, and performance appraisals."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Media Specialist",
+            "company": "City , State",
+            "period": "08/2005 to 07/2007",
+            "description": [
+                "Taught Research Techniques to Grade School and Middle School students. Prepared budgets for circulation and guided superintendent and principal in the selection and acquisition of materials and equipment."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Unit Vice President / Human Resources Branch Manager",
+            "company": "City , State",
+            "period": "01/2000 to 03/2005",
+            "description": [
+                "Acted as primary contact for RFPs, internal and federal audits and advised Branch Manager of recommendations to maintain compliance. Conducted employee performance appraisals, mid-year reviews, compensation, employee relations, bi-weekly time approvals, promotions, new hire orientation, wage determination, filing I-9s, annual mandatory training, employee screening, explanation of benefits, coaching, and training and development."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Bank Officer",
+            "company": "City , State",
+            "period": "10/1998 to 01/2000",
+            "description": [
+                "Trained Relationship Bankers globally in manipulating the bank's internal software (CIDAR) to ensure efficient marketing and tracking of clients' progress on a monthly and annual basis."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Consultant",
+            "company": "City , State",
+            "period": "09/2008 to 01/2009",
+            "description": [
+                "Assisted with the coordination of the Employee Satisfaction Survey (YOU COUNT) and generated statistical reports for Executive Leadership. Collaborated with physicians to develop and coordinate the Physician Satisfaction Survey and generated statistical reports to Executive Leadership."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Doctorate of Business Administration",
+            "institution": "Walden University",
+            "year": "December 2016"
+        },
+        {
+            "degree": "Master of Business Administration",
+            "institution": "University of St. Thomas",
+            "year": "May 2006"
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Texas A & M University",
+            "year": "August 1990"
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

@@ -1,0 +1,51 @@
+{
+    "full_name": "CHEF",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Chef",
+            "company": "Chef City",
+            "period": "September 2013 to January 2016",
+            "description": [
+                "Responsible for the preparation of 2 daily snacks and lunch for 150 children.",
+                "Created a balanced menu along with catering to child specific medical and religious restrictions.",
+                "Continuously maintained above par menu and stayed within an established budget."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Associate",
+            "company": "City, State",
+            "period": "August 2005 to Current",
+            "description": [
+                "Assisting Customers in the purchases.",
+                "POP inputting.",
+                "Creating an overall experience to create returning customer base. Customer service, product knowledge and computer skills."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Food and Beverage Manager",
+            "company": "City, State",
+            "period": "May 2003 to April 2005",
+            "description": [
+                "Worked a liaison between membership and management to ensure all requirements were met for a satisfying experience at a golf/tennis/pool facility.",
+                "Was continuously asked to manage private and company events due to hard work and commitment to excellence.",
+                "Ordered beverages to maintain sufficient stock, scheduled staff, and provided excellent customer service."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors",
+            "institution": "MCLA City, State",
+            "year": 1984
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "A dedicated customer service representative motivated to maintain customer satisfaction and contribute to company success. Core strengths include strong organizational skills, active listening skills, the ability to quickly solve problems, an energetic work attitude known for effective inventory control, and a deep expertise in customer service."
+}

@@ -1,0 +1,44 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Director",
+            "company": "Company Name",
+            "period": "May 2005 to Present",
+            "description": [
+                "Onboarded and recruited new employees, managed hiring processes through advertising, online applicant administration, and interviews.",
+                "Administered benefits including health, dental, vision, life insurance, disability coverage, and COBRA notifications.",
+                "Managed 401k plan aspects such as enrollment, deductions, and distributions.",
+                "Conducted payroll tasks including weekly reviews and handling garnishments, levies, and child support orders.",
+                "Handled Employee FMLA administration, including qualification requirements and return-to-work processes.",
+                "Trained and supervised temporary workers in safety and drug testing procedures.",
+                "Implemented training programs for new employees to ensure compliance with company policies.",
+                "Conducted annual reviews and disciplinary actions, maintaining employee records and handling terminations following proper documentation."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Psychology",
+            "institution": "Indiana University",
+            "year": null
+        },
+        {
+            "degree": "Human Resources Certificate",
+            "institution": "Indiana University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "National SHRM Member Notary",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a seasoned HR Director with extensive experience in managing multiple facets of HR across several facilities. Their strong background includes proven expertise in onboarding, recruitment, benefits administration (including handling of insurance and 401k plans), payroll processing, FMLA compliance, and training systems management. The candidate demonstrates excellent skills in employee relations, ensuring legal compliance through knowledge of employment laws and procedures such as EEOC Affirmative Action Plan management."
+}

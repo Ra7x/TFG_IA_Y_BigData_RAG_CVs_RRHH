@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Budget technician",
+            "company": "Oklahoma National Guard",
+            "period": "01/2011 to 08/2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Management and Program Analysis",
+            "company": "Oklahoma National Guard",
+            "period": "08/2011 to 12/2015",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Human Services",
+            "institution": "University of Phoenix",
+            "year": null
+        },
+        {
+            "degree": "Aviation Operation Specialist",
+            "institution": "",
+            "year": "06/13"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Financial Management 3",
+            "year": null
+        },
+        {
+            "name": "Activity Managers/Budget Analyst Course",
+            "year": "12/09"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate holds a degree in Human Services and has demonstrated expertise in budget forecasting, accounting, and financial management through their roles as a Budget technician and Management and Program Analysis. With experience managing detailed records of budgetary transactions for the State Aviation Office, this candidate exhibits strong analytical reasoning skills, along with proficiency in Microsoft Office tools such as Excel and Word, indicating practical capabilities to handle administrative duties efficiently. Their involvement with the Oklahoma National Guard family programs not only highlights leadership qualities but also indicates a dedication to supporting military missions."
+}

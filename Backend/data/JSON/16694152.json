@@ -1,0 +1,75 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Executive",
+            "company": "Company Name",
+            "period": "September 2008 to Current",
+            "description": [
+                "Responsible for managing the entire sales cycle with accountability to engage specialist team members; Aggressive and active in competitive accounts, knowledgeable regarding competition and industry trends.",
+                "Identify, articulate, and implement products, solutions and services to customer requirements; Articulate and position full spectrum of OfficeMax products, services, and solutions to key departmental decision makers.",
+                "Develop and implement business plan for client base to identify, sell, and support services and/or products in existing OfficeMax accounts; Responsible for proposing and closing engagements that will achieve total revenue growth (sale and annuity), profit, and customer satisfaction plans.",
+                "Perform account maintenance and continuous new business development; Work with the in-territory BRM and other resources to accomplish install, revenue, and profit objectives; Develop plans for growth and solicit buy-in from management.",
+                "Perform presentations internally and externally on existing capabilities to gain support."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Client Advisor",
+            "company": "Company Name",
+            "period": "September 2005 to September 2008",
+            "description": [
+                "Developed new business leads and increase client base through focused personal marketing efforts that include, but not limited to, direct mail, networking affiliations, and telemarketing.",
+                "Accommodated client product preference via presentation and demonstration; Kept abreast of incoming inventory, features, accessories, etc and determine the benefits to prospective clients.",
+                "Conducted needs assessments of potential buyers; Ensured proper follow up of all potential buyers by developing, implementing, and monitoring a prospecting and sales control system; Maintained comprehensive knowledge of pricing and specifications of competitive vehicles to provide clients with informative comparisons."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Representative",
+            "company": "Company Name",
+            "period": "November 2001 to September 2005",
+            "description": [
+                "Established relationships with key target physicians in assigned territory through office in-services, roundtable discussions, focus group meetings, speaker programs and routine office visits; Sales cycle included cold calling, appointment setting, needs analysis, and post-sale tracking.",
+                "Worked effectively with team members in gaining market share from competitors; Implemented a cross-over technique to territory organization plan to maximize and build stronger relationships with physicians and consultants."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Document Solutions Executive",
+            "company": "Company Name",
+            "period": "April 1999 to November 2003",
+            "description": [
+                "Marketered photocopiers and facsimile equipment to businesses, schools, and individuals within the assigned territory; Sales cycle included cold calling, appointment setting, needs analysis, product presentation and demonstration, and post-sale tracking.",
+                "Developed new client base in assigned territory - averaged over 200 cold calls weekly; Analyzed customer requirements to determine product solution."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Hampton University",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Image Management Certification, Levels 1",
+            "year": 2001
+        },
+        {
+            "name": "Leadership Workshop",
+            "year": 2006
+        },
+        {
+            "name": "Understanding Leasing",
+            "year": 2007
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong track record in business development and sales, demonstrating a deep understanding of competitive strategies and industry trends. Their ability to develop strategic initiatives for enhanced sales performance is evident across their career history. With expertise in managing client relationships at various levels, the candidate has consistently exceeded sales targets while focusing on customer satisfaction and market growth. Their educational background in Political Science provides a solid foundation for applying analytical skills to business challenges."
+}

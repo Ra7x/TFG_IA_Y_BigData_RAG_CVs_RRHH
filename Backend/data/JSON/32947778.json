@@ -1,0 +1,88 @@
+{
+    "full_name": "Human Resource Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Manager",
+            "company": "Company Name City , State",
+            "period": "01/2012 to 04/2015",
+            "description": [
+                "Planned, directed, and coordinated human resource management activities to maximize the strategic use of human resources and maintained functions such as workers compensation, recruitment, personnel policies, and regulatory compliance.",
+                "Key Results: New Hire Orientation, on-boarding activities and other HR functions such as offer letters, HR metrics tracking and reporting. Represented Company at all Unemployment and Worker Compensation hearings."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Coordinator/Assistant",
+            "company": "Company Name City , State",
+            "period": "03/2011 to 11/2012",
+            "description": [
+                "Provided a high level of support to the National Director and General Manager as well as oversaw PGA TOUR golf and charity events at 31 domestic and international locations.",
+                "Responsible for tactical and strategic Human Resource department oversight, supporting all functions and employees. Key Results: Managed drug screen and background processes."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Representative",
+            "company": "Company Name City , State",
+            "period": "02/2009 to 03/2011",
+            "description": [
+                "Worked with senior management to create and implement HR policies and procedures; recruit employees; and develop orientation, training and incentive programs.",
+                "Manage leave-of-absence programs and personnel records; administer HR budget; and handle HR workplace issues. Provided high level support to senior executives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sr. Executive Assistant",
+            "company": "Company Name City , State",
+            "period": "01/2007 to 12/2008",
+            "description": [
+                "Provided a broad range of HR functions, including recruiting and training employees, overseeing disciplinary action and managing HR records.",
+                "Resolved conflicts between employees and management, coordinated health fairs to promote employee wellness and performed exit interviews."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "SR. Executive Assistant",
+            "company": "Company Name City , State",
+            "period": "02/2002 to 12/2006",
+            "description": [
+                "Provided support to Vice Presidents of both commercial and military operations.",
+                "Insured that all trade show exhibits were prepared and presented as planned; communicated outcomes of all shows to executives, and maintained budgets for all shows."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resource Regional Assistant",
+            "company": "Company Name City , State",
+            "period": "01/1998 to 01/2002",
+            "description": [
+                "Maintained deductions and payroll and administration of benefits, including pensions, annuities, health insurance, life insurance, and dental insurance.",
+                "Monitored Workers' Compensation claims and coordinated work between employees and the insurance carrier as well as tracked reported accidents."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts (BA)",
+            "institution": "UNIVERSITY OF PHEONIX",
+            "year": null
+        },
+        {
+            "degree": "Notary Public",
+            "institution": "",
+            "year": 2019
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Human Resource Management",
+            "year": 2016
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in human resources with extensive experience managing diverse responsibilities ranging from recruitment and training to compliance and policy implementation. Their ability to handle strategic HR functions, coupled with practical knowledge of business needs and legal requirements, positions them as an invaluable asset for any organization looking to enhance their HR management practices."
+}

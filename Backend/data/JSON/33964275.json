@@ -1,0 +1,93 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Co-Owner/Manager/Chef",
+            "company": "Company Name - City , State",
+            "period": "April 2008 to Current",
+            "description": [
+                "Managed all aspects of operation in a restaurant specializing in homemade, delicatessen and bistro cuisine.",
+                "Created all menu and invented signature specialty items fresh, daily.",
+                "Ordered all produce, meat and beverage products.",
+                "Maintained healthy, working relationships with food and beverage suppliers. Coordinated all in-house catering events.",
+                "Staffed, scheduled and trained all restaurant personnel.",
+                "Accounting: business sales tax, payroll, accounts receivable/payable, P & L."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Assistant/Office Manager",
+            "company": "Company Name - City , State",
+            "period": "April 2008 to August 2008",
+            "description": [
+                "Manage all office operations in a criminal law firm.",
+                "Prepare and draft legal documents for Justice, Municipal and Superior Courts, opposing counsel and other specialized groups.",
+                "Coordinate all travel arrangements for all business conferences.",
+                "Handle necessary scheduling for appointments, hearings, telephonic conferencing and defendant/witness interviewing. Organize, disseminate, and archive case discovery information."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Owner/Interior Designer",
+            "company": "Company Name - City , State",
+            "period": "June 2004 to December 2007",
+            "description": [
+                "Managed all aspects of a Mexican Import & Antiques Gallery.",
+                "Ordered all inventory through various suppliers located in the southwestern U.S., Mexico, Central and South America, archived artisan files, as well as customer listings and desired inventory requests.",
+                "Accounting: business sales tax, inventory, accounts receivable/payable.",
+                "Created all marketing and promotional advertising for mixed media.",
+                "Provided interior design ideas with unique imported merchandise: furniture accessories and textiles, offered in-home consultation and design layout."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Owner/Manager/Head Chef",
+            "company": "Company Name - City , State",
+            "period": "June 1991 to April 2008",
+            "description": [
+                "Managed all aspects of operation in a restaurant specializing in homemade New Mexican cuisine.",
+                "Created all menu items and invented signature specialty items fresh, daily. Ordered all produce, meat and beverage products.",
+                "Maintained healthy, working relationships with over a dozen suppliers. Organized and scheduled all in-house catering events.",
+                "Staffed, scheduled and trained all restaurant personnel.",
+                "Accounting: business sales tax, payroll, accounts receivable/payable, P & L."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Recruiter & Training Coordinator",
+            "company": "Company Name - City , State",
+            "period": "Not Specified",
+            "description": [
+                "Responsible for hiring and training for an Inc. 500 marketing research firm for radio and television all levels of administration, and telecommunications center; over 250 employees.",
+                "Created and developed copy for standard operating procedures manual provided for all telephone interviewing staff, updated company policy manuals.",
+                "Presented at citywide job fairs to recruit marketing, administrative and executive staff.",
+                "Provided oral presentation/instruction on the various methods and levels of telephonic research interviewing. Supervised designated telephonic research groups randomly to assure quality control and training comprehension."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Investigative News Reporter/Producer/Classical Music Announcer",
+            "company": "Company Name - City , State",
+            "period": "January 1984 to December 1988",
+            "description": [
+                "- 88.7 FM Classical Music Announcer, Broadcast Journalist Responsible for on-air classical music announcing, including but not limited to: researching composers, musicians, titles, and information and fielding all calls from listeners wanting music/program information.",
+                "Production of public service and Northern Arizona University promotional announcements, maintaining shift logs, documenting promos, emergency broadcast testing and programming satellite feeds.",
+                "Assisted in organizing, scheduling and soliciting meals for volunteers during fall and spring membership pledge drives. Investigated, created copy and produced stories for air."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Northern Arizona University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

@@ -1,0 +1,49 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Assistant Chef",
+            "company": "",
+            "period": "May 2015 to Current",
+            "description": [
+                "Developed and prepared meals."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Financial Aid Office Assistant",
+            "company": "",
+            "period": "Jun 2013 to Jun 2015",
+            "description": [
+                "Developed excel projects for budgeting, calculating student needs, etc.",
+                "Evaluated and processed numerous documents daily.",
+                "Performed data entry.",
+                "Consulted with students and assisted with financial aid documents."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science, Finance CPA Eligible Business",
+            "institution": "Portland State University",
+            "year": "June 2017"
+        },
+        {
+            "degree": "Associate of Science",
+            "institution": "Portland Community College",
+            "year": "December 2014"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Finance CPA Eligible Business",
+            "year": null
+        }
+    ],
+    "english_level": "Fluent in English",
+    "matchmaking_summary": "The candidate has a diverse background with experience ranging from culinary arts as an Assistant Chef to financial aid assistance. They demonstrate proficiency in both Microsoft Word, Excel, and PowerPoint, indicating strong skills in data management and analysis. Their education in finance highlights their capability to work within the business sector, which is further supported by being CPA eligible. Additionally, their fluency in English and Spanish indicates excellent communication abilities across multiple languages."
+}

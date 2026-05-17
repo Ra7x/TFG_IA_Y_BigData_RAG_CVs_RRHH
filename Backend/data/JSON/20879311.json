@@ -1,0 +1,77 @@
+{
+    "full_name": "Director of Information Technology and Analytics",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Windows Server 2008/2012",
+        "Exchange 2010",
+        "IIS",
+        "Active Directory",
+        "DNS",
+        "Cisco LAN/WAN (ASA/switching)",
+        "TCP/IP",
+        "VPN",
+        "VoIP",
+        "SIP",
+        "MPLS",
+        "VNC",
+        "VLAN Segregation",
+        "SAN/FIBER technology",
+        "Enterprise Servers",
+        "Switches",
+        "Routers",
+        "Workstations",
+        "Laptops",
+        "Mobile Devices (iPad/iPhone/Blackberry)",
+        "Cisco CUCM",
+        "JIRA",
+        "Veritas Netbackup",
+        "Backup Exec",
+        "PCAnywhere",
+        "Symantec Antivirus",
+        "Ghost",
+        "SharePoint",
+        "Visio",
+        "Microsoft Office Suite"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Information Technology and Analytics",
+            "company": "Company Name",
+            "period": "Jan 2005 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Manager",
+            "company": "Company Name",
+            "period": "Jan 2002 to Jan 2005",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Administrator",
+            "company": "Company Name",
+            "period": "Jan 2000 to Jan 2002",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Data/Systems Administrator",
+            "company": "Company Name",
+            "period": "Jan 1998 to Jan 2000",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Rutgers University",
+            "year": 1998
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the IT industry, particularly notable for their extensive experience leading complex projects and managing resources to optimize enterprise technology platforms. With a keen focus on information security risk management and process improvement, this professional has demonstrated strong leadership abilities across various industries including credit asset management and manufacturing. The ability to bridge gaps between functional groups and technology aligns with successful innovation solutions that have contributed significantly to business objectives."
+}

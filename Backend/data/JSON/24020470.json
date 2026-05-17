@@ -1,0 +1,102 @@
+{
+    "full_name": "Information Technology Specialist",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "CCTV-DVR Camera systems",
+        "Servers",
+        "network racks/patch panels",
+        "VoIP",
+        "BDR data recovery systems",
+        "StorageCraft",
+        "Datto",
+        "VEEAM",
+        "Intronis",
+        "Business class cloud backup solutions",
+        "AutoBase CRM database",
+        "Reynolds & Reynolds Repair Order writing system",
+        "WiFi network",
+        "Laser and dot matrix printers",
+        "Dell Precision server",
+        "IBM xSeries Blade server",
+        "Telephony/VOIP/POTS systems",
+        "T1/network troubleshooting",
+        "Windows Server 2003 with Active Directory",
+        "Policies",
+        "Microsoft Office Specialist CompTIA A+, Net+",
+        "Drive duplication and imaging knowledge",
+        "IBM pSeries RS/6000 servers",
+        "Peripherals"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name City , State",
+            "period": "02/2012 to Current",
+            "description": [
+                "Service and maintain numerous makes, models and types of equipment, including client servers, workstations, laptops and peripherals.",
+                "Install and maintain CCTV-DVR Camera systems, Servers, network racks/patch panels, VoIP, BDR data recovery systems as well as business class cloud backup solutions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Systems Administrator",
+            "company": "Company Name City , State",
+            "period": "09/2008 to 05/2012",
+            "description": [
+                "Responsible for all maintenance on 55 Windows variant based workstations, Dell Precision server, IBM xSeries Blade server, the telephony/VOIP/POTS systems, T1/network troubleshooting in a multi-building environment as well as providing end user assistance and training to sales, service and management teams.",
+                "Manage Windows Server 2003 with Active Directory and policies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Field Service Technician II",
+            "company": "Company Name City , State",
+            "period": "12/2009 to 10/2011",
+            "description": [
+                "Perform field service work on IBM servers, IBM/Lenovo desktops and IBM Point-of-Sale (POS) equipment as well as repair Lexmark monochrome and color laser printers.",
+                "Responsible for repairs and diagnosis on other brands such as Linksys, Symbol, Nortel, Baystack, Zebra, Datalogic, Kronos, HP, IVR Systems & Ateb Rx."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Kodak Imaging Expert / Field Marketing Specialist",
+            "company": "Company Name City , State",
+            "period": "03/2006 to 12/2009",
+            "description": [
+                "Engage and train sales associates and customers in large retail stores by organizing training events, presentations and role playing demonstrations.",
+                "Tasked with increasing consumer brand awareness by selling and demonstrating Kodak products, merchandising and organizing Kodak camera and peripheral displays, and assisting with fourth quarter \"Black Friday\" sales events."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "GE - Residential Energy Auditor , Energy Management and Systems Technology/Technician",
+            "institution": "Ashworth College City , State , USA",
+            "year": 2014
+        },
+        {
+            "degree": "Undergraduate Certificate in Computer Information Management , Computer Technology/Computer Systems Technology",
+            "institution": "Ashworth College City , State , USA",
+            "year": 2010
+        },
+        {
+            "degree": "Associate of Arts and Sciences (A.A.S : Business Administration, Management and Operations)",
+            "institution": "SUNY Orange City , State , USA",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Sales Software",
+            "year": null
+        },
+        {
+            "name": "Desktop Publishing Software",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

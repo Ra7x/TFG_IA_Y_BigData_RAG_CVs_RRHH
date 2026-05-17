@@ -1,0 +1,50 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Assistant",
+            "company": "Company Name",
+            "period": "Mar 2008 to Jun 2010",
+            "description": [
+                "Sourcing and short listing resumes from job portals, jobs postings and internal data bank based on Recruitment Specifications and needs given.",
+                "Sending the screened profiles to the indenter, obtain the shortlisted profiles from indenter and coordinate the Interviews. Preliminary screening of candidates at junior and middle level.",
+                "Preparing and Issuing offer letters to selected candidates.",
+                "On boarding process and induction programme for the new joinees. Completing joining formalities and preparing appointment letter and Salary break up."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Coordinator",
+            "company": "Company Name",
+            "period": "Nov 2006 to Apr 2007",
+            "description": [
+                "Screening profiles using various job portals & shortlisting candidates as per the requirement Coordinating with the recruitment head at the time of walk-In's",
+                "Conducting telephonic interviews and scheduling for next levels of interviews Preparing offer letters and appointment letters for the new joinee's",
+                "Completing all the joining formalities and sending the training schedule to the respective Department head and the joinee",
+                "Induction to HR policies and introducing the employee to all the departments and creating a friendly environment for the new joinee to work Responsible to maintain hard and soft copy of all employees records",
+                "Worked with employees and management to address staff members concerns",
+                "Managing all HR administrative issues related to personal files , employment contracts , work confirmations and notification letters Managing exit formalities and conducting exit interviews",
+                "Administered performance appraisals"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "Bankatlal Bhadruka Collage",
+            "year": null
+        },
+        {
+            "degree": "B.COM",
+            "institution": "Pt.Ravishanker Shukla Uiversity",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Advanced and Fluent",
+    "matchmaking_summary": "This candidate presents a robust background in human resources, particularly in recruitment, training, and performance management. Their experience in maintaining employee records and handling HR administrative tasks showcases a strong commitment to detail-oriented work. The candidate's ability to adapt to various processes within the HR field indicates flexibility and potential for growth within organizational frameworks."
+}

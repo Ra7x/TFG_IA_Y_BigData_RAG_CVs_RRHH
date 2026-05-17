@@ -1,0 +1,64 @@
+{
+    "full_name": "GEEK SQUAD AGENT Professional Profile",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Active Directory",
+        "Hardware",
+        "Customer Service",
+        "inventory management",
+        "inventory",
+        "logistics",
+        "Mac",
+        "Windows",
+        "Problem Solving",
+        "receiving",
+        "Research",
+        "shipping",
+        "software installation",
+        "technical support",
+        "User Training",
+        "phone",
+        "troubleshooting"
+    ],
+    "work_history": [
+        {
+            "job_title": "Geek Squad Agent",
+            "company": "Company Name",
+            "period": "August 2014 to October 2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Shipping & Receiving Associate",
+            "company": "Company Name",
+            "period": "January 2013 to January 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Assembler/Shipping & Receiving Associate",
+            "company": "Company Name",
+            "period": "January 2009 to January 2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Electrician",
+            "company": "Company Name",
+            "period": "January 2005 to January 2009",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S : Computer & Information Technology",
+            "institution": "Purdue University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's background is extensive and diverse, with a strong focus on technical support and customer service across various technological platforms. Their experience in roles such as Geek Squad Agent, Shipping & Receiving Associate, and Aviation Electrician reflects a deep commitment to technical troubleshooting and customer satisfaction. The skills highlighted include expertise in hardware and software maintenance, user training, malware detection and removal, active directory management, and problem-solving through research and ticketing systems. This profile demonstrates adaptability, versatility, and the ability to work collaboratively or independently across multiple disciplines."
+}

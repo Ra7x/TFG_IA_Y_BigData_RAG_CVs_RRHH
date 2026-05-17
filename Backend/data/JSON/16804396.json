@@ -1,0 +1,42 @@
+{
+    "full_name": "Main Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "General Manager",
+            "company": "Company Name",
+            "period": "City , State",
+            "description": [
+                "Ensures high customer service is kept steady and promotes a positive environment for employee as well as customer.",
+                "Responsible for the daily outcome for the restaurant.",
+                "Ensures goals are met at a timely and respectable manner.",
+                "Ensures proper documentation of daily activities as well as miscellaneous expenses are properly handled."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Prep, Cook",
+            "company": "Company Name",
+            "period": "City , State",
+            "description": [
+                "Prepared food items consistently and in compliance with recipes, portioning, cooking and waste control guidelines.",
+                "Verified proper portion sizes and consistently attained high food quality standards.",
+                "Instructed new staff in proper food preparation, food storage, use of kitchen equipment and utensils, sanitation and safety issues.",
+                "Actively involved in cost control, sanitation, menu development, training, recruitment, private dining and catering."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "EMT/Paramedic",
+            "institution": "Malcolm X College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Main Chef is a dedicated and hardworking professional with over six years of experience in food service, specifically focusing on front-of-house (FOH) and back-of-house (BOH) operations. Their background in restaurant management showcases strong leadership skills and an unwavering commitment to providing exceptional customer service. The candidate demonstrates expertise in inventory control, record keeping, and training new staff members, ensuring they are well-equipped to handle kitchen duties and maintain a high standard of food preparation and sanitation. Main Chef's ability to lead and direct team members effectively contributes positively to the overall atmosphere within the restaurant. They also show dedication to ongoing customer service improvement programs, reflecting an active interest in maintaining strong community relations and promoting company morale."
+}

@@ -1,0 +1,79 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "apple",
+        "Art",
+        "book",
+        "Oral",
+        "concept",
+        "conflict resolution",
+        "CPR",
+        "creativity",
+        "Designing",
+        "direction",
+        "Documentation",
+        "First Aid",
+        "Flash",
+        "fundraising",
+        "drawing",
+        "instruction",
+        "Materials",
+        "meetings",
+        "organizing",
+        "philosophy",
+        "express",
+        "Read",
+        "Recording",
+        "Safety",
+        "sound",
+        "teacher",
+        "Teaching",
+        "Transportation Experience"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Analyst",
+            "company": "Company Name",
+            "period": "09/2010 to 09/2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Technology Analyst",
+            "company": "Company Name",
+            "period": "Company Name",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.E: Computer Science and Engineering",
+            "institution": "Folsom Lake College",
+            "year": null
+        },
+        {
+            "degree": "Matriculation",
+            "institution": "Karunya Institute of Technology, Coimbatore",
+            "year": 1998
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Early Childhood Education",
+            "year": null
+        },
+        {
+            "name": "CPR",
+            "year": null
+        },
+        {
+            "name": "First Aid",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in education with experience as an Information Technology Analyst and further pursuing career in the field of Early Childhood Education. Their focus on developing trust, love, and respect for children along with allowing them to express their creativity sets a positive approach towards nurturing young minds. The candidate's commitment to understanding each child's potential and interests is evident through their educational background and practical experience."
+}

@@ -1,0 +1,79 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Executive",
+            "company": "Company Name",
+            "period": "01/2010 to Current",
+            "description": [
+                "Developed new marketing strategies to capture market channels with new clients.",
+                "Utilized sales and marketing tools to create brand awareness in the market.",
+                "Leveraged technical and industry specific knowledge to develop strategic business development plans and B2B sales strategies.",
+                "Successfully designed, underwrote and administered new and existing insurance programs to meet the needs of IRIS' broker distribution network.",
+                "Delivered comprehensive coverage solutions and guidance in risk management with an emphasis in Lessor's Risk Commercial Property and Liability Insurance.",
+                "Enjoyed robust relationships with insurance carriers including Domestic markets, but encompassed Lloyd's of London as well as off shore points in Bermuda and the Cayman Islands with an in-depth understanding of alternative risk placements.",
+                "Emphasized on bringing in new business and effectively grew IRIS' broker distribution network from 50 brokers to more than 500 and increased monthly submissions by 900%.",
+                "Prepared and presented technical documents and client presentations to customers across different business levels in collaboration with Account Executives and Producers to successfully execute new and existing sales strategies.",
+                "Expanded on existing business as well as identified potential revenue opportunities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Coordinator",
+            "company": "Company Name",
+            "period": "01/2009 to 01/2010",
+            "description": [
+                "Directed daily operations and provide administrative support to the staff.",
+                "Answered incoming calls and arranged appointments for guests to meet with company staff.",
+                "Entered data into consumer relations database.",
+                "Responsible for answering visitor inquiries about the company."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales and Marking Intern",
+            "company": "Company Name",
+            "period": "01/2009",
+            "description": [
+                "Generating and Executing sales leads for three popular radio stations in the Bay Area; KNBR, 101.7 The Bone and K-Fog.",
+                "Writing and recording commercials for advertisers.",
+                "Managing and updating the KNBR website."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Banquet Server, Food Server and Bartender",
+            "company": "Company Name",
+            "period": "01/2007 to 01/2011",
+            "description": [
+                "Over five years' hands-on experience in food serving and bartending.",
+                "Highly skilled in greeting and guiding guests.",
+                "Hands on experience in taking orders and communicating accurately to the kitchen and delivering correct orders to customers with a friendly and upbeat attitude."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts (B.A)",
+            "institution": "California State University City Communication",
+            "year": 2009
+        },
+        {
+            "degree": "Associate : Arts",
+            "institution": "Diablo Valley College",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Property and Casualty License",
+            "year": 1
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong profile of expertise in business development, marketing, and sales. With experience developing new market channels and building relationships with industry leaders, the candidate demonstrates considerable skill in strategic planning and execution. Their background includes roles where they have implemented successful marketing campaigns that effectively promote products or services, indicating strong communication and interpersonal abilities. Additionally, their ability to handle various administrative tasks showcases a versatile and detail-oriented approach."
+}

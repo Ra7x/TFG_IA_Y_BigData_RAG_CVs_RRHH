@@ -1,0 +1,84 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Assistant",
+            "company": "Company Name - City , State",
+            "period": "01/2014 to 09/2015",
+            "description": [
+                "Coordinated all department functions for team of 120+ employees.",
+                "Planned and executed all aspects of a major office headquarter move.",
+                "Increased office organization by developing more efficient filing system and customer database protocols.",
+                "Successfully planned and executed corporate meetings, lunches and special events for groups of 100+ employees.",
+                "Pay for registration and conference fees with purchasing card",
+                "Reconcile purchasing card every 2 weeks to assure there are no taxes or additional charges Fill out Verification of Employment paperwork as it comes in",
+                "Assess needs of the office and order any supplies that may be needed Assist Office Manager with monthly budget Onboarding/organizing training of new employees",
+                "Trained on all AV equipment in 9 conference rooms",
+                "Back up Office Manager when she's out of office Off boarding for terminated or retired employees",
+                "Organizing/verifying all technology purchases through DoIT Take meeting minutes for Managers weekly meetings",
+                "Assist with setting up/participating in phone and in person interviews- 5 to 30 at a time Coordinate and organize ETF/Finance meetings in house",
+                "Create external recruitments and post on websites Create documentation on processes for office",
+                "Train new employees/students on front desk and mail room procedures Assist with recruitment panels and interviews as needed",
+                "Help employees with travel reimbursements Facility coordinator for any heating, electrical or water issues Floor captain/Assisted with creating an Occupant Emergency Plan (OEP) Track Affirmative Action documentation and create reports for Directors Assist with New Employee Orientations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Coordinator",
+            "company": "ORCD Office Coordinator Company Name - City , State",
+            "period": "01/2012 to 01/2014",
+            "description": [
+                "Prepare, document billing codes and send Travel Reimbursements for 10-12 staff",
+                "Track and compile 60-70 registrations for Quality Team trainings, as well as attain meeting space for these events on a monthly basis",
+                "Coordinate 8-10 meetings for Director and staff with internal/external personnel",
+                "Assist with coordinating 2 annual conferences of 400-500 attendees and attend as IT Lead",
+                "Assist with cellular phones and tablet set up/troubleshooting",
+                "Review credit card statements from 10-12 staff for proper coding and tax exemptions",
+                "Create Select Surveys to acquire different information from our ADRC and internal staff",
+                "Compound information to create multiple spreadsheets in Excel and tables for various documentations to be sent to external resources"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Inside Sales/ Administrative Support",
+            "company": "Company Name - City , State",
+            "period": "04/2010 to 01/2012",
+            "description": [
+                "Construct and send Invoices to guarantee payment from 80-100 customers through Quickbooks and Tigerpaw",
+                "Resolve any questions or concerns customers may have about invoices or sales to confirm they are content Schedule engineers weekly for onsite assignments and Help Desk to guarantee customer satisfaction",
+                "Order product for small projects- coordinate meetings with clients and engineers to ensure correct product is being ordered Compose Service Reports on a monthly basis to ensure customer satisfaction",
+                "Build product quotes for customers to achieve daily sales (eg; software, Anti-Virus, routers, printers, etc.)",
+                "Create weekly spreadsheets for annual renewals and product sales; relay information to President of the company for weekly meetings Design marketing brochures and any daily changes to company website to keep customers up to date with new technology and products Create manual for 'How To' on procedures for sales in TigerPaw software",
+                "Work with vendors to get update to date pricing and versions of software/product"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS : Business Management",
+            "institution": "University of Eau Claire - City , State",
+            "year": null
+        },
+        {
+            "degree": "AS : Human Resource Management",
+            "institution": "Madison Technical College - City , State",
+            "year": 2014
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate presents a strong background in both administrative and human resources functions, with extensive experience coordinating large-scale projects and managing teams. Their ability to plan, organize, and make decisive decisions underlines their reliability and efficiency, making them a valuable asset in any organizational setting."
+}

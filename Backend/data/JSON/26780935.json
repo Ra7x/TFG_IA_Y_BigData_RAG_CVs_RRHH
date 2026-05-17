@@ -1,0 +1,46 @@
+{
+    "full_name": "HR COORDINATOR",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Sales",
+            "company": "Company Name , City , State",
+            "period": "January 2011 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Server",
+            "company": "Company Name , City , State",
+            "period": "October 2009 to January 2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Server",
+            "company": "Company Name , City , State",
+            "period": "July 2004 to October 2009",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Instructor",
+            "company": "Company Name , City , State",
+            "period": "August 2004 to August 2006",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Translation/French",
+            "institution": "Northern Illinois University",
+            "year": 2004
+        }
+    ],
+    "certifications": [],
+    "english_level": "Trilingual: English, Spanish and French",
+    "matchmaking_summary": "The HR Coordinator candidate stands out with a strong background in both administrative and customer-facing roles. With over seven years of experience in the industry, they have demonstrated expertise in payroll processing, HRIS management, time and attendance systems, and event coordination. Their ability to lead trainings on benefits program updates and handle new hire orientation showcases their leadership and organizational skills. Moreover, their multilingual capabilities enhance communication with a diverse workforce, providing an advantage in a multinational company scenario."
+}

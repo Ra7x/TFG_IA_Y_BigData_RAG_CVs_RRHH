@@ -1,0 +1,103 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Blade Track and Balance",
+        "VISIPRISE",
+        "KRONOS",
+        "SAP",
+        "EWI programs",
+        "Vibration Analysis Blueprints",
+        "Leadership skills",
+        "Fiberglass, composite and sheet metal Aircraft Inspection",
+        "Fuel Systems",
+        "Flight Controls",
+        "Powerplant Hydraulic Systems",
+        "Transmissions"
+    ],
+    "work_history": [
+        {
+            "job_title": "Assembly Mechanic",
+            "company": "Company Name",
+            "period": "09/2014 to 08/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Flight Inspector",
+            "company": "Company Name",
+            "period": "10/2010 to 06/2013",
+            "description": [
+                "- Performed audits on numerous functional test procedures to include: line clearance inspections, final inspections of component installation.",
+                "- Trained new Inspectors in procedures and aircraft systems.",
+                "- Tracked and maintained aircraft serialization logs.",
+                "- Assembly mechanic for V-22 final assembly.",
+                "- Installed major aircraft components such as engines, rotors, fuel systems, oxygen components, drive systems, EGRESS systems. Composite repairs."
+            ],
+            "technologies": [
+                "VISIPRISE",
+                "KRONOS",
+                "SAP",
+                "EWI programs"
+            ]
+        },
+        {
+            "job_title": "Aviation Machinist Mate",
+            "company": "Company Name",
+            "period": "09/2000 to 10/2010",
+            "description": [
+                "- Supervised 60 maintainers.",
+                "- Performed scheduled and unscheduled flight line maintenance of 16 Sikorsky MH-53E's.",
+                "- Full system QAR.",
+                "- Aircraft vibration analysis and rotor tracking systems certified."
+            ],
+            "technologies": [
+                "Flightline Troubleshooting",
+                "Hydraulic systems",
+                "Flight Controls",
+                "Sheet metal",
+                "Power plants",
+                "Landing gear systems",
+                "Transmissions",
+                "Drive systems",
+                "Composite blade repair",
+                "Tire and wheel maintenance",
+                "Fuel systems"
+            ]
+        },
+        {
+            "job_title": "Entry level mechanic T-34 Mentor",
+            "company": "Company Name",
+            "period": "05/1999 to 09/2000",
+            "description": [
+                "- Introduced to aircraft systems and functions."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "High School",
+            "year": 1999
+        },
+        {
+            "degree": "Skills: Flightline Maintenance, Intermediate Maintenance Inspection Assembly",
+            "institution": "Training Program",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Aircraft Mechanic with over a decade of experience, boasting extensive expertise in rotary wing and fixed wing aircraft assembly and maintenance. Proficient in advanced diagnostic tools and systems like VISIPRISE, KRONOS, SAP, and EWI for vibration analysis and blueprint reading. Demonstrated leadership through management roles supervising teams in complex aircraft assembly tasks with zero quality defects. Awarded two Navy Marine Corps Achievement medals for Quality Assurance and Shop Supervision underscores dedication and competence."
+}

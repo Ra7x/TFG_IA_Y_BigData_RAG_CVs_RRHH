@@ -1,0 +1,91 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Photoshop",
+        "Premier",
+        "Microsoft",
+        "Network Management",
+        "Illustrator",
+        "Excel",
+        "Fireworks",
+        "Dreamweaver",
+        "Powerpoint",
+        "Word",
+        "Outlook",
+        "Windows OS",
+        "Mac OS",
+        "QuarkXpress",
+        "PHP",
+        "HTML Coding"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Instructor",
+            "company": "Company Name",
+            "period": "Jan 2012 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Help Desk Manager",
+            "company": "Company Name",
+            "period": "Jan 2010 to Jan 2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Media Designer",
+            "company": "Company Name",
+            "period": "Jan 2009 to Jan 2010",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Technical Support Specialist",
+            "company": "Company Name",
+            "period": "Jan 2002 to Jan 2009",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Education, Learning & Technology",
+            "institution": "Concordia University",
+            "year": 2012
+        },
+        {
+            "degree": "Doctorate of Education; Higher Education, Ed.d",
+            "institution": "Western Governor's University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science, Information Technology Management",
+            "institution": "Western Governor's University",
+            "year": 2010
+        },
+        {
+            "degree": "Associate of Applied Science, Multimedia Technologies",
+            "institution": "Utah Valley University",
+            "year": 2003
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a broad and deep background in information technology with significant experience in curriculum design, computer-based training development, and customer service. With over seventeen years of professional experience in the field, they have demonstrated expertise in advanced problem solving skills and project management across multiple roles within the sector. Their technical skill set is particularly notable for its depth and breadth, covering software like Photoshop, Premier, Illustrator, Dreamweaver, Fireworks, Powerpoint, Word, Outlook, and various others, as well as hardware including Mac OS and Windows OS. This combination of theoretical knowledge and practical experience positions them strongly in leadership roles across IT departments."
+}

@@ -1,0 +1,103 @@
+{
+    "full_name": "Information Technology Specialist",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name",
+            "period": "Aug 2006 to Present",
+            "description": [
+                "Track and control over 150 change requests per month.",
+                "Manage the repository for Software and Customer Requirements Documents, Agreements and Governance Specifications. Document and communicate defects and problems with stakeholders and developers.",
+                "Develop and report critical metrics related to CRSMB change request activity.",
+                "Ensure that all activities involved in the software design, coding and testing of the application software have been successfully completed before releasing software for independent testing and deployment into the production environment.",
+                "Deploy application software to the Test and Production environments using code management tools.",
+                "Manage logging change requests into the tracking system and assigning work activities to members of the branch.",
+                "Evaluate the adequacy of current CM processes and procedures and make recommendations for CM process improvement. Coordinate and communicate with developers, subject matter personnel, stakeholders, database management support and project managers.",
+                "Performed platform testing and performance testing during the migration to the Serena Business Management (SBM) system. Collaborated in the design of the Serena Business Manager (SBM) Workflow.",
+                "Administrator for the Serena Business Manager (SBM) System."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Specialist",
+            "company": "Company Name",
+            "period": "Aug 1996 to Aug 2006",
+            "description": [
+                "Detailed and refined requirements, wrote algorithms, developed programs and command procedures. Developed solutions to improve software performance.",
+                "Enhanced testing procedures.",
+                "Performed software testing, debugging, and validation using internally developed test scripts, test plans, and results criteria. Developed and delivered software products.",
+                "Communicated with IT staff and subject matter on project requirements",
+                "Conducted program demonstrations with team members prior to the release of software."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Mathematical Statistician",
+            "company": "Company Name",
+            "period": "Feb 1988 to Jul 1994",
+            "description": [
+                "Worked in the Research & Methodology Branch of the Industry Division.",
+                "Worked with team on the statistical methodology for designing a ratio estimation procedure. Developed estimation and variance methodologies.",
+                "Developed the sampling frame, and independent probability proportional-to-size sampling (PPS) maintenance of surveys. Designed computer algorithms for assigning the sampling weights, the nonresponse sample weight adjustment, and calculation of the estimates, variances, and relative standard sampling errors.",
+                "Developed computer software needed for survey sample selection.",
+                "Provided programming expertise, assisted subject matter analysts with software and instruments for aiding in data reviews for the many annual and monthly surveys."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Urban Regional Planning",
+            "institution": "Indiana University of Pennsylvania",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts : Physical Geography",
+            "institution": "Indiana University of Pennsylvania",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Serena Business Manager Composer",
+            "year": null
+        },
+        {
+            "name": "Configuration and Release Management Training",
+            "year": null
+        },
+        {
+            "name": "Unix Programming",
+            "year": null
+        },
+        {
+            "name": "Oracle 10G Programming",
+            "year": null
+        },
+        {
+            "name": "Oracle JDeveloper Java Programming",
+            "year": null
+        },
+        {
+            "name": "Object Oriented Programming",
+            "year": null
+        },
+        {
+            "name": "Intro to UNIX Systems Advanced UNIX Learning",
+            "year": null
+        },
+        {
+            "name": "PERL Advanced C Language Programming",
+            "year": null
+        },
+        {
+            "name": "Advanced PL/SQL Programming Fundamentals of SAS",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the IT field, with expertise spanning various aspects of software development and management. With over a decade of experience in IT roles including software configuration management, quality assurance, project management, and system planning, the candidate has demonstrated a strong ability to drive process improvement and productivity enhancements. Their detailed approach to documentation and defect management, combined with their ability to manage complex change requests and coordinate across multiple stakeholders, highlights their role as an essential player in maintaining technological stability and efficiency within organizations."
+}

@@ -1,0 +1,90 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR PARTNER",
+            "company": "Company Name, City, State",
+            "period": "June 2007 to Current",
+            "description": [
+                "Provide strategic human resources guidance and oversight on a wide range of activities in support of assigned line of business. In both a hierarchical and matrix management environment.",
+                "Collaborate with senior leadership teams to influence organizational design, management practices and work environment changes.",
+                "Lead project teams on end-to-end strategy on human capital initiatives (i.e., retention, rewards and recognition, performance management, etc.).",
+                "Problem-solve mid-complex issues as they arise with all levels of management across business groups.",
+                "Coach and develop less experienced staff on broad human resources issues and monitor resolution progress.",
+                "Partner and engage with key stakeholders in the Wells Fargo/Wachovia Bank integration efforts."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Associate People Svcs Officer",
+            "company": "Company Name, City, State",
+            "period": "November 2001 to May 2007",
+            "description": [
+                "Provide strategic human resources guidance and oversight on a wide range of activities in support of assigned line of business.",
+                "Coach and develop managers at all levels on performance management of their employees."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resource Consultant",
+            "company": "Company Name, City, State",
+            "period": "March 2001 to November 2001",
+            "description": [
+                "Coach and develop managers at all levels on performance management of their employees.",
+                "Provide expertise in facilitating resolution of issues and interpretation of policies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Consultant",
+            "company": "Company Name, City, State",
+            "period": "September 1999 to May 2001",
+            "description": [
+                "Coach and develop managers at all levels on performance management of their employees.",
+                "Provide expertise in facilitating resolution of issues and interpretation of policies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Consultant",
+            "company": "Company Name, City, State",
+            "period": "August 1990 to September 1999",
+            "description": [
+                "Coach and develop managers at all levels on performance management of their employees.",
+                "Provide expertise in facilitating resolution of issues and interpretation of policies."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Arts",
+            "institution": "Webster University",
+            "year": 2004
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Houston",
+            "year": 2001
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Wells Fargo - Latino Team Member Network - HR Liaison/member",
+            "year": null
+        },
+        {
+            "name": "San Antonio Human Resources Management Association",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

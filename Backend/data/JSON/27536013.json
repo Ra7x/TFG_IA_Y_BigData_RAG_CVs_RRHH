@@ -1,0 +1,71 @@
+{
+    "full_name": "Experienced Information Technology Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Business Intelligence",
+        "DBA",
+        "SharePoint",
+        "Web",
+        "ERP",
+        "CRM",
+        "SQL databases",
+        "Reporting software",
+        "Microsoft Office",
+        "SAP BW",
+        "Oracle",
+        "MS SQL"
+    ],
+    "work_history": [
+        {
+            "job_title": "Applications Team Leader",
+            "company": "",
+            "period": "05/2012 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Intelligence Manager",
+            "company": "",
+            "period": "12/2005 to 05/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Systems Software Administrator",
+            "company": "",
+            "period": "11/1997 to 10/2005",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Management",
+            "institution": "Western Governor's University",
+            "year": 2012
+        },
+        {
+            "degree": "General Studies business management focus",
+            "institution": "University of Phoenix",
+            "year": null
+        },
+        {
+            "degree": "General Studies",
+            "institution": "University of Phoenix",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong track record in the Information Technology field, demonstrating expertise in both business management and technical skills. With over a decade of experience as an IT manager, they have successfully led projects such as upgrading the Business Objects architecture to SAP BO with BW, managing databases from MS SQL to Oracle, and overseeing SharePoint redesigns for improved user experiences and cost savings. Their roles involved strategic planning, personnel management, project management, and continuous improvement in technology usage and reporting practices. The candidate's experience in leadership positions has allowed them to effectively communicate needs, implement changes, and foster positive relationships across various organizational levels."
+}

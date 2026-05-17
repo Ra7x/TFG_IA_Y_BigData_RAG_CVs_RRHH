@@ -1,0 +1,102 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Corporate Project Manager",
+            "company": "Company Name",
+            "period": "01/2014 to 01/2016",
+            "description": [
+                "Manage direct reports supporting multiple locations with annual revenues of $2M.",
+                "Accountable for the strategic direction, implementation, support, and development of all business applications, Enterprise Resource Planning (ERP), Facilities Management, Financials, Forecasting and Procurement.",
+                "Established change management and help desk solutions and policies.",
+                "Developed new process design workflow to ensure on-time delivery of all solutions and within budget leading to increase in monthly productivity by 20%.",
+                "Centralized disparate support documentation for all business applications and architecture."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Information Technology and Systems",
+            "company": "Company Name",
+            "period": "01/2008 to 01/2014",
+            "description": [
+                "Provided executive leadership over internal company-wide IT infrastructure.",
+                "Introduced methods for tracking project management, workload planning and corporate business performance metrics.",
+                "Installation of Gate and Locking systems (Saflok, Ving, Salto and Amano Mc Gann access control systems) in various brands resorts interfacing with PMS systems."
+            ],
+            "technologies": [
+                "access",
+                "budget planning",
+                "conversion",
+                "decision making",
+                "disaster planning",
+                "documentation",
+                "ERP",
+                "Enterprise Resource Planning",
+                "Facilities Management",
+                "Financials",
+                "Forecasting",
+                "help desk",
+                "information technology",
+                "leadership",
+                "network",
+                "networks",
+                "operations management",
+                "organizational",
+                "PC systems",
+                "policies",
+                "POS",
+                "process design",
+                "Procurement",
+                "Project Management"
+            ]
+        },
+        {
+            "job_title": "Director of Information Technology and Systems",
+            "company": "Company Name",
+            "period": "01/2006 to 01/2008",
+            "description": [
+                "Manage four hotels within REIT interfacing with both management and ownership to guide the hotel through day-to-day operations.",
+                "Insure that the company's strategic technologies needs are the primary focus.",
+                "Provided first and second-tier technical support and knowledge on Windows server/desktop applications and resort PMS/POS Systems.",
+                "Provided operations management, including security, backup/recovery/disaster planning, off-hours staff coverage.",
+                "Oversaw $1.4 M capital budget and hotel conversion."
+            ],
+            "technologies": [
+                "access",
+                "backup",
+                "budget planning",
+                "conversion",
+                "decision making",
+                "disaster planning",
+                "information technology",
+                "leadership",
+                "network",
+                "networks",
+                "organizational",
+                "PC systems",
+                "policies",
+                "POS",
+                "process design",
+                "Procurement"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Computers and Information Technology",
+            "institution": "UNIVERSITY OF PHOENIX",
+            "year": null
+        },
+        {
+            "degree": "Associates of Arts : Finance and Business Administration",
+            "institution": "LAKE SUMTER COMMUNITY COLLEGE",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong track record in managing complex IT projects and infrastructure within the hospitality industry. With over a decade of experience, they have demonstrated expertise in strategic planning, budgeting, team-building, and change management across multiple business applications and systems. Their ability to interface with stakeholders and deliver training classes not only enhances individual skills but also contributes to overall organizational success. The candidate's leadership style is focused on empowering teams while ensuring alignment with corporate goals."
+}

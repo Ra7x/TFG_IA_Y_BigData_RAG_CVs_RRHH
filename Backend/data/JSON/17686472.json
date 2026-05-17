@@ -1,0 +1,89 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": "Erwin, TN",
+    "tech_stack": [
+        "AutoCAD",
+        "SAP",
+        "Six Sigma Lean/DFSS Green Belt"
+    ],
+    "work_history": [
+        {
+            "job_title": "Bakery Entrepreneur",
+            "company": "City, State",
+            "period": "10/2011 to 08/2014",
+            "description": [
+                "Established and built a strong local cupcake store brand name through quality products, community involvement and alternative advertising methods.",
+                "Performed employee hiring, training and supervisory duties.",
+                "Engaged in day-to-day operations of all aspects of the store including baking, cleaning and customer service."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Project Engineer",
+            "company": "City, State",
+            "period": "02/2010 to 02/2014",
+            "description": [
+                "Hired on through Nuclear Fuel Services, located in Erwin, TN, and transferred to B&W in 2011.",
+                "Data research for equipment segmentation and disposal project. Research and design cutting methods for large equipment.",
+                "Design self-powered transportation system for large equipment.",
+                "Project engineer for the design phase of a new Category 2 nuclear processing facility, Isotek project.",
+                "Perform field walk downs to generate P&ID drawings using AutoCAD for assigned systems. Develop technical basis for assigned systems.",
+                "Develop technical specifications and requirements, including documentation of engineering calculations, to support technical basis. Perform and review calculations for new design and facility support.",
+                "Write and review System Design Descriptions for new design.",
+                "Perform database maintenance for an equipment reliability system."
+            ],
+            "technologies": [
+                "AutoCAD"
+            ]
+        },
+        {
+            "job_title": "Reliability Engineer Intern",
+            "company": "City, State",
+            "period": "05/2007 to 08/2009",
+            "description": [
+                "Summer 2007: Located on-site at DuPont Chambers Works – Deepwater, NJ. Set up bearing ultrasound program integrating the maintenance with SAP.",
+                "Performed flow meter failure analysis. Performed gearbox failure analysis.",
+                "Summer 2008: Located on-site at DuPont Titanium Technologies – Edge Moore, DE. Designed new piping system for failed pipe.",
+                "Performed root cause failure analysis (RCFA) for failed pumps. Developed a standardized job procedure for pipe flange make up.",
+                "Summer 2009: Located on-site at Renew Paper – St. Francisville, LA. Established lubrication program for plant after a two-year shutdown.",
+                "Worked with vendors to determine appropriate lubrication types and methods. Set up lubrication filtering and dehydration procedure for large containers of lubrication."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Electronics Technician",
+            "company": "City, State",
+            "period": "09/1995 to 12/1998",
+            "description": [
+                "Assistant shift supervisor for an F/A-18 Hornet squadron VFA-25.",
+                "Managed and delegated maintenance tasks among 30 squadron members.",
+                "Coordinated communication during launch procedures between our squadron aircraft and flight deck control aboard an aircraft carrier. Voluntarily trained as final checker (inspector) of aircraft prior to launch."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Tennessee Aerospace Engineering",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Six Sigma Lean/DFSS Green Belt",
+            "year": 2014
+        },
+        {
+            "name": "Engineer in Training (EIT)",
+            "year": 2010
+        },
+        {
+            "name": "DOE Level Q Security Clearance",
+            "year": 2010
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned professional with extensive experience in the fields of manufacturing, reliability engineering, and nuclear processing. Their entrepreneurial journey began with a bakery venture where they established a local brand through product quality, community engagement, and innovative advertising techniques. This track record set the stage for specialized roles within the nuclear industry; first as a Project Engineer at B&W under Nuclear Fuel Services in Erwin, TN, focusing on research and design for large equipment in the context of new nuclear processing facilities. Furthering their expertise in reliability engineering, they engaged in detailed analysis work including root cause failure assessments and lubrication improvements during maintenance tasks across various companies such as DuPont and Renew Paper. The candidate's transition into aerospace engineering is evident through their educational background and technical skills in areas like AutoCAD and SAP, indicating a continuous drive for knowledge and application in advanced industries."
+}

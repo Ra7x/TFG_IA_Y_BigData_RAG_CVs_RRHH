@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Intern",
+            "company": "Hoet, Pelaez, Castillo y Linares Law Firm",
+            "period": "June 2014 - August 2014",
+            "description": [
+                "Assisted lawyers in their cases' paperwork and legal documents.",
+                "Transcribed court notes and minutes.",
+                "Managed schedules.",
+                "Attended to local courts with lawyers to evaluate legal proceedings."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Intern",
+            "company": "Company Name - City, State",
+            "period": "May 2013 - August 2013",
+            "description": [
+                "Organized documentation for legal filings and procedures for lawyers and their cases.",
+                "Collaborated with several of the associates by going to local courts and following their assigned cases."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Intern",
+            "company": "Company Name - City, State",
+            "period": "May 2015 - August 2015",
+            "description": [
+                "Performed deli servings, event organization, inventory control, and new staff training."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Economics and Political Science",
+            "institution": "Boston University",
+            "year": null
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Colegio Moral y Luces - City, Venezuela",
+            "year": 2013
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Basic Training of the Israeli Army",
+            "year": null
+        },
+        {
+            "name": "Leadership Camp in Israel",
+            "year": null
+        },
+        {
+            "name": "Models of the United Nations 2013",
+            "year": null
+        }
+    ],
+    "english_level": "fluent",
+    "matchmaking_summary": "The candidate demonstrates a background in legal assistance and administration, which is relevant to roles such as paralegal or administrative assistant. Their experience in law firms suggests an aptitude for handling complex documentation and working closely with legal teams. Additionally, their involvement in community service projects reflects strong organizational skills and commitment to public welfare. The bilingual capabilities in English, Spanish, and basic Hebrew broaden the candidate's potential applicability across international settings."
+}

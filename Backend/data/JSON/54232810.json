@@ -1,0 +1,105 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Bank Teller",
+            "company": "City , State",
+            "period": "09/2015 to Current",
+            "description": [
+                "Professional tellers are responsible for providing a positive customer experience that leads to improved satisfaction and sales.",
+                "Process transactions accurately and efficiently in a fast-paced environment while simultaneously introducing products and services that meet the customer's needs and encouraging customers to expand their relationship with Bank of America.",
+                "Ensure customers/clients are quickly connected to the appropriate teammate with the expertise to meet their needs."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Retail Sales Consultant",
+            "company": "City , State",
+            "period": "09/2014 to 05/2015",
+            "description": [
+                "Interacting among clients with a primary focus on business retention and new business roll outs; provided superior support services aligned to the client's priorities in order to drive loyalty and maximize the business value of their investment.",
+                "Driven to meet all sales goals and educated all customers on available promotions and product plans. Maintain strong knowledge of all products, accessories, pricing plans, promotions and service features."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Resource MANAGER",
+            "company": "State",
+            "period": "12/2011 to Current",
+            "description": [
+                "Review, plan, and implement aircraft and crew schedules from day of scheduled events to 6 months in advance to ensure optimum crew and aircraft usage relative to clients requests while accounting for crew rest requirements, crew schedules, aircraft maintenance, and unexpected developments."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Executive",
+            "company": "City",
+            "period": "07/2011 to 12/2011",
+            "description": [
+                "Provided high-level administrative support to 5 leading military officials by conducting research, preparing statistical reports, handling information requests, and performing clerical functions such as preparing correspondence, emailing, receiving visitors, arranging conference calls, and scheduling meetings."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Jefferson County High School",
+            "year": 2012
+        },
+        {
+            "degree": "Aviation Management",
+            "institution": "Community College of the Air Force",
+            "year": 2015
+        },
+        {
+            "degree": "Associates in Pre Nursing",
+            "institution": "East Georgia State College",
+            "year": 2016
+        },
+        {
+            "degree": "Nursing",
+            "institution": "Georgia Southern University",
+            "year": 2017
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CPR certified through American Heart Association",
+            "year": null
+        },
+        {
+            "name": "Skills Medical Terminology",
+            "year": null
+        },
+        {
+            "name": "Vital Signs & Patient Monitoring",
+            "year": null
+        },
+        {
+            "name": "Electronic Health Record",
+            "year": null
+        },
+        {
+            "name": "HIPPA Regulations/ Privacy",
+            "year": null
+        },
+        {
+            "name": "Patient Safety & Care",
+            "year": null
+        },
+        {
+            "name": "Patient Advocacy and Support",
+            "year": null
+        },
+        {
+            "name": "Medication Administration",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a diverse professional background with experience in banking, retail sales, aviation resource management, and administration. Their skills include customer service, interpersonal communication, problem-solving, and multi-tasking, which are crucial for roles that require interacting directly with clients and providing excellent support services."
+}

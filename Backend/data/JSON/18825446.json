@@ -1,0 +1,39 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name City , State",
+            "period": "December 1987 to Present",
+            "description": [
+                "Operations Management: Food Preparation Responsible for coordination of up to 12 servers in restaurant with capacity of 200.",
+                "Baked, roasted, broiled, and steamed meats, fish, vegetables and other foods.",
+                "Estimated amounts and costs of required supplies, such as food and ingredients. Helped with preparation, set-up, and service for catering events.",
+                "Performed all transactions in a cordial, efficient and professional manner. Prepared food items.",
+                "Cleaned and inspected galley equipment, kitchen appliances, and work areas.",
+                "Spoke with patrons to ensure satisfaction with food and service. Trained new employees.",
+                "Trained kitchen staff on proper use of equipment, food handling and portion sizing.",
+                "Responsible for the design and preparation of all menu items for private home/office setting. Supervised kitchen staff of 10 people and ensured proper event set-up, food preparation, kitchen clean-up and proper shut down."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "Le Cordon Bleu Culinary School City , State , USA",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Health Department certified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Talented Executive Chef with twenty five years experience developing menus and working as head chef/owner of mobile catering business, fast food Cajun and Classical Seafood/Cajun/Creole Family restaurant. Highly skilled in all aspects of culinary cuisine, capable of handling fast-paced back of house operations and front of house understanding, demonstrated success in both fine dining and catering."
+}

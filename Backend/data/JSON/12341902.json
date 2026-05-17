@@ -1,0 +1,65 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Employee Assistance Program Coordinator",
+            "company": "Company Name",
+            "period": "2003-Present",
+            "description": [
+                "Designed and implemented a portion of the Employee Assistance Program for employees at the Ministry of Education, providing free and confidential assessments, short-term counseling, referrals, and follow-up services."
+            ],
+            "technologies": [
+                "Microsoft Office"
+            ]
+        },
+        {
+            "job_title": "School Counselor",
+            "company": "Company Name",
+            "period": "1982-1999",
+            "description": [
+                "Provided individual and group counseling to students.",
+                "Supervised guidance counselors in the government school system."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "",
+            "company": "",
+            "period": "",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Science",
+            "institution": "Long Island University City, State, US",
+            "year": 1985
+        },
+        {
+            "degree": "Bachelors",
+            "institution": "Bethune Cookman College City, State, US",
+            "year": 1980
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "St. Johns College",
+            "year": 1975
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Brief Counseling, Resistance and Prevention Program (RAPP) certified trainer",
+            "year": null
+        },
+        {
+            "name": "Group and Individual counseling",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a rich background in education and guidance counseling, spanning over three decades. Starting as a School Counselor in the early 80s, they have progressed to become an instrumental Employee Assistance Program Coordinator who played a pivotal role in shaping comprehensive support systems for students and employees alike. Their experience includes leading the Guidance & Counseling Unit at R.M.Bailey Senior High School and its expansion across multiple islands under their leadership. The candidate is known for implementing innovative solutions, such as the Employee Assistance Program, which has significantly benefited thousands of Ministry of Education employees. Their commitment to professional development is evident through collaborations with prestigious institutions like Kent State University and the College of The Bahamas for a Master's in School Counseling degree program."
+}

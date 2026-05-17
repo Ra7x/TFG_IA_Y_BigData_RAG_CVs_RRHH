@@ -1,0 +1,100 @@
+{
+    "full_name": "HR COORDINATOR",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Access",
+        "Excel",
+        "Microsoft Word",
+        "Payroll",
+        "Process payroll",
+        "PowerPoint"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Coordinator",
+            "company": "",
+            "period": "February 2015 to Current",
+            "description": [
+                "Managed communication regarding employee orientation and open enrollment for benefits.",
+                "Offered consistent payroll disbursement with accurate record keeping of employee PTO and vacation accruals.",
+                "Explained human resources policies and procedures to all employees.",
+                "Conducted telephone and onsite exit interviews for all employees. Answered employee questions during the entrance and exit interview processes.",
+                "Worked closely with HR business partners to facilitate year-end talent reviews and articulate team strengths.",
+                "Selected and interviewed candidates for all available positions. Assessed employee performance and issued disciplinary notices.",
+                "Worked on 401(k) administration, FMLA and workers' compensation claims and benefits.",
+                "Managed over 70 personnel files according to policy and federal and state law and regulations.",
+                "Generated employee tracking reports each month."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Payroll/Staffing Coordinator",
+            "company": "",
+            "period": "June 2012 to Current",
+            "description": [
+                "Maintains personal employment files.",
+                "Process payroll and set up E-time for employees.",
+                "Reconcile payroll journals and time cards.",
+                "Maintain and manage PTO balances.",
+                "Full on boarding function and recruiting duties.",
+                "Maintain OSHA logs and file workers compensation claims.",
+                "Employee relations liaison with client and supervisors.",
+                "Track and manage the credentials for an employee to maintain compliance.",
+                "Coordinate staffing needs to meet the organization's requirements.",
+                "Monitor overtime accumulation and attendance of employees.",
+                "Manage & facilitate the orientation process.",
+                "Provide facility tours and tests to candidates and newly hired employees.",
+                "Conduct competency checks on new and existing employees."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Tax Clerk/Secretary",
+            "company": "",
+            "period": "August 2007 to June 2012",
+            "description": [
+                "Creates control logs.",
+                "Files documents and maps in appropriate sequence and location.",
+                "Maintains personal production records and submits as required.",
+                "Receptionist duties including answering phones, using computers, copiers, printers, faxes, directing property owners, taking messages, making appointment cards, etc.",
+                "Utilizes multiple resources to determine correct mailing addresses when mail is returned from the Post Office."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "General Appraisal/Data Entry Clerk",
+            "company": "",
+            "period": "November 2006 to July 2007",
+            "description": [
+                "Routing associates field cards with appropriate maps in rational sequence for field work.",
+                "Files documents and maps in appropriate sequence and location.",
+                "Maintains personal production records and submits as required."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Rep",
+            "company": "",
+            "period": "January 2005 to January 2006",
+            "description": [
+                "Received cash from customers and employees in payment for goods and services, and recorded amounts received.",
+                "Made change, cashed checks and issued receipts and tickets to customers.",
+                "Recorded amounts received and prepared reports of transactions.",
+                "Read and recorded totals shown on cash register tape and verified against cash on hand.",
+                "Counted cash and reconciled charge sales and cash receipts with total sales to verify accuracy of transactions."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "AS: Business Management",
+            "institution": "Albany State Technical College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in both HR and payroll coordination, demonstrating strong administrative skills and attention to detail. Their experience spans across multiple areas including policy implementation, employee relations, and compliance management, reflecting a comprehensive understanding of human resources practices. The candidate's ability to handle sensitive information during exit interviews and maintain accurate records for over 70 personnel files showcases their reliability and capability in sensitive roles."
+}

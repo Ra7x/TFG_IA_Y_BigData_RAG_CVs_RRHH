@@ -1,0 +1,40 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [],
+    "education": [
+        {
+            "degree": "Master's Degree",
+            "institution": "Texas A & M University Central Texas",
+            "year": null
+        },
+        {
+            "degree": "Technical or Occupational Certificate",
+            "institution": "Central Texas College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Saint Leo University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "A+ Certified",
+            "year": null
+        },
+        {
+            "name": "Active Directory",
+            "year": null
+        },
+        {
+            "name": "CompTIA Network+",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

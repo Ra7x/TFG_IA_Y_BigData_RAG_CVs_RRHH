@@ -1,0 +1,58 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Representative",
+            "company": "Company Name, City , State",
+            "period": "11/2016 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Supervisor/ Staffing Coordinator",
+            "company": "Human Resource Representative, Company Name, City , State",
+            "period": "06/2013 to 09/2016",
+            "description": [
+                "Managed Human Resources department for four months.",
+                "Developed monthly employee newsletter.",
+                "Designed new communication boards for each value stream, working on special projects, recruiting for maintenance and interns, training Administrative Assistant."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Art : Organizational Management Human Resources Management",
+            "institution": "Ashford University, City , State",
+            "year": 2012
+        },
+        {
+            "degree": "Bachelors of Art",
+            "institution": "Wisconsin Lutheran College, City , State",
+            "year": 2005
+        }
+    ],
+    "certifications": [
+        {
+            "name": "OSHA 10-hr General Industry Safety and Health",
+            "year": "July 2016"
+        },
+        {
+            "name": "First Aid & CPR certified",
+            "year": "September 8, 2015"
+        },
+        {
+            "name": "HR Law Seminar",
+            "year": "July 2016"
+        },
+        {
+            "name": "Payroll Law Seminar",
+            "year": "July 2016"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Experienced human resources professional with a strong background in managing HR departments, recruitment, and compliance with employment laws. The candidate has demonstrated success in improving employee relations and satisfaction through effective communication and management of policies. With skills in payroll processing, recruitment, and training, they are looking to leverage their expertise to contribute to the strategic development of an HR function within a company."
+}

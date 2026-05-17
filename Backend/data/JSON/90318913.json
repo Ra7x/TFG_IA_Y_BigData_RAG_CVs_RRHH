@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Pump and piping systems",
+        "Motor Control Panel",
+        "PLC controls",
+        "Diesel engine driven generator sets power plant"
+    ],
+    "work_history": [
+        {
+            "job_title": "Mechanical Engineer",
+            "company": "Company Name City , State",
+            "period": "2006-2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Mechanical Engineer / Section Head",
+            "company": "Company Name City , State",
+            "period": "1995-2006",
+            "description": [
+                "Supervise in the Operation and Maintenance of 8 units of boilers, 7 swimming pools, 12 deep wells and 2 incinerators.",
+                "Changed the two sand filters and installed new chlorine dosing system on the New infantry swimming pool ( size of pool 82 feet by 82 feet). Installed new deep well pumps and conducted the testing and commissioning.",
+                "Monitor the work of the waste water treatment plant contractor in the installation of pumps and machines and also in the testing and commissioning."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Mechanical Engineering course",
+            "institution": "FEATI UNIVERSITY",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Former member of Philippine Society of Mechanical Engineers",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in mechanical engineering, spanning across various sectors such as sewage treatment plants, swimming pools, and boiler operations. With over 10 years of experience as a Mechanical Engineer/Section Head, the candidate is well-versed in maintaining and troubleshooting complex systems like water treatment plants, sewage lifting stations, deep well pumping stations, and incinerators. The maritime sector also features prominently in their career path with significant roles as a Merchant Ship Electrician and Assistant Electrician/Wiper."
+}

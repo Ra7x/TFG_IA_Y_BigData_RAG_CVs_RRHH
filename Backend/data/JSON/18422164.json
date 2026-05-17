@@ -1,0 +1,74 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR SPECIALIST",
+            "company": "Company Name, City , State",
+            "period": "Jul 2013 to Current",
+            "description": [
+                "Support the HR Operations Service Delivery model by serving as a primary contact for escalated issues related to Human Resource Services (e.g., employee benefits, recruiting, on-boarding, relocation, leaves of absence, workforce administration, etc). Actively listen, interpret and articulate the needs of the customer (employees, Human Resources team members and management) to ensure timely research and resolution of escalated issues.",
+                "Monitor and maintain case management / ticketing queues to ensure cases are assigned and resolved within stated service levels, as well as to ensure accurate documentation of case status and issue resolution. Seek guidance on more complex issues from senior team members and/or internal/external partners as needed, as well as follow established approval processes for all issues requiring resolution outside the standard.",
+                "Provide support to Sr. HR Analysts, HR Analysts and management with special projects as required.",
+                "Work with human resources support center to monitor and maintain the highest level of quality service and employee satisfaction. Handle sensitive employee data with the utmost of discretion."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "STAFFING SPECIALIST",
+            "company": "Company Name, City , State",
+            "period": "Jun 2008 to Jun 2013",
+            "description": [
+                "On-site point of contact for Co-op/Intern program Completed applicant tracking in Hire systems Responsible for on-boarding of coops/interns-payroll/creation of Identity Manager accounts/badging Facilitated New Hire Orientation Processed various workflow forms as needed Interfaced with co-op/interns, managers and contractors when appropriate Conducted exit interviews with co-ops; terminate them from the system Other duties as assigned.",
+                "Conducted new employee orientation to foster positive attitude toward organizational objectives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "STAFFING COORDINATOR",
+            "company": "Company Name, City , State",
+            "period": "Aug 2007 to Apr 2008",
+            "description": [
+                "Responded to associate benefit questions; researched and resolved Assisted with coordinating and conducting HR-related training and other workshops Maintained current knowledge of HR practices, laws, and regulations Addressed/escalated customer issues and concerns payroll/benefits/badging Assisted Staffing Specialists with Benefit refunds, Workers Compensation, Jury Duty, STD/LTD form preparation Interfaced with candidates, managers and associates when appropriate Produced daily staffing team reports Facilitated New Employee Orientation Conducted phone-screens over the phone with applicants Conducted interviews with applicants Special projects as assigned.",
+                "Conducted new employee orientation to foster positive attitude toward organizational objectives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "RECRUITING COORDINATOR",
+            "company": "Company Name, City , State",
+            "period": "Sep 2004 to Aug 2007",
+            "description": [
+                "Developed and enhanced effective relationships with colleges and universities, job fair groups, business associations, advertising and recruitment agencies, and other key resources for sourcing candidates to fill internal positions.",
+                "Teamed with business line managers to identify, recommend, and interview the most qualified candidates. Functioned as a liaison between assigned business line(s) and human resources to capitalize on company-wide recruitment initiatives, events, opportunities, and practices."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "CUSTOMER SERVICE REPRESENTATIVE",
+            "company": "Company Name, City , State",
+            "period": "Feb 2001 to Apr 2004",
+            "description": [
+                "Answered inbound calls for 401(k) customers. Placed outbound calls as a follow-up to customer concerns pertaining to their 401(k) plans. Processed numerous transactions on 401(k) customers' accounts, i.e. loans, withdrawals, exchanges. Investigated pending issues on 401(k) customers' accounts, i.e. address changes, changes in employment status."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters",
+            "institution": "Northern Kentucky University, City , State",
+            "year": 2006
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Northern Kentucky University, City , State",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's background in human resources and customer service showcases a results-driven professional with comprehensive experience in handling HR operations, recruitment, employee relations, and financial services. Their strong skills in problem-solving, strategic thinking, and creativity are evident through their management of complex issues and emphasis on quality service and employee satisfaction. The multitasking abilities highlighted reflect an adaptable leader capable of managing multiple tasks efficiently within fast-paced environments."
+}

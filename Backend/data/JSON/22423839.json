@@ -1,0 +1,44 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Business Development",
+        "Product Strategy",
+        "Marketing",
+        "Sales"
+    ],
+    "work_history": [
+        {
+            "job_title": "International Business Development Manager",
+            "company": "Company Name, City , State",
+            "period": "02/2010 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "International Sales Operations Manager",
+            "company": "Company Name, City , State",
+            "period": "01/2004 to 01/2010",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Air and Ocean Export Coordinator",
+            "company": "Company Name, City , State",
+            "period": "01/1999 to 01/2000",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS degree : Business Administration, International Business",
+            "institution": "Southern Illinois University of Edwardsville",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "english_level": "Bilingual - English/Spanish",
+    "matchmaking_summary": "The candidate has a proven track record in international business development, with extensive experience in market analysis and strategic planning. Their ability to lead cross-departmental teams and manage global sales networks highlights their leadership skills and expertise in driving revenue growth. With a strong background in both domestic and international operations, the candidate is highly competent in managing inventory levels and establishing effective communication channels across various departments."
+}

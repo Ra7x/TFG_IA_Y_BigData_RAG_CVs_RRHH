@@ -1,0 +1,124 @@
+{
+    "full_name": "Director of Information Technology",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        ".NET",
+        "asp.net",
+        "VB.NET",
+        "Adabas",
+        "ADO",
+        "Agile",
+        "Application Development",
+        "ASP",
+        "agency",
+        "Banking",
+        "banyan",
+        "billing",
+        "Business Intelligence",
+        "cardiology",
+        "client server",
+        "Database Administration",
+        "Database Design",
+        "desktops",
+        "Delivery",
+        "hardware",
+        "help desk support",
+        "help desk",
+        "IIS",
+        "Information Technology",
+        "IT Strategy",
+        "Leadership",
+        "Team Leadership",
+        "mainframe",
+        "C#",
+        "SharePoint",
+        "Office",
+        "Oracle",
+        "Oracle DBA",
+        "developer",
+        "PL/SQL",
+        "Oracle SQL",
+        "phone system",
+        "programming",
+        "Project Management",
+        "Requirements Analysis",
+        "research",
+        "SDLC",
+        "Software Development",
+        "Microsoft SQL Server",
+        "SQL",
+        "sql server",
+        "Tableau",
+        "phone",
+        "Web Applications",
+        "Year 2000"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Information Technology",
+            "company": "",
+            "period": "11/2012 to 08/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Team Leader",
+            "company": "",
+            "period": "05/2005 to 11/2012",
+            "description": [
+                "Lead clinical and research programming development and application support for applications developed by my group for the Cardiovascular Program.",
+                "I had three teams under my leadership.",
+                "I had the CAS and later the EMERIS group and I project managed the effort to replace a number of legacy systems with modern C# applications.",
+                "The second group maintained professional and clinical billing for the cardiology department.",
+                "The third group developed and maintained research applications for the cardiology's research department."
+            ],
+            "technologies": [
+                "C#",
+                "SQL"
+            ]
+        },
+        {
+            "job_title": "Chief Information Officer",
+            "company": "",
+            "period": "07/2000 to 02/2005",
+            "description": [
+                "Provide network, application and help desk support for the largest agency in the Commonwealth of Massachusetts, The Department of Mental Retardation.",
+                "The agency is now called the Department of Developmental Services and at that time my network team of 5 managed the the entire state of Massachusetts office: 30 field office and 5 state school facilities.",
+                "We upgraded to Zen 5.0 of Novell and remotely managed our desktops."
+            ],
+            "technologies": [
+                "Novell",
+                "SQL"
+            ]
+        },
+        {
+            "job_title": "Director of Applications Development",
+            "company": "",
+            "period": "02/1996 to 06/2000",
+            "description": [
+                "Provided application development and support services to the Department of Youth Services. I lead the Year 2000 project to convert our Natural/Adabas mainframe system to a ASP web based application YSIS.",
+                "I also helped out as a banyan administrator to our Network Administrator."
+            ],
+            "technologies": [
+                "C#",
+                "ASP"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Business Administration (MBA)",
+            "institution": "Suffolk University - Sawyer School of Management",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts (BA)",
+            "institution": "",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has extensive experience in managing and leading IT teams, overseeing the development and support of various applications including healthcare and research-based solutions. Their expertise spans across multiple programming languages, databases, and technologies such as Oracle SQL, C#, ASP.NET, VB.NET, SharePoint, and Microsoft SQL Server. The role requires a strong understanding of SDLC, project management, and business analysis to effectively lead projects aimed at enhancing organizational effectiveness and efficiency."
+}

@@ -1,0 +1,65 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "APS",
+        "CAS/IMPACT",
+        "CSF",
+        "Aviation Supply Chain",
+        "Lean Manufacturing"
+    ],
+    "work_history": [
+        {
+            "job_title": "Plant Fulfillment Leader",
+            "company": "Company Name City , State",
+            "period": "11/2015 to Current",
+            "description": [
+                "Provide manufacturing leadership in the developing, planning, and implementing of the master schedule.",
+                "- Act on all matters pertaining to schedules, customer status, and inventory.",
+                "- Translate, prepare, and assign meaningful and functional productivity plans to meet established master schedules for customers.",
+                "- Assist in the calculation of detailed schedules for equipment, materials, and manpower with respect to schedule needs versus resource capabilities.",
+                "- Work to control inventory levels, cycle time, machine loads, and other aspects as required to meet schedules. Coordinate production control specialists.",
+                "- Interface between customers and shops for prioritization of shop load to meet customer demands.",
+                "- Interface with suppliers/vendors to assure realistic and timely delivery of hardware to meet schedule requirements. Develop, plan, and manage programs to meet GE purchasing commitments to Sourcing.",
+                "- Manage purchase orders between shop and vendors.",
+                "Coordinate all production teams' material status, production priorities, and delivery commitments.",
+                "- Effectively communicate to external sources, including shops and revenue sharing partners."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Production Specialist: Large Combustors & Rotating Parts",
+            "company": "Company Name City , State",
+            "period": "12/2011 to 10/2015",
+            "description": [
+                "- Controlled raw material, ensured the minimization of excess/obsolete inventory, oversaw lean manufacturing processes of a subsection in order to increase inventory turns and deliver product requirements to customers.",
+                "- Tracked, expedited, and managed the logistics of numerous jet engine component parts throughout the manufacturing lines and entire supply chain to meet shipment deadlines.",
+                "- Coordinated daily with suppliers, vendors, union operators, and internal business leaders to support, forecast, prioritize, and improve production flow in accordance with customer demand.",
+                "Drove material input to ensure on time delivery and output schedules to maximize productivity."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Payer Relations Coordinator",
+            "company": "Company Name City , State",
+            "period": "10/2008 to 11/2011",
+            "description": [
+                "- Served as the BWPO central contact for the quarterly submission of International Accounts for review to the BWH International Office.",
+                "- Answered inquiries from the international office, distributed correspondence and payments to appropriate BWPO departments.",
+                "- Managed functions related to the international collection agency utilized by the BWPO; responds to inquiries from the agency, verified payments received on accounts, coordinated paying of collection fee invoices, managed distribution of status reports to BWPO departments."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Curry College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Dedicated leader with comprehension manufacturing, materials, and inventory experience. Demonstrated the ability to train, manage, and motivate team members to achieve organizational goals and objectives."
+}

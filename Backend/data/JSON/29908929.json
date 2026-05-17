@@ -1,0 +1,93 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development & Marketing",
+            "company": "Company Name - City , State",
+            "period": "November 2013 to September 2015",
+            "description": [
+                "- Acts as a public relations representative externally and internally",
+                "- Conducts facility visits as directed by the CEO",
+                "- Maintain a high-profile visibility within the emergency transport service community",
+                "- Represent the CAI in different conferences. Management of Social Media accounts.",
+                "- Liaison between CAI and patient's family",
+                "- Posted open positions on company and social media websites.",
+                "- Created PowerPoint presentations used for business development."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Corporate Associate / HR Assistant",
+            "company": "Company Name - City , State",
+            "period": "August 2011 to October 2013",
+            "description": [
+                "- Properly routed agreements, contracts and invoices through the signature process.",
+                "- Organized files, developed spreadsheets, faxed reports and scanned documents.",
+                "- Made copies, sent faxes and handled all incoming and outgoing correspondence.",
+                "- Dissolutions and withdraws of Corporations, LLC, LP etc.",
+                "- Maintain investors accounts updated in SharePoint and Dynamo.",
+                "- Coordinated complex domestic and international travel arrangements for all top executives.",
+                "- Provided administrative support to the Human Resources Director Assist the HR Director with employee compliances including benefits, workers compensations etc."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Admissions Director",
+            "company": "Company Name - City , State",
+            "period": "October 2007 to July 2011",
+            "description": [
+                "- Coordinated start of care for adult patients seeking home health care; Working with managed care companies in order to determine the level of care needed, Verification of benefits & patient registration.",
+                "- Assists in scheduling for Aide weekday, weekend, and holiday coverage. Coordinate the LPN's, RN and PT's schedules.",
+                "- Schedules nursing on call, holiday, weekends and after hours staffing. Sets appointments for admissions nurses.",
+                "- Verifies next of kin and demographic information Coordinated and accompanied account representatives in making presentations to large and small clients."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Coordinator",
+            "company": "Company Name - City , State",
+            "period": "October 2005 to September 2007",
+            "description": [
+                "- Supported clinic operations by direct involvement with the physician(s) and nurse(s) of a respective department.",
+                "- Support clinic operations by checking in patients at front desk, verifying demographics and insurance information, obtaining referral/authorization, collecting copay/deductible, scheduling appointments, entering daily clinic charges and other front desk functions. Answered the phone, triaging calls, scheduled appointments, scheduled diagnostic testing and/or surgical procedures, obtained referral/authorizations, maintaining physician calendar."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Admissions Coordinator",
+            "company": "Company Name - City , State",
+            "period": "August 2002 to October 2005",
+            "description": [
+                "- Complete verification of benefits & patient registration.",
+                "- Liaison person interfacing with referral sources, outside agencies, health professionals and field staff. Negotiated better pricing and service on medical products through volume purchasing. Responsible for facility medical supplies including maintaining inventory."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Sciences",
+            "institution": "Keiser University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Florida Public Notary",
+            "year": null
+        },
+        {
+            "name": "Knowledge of HIPPA policies, guidelines & patient safety.",
+            "year": null
+        },
+        {
+            "name": "Medicaid billing using IGEA+ software",
+            "year": null
+        }
+    ],
+    "english_level": "Advanced and fluent in English and Spanish",
+    "matchmaking_summary": "The candidate has a robust background in administrative roles, demonstrating strong organizational skills and ability to manage complex projects. With experience in various sectors including healthcare administration and HR, the candidate possesses a deep understanding of patient care regulations and human resources compliance. Their bilingual proficiency in English and Spanish adds an international perspective and cultural sensitivity crucial for effective cross-cultural communication."
+}

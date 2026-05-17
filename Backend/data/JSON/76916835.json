@@ -1,0 +1,46 @@
+{
+    "full_name": "Business Development Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name, City , State",
+            "period": "Jun 2010 to Feb 2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Global Sales Manager",
+            "company": "Company Name, City , State",
+            "period": "Jan 2009 to Jan 2016",
+            "description": [
+                "Created a strategic sales plan that allowed product development to increase in profit margins by more than 14%. Increased revenue by 20% within 1 year by building and strengthening relationships with existing customers. Established office in Calgary and defined territory.",
+                "Effectively led Outside Sales team in Houston and Calgary."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Technical Sales Representative / Key Account Team Leader",
+            "company": "Company Name, City , State",
+            "period": "Jan 2005 to Jan 2016",
+            "description": [
+                "Increased sales within my accounts by more than 200%.",
+                "Developed and Managed the sales of a 9 million dollar account, the largest single account in the oilfield business group.",
+                "Created and presented sales seminars outlining products and capabilities to Engineering, Manufacturing and Management supervisors."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Houston",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong track record in business development within the oil and gas industry, demonstrating exceptional sales techniques and strategic account management. With a proven ability to increase revenue through customer relationship building and market expansion strategies, they have successfully driven both customer acquisition and product line growth. Their background in technical sales positions them well for roles requiring deep understanding of complex industrial products and services."
+}

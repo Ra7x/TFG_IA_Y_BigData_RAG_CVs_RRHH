@@ -1,0 +1,59 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Statistical Analysis Software (SAS)",
+        "R",
+        "SAS Data Miner",
+        "SQL",
+        "Relational Databases",
+        "Microsoft Office programs"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Development Intern",
+            "company": "AutoTrader",
+            "period": "05/2013 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Statistical Consultant",
+            "company": "Zillow.com",
+            "period": "10/2012 to 12/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Statistical Consultant",
+            "company": "",
+            "period": "05/2012 to 01/2013",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Kennesaw State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate boasts a robust background in statistical analysis and data science, with extensive experience using SAS, R, SQL, and relational databases to drive business insights. Their ability to leverage data for strategic marketing decisions, as evidenced by enhancing SEM strategies for AutoTrader's clients by targeting zip-code level precision which resulted in estimated annual revenue increases of $3.5 million, highlights their potential in data-driven roles. Furthermore, their proficiency in statistical methods such as ANOVA and T-test procedures provides insights into complex research analyses."
+}

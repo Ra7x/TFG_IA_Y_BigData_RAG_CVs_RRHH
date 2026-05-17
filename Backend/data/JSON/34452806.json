@@ -1,0 +1,68 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Store Chef",
+            "company": "Duties including menu development one on one consultation with customer designing menus, as well as work scheduling, complete budget for bistro food outlet. - On and off campus Catering.",
+            "period": "April 2014 to Current",
+            "description": [
+                "Successful menu development and execution for clientele, resulting in 20% business increase over 6 month prior emphasis on - light fare highlighting locally grown ingredients and regional flavors."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Chef",
+            "company": "- Delivers strong operational performance by executing against Sodexo and regulatory agency standards and programs, continually monitoring operations, and completing assessments and necessary action plans to provide optimal food quality and meal service. Drives customer satisfaction, and maintains client relationships through rounding.",
+            "period": "July 2013 to January 2014",
+            "description": [
+                "- Ensures compliance to food safety, sanitation, and overall workplace safety standards.",
+                "- Supervises, staffs, trains, conducts applicable rounding and manages the performance of the department to include the Food Service Supervisors and/or front line staff regarding food presentation, quality, cost control and food safety and sanitation."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Chef",
+            "company": "- Premium menu design, recipe development culinary education for kitchen staff out lining events, live cooking demonstrations. Pairing events and upscale private catering functions for Doctor and Executive broad Culinary nutrition consultant for health improvement results for all Patient and staff.",
+            "period": "May 2005 to January 2013",
+            "description": [
+                "- Successful design and implementation of menu, that promotes conscious cuisine standards, in culinary. Help development nutritional standards all food outlets.",
+                "- High positive guest feedback surveys and 65% sales increase over 5-year period."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Sous Chef",
+            "company": "Successful assist in direction of $1.5 million renovation of dining facilities and kitchens, including four restaurant, Culinary Learning Center, bistro, retail space and stations buffet.",
+            "period": "November 2001 to April 2005",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Culinary Arts Management Associate Degree",
+            "institution": "Sullivan College and the National Center for Hospitality City , State",
+            "year": 1991
+        },
+        {
+            "degree": "Culinary Arts Management Diploma",
+            "institution": "Sullivan College and the National Center for Hospitality City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Educational Foundation - National Restaurant Association Certification",
+            "year": null
+        },
+        {
+            "name": "Serve Safe Certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, with extensive experience in the culinary industry including roles as a Store Chef, Executive Chef, and Executive Sous Chef, has demonstrated strong leadership skills across various operations. Their expertise spans menu development, budget management, staff training, and customer satisfaction, which are critical for success in the food service sector. The emphasis on healthy cuisine is evident through their work in developing nutritional menus and promoting locally sourced ingredients, reflecting a commitment to both culinary excellence and health-conscious dining."
+}

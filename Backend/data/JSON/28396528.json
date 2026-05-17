@@ -1,0 +1,85 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Kitchen Utility Worker/Evening weekend chef",
+            "company": "Company Name City , State",
+            "period": "April 2012 to January 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Caregiver/PCA",
+            "company": "Company Name City , State",
+            "period": "January 2013 to April 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Caregiver",
+            "company": "Company Name City , State",
+            "period": "April 2013 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Attendant Counselor",
+            "company": "Company Name City , State",
+            "period": "April 2014 to August 2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Med Tech",
+            "company": "Company Name City , State",
+            "period": "April 2015 to October 2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Caregiver",
+            "company": "Company Name City , State",
+            "period": "October 2015 to Present",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Orting High School City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Fundamentals of Caregiving",
+            "year": null
+        },
+        {
+            "name": "First Aid and CPR",
+            "year": null
+        },
+        {
+            "name": "Dementia Training",
+            "year": null
+        },
+        {
+            "name": "Mental health Training",
+            "year": null
+        },
+        {
+            "name": "Nurse delegations",
+            "year": null
+        },
+        {
+            "name": "CNA License",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a rich background in healthcare, particularly focusing on mental health and geriatric care. With over four years of experience taking care of patients with various mental illnesses and dementia, the candidate demonstrates strong patient-focused care and a compassionate approach to handling end-of-life situations. Their nursing assistant certification highlights their expertise in providing detailed observations and accurate documentation crucial for patient care. Given their diverse experiences across different healthcare settings (including meals preparation, direct patient care, and charting), this candidate is well-suited for roles that require not only technical skills but also a caring and empathetic approach to patient care."
+}

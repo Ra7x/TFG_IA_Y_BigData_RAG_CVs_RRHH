@@ -1,0 +1,54 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Generalist",
+            "company": "Company Name - City , State",
+            "period": "November 2006 to May 2015",
+            "description": [
+                "Onboarding: Welcoming the new employees onboard by ensuring they have a pleasant experience.",
+                "Verifying and collecting all the mandatory educational & employment documents.",
+                "Performing a reference check on the day of on boarding incase any document is not available.",
+                "Taking induction for the new joinees and briefing them about IBM and the concerned BU's to which they will be a part of.",
+                "Briefing the new joiners on various policies like payroll, payables, medical insurance, reimbursement, superannuation etc. Updating the joiner's data /no-shows data in GOM.",
+                "Ensure all the relevant departments are informed about the new joiners.",
+                "Managing attendance and leave for the team.",
+                "Mentoring & coaching new team members across locations on the process, and ensure they execute the process successfully. Preparing weekly & daily MIS reports.",
+                "Preparing MOM and sharing it to the team for every weekly team meeting.",
+                "Recruitment: Screening the resumes so as to assess the HR Fit & the Technical Fit of the candidate for the applied position."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Consultant",
+            "company": "Company Name - City , State",
+            "period": "January 2006 to October 2006",
+            "description": [
+                "Working on individual corporate assignments and sourcing candidates for different positions for providing manpower to their requirement needs.",
+                "Counseling and evaluating candidates by taking preliminary round of interviews, calling them for final interview and doing reference checks on behalf of the candidates.",
+                "Recruiting candidates by means of headhunting, employee references, networking & jobsites depending on the resource requirements.",
+                "Working on senior level assignments (15-20 yrs experience.)",
+                "Coordinating interviews, updating the candidates about the company, job profile, giving them interview tips and maintaining client relation."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.B.A : Human Resources & Finance",
+            "institution": "Utkal University - State , India",
+            "year": 2005
+        },
+        {
+            "degree": "Bachelor of Science : Physics Honours",
+            "institution": "OUAT - State , India",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, with over eight years of professional experience in the HR sector including roles in recruitment, orientation, engagement, and termination procedures, demonstrates strong capabilities in managing employee onboarding processes, handling vendor management, and executing effective recruitment strategies. Their comprehensive background encompasses talent acquisition, documenting mandatory offer paperwork, and negotiating successful candidate engagements. This candidate's academic qualifications in Human Resources & Finance align well with their practical experience, highlighting a robust skill set suitable for strategic HR roles."
+}

@@ -1,0 +1,73 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Manager/Generalist",
+            "company": "Company Name City , State",
+            "period": "02/2012 to Current",
+            "description": [
+                "Responsible for day to day HR functions for leading manufacturer of cryogenic reciprocating and centrifugal pumps and turbo-expanders with approximately 200 employees.",
+                "Preparation of weekly payroll for submission to Corporate Payroll Department.",
+                "Implement successful recruiting efforts to support company growth in engineering and operations departments; new hire orientation; tracking and monitoring of temporary and contract to hire labor.",
+                "Prepare and manage personnel transactions such as new hires, terminations, etc.",
+                "Provide assistance to management in handling employee relations issues.",
+                "Conduct wage surveys to determine competitive wage rates for recruiting; write and update job descriptions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Manager",
+            "company": "Company Name City , State",
+            "period": "07/2008 to 02/2012",
+            "description": [
+                "Responsible for all day to day HR functions for medical device manufacturer with approximately 50 employees located at Corporate headquarters in Lake Forest and 14 service employees located in Texas.",
+                "Administer and manage the medical, dental, vision, 401(k), flexible spending, life, LTD, workers compensation and liability insurance plans; coordinate renewals and open enrollments; reconcile monthly billings; gather and prepare information for annual benefit audits.",
+                "Administer and manage all personnel transactions such as new hires, promotions, transfers, FMLA/CFRA leaves of absence, time off, performance reviews, counseling, coaching, disciplinary actions and terminations.",
+                "Process and manage by-weekly payroll using Paychex and ADP payroll systems.",
+                "Provide guidance and counsel to management in handling all employee relations issues including coaching and investigation; communicate policies, procedures and benefits to employees in effective and timely manner.",
+                "Ensure Company is in compliance with all federal and state labor laws; chair safety committee; implement safety programs and facilitate training.",
+                "Develop and implement successful recruiting strategies to ensure optimal staffing to support the business; post internet job openings, work with recruiting firms, conduct interviews and pre-employment reference and background checks and employment verifications; new hire orientation; tracking/monitoring of temporary and contract to hire labor."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sr HR Representative",
+            "company": "Company Name City , State",
+            "period": "05/1985 to 07/2008",
+            "description": [
+                "Responsible for a wide variety of both day to day and project-oriented HR functions for a unionized power supply manufacturing company with an employee population that ranged from 150 to over 700.",
+                "Company experience cycles of tremendous growth and downsizing as well as the transition of all manufacturing operations out of state.",
+                "Prepare annual salary proposal and administer the approved plan; participate in salary surveys and use results to benchmark company's wages to the industry, maintain job descriptions and organizational charts, implement salary increases in compliance with approved salary plan and bargaining unit agreement.",
+                "Administer employee benefit programs; analyze current benefits programs and research and recommend alternatives, communicate program features, coordinate open enrollment activity, maintain records and billing, track benefit costs."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science Degree",
+            "institution": "Industrial Psychology",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts Degree",
+            "institution": "Psychology",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PHR designation",
+            "year": null
+        },
+        {
+            "name": "OSHA 10-hour training",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate boasts a comprehensive background in human resources management, spanning over three decades. With experience across diverse industries including medical devices and cryogenic pumps manufacturing, the candidate demonstrates expertise in managing both union and non-union environments, ensuring compliance with state and federal employment laws, and fostering positive working relationships with external vendors. Their proficiency in HRIS systems like Ceridian and payroll platforms such as ADP and Paychex highlights their adaptability to technological advancements in the field. The candidate's ability to lead recruitment efforts and handle employee relations issues showcases strong interpersonal and management skills."
+}

@@ -1,0 +1,51 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Associate",
+            "company": "Dunning Toyota",
+            "period": "01/2009 to Current",
+            "description": [
+                "Top sales professional in my second year at Dunning Toyota averaging twice my minimum quota for the year.",
+                "Chosen one of three sales professionals to be observed by CEO of Thomson Reuters Sales, Jim Colantino, on my personal approach and strategy with Transition Sales.",
+                "Sales leader in a new product launch for the first two years of Accounting CS selling over $695,000 of product, support, and training. Member of the Presidents Club in 2013 for top sales performance of global sales professionals at Thomson Reuters."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales and Leasing Consultant",
+            "company": "Company Name City , State",
+            "period": "01/2000 to 01/2005 Company Name City , State",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Divinity",
+            "institution": "Asbury Theological Seminary",
+            "year": null
+        },
+        {
+            "degree": "Master of Arts : Counseling",
+            "institution": "Asbury College",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts : Psychology",
+            "institution": "Asbury University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Limited License Professional Counselor",
+            "year": "6401006038"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in sales and customer service, with extensive experience across multiple sectors including automotive and software for accounting. Their ability to tailor solutions based on client needs and their track record of achieving top sales performance are commendable. Additionally, the non-profit experience as a pastor and teacher showcases leadership qualities and dedication to community development."
+}

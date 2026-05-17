@@ -1,0 +1,62 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Regional HR Deputy Manager",
+            "company": "Company Name",
+            "period": "06/2010 to 03/2014",
+            "description": [
+                "Provided full range of generalist services, employee retention, employee engagement, performance management and corporate social responsibility including talent acquisition in the geography within the HR operational framework of the organization.",
+                "Executed full employee life-cycle management for the employees in the designated geographical territory.",
+                "Managed full cycle recruitment process, sourcing of resumes through internal and external sources till bringing the candidate onboard.",
+                "Implemented recruitment strategies to reach high volume recruiting.",
+                "Helped organize and manage interviews of 300+ candidates from top schools.",
+                "Conducted on-campus events to increase company's on-campus engagement.",
+                "Coordinated full-time and summer hires, implemented end-to-end processes.",
+                "Was a part of the interview panel for all levels, analyzed the results, did salary negotiations and then rolled out the offers."
+            ],
+            "technologies": [
+                "PeopleSoft",
+                "Oracle"
+            ]
+        },
+        {
+            "job_title": "Regional HR Assistant Manager",
+            "company": "Company Name",
+            "period": "03/2008 to 05/2010",
+            "description": [
+                "Responsible for delivering the end to end Recruitment and Generalist services to the North Zone.",
+                "Coordinated 360 degrees feedback exercise for talent pool."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Branch Operations Officer",
+            "company": "Company Name",
+            "period": "05/2007 to 02/2008",
+            "description": [
+                "Responsible for overseeing all activities in regards to opening new corporate accounts.",
+                "Accredited for streamlining the recruitment process across the North Zone through Vendor Management."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "GHS-IMR Business School India",
+            "year": 2007
+        },
+        {
+            "degree": "B.Com",
+            "institution": "CSJMU, Uttar Pradesh University",
+            "year": 2005
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a highly skilled HR professional with extensive experience in recruitment and generalist roles. With expertise in both corporate environments and manufacturing settings, they have demonstrated success in managing the entire employee lifecycle, from recruitment to performance management and retention strategies. Their proficiency in systems like PeopleSoft and Oracle indicates strong technical skills, which complement their broader HR responsibilities effectively."
+}

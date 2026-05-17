@@ -1,0 +1,63 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Python",
+        "SQL",
+        "Java",
+        "R",
+        "Excel",
+        "Tableau",
+        "Statistical Analysis",
+        "Multiple Linear Regression",
+        "Sun Certified Java Associate"
+    ],
+    "work_history": [
+        {
+            "job_title": "Business Development Executive",
+            "company": "",
+            "period": "2011-2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Delivery Lead",
+            "company": "",
+            "period": "2009-2011",
+            "description": [
+                "Managed multiple (5+) vendors to ensure on time delivery.",
+                "Closely monitored quality issues using statistical analysis, achieving 98% first pass rate which resulted in increasing profit margin by 11 % in comparison with initial projection.",
+                "Ensured satisfactory Test and Deployment on client site, in France."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Management Trainee",
+            "company": "",
+            "period": "2008-2009",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science , Information Systems",
+            "institution": "J. Mack Robinson College of Business",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Engineering , Information Science",
+            "institution": "Vidyavardhaka College of Engineering",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Sun Certified Java Associate",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile as a Business Development Executive and Delivery Lead, showcasing significant expertise in process optimization through BI analysis. With hands-on experience in roles that required collaboration across teams to improve cost efficiency and sales growth, the candidate has successfully translated business requirements into actionable strategies using technical solutions. Their proficiency in data analytics tools like Python, SQL, R, Excel, and Tableau, along with strategic certifications such as Sun Certified Java Associate, highlights their ability to contribute effectively to complex decision-making processes in a data-driven environment."
+}

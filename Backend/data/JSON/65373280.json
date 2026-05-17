@@ -1,0 +1,63 @@
+{
+    "full_name": "John Doe",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Grand Hotel",
+            "period": "December 2003 - Present",
+            "description": [
+                "Managed kitchen and stewarding staff team of 67, overseeing various stages of food production and event management.",
+                "Designed, managed, and created menus for three restaurants (offshore 9, Boardwalk, Henry's), two pool pantries, and one market (Riptide, Surf Hero).",
+                "Managed menus and cooking for over 51,000 sq. ft. of meeting space.",
+                "Maintained labor at under 11% to promote long-term business profitability.",
+                "Purchased ingredients and managed inventory from various vendors, resulting in a hotel-wide food cost of 26%."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Restaurant Chef / Executive Sous-Chef",
+            "company": "Marriott Hotels",
+            "period": "August 2008 - August 2013",
+            "description": [
+                "Modified standard recipes to accommodate ingredient issues or customer requests, including allergen concerns.",
+                "Supervised a staff of 30, providing direction in preparing specialty items for banquets, restaurant, and employee dining room.",
+                "Developed innovative California-driven menus with over 30 offerings.",
+                "Followed proper food handling methods to maintain correct temperatures, ensuring high scores on health inspections."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Lead Cook / Chef de Cuisine",
+            "company": "The Ivy Restaurant",
+            "period": "December 2003 - August 2008",
+            "description": [
+                "Managed budget, labor, and direct operating expenses for restaurant, banquet, and market operation.",
+                "Ensured proper functionality of freezers and refrigerators prior to each shift."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Line Prep Cook",
+            "company": "Le Gourmet Culinary",
+            "period": "December 1999 - December 2003",
+            "description": [
+                "Kept stations stocked and ready for use to maximize productivity.",
+                "Arranged sauces and supplementary garnishes, sanitized food preparation areas, grills, and equipment."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "ITHQ, Institue d'hotelerie du Quebec",
+            "year": 1996
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "John Doe is an accomplished Executive Chef with a robust background spanning over three decades in the culinary industry. With a strong educational foundation from ITHQ and extensive experience working for renowned establishments such as Marriott Hotels, The Ivy Restaurant, and Le Gourmet Culinary, John has honed his skills across various facets of the culinary profession. His ability to lead teams effectively, innovate menu development, and maintain high standards in food safety reflect his dedication to excellence."
+}

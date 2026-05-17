@@ -1,0 +1,78 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Office proficiency",
+        "Time management",
+        "Strong problem solver",
+        "Resourceful",
+        "Dedicated team player",
+        "Strong interpersonal skills",
+        "Executive presentation development",
+        "Billing and coding"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Payroll/ Accounting Representative",
+            "company": "Company Name",
+            "period": "11/2008 to 11/2011",
+            "description": [
+                "Assisted in all payroll duties including but not limited to: accounting for all employee hours worked, time off requests, STD, leave of absence, etc.",
+                "Accurately processed data, validation and transmission for weekly, semi-monthly and sales payrolls. Managed payroll and time and attendance systems.",
+                "Enforced established payroll-related policies, procedures and regulations and adherence to company and governmental policies. Responded to employee inquiries regarding payroll and timekeeping."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Financial Relationship Specialist",
+            "company": "Company Name",
+            "period": null,
+            "description": [
+                "Provided professional and prompt financial services to all members and potential members in a sales and service culture, while continually educating members on credit union products and services.",
+                "Researched banking guidelines and statutory requirements to stay updated on new laws and applications. Processed sales referrals and promoted bank services and products."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Trainer/Server",
+            "company": "Company Name",
+            "period": "05/2008 to 12/2008",
+            "description": [
+                "Ordering and serving the customers with excellent service. Finding solutions to customer related issues.",
+                "Assuring that all duties at the closing and opening of the store were done correctly."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Counter Supervisor",
+            "company": "Company Name",
+            "period": "09/2006 to 07/2008",
+            "description": [
+                "Assist Manager with all visuals for entire store. Responsibe for delegating and planning daily staff workflow, in the absence of the store manager.",
+                "Compile store merchandise and inventory reporting."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates",
+            "institution": "Blue River Community College",
+            "year": 1998
+        },
+        {
+            "degree": "Bachelors",
+            "institution": "UMKC Business Finance",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Workers' compensation knowledge",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate brings a diverse and extensive background in accounting, finance, customer service, and administration, with proven ability to manage payroll duties efficiently while adhering to strict company and governmental policies. Known for excellent organizational skills, attention to detail, strong problem-solving abilities, and the capacity to lead teams under high pressure while delivering exceptional customer service."
+}

@@ -1,0 +1,46 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": "City, State",
+    "tech_stack": [
+        "System Center Configuration Manager 2012 R2",
+        "Windows 7",
+        "Windows Server 2008 R2",
+        "Microsoft Office 365"
+    ],
+    "work_history": [
+        {
+            "job_title": "Desktop Support Engineer",
+            "company": "Company Name",
+            "period": "August 2012 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Technician",
+            "company": "Company Name",
+            "period": "January 2011 to January 2012",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Computer Science",
+            "institution": "ECPI University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified Professional",
+            "year": null
+        },
+        {
+            "name": "Network Security Certifications",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate profiles as a dedicated and experienced Desktop Support Engineer with a strong background in System Center Configuration Manager 2012 R2, Windows 7, and Windows Server 2008 R2. They have demonstrated expertise in managing IT change management for both domestic and international locations, with the ability to prioritize goals under tight deadlines while maintaining high standards of quality. Their technical skills include image deploying Windows 7 via SCCM 2012 R2, patch management, task sequence development, advanced hardware and software troubleshooting, and proficiency in managing Microsoft Office 365 migrations."
+}

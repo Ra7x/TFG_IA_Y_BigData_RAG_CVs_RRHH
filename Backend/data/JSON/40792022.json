@@ -1,0 +1,70 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Representative",
+            "company": "Company Name - City , State",
+            "period": "March 2010 to Current",
+            "description": [
+                "Achieved customer service objectives by contributing customer service information and recommendations to strategic plans and reviews. Preparing and completing action plans for customer-service standards.",
+                "Resolved problems, completing audits, identifying customer service trends and determining system improvements.",
+                "Determined customer service requirements by maintaining contact with customers, visiting operational environments, conducting surveys, forming focus groups and analyzing information.",
+                "Increased product awareness levels and grew profit margins through negotiations with store managers and regional managers through the implementation of in-store merchandise displays, product assortments, pricing structures, sales allowances, rebates, and monthly promotions.",
+                "Managed sales team and assisted them with navigating their retail accounts to align needed resources and support to ensure specific client and/or customer initiative success."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Licensed Healthcare Representative",
+            "company": "Company Name - City , State",
+            "period": "December 2008 to March 2010",
+            "description": [
+                "Managed high volume call activity from healthcare providers and Cigna clients.",
+                "Utilized my health insurance expertise to advise our clients on the best insurance choice to meet there needs.",
+                "Maintained networks/partnerships with internal and external partners to expedite client processing.",
+                "Effectively assessed patient needs and resolved client conflicts. Utilized technology to expedite client verification, documentation, & service."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Outside Sales Manager",
+            "company": "Company Name - City , State",
+            "period": "March 2005 to December 2008",
+            "description": [
+                "Responsible for the overall development of the North Miami territory selling occupational and physical therapy solutions with a focus on primary care, specialists, and hospital based physicians.",
+                "Effectively leveraged resources within a fixed budget to increase sales and add value to a difficult to access, high volume, urban customer base.",
+                "Managed administrative functions including daily synchronization of call activity, expense reporting, performance trend analysis and sales tracking.",
+                "Successfully collaborated with territory partners and contribute to team success. Developed and maintained networks/partnerships with external community advocacy groups, pharmacies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager Trainee",
+            "company": "Company Name - City , State",
+            "period": "May 2004 to March 2005",
+            "description": [
+                "Responsible for overseeing the day-to-day operations of the rental location.",
+                "Increased business through forecasting, counter sales and rate management in order to remain competitive in the marketplace while utilizing fleet at a profitable level. Managed team members job performance including counter sales Responsible for team member development."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA : Business Administration",
+            "institution": "University of Phoenix - City , State",
+            "year": null
+        },
+        {
+            "degree": "Business Administration BS : Psychology",
+            "institution": "Florida State University - City , State",
+            "year": 2002
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's extensive experience in customer service, sales management, and business development across diverse industries showcases a strong foundation in performance-driven strategies. With roles that require adaptability, results orientation, and the ability to leverage technology for organizational efficiency, this professional is well-suited for driving positive outcomes through effective customer relationship management and strategic planning."
+}

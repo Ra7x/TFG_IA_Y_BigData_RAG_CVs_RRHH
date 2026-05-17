@@ -1,0 +1,58 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Oracle 10g",
+        "Oracle 11g",
+        "Oracle 12c",
+        "MySQL 5.6",
+        "MySQL 5.7",
+        "Sql Server 2008",
+        "Sql Server 2012",
+        "AWS",
+        "Oracle Enterprise Linux 5.11",
+        "Oracle Enterprise Linux 6.7",
+        "Oracle Enterprise Linux 7",
+        "HP-UX 10.x",
+        "HP-UX 11.x",
+        "Sun Solaris 2.5",
+        "Sun Solaris 2.6",
+        "Windows Server 2008",
+        "TKPROF",
+        "EXPLAIN PLAN",
+        "STATSPACK",
+        "AWR",
+        "ADDM",
+        "Toad",
+        "Putty",
+        "X-wing32",
+        "WinSCP"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name City , State",
+            "period": "03/2018 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Company Name City , State",
+            "period": "12/2014 to Current",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Civil Engineering",
+            "institution": "University Of Buea City , State , Cameroon",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in database administration, spanning over six years of experience across various platforms and technologies. Their expertise includes managing Oracle and MySQL databases, as well as working with AWS infrastructure for migration and management. The candidate has hands-on experience in backup strategies, performance tuning, cloning, security enhancements like implementing TDE (Transparent Data Encryption) and database auditing, and real-time data replication using tools such as RMAN, Crontab, and Oracle Golden Gate. Their technical skills are supported by a solid educational foundation in Civil Engineering, complemented by several industry-recognized certifications."
+}

@@ -1,0 +1,87 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Salesforce",
+        "Google Drive Access",
+        "Outlook",
+        "Excel",
+        "PowerPoint Publisher Management"
+    ],
+    "work_history": [
+        {
+            "job_title": "FOUNDER, BUSINESS DEVELOPMENT DIRECTOR",
+            "company": "Company Name City , State",
+            "period": "01/2010 to Current",
+            "description": [
+                "Independent sales agent providing clients, principals, and prospects marketing support, business insight, and sales strategy to supplement the specialty and unique-to-market product line I represent.",
+                "Increased GEMS account list from 10 to 63 clients, 530% increase, including many Platinum Clubs of America through cold-calling, email marketing, networking, needs analysis, face-to-face and virtual presentations, social media, and client referrals. Enabled GEMS to acquire the Golf Business Network in 2014 by accelerating revenue growth and industry awareness.",
+                "Advised new ownership team in establishing the organizational roadmap, brand identity, and benefits strategy for GBN membership retention and growth.",
+                "Designed the GBN PartnerPlus vendor marketing program for companies to engage the industry's leading club professionals.",
+                "One-of-a-kind marketing portfolio includes hyper-targeted ROI measurable communication, webinars, on-site events, networking, exclusive GBN web content, custom surveying, and consulting.",
+                "Spearheaded the PartnerPlus business development plan and sales execution.",
+                "Project required researching market potential, compiling GBN membership data and industry statistics, cold-calling, pipeline management, personalized and content marketing, defining pricing and negotiation strategies.",
+                "Generated $76K in incremental revenue within 12 months of initial launch.",
+                "Managed L.E.N. luxury lifestyle apparel and accessories for the private club retail channel. Procured 22 new L.E.N. golf shop retail partners totaling $150K+ in sales.",
+                "Created sales promotions and marketing materials for L.E.N. and retailers, managed store inventory and merchandising displays, club event participation, and created training program for frontline staff.",
+                "Introduced mobile technology and its practical applications to private club stakeholders as an emerging communication platform to increase member engagement and revenues."
+            ],
+            "technologies": [
+                "GEM SOLUTION - CLOUD-BASED SUITE OF SUPPORT TOOLS FOR PRIVATE CLUB GOLF AND RETAIL OPERATIONS",
+                "Golf Business Network - MEMBERSHIP ORGANIZATION OF PRIVATE CLUB PGA PROFESSIONALS"
+            ]
+        },
+        {
+            "job_title": "MIDWEST ACCOUNT EXECUTIVE",
+            "company": "Company Name City , State",
+            "period": "01/2008 to 01/2009",
+            "description": [
+                "Cultivated relationships with key digital ad agencies to capture new clients including Mercedes-Benz, Turtle Wax, Allstate, and Castrol Oil.",
+                "Directed BP Amoco's Is Your Car Worth It. online promotional contest - $50K campaign, largest in CarDomain history."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "MIDWEST ACCOUNT EXECUTIVE",
+            "company": "Company Name City , State",
+            "period": "01/2006 to 01/2008",
+            "description": [
+                "Achieved 119% of 2007 sales budget and produced $900K+ in billings.",
+                "Secured new advertisers including ConAgra Foods, Bally Total Fitness, Dell, Hanes, Fisher-Price, and LaSalle Bank. Re-negotiated new deals with former major clients including Discover, Walgreens, DeVry, and NBC."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "SPONSORSHIP SALES ACCOUNT EXECUTIVE",
+            "company": "Company Name City , State",
+            "period": "01/2005 to 01/2006",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "SPORTS MARKETING ACCOUNT MANAGER",
+            "company": "Company Name City , State",
+            "period": "01/2004 to 01/2005",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "AUTOMOTIVE ACCOUNT EXECUTIVE",
+            "company": "Company Name City , State",
+            "period": "01/2001 to 01/2004",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BACHELOR OF ARTS",
+            "institution": "SAINT MARY'S UNIVERSITY City , State",
+            "year": 1992
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a comprehensive background in business development and sales, spanning across various sectors including golf retail, digital marketing, and automotive. With extensive experience working with both SMB and national brands, the candidate demonstrates strong capabilities in strategic planning, relationship management, and negotiation skills. Their track record of growth through innovative marketing strategies and new product introductions suggests a proactive approach to driving business success."
+}

@@ -1,0 +1,110 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Python",
+        "Visual Basic",
+        "C#",
+        "A+ certification",
+        "Cisco certification",
+        "web design",
+        "programming",
+        "game design",
+        "help desk",
+        "Java",
+        "Javascript programming language",
+        "various web frameworks",
+        "Google and Microsoft suite"
+    ],
+    "work_history": [
+        {
+            "job_title": "Adjunct Information Technology Instructor",
+            "company": "Company Name",
+            "period": "01/2014 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Instructor and School Technology Coordinator",
+            "company": "Company Name",
+            "period": "11/2011 to Current",
+            "description": [
+                "Responsible for meeting the educational needs of high school students.",
+                "Instructed classes concerning A+ certification, Cisco certification, web design, programming, game design, and help desk.",
+                "Taught programming courses concerning C#, Python, Java, and Javascript programming language, as well as taught various web frameworks.",
+                "STC support staff for CTE Unit to meet staff's technological needs including LMS support, teacher technology training, and maintaining school website.",
+                "Developed mobile applications with student body to meet district needs.",
+                "Supervisor of internally ran Help Desk, support ticket maintenance, and department head of technology troubleshooting for staff."
+            ],
+            "technologies": [
+                "C#",
+                "Python",
+                "Java",
+                "Javascript programming language",
+                "various web frameworks"
+            ]
+        },
+        {
+            "job_title": "Geek Squad Agent",
+            "company": "Company Name",
+            "period": "04/2007 to 09/2010",
+            "description": [
+                "Set up, tested and configured networks, desktops, laptops and printers.",
+                "Coordinated hardware and software repair processes with outside vendors.",
+                "Trained new employees in effective diagnostic and repair procedures.",
+                "Analyzed software, hardware and network systems for various transmission systems. Configured and installed routers, switches and wireless controllers."
+            ],
+            "technologies": [
+                "network",
+                "desktops",
+                "laptops",
+                "printers",
+                "routers",
+                "switches",
+                "wireless controllers"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "Murray State University",
+            "year": null
+        },
+        {
+            "degree": "Master of Arts",
+            "institution": "Murray State University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Murray State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Comptia - Strata IT Fundamentals",
+            "year": null
+        },
+        {
+            "name": "Microsoft Technology Associate - Network Fundamentals",
+            "year": null
+        },
+        {
+            "name": "Microsoft Technology Associate - Windows O.S. Fundamentals",
+            "year": null
+        },
+        {
+            "name": "Microsoft Technology Associate - Software Development",
+            "year": null
+        },
+        {
+            "name": "Microsoft Technology Associate - Web Development",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a seasoned professional with extensive experience in the information technology and educational sectors. Their role as an Adjunct Information Technology Instructor suggests their ability to teach programming languages such as Python, Visual Basic, and C#, which are crucial for IT education. Their tenure at various companies reflects not only technical expertise but also leadership roles and project management skills, crucial for coordinating technological projects and training staff on technology use in the classroom. The candidate's educational background culminated with a Master's degree in Computer Information Systems, highlighting their proficiency in advanced technological concepts and potential for contributing innovative solutions to tech-related issues."
+}

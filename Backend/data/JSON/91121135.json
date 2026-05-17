@@ -1,0 +1,55 @@
+{
+    "full_name": "ADMINISTRATIVE ASSISTANT DIRECTOR HUMAN RESOURCES MANAGER PRODUCTION MANAGER ENGINEERING MANAGER",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Administrative Assistant Director, Human Resources Manager, Production Manager, Engineering Manager, Technical Services Manager, and Information Technology Manager",
+            "company": "Company Name",
+            "period": "January 2012 to January 2015",
+            "description": [
+                "Provided administrative support to production departments, IT, and Human Resources.",
+                "Using proprietary software interfaced with SAP, created purchase requisitions, work orders, and goods receipts. Established and maintained complete files and records.",
+                "Composed and typed reports and correspondence.",
+                "Established and maintained personnel files.",
+                "Responded to inquiries from employees. Generated travel and expense reports."
+            ],
+            "technologies": [
+                "SAP",
+                "PeopleSoft"
+            ]
+        },
+        {
+            "job_title": "SAP Site Security Administrator/SAP Training Records Coordinator",
+            "company": "Company Name",
+            "period": "January 2004 to January 2009",
+            "description": [
+                "Supported all Human Resources functions.",
+                "Generated reports from PeopleSoft and from site's Access personnel database.",
+                "Planned and managed Excellence Recognition Awards program and GSK Service Awards Program. Entered training data into Registrar and wrote user manual for the process.",
+                "Using SAP, entered purchase requisitions and work orders.",
+                "Generated and maintained training records in Access Training Database for 150+ end users. Generated and amended Production Access Request Forms for 150+ end users. Created and amended MERPS Radio Frequency User Request Forms for 75+ end users. Delivered system security and authorization failure training.",
+                "Created and maintained SAP User Master Records for over 150 end users.",
+                "Diagnosed and resolved SAP access problems related to authorization failures. Raised, resolved, and closed Remedy tickets. Made domestic and international travel arrangements. Generated travel and expense reports."
+            ],
+            "technologies": [
+                "SAP",
+                "PeopleSoft"
+            ]
+        }
+    ],
+    "education": [],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in administrative and management roles, particularly within the realms of SAP and Human Resources. Their experience spans multiple departments including engineering and production, indicating their ability to support various areas of an organization while managing sensitive information with confidentiality. The combination of technical skills (SAP proficiency) and people-oriented tasks highlights their capability to maintain effective communication across different levels of the company, which is crucial for managerial roles."
+}

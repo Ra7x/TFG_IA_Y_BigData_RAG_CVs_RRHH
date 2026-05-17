@@ -1,0 +1,54 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "C/C++",
+        "Python",
+        "Java",
+        "Matlab",
+        "LabView",
+        "SPICE",
+        "NI Multisim",
+        "Eagle",
+        "PCB Artiest"
+    ],
+    "work_history": [
+        {
+            "job_title": "Working RF Systems Engineer",
+            "company": "Company Name",
+            "period": "May 2014 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "System Data Analyst",
+            "company": "Company Name",
+            "period": "August 2011 to December 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Electrical/Validation Engineer",
+            "company": "Company Name",
+            "period": "May 2011 to August 2011",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S.",
+            "institution": "Purdue University",
+            "year": null
+        },
+        {
+            "degree": "B.S.",
+            "institution": "Purdue University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate has a multidisciplinary background in RF hardware designs, manufacturing operations, and data analysis. They have extensive experience developing DFM procedures, checklists, and requirements for subcontractors, and are adept at utilizing FA processes to drive root cause analysis from system to unit level. Their leadership skills are evident in managing end-to-end technical project design, development, testing, and validation across multiple projects."
+}

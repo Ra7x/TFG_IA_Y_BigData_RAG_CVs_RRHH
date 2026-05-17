@@ -1,0 +1,48 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Coordinator",
+            "company": "Company Name",
+            "period": "Apr 2012 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Owner/Operator",
+            "company": "Company Name",
+            "period": "Jan 2009 to Jan 2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Manager",
+            "company": "Company Name",
+            "period": "Jan 2003 to Jan 2009",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associates",
+            "institution": "Robert Morris College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "ServSafe Food Protection Manager",
+            "year": 2013
+        },
+        {
+            "name": "Professional in Human Resources, Certification, Pending",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's CV showcases a robust background in human resources with extensive experience in policy development and implementation, recruitment, training, performance management, and conflict resolution. Their ability to manage multiple projects efficiently while ensuring compliance with legal regulations is particularly noteworthy. The candidate holds relevant certifications such as ServSafe Food Protection Manager and maintains an HR certification pending, indicating their commitment to professional growth within the field. With strong communication skills focused on delivering quality customer service, they have demonstrated versatility in various administrative roles that require multitasking and strategic thinking."
+}

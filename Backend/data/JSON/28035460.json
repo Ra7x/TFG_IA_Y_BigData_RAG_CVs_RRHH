@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name – State",
+            "period": "08/2015 to 05/2020",
+            "description": [
+                "Build, implement or support electronic health records and other systems that store patient's data.",
+                "Assisted in network management and software development.",
+                "Took periodic review of set standards and database."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Principal Chemical Engineer / Information Technology Specialist",
+            "company": "National Board for Technology Incubation, Abuja Nigeria (Federal Ministry of Science and Technology)",
+            "period": "10/2005 to 06/2015",
+            "description": [
+                "Monitored, implemented, and maintained IT systems.",
+                "Produced technical reports, analyzed data, and built databases.",
+                "Facilitated discussions to resolve a safety concern with a key process monitoring instrument.",
+                "Planned and designed technology related activities aimed at nurturing the growth of innovative businesses. Provided technical support and capacity building in science and technology.",
+                "Collaborated with market development on new IT technologies for industrial and consumer groups."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Facility Engineer Intern",
+            "company": "Company Name",
+            "period": "10/2002 to 09/2003",
+            "description": [
+                "Analyzed process data from newly revamped furnace to improve efficiency of long-term performance monitoring plan by over 50%.",
+                "Developed and maintained engineering/operating standards through periodic review.",
+                "Improved 40% Reliability/uptime performance and cost reduction efforts for the production units."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "University of Lagos - City",
+            "year": null
+        },
+        {
+            "degree": "Master of Science Degree",
+            "institution": "University of the District of Columbia",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Workforce development 2018",
+            "year": null
+        },
+        {
+            "name": "Licensed Registered Engineer Council for regulation of Engineering in Nigeria (COREN)",
+            "year": 2006
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's resume showcases a strong background in both Chemical Engineering and Information Technology, with extensive experience working as an IT Specialist and Principal Engineer. Their roles have consistently required them to manage and support complex systems, implement technology for health records management, network management and software development, analyze data, troubleshoot problems, and maintain databases. The candidate's educational background is particularly strong in the field of Information Technology, evident through their courses focusing on cloud computing models and information security. Their international work experience demonstrates a deep understanding of both global technical processes and cultural environments, highlighting adaptability and proficiency."
+}

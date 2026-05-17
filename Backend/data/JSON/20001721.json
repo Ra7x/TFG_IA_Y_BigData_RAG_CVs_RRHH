@@ -1,0 +1,37 @@
+{
+    "full_name": "INFORMATION TECHNOLOGY STUDENT",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Windows",
+        "Unix",
+        "Linux",
+        "Mac OSX",
+        "VMware",
+        "HTTP/Apache",
+        "DNS/BIND",
+        "SSH",
+        "SNMP",
+        "DNS",
+        "DHCP"
+    ],
+    "work_history": [
+        {
+            "job_title": "INFORMATION TECHNOLOGY STUDENT",
+            "company": "Company Name",
+            "period": null,
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts : English",
+            "institution": "SAN DIEGO STATE UNIVERSITY",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in information technology, with experience ranging from database administration to customer service and educational training. They have demonstrated skills in relational database management such as SQL, along with proficiency in programming languages like VBA. Their diverse work history shows adaptability and teamwork across various roles, highlighting their ability to handle complex situations and contribute positively within a team."
+}

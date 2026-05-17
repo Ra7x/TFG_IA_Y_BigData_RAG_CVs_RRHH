@@ -1,0 +1,78 @@
+{
+    "full_name": "Customer Service Rep",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "AutoCAD",
+        "Adobe Illustrator",
+        "MS Windows",
+        "3Ds Max Design",
+        "AutoCAD Inventor Pro",
+        "Revit"
+    ],
+    "work_history": [
+        {
+            "job_title": "Customer Service Rep",
+            "company": "Company Name – City , State",
+            "period": "08/2016 to 02/2018",
+            "description": [
+                "Supported management in assuring floor agents completed tasks correctly",
+                "Described product and pricing to customers and accurately explained details and care of merchandise. Answered product questions with up-to-date knowledge of sales and company promotions.",
+                "Scored in top 10% of employees in successful resolution of issues",
+                "Ensured superior customer experience by addressing customer concerns or complaints, demonstrating empathy and resolving problems on the spot, professionally.",
+                "Maintained cleanliness and presentation of stock room and production floor.",
+                "Directed calls to appropriate individuals and departments.",
+                "Achieved sales goals and service performance requirements with new customer and existing sales. Asked open-ended questions to assess customer needs.",
+                "Learned, referenced and applied product knowledge information.",
+                "Contacted customer to follow up on purchases, suggest new merchandise and inform them about promotions and upcoming events. Set up and explained new membership contracts.",
+                "Effectively managed a high-volume of inbound and outbound customer calls."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Crew Member",
+            "company": "Company Name – City , State",
+            "period": "02/2014 to 08/2016",
+            "description": [
+                "Create burritos, and have fun doing it. Greeted customers and provided excellent customer service.",
+                "Providing friendly, quality customer service to each Chipotle customer. Excellent time management skills and ability to work in high pressure situations. Worked on the line, cash, and fax area.",
+                "Completing hot food preparation assignment accurately, neatly, and in a timely fashion. Cleaning equipment, preparing food throughout the day as needed, anticipating and reacting to customer volume."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Billing, Office Assistant",
+            "company": "Company Name – City , State",
+            "period": "09/2012 to 11/2012",
+            "description": [
+                "Checked patient data including insurance, demographic and health history to ensure all information was current.",
+                "Maintain logs for all transactions that occur in a day.",
+                "Maintained accurate records of patient care, condition, progress and concerns.",
+                "Scheduled and accompanied clients to medical appointments.",
+                "Maintained a clean, healthy and safe environment.",
+                "Performed clerical duties, such as word processing, data entry, answering phones and filing."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Aided Drafting and Design (CADD) Associate Degree",
+            "institution": "ITT-TECHNICAL INSTITUTE - Computer Drafting and Design",
+            "year": 2015
+        },
+        {
+            "degree": "Pre-Medicine",
+            "institution": "RANDOLPH-MACON COLLEGE",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Computer Aided Drafting and Design (CADD) Associate Degree",
+            "year": 2015
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate is a highly skilled Customer Service Representative with a robust background in providing exceptional customer service, particularly through telephone interactions. Their experience includes managing high-volume call centers and resolving complex issues while maintaining a commitment to ensuring superior customer satisfaction. The candidate also demonstrates proficiency in various software tools such as AutoCAD, Adobe Illustrator, and Revit, indicating strong technical skills that are valuable in dynamic environments requiring precision and creativity."
+}

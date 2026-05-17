@@ -1,0 +1,71 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Microsoft Office proficiency",
+        "Articulate and well-spoken",
+        "Excel spreadsheets",
+        "Flexible Professional and mature",
+        "Social media knowledge",
+        "Strong problem solver",
+        "Appointment setting",
+        "Works well under pressure",
+        "Customer service-oriented",
+        "Administrative support specialist",
+        "Mail management",
+        "Self-starter",
+        "Meeting planning"
+    ],
+    "work_history": [
+        {
+            "job_title": "Project Manager and Photographer",
+            "company": "Company Name City, State",
+            "period": "2007 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Independent Consultant",
+            "company": "Company Name City, State",
+            "period": "2012 to 2014",
+            "description": [
+                "Market and sell high quality kitchen tools and accessories through in-home demonstrations, booths at trade shows, and fundraiser programs.",
+                "Provided excellent marketing, sales, demonstrations, order entry, shipping, receiving and customer service."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Tax Preparer",
+            "company": "Company Name City, State",
+            "period": "2008 to 2010",
+            "description": [
+                "Provided timely and accurate tax preparation and advice for individuals, families and businesses.",
+                "Performed e-filing tasks as per schedule.",
+                "Addressed complex tax issues and tax deduction problems of clients."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Intelligence Analyst",
+            "company": "Company Name",
+            "period": "1988 to 2008",
+            "description": [
+                "Honorable discharge after 20 years as a Naval intelligence analyst.",
+                "Compared, correlated and disseminated valuable intelligence information to executive level directors via expedited resources during global crisis like 9/11, Haitian earthquake, and the Malaysian tsunami.",
+                "Lived overseas in Italy as an operational intelligence analyst providing analysis and administrative assistance at an executive level."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Art",
+            "institution": "Old Dominion University",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a diverse professional background that includes experience as a Project Manager and Photographer, along with roles in tax preparation and intelligence analysis. This demonstrates strong multitasking skills, adaptability, and the ability to work effectively under pressure. The candidate's career progression showcases expertise in administration and customer service, evident from handling customers effectively and maintaining detailed records such as mail management and administration tasks like filing, spreadsheets, and reports. Additionally, their background includes digital photography skills which are valuable for visual content creation that complements project management responsibilities."
+}

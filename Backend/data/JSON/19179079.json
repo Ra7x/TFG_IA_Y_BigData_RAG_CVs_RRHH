@@ -1,0 +1,68 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": "City , State",
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Recruiting and HR Manager",
+            "company": "Company Name",
+            "period": "06/2015 to Current",
+            "description": [
+                "Responsible for managing and leading the recruitment process to meet the various staffing goals across all levels of the ENAVATE and Celenia North America organization (Development, Delivery/Consulting, Sales/Marketing, Operations, Program Management, Managed Services, and Shared Services departments).",
+                "Develop recruitment strategies to achieve required staffing levels.",
+                "Manage all recruiting activities for open positions to include sourcing, screening, interviewing, selecting and hiring."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Talent Acquisition Specialist",
+            "company": "Company Name",
+            "period": "11/2014 to 05/2015",
+            "description": [
+                "Responsible for the recruitment of Shift Supervisors, Assistant General Managers, General Managers, Area Managers, and Regional Operation Managers across over 450 locations throughout the U.S. (carried a requisition load of over 200 openings nationwide).",
+                "In charge of sourcing talent through CareerBuilder, LinkedIn Recruiter, Indeed, and Snagajob."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Manager of Employee Recruitment & Development/Recruitment Specialist",
+            "company": "Company Name",
+            "period": "05/1999 to 10/1999",
+            "description": [
+                "Responsible for the recruitment of experienced software developers, software testers, sales managers, senior manufacturing consultants, and executive level staff.",
+                "Lead consultants through the full recruiting lifecycle - conducted phone screens, on-site interviews, extended employment offers, and negotiated salary when necessary."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Regional HR Manager/Recruiter",
+            "company": "Company Name",
+            "period": "01/1998 to 01/1999",
+            "description": [
+                "Acted as Regional HR Manager for the Denver office (75 employees) which included: conduct all new hire orientations and exit interviews, handle all employee issues and HR administration, coordinate and participate in new hire training, benefits coordination, training and leave administration, and visa processing at the local/regional level.",
+                "Participated in weekly management staffing meetings and drove the staffing initiative for the Denver office (created and managed staffing pipeline report, matched opportunities and staff on upcoming projects and supported communication between managers)."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Corporate Recruiter/Staffing",
+            "company": "Company Name",
+            "period": "05/1995 to 11/1998",
+            "description": [
+                "Responsible for the recruitment of technical and functional IT professionals from college and open market.",
+                "Represented AMS at professional job fairs, college campuses and special recruiting events."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [],
+    "certifications": [
+        {
+            "name": "Colorado Real Estate Brokers",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

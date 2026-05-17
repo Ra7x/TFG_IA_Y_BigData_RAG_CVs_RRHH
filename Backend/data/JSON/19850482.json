@@ -1,0 +1,57 @@
+{
+    "full_name": "Senior VP - INFORMATION TECHNOLOGY",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Senior VP - Information Technology",
+            "company": "Company Name",
+            "period": "08/2014 to 09/2015",
+            "description": [
+                "Experienced technology leader with expertise in managing all aspects of front and back office systems in the Financial Services Industry.",
+                "Direct information technology operations for a global Institutional sales, trading firm specializing in high yield and distressed debt, convertible bonds, international bonds, investment grade debt and asset-backed securities.",
+                "Managed relocation and setup of our primary NYC office location to a new office space, which included an entire hardware refresh for all network and desktop equipment.",
+                "Led migration of the existing legacy site-to-site VPN network in the U.S which consisted of 6 branch offices to the Toronto based MPLS network in conjunction with NYC office relocation.",
+                "Implemented a VM environment which reduced hardware, energy, and licensing costs saving $1.5M in capital expenditure.",
+                "Managed the migration of legacy PBX telecommunications system and implemented VoIP and video conferencing.",
+                "Coordinated setup and configuration of 3 new branch offices in Houston, TX, Stamford, CT, and New Orleans, LA.",
+                "Implemented disaster recovery plan which would make the Stamford, CT branch office the DR site for the NYC office."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chief Information Officer",
+            "company": "Company Name",
+            "period": "01/2006 to 08/2014",
+            "description": [
+                "Managed technology for an institutional trading firm, specializing in Fixed Income and Equities products.",
+                "Responsible for strategy, support and technology initiatives in a dynamic trading environment resulting in maximum system availability and responsive customer support.",
+                "Worked very closely with Fixed Income and Equities traders, sales, analysts and senior management."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Support Manager",
+            "company": "Company Name",
+            "period": "02/2001 to 06/2006",
+            "description": [
+                "Worked directly with vendors to implement/upgrade market data software and hardware.",
+                "Coordinated a successful PC hardware and operating system upgrade for all branch offices.",
+                "Managed and administered the upgrade of the Microsoft Exchange email system which included hardware replacement and server software upgrades.",
+                "Participate in FINRA and 'in-house' audits, requests and regulation requirements."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S : Computer Science",
+            "institution": "Montclair State University",
+            "year": 1999
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong profile as a senior IT leader with extensive experience in managing critical infrastructure for financial services. Notably, their role during the relocation and setup of an NYC office not only involved technical aspects like hardware refresh and migration but also strategic coordination that led to significant cost savings through technology optimization. Their experience spans from direct involvement in trading operations to overseeing broader network management and security measures, indicating a versatile skill set crucial for both operational efficiency and business leadership within the financial sector."
+}

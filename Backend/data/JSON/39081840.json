@@ -1,0 +1,80 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": "City , State",
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Coordinator",
+            "company": "Company Name",
+            "period": "12/2015 to Present",
+            "description": [
+                "Process bi-weekly benefits deduction for payroll on time in Fidelity payroll system and answered employee's questions regarding timesheet, leave, and pay questions.",
+                "Worked with senior-level management to create fair training and development policy. Administered training and educational assistance program and application. Monitor educational reimbursement process. Provided training and development to corporate managers. Key person in completing and submitting form 1095 and 1094 for Affordable Care Act (ACA) reporting requirement.",
+                "Researched, attended webinars and kept open communication with vendor during the ACA compliance process."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR/Payroll Coordinator",
+            "company": "Company Name",
+            "period": "07/2015 to 12/2015",
+            "description": [
+                "Specialize in payroll-related task, issues, and wage compliance.",
+                "Maintain and process weekly payroll, manual checks, and commissions on ADP system for three dealership locations. Process employment verification requests."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Communications Executive",
+            "company": "Company Name",
+            "period": "04/2012 to 02/2012",
+            "description": [
+                "Organized monthly New Executives Orientation (Onboarding) Program.",
+                "Interviewed employees, prepared speeches and write-ups for internal activities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Executive Secretary",
+            "company": "Company Name",
+            "period": "02/2011 to 04/2012",
+            "description": [
+                "Organized and managed Human Resources department's events and meetings."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "George Mason University",
+            "year": null
+        },
+        {
+            "degree": "Associates of Arts and Science Degree",
+            "institution": "Lord Fairfax Community College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Member of Society for Human Resources Management (SHRM)",
+            "year": null
+        },
+        {
+            "name": "Essentials of HR Seminar",
+            "year": 2016
+        },
+        {
+            "name": "Form I-9 and E-Verify by SHRM",
+            "year": 2016
+        },
+        {
+            "name": "Certificate of Excellence in the Major of Management",
+            "year": 2015
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate possesses a comprehensive background in Human Resources, including expertise in areas such as payroll, benefits administration, employee relations, and training & development. Their experience spans multiple responsibilities within HR, from on-boarding new employees to managing compliance with complex regulations like FMLA and ACA reporting. The candidate's ability to lead successful implementation of new HRIS systems and thorough understanding of employment law positions them as a strong candidate for any role that requires robust HR management skills."
+}

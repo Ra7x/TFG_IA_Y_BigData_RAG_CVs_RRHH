@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Cashier",
+            "company": "Company Name",
+            "period": "09/2009 to 04/2010",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Electrician",
+            "company": "Company Name",
+            "period": "08/2010 to 08/2014",
+            "description": [
+                "Perform scheduled and unscheduled maintenance on 10 F/A-18C aircraft electrical systems and related equipment.",
+                "Promoted to Work Center Training Petty Officer April 2012. Maintain training records for over 19 personnel.",
+                "Consistently volunteer to assist in aircraft maintenance regardless of the difficulty."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Company Name",
+            "period": "05/2015 to Present",
+            "description": [
+                "Handled customers effectively by identifying needs, quickly gaining trust, approaching complex situations and resolving problems to maximize efficiency.",
+                "Up-sold additional menu items, beverages, and desserts to increase restaurant profits."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science",
+            "institution": "Central Piedmont Community College",
+            "year": 2016
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in customer service, electronics maintenance, and organizational skills. With expertise in both front-facing roles such as the Customer Service Representative and technical roles like Aviation Electrician, they demonstrate adaptability and dedication across various settings. Their ability to handle high-volume environments efficiently showcases strong multitasking and problem-solving capabilities. The candidate's commitment to professionalism and continuous learning aligns well with a dynamic customer service role."
+}

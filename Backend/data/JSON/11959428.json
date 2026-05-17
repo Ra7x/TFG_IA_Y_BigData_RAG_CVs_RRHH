@@ -1,0 +1,66 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Maintenance Mechanic",
+            "company": "Fairmount Santrol",
+            "period": "12/2017 to Present",
+            "description": [
+                "Preventative maintenance",
+                "maintenance",
+                "inspections",
+                "repairs",
+                "troubleshooting"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "A&P Mechanic",
+            "company": "Company Name",
+            "period": "06/2017 to 12/2017",
+            "description": [
+                "Aircraft Maintenance",
+                "preventative maintenance",
+                "inspection and repair",
+                "troubleshooting"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Carpenter",
+            "company": "Company Name",
+            "period": "11/2016 to 06/2017",
+            "description": [
+                "Construct and repair wooden objects and structures"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "OSR/ Cart Attendant",
+            "company": "Company Name",
+            "period": "04/2015 to 08/2015",
+            "description": [
+                "Provided excellent customer service to over hundreds patrons daily to ensure return customer base remained solid"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science",
+            "institution": "Hallmark University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "FAA Airframe & Power-plant License",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a solid background in maintenance and repair, with expertise in aircraft engines and structures as well as motor repairs. With experience in both hands-on technical roles (A&P Mechanic) and customer service (OSR/Cart Attendant), they have versatile skill sets that are applicable across multiple sectors of the industry. Their transition from a carpenter role to maintenance positions indicates adaptability and potential for growth within new areas."
+}

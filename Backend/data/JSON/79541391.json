@@ -1,0 +1,16 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [],
+    "education": [],
+    "certifications": [
+        {
+            "name": "Certification in Network Security",
+            "year": "2005"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Assistant to Business Development Administrator",
+            "company": "Company Name, City , State",
+            "period": "Jan 2016 to Present",
+            "description": [
+                "Updated employee paperwork and records.",
+                "Greeted visitors promptly and directed to correct locations.",
+                "Scheduled appointments and maintained master calendar.",
+                "Wrote professional business correspondence.",
+                "Drafted internal documents and memoranda."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Office and Sales Manager",
+            "company": "Company Name, City , State",
+            "period": "Nov 2013 to Jan 2015",
+            "description": [
+                "Successfully managed the activities of five team members in multiple locations.",
+                "Created training manuals targeted at resolving even the most difficult customer issues.",
+                "Developed, implemented and monitored programs to maximize customer satisfaction.",
+                "Verified that information in the computer system was up-to-date and accurate.",
+                "Verified and logged in deadlines for responding to daily inquiries."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative and Legal Assistant",
+            "company": "Company Name, City , State",
+            "period": "Jun 2005 to Jan 2013",
+            "description": [
+                "Accurately entered client data into a company-based software program.",
+                "Organized client calendars, prepared mailings and handled high call volumes.",
+                "Examinated Deeds of Trust to determine the grantor, grantee, trustee and loan amount.",
+                "Drafted judicial correspondence and handled all court mailings.",
+                "Researched documents and publications for details that would establish evidence."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "C. S. U. Dominguez Hills (CSUDH)",
+            "year": null
+        },
+        {
+            "degree": "Legal Studies",
+            "institution": "Pasadena City College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "California Real Estate Salesperson License",
+            "year": "2005"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a strong background in various administrative and management roles, showcasing excellent organizational skills, client relations, and ability to handle high volumes of work. Their experience spans through multiple industries including real estate, finance, and legal services, indicating adaptability and the capacity to manage diverse responsibilities effectively. The candidate's educational achievements in applied studies and legal studies suggest a solid foundation for continued professional development and growth."
+}

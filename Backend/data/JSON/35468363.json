@@ -1,0 +1,38 @@
+{
+    "full_name": "Sushi Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Cooking"
+    ],
+    "work_history": [
+        {
+            "job_title": "Executive Sous Chef",
+            "company": "Company Name City , State",
+            "period": "November 2011 to January 2015",
+            "description": [],
+            "technologies": [
+                "Kitchen Management"
+            ]
+        },
+        {
+            "job_title": "Corporate Chef In Charge of daily operations",
+            "company": "Company Name City , State",
+            "period": "January 2016 to Present",
+            "description": [],
+            "technologies": [
+                "Kitchen Management"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "Le Cordon Bleu City , State , usa",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Sushi Chef with over a decade of experience in the culinary industry, holding positions at upscale restaurants that emphasize Japanese and Peruvian cuisine. Possessing expertise in kitchen management including cost control and strategic planning. Trained through Le Cordon Bleu, bringing a robust foundation in culinary arts to managerial roles."
+}

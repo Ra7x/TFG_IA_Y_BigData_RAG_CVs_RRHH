@@ -1,0 +1,43 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Director of Business Development",
+            "company": "Company Name",
+            "period": "January 2010 to Current",
+            "description": [
+                "Advise on marketing strategy, business models and strategic alliances for private clients in education, scientific and healthcare verticals.",
+                "Recent projects include: The American Chemical Society - Developed business plan, marketing strategy and media relations for global launch of $1M research management software product in competitive STM marketplace. College Factual.com - Advice on brand positioning, UX and strategic relationships for college rankings portal based on consumer value led to partnerships with the Wounded Warrior Project and Veterans' Affairs.",
+                "Global Giving - Developed key marketing messages and brand stories for $23M international non-profit. Developed marketing strategy and business opportunities for environmental nonprofit focused on transforming the market for healthy building materials."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Director, Content Strategy",
+            "company": "Company Name",
+            "period": "January 2009 to January 2010",
+            "description": [
+                "Sourced, negotiated and managed cross-platform distribution partnerships for 25 leading cable companies including Charter Communications and Virgin Media.",
+                "Negotiating complex licensing partnerships with news, music, games, sports and technology providers, resulting in a 40% margin for company. Partnerships Managed successful business relationships with more than 50 national accounts including Viacom, The Associated Press, Major League Baseball, The Weather Channel and American Greetings.",
+                "Deal Structure Sourced Internet radio provider to provide 40 channels of customized content against backdrop of digital copyright restructuring legislation."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Vice President, Business Development",
+            "company": "Company Name",
+            "period": "January 2006 to January 2009",
+            "description": [
+                "Directed cross platform revenue initiatives for dominant online ranking franchise "
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust professional background in business development and marketing strategy, particularly notable for roles that have involved developing strategic alliances and marketing plans across diverse sectors including education, healthcare, environmental, and technology. Their experience spans over two decades, consistently demonstrating strong skills in client engagement, market segmentation, and driving revenue growth through innovative partnerships."
+}

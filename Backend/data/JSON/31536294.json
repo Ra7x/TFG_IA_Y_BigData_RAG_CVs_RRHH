@@ -1,0 +1,83 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Managed Pressure Drilling Field Supervisor",
+            "company": "Company Name",
+            "period": "07/2014 to Current",
+            "description": [
+                "Supervise the design, implementation, and execution of Managed Pressure Drilling projects for offshore drilling operations.",
+                "Lead teams of 3-5 personnel in the integration and operation of pressure control systems and equipment tailored to the client's needs.",
+                "Developed strong customer relations working directly with clients in the energy sector delivering MPD products and expertise.",
+                "Adapted to many roles due to the recent down turn in the energy sector, including: project management, engineering assistance, logistics coordination, and technical consulting."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "MPD Control Systems Technician",
+            "company": "Company Name",
+            "period": "06/2012 to 06/2014",
+            "description": [
+                "Technical knowledge of pressure control systems to include: Programmable Logic Controllers, Human Interface Machines, Hydraulic Power Units, Pressure Control Chokes, Electrical Installations, Flow Meters, Computer Networking and Communications.",
+                "Integration of hydraulic modeling, well data, and design to control systems.",
+                "Operation of various Rotating Control Devices: HOLD 1500, HOLD 2500, RCD 5K Big Bore, ATR RCD 5K.",
+                "Utilized Managed Pressure Drilling techniques in coordination with the client and operator to successfully drill otherwise un-drillable wells to completion.",
+                "Utilized Lean Six Sigma techniques to drastically reduce waste and downtime associated with tool inventory and parts requisition process."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Electrical Branch Supervisor/ Plane Captain/ Aviation Electrician",
+            "company": "Carrier Airborne Early Warning Squadron 115",
+            "period": "07/2008 to 07/2011",
+            "description": [
+                "Supervised the Electrical Division in the repair and maintenance of aircraft electrical systems over 6 cruises while deployed to the Western Pacific Ocean on board USS George Washington.",
+                "Aircraft systems included: Flight controls, engine electrical installations, flight instrumentation, navigation, equipment cooling systems, power generation and supply."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Line Division Supervisor / Plane Captain / Aviation Electrician",
+            "company": "Carrier Airborne Early Warning Squadron 120",
+            "period": "08/2005 to 07/2008",
+            "description": [
+                "Supervised crew of 15 in the daily inspection and servicing of twelve E2-C HawkEye and four C-2A Greyhound aircraft during 14 detachments.",
+                "Completed training prerequisites 4 months ahead of schedule, resulting in promotion to night supervisor.",
+                "Reduced fleet downtime by 30% by maintaining the aircraft in a ready status through improvements to maintenance and inspection processes."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Pennsylvania State University",
+            "year": 2017
+        },
+        {
+            "degree": "IADC WellSHARP Supervisor Level",
+            "institution": "2016 MSTC, City , State , USA",
+            "year": null
+        },
+        {
+            "degree": "HUET & BOSIET",
+            "institution": "Helicopter Underwater Escape Training Basic Offshore Safety Induction and Emergency Training",
+            "year": 2016
+        }
+    ],
+    "certifications": [
+        {
+            "name": "MPD / DPM Training",
+            "year": null
+        },
+        {
+            "name": "Advanced Electronics and Technical Training",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in managing pressure drilling operations, demonstrating expertise in various roles including project management, engineering assistance, logistics coordination, and technical consulting. With experience leading teams in the integration and operation of pressure control systems and equipment tailored to client needs, they have developed strong customer relations within the energy sector. The candidate's adaptability and proficiency in utilizing Lean Six Sigma techniques for process improvements reflect a proactive approach to continuous learning and improvement in complex environments."
+}

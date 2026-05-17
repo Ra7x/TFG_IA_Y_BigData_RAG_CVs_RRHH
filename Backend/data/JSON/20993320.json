@@ -1,0 +1,54 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR COORDINATOR",
+            "company": "Girl Scouts of Gulfcoast Florida",
+            "period": "12/2011 to Current",
+            "description": [
+                "Implement new technology to manage volunteer information, progress on-boarding program for newly hired employees and engage in all aspects of Human Resources.",
+                "Improve how the organization manages its volunteer information and approvals by learning, implementing, and training others on a new computer program.",
+                "Successfully oversee the volunteer approval process which includes background screening. Re-screen 1000+ new volunteers and 1000+ existing volunteers each year to ensure a safe environment for girls.",
+                "Design new employee packages and send them via mail and email."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HUMAN RESOURCES/OFFICE MANAGER",
+            "company": "Company Name City , State",
+            "period": "06/2003 to 04/2011",
+            "description": [
+                "Conducted benefits administration for benefit-eligible employees.",
+                "Worked with senior-level management to create fair and consistent HR policies and procedures. Developed an employee handbook, including content and layout."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Arts",
+            "institution": "Regent University",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Colorado State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PHR/SPHR",
+            "year": null
+        },
+        {
+            "name": "Girl Scout University Leadership Series",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in Human Resources, with specific expertise in volunteer management and employee onboarding. Their experience includes the implementation of new technology for record-keeping and background screening processes. Additionally, they have contributed to HR policy development through their roles in both leadership and generalist capacities across different sectors."
+}

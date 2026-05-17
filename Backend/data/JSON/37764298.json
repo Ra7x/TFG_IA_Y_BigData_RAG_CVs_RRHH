@@ -1,0 +1,79 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "MS Word",
+        "Outlook",
+        "PowerPoint",
+        "Excel",
+        "Access",
+        "CRM",
+        "Adobe Acrobat XI Professional",
+        "Snag-ItTM",
+        "Hot Docs (legal document generation software)",
+        "MS Windows XP/Vista/7/8",
+        "MS Windows Server 2000/2003"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Consultant",
+            "company": "Company Name (City, State)",
+            "period": "12/2009 to 02/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Administrator/Billing Assistant",
+            "company": "Company Name (City, State)",
+            "period": "08/2015 to 01/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Funding & Settlement Coordinator/Office Manager",
+            "company": "Company Name (City, State)",
+            "period": "08/2011 to 08/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Student Operations Specialist",
+            "company": "Company Name (City, State)",
+            "period": "01/2002 to 12/2009",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Coordinator",
+            "company": "Company Name (City, State)",
+            "period": "05/1996 to 05/2001",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Not Specified",
+            "institution": "ComputerTraining.Com",
+            "year": null
+        },
+        {
+            "degree": "B.S : Business Finance",
+            "institution": "Towson University",
+            "year": 1991
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified Systems Engineer",
+            "year": 2002
+        },
+        {
+            "name": "Notary Public (Commission Expires August 26, 2018)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has extensive experience in the Information Technology sector, showcasing proficiency across various software and hardware platforms. Their roles include not only technical support but also administrative duties that require strong organizational skills and attention to detail. The ability to handle multiple tasks efficiently is evident from their varied responsibilities during employment periods. Their background includes positions within legal practices, education sectors, and financial services, which demonstrate adaptability and the capacity to apply acquired knowledge in different contexts."
+}

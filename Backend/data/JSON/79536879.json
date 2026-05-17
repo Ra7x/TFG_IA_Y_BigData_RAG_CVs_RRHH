@@ -1,0 +1,61 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Volunteer Front Desk Receptionist",
+            "company": "City , State",
+            "period": "Mar 2014 to Nov 2014",
+            "description": [
+                "Greet visitors and register all blood donors upon entrance of building.",
+                "Answer calls and inquiry of blood drive and provide directions information blood donating areas.",
+                "Check ID of all non donor visitors, monitor security footage."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Musician and Choir Director",
+            "company": "City , State",
+            "period": "Apr 2013 to Sep 2014",
+            "description": [
+                "Direct the choir in the manner of compliments and support the worship agenda for the congregation.",
+                "Select appropriate music for Sunday Morning and special religious service that may be called by the Pastor.",
+                "Schedule weekly rehearsal for choir in preparation for church performance."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Volunteer Security and Museum Greeter",
+            "company": "City , State",
+            "period": "Jan 2010 to Jul 2012",
+            "description": [
+                "Provide a visual security presence in the galleries of artifact collections and the special exhibit.",
+                "Make hourly rounds to ensure the safety and preservation of the art and artifacts.",
+                "Monitor entrance of visiting patrons while recording hourly activities in a daily log sheet."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Louisiana State University - City , State",
+            "year": null
+        },
+        {
+            "degree": "Associate Degree",
+            "institution": "Baltimore City Community College - City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate boasts a rich background in customer service and security roles, coupled with involvement in choir directing and museum engagement. Their skills in communication and problem-solving are well-suited for any position focusing on customer satisfaction and operational excellence."
+}

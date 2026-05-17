@@ -1,0 +1,86 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development",
+            "company": "Company Name",
+            "period": "February 2015 to September 2015",
+            "description": [
+                "Setting up new with vendors, manufactures and contractors by implementing effective networking and content marketing strategies.",
+                "Added value to marketing material by introducing creative advertising concepts.",
+                "Generated new sales opportunities through direct and telephone selling and emails. Coordinated and managed major proposal processes from initiation to implementation.",
+                "Successfully established effective systems for record retention by creating database for daily correspondence tracking. Standardized department filing system to increase efficiency."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Service Manager",
+            "company": "Company Name",
+            "period": "November 2014 to February 2015",
+            "description": [
+                "Developed, implemented and monitored programs to maximize customer satisfaction and manage on-site customer service representatives.",
+                "Interviewed, hired and trained new quality customer service representatives."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "System Technology Specialist",
+            "company": "Company Name",
+            "period": "November 2012 to January 2014",
+            "description": [
+                "Support customers with reconfiguring of system software.",
+                "Trouble shoot and repair systems in timely manner, per customer contracts. Assist with bringing new systems on line and training."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Project Manager",
+            "company": "Company Name",
+            "period": "April 2012 to November 2012",
+            "description": [
+                "Define project scope, goals and deliverables.",
+                "Manage cost, schedule, and performance of project, while working to ensure the ultimate success and acceptance of the project. Mentor staff consulting excellence and encouraged best practice of company standards."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Support Manager",
+            "company": "Company Name",
+            "period": "April 2011 to December 2011",
+            "description": [
+                "Responsible for departmental staffing needs, performance management, training and development, and daily management of customer service employees.",
+                "Manage all service issues to customers satisfaction to 98%.",
+                "Developed quality assurance program that reduced warranty calls by thirty percent in the first two months. Realigned staging and routing process to create more steam lined operation, minimizing overtime. First time service calls were completed at a 20% higher success rate."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Project Administrator",
+            "company": "Company Name",
+            "period": "September 2006 to December 2011",
+            "description": [
+                "Responsible for creating and maintaining project records, hard and electronic copies, transmitting them accordingly to internal and or external customers.",
+                "Create and maintain budget reports on all active jobs. Supporting the project managers with any additional reports, scheduling, RFI's, purchasing, create and update job submittal packets and operation manuals. Coordinate training for internal and external customer."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Denver High School",
+            "year": 1996
+        },
+        {
+            "degree": "General Studies",
+            "institution": "Front Range Community College",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate has demonstrated a strong track record in business development, customer service, and project management. Their ability to implement innovative strategies for networking and content marketing directly contributed to the success of sales opportunities and efficient system establishment. Their experience in managing diverse client bases effectively showcases their capability to understand and meet customers' needs with strategic solutions. These skills align well with roles that seek to enhance organizational performance through focused development and effective service delivery."
+}

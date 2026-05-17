@@ -1,0 +1,82 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Industrial Development Director",
+            "company": "Danone - Minster, OH",
+            "period": "November 2015 to Current",
+            "description": [
+                "Development of consistent technical training to assure skill attainment across the 7 manufacturing sites in the region.",
+                "Expanded responsibilities to include all safety auditing across 7 dairy Danone sites, waters division and baby nutrition divisions in the US."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Environmental, Health & Safety Director",
+            "company": "Dannon - Minster, OH",
+            "period": "October 2010 to October 2015",
+            "description": [
+                "Established and led regional safety and health network for 4 Dannon US sites.",
+                "Expanded skill set to become an internal ISO 22000 quality auditor and a ISO 14001 Environmental auditor.",
+                "Assured EHS transition for 2 newly acquired businesses.",
+                "Lead on biovigilance, food and site security."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Led site of 400 employees and 200 contractors in HR, training and safety functions during a time of high growth and extensive change.",
+            "company": "",
+            "period": "",
+            "description": [
+                "Key contributor for negotiation team first union contract with BCTGM resulting in millions of dollars of savings in benefit costs over the term of the 5 year contract."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Improved safety management by implementing behavior based safety methods to reduce lost time from 12 to zero.",
+            "company": "",
+            "period": "",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Led cross-functional training team to attain $141,000 Massachusetts workforce development training grant.",
+            "company": "Bayer Material Science Company - Sheffield, MA",
+            "period": "",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Personnel",
+            "institution": "Purdue University",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science : Supervision",
+            "institution": "Purdue University",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science : Plant and Soil Science",
+            "institution": "State University of New York - Cobleskill",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "ISO 22000 Quality Auditor",
+            "year": null
+        },
+        {
+            "name": "ISO 14001 Environmental Auditor",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in senior HR roles, particularly focusing on safety management, employee engagement, and training & development. Their experience spans across various industries including manufacturing, sales, and headquarter environments. Notably, the candidate has established regional safety operations networks with notable achievements such as achieving no lost time incidents during high growth periods and securing savings through successful union negotiations. The skills in crisis management and negotiation reflect a strategic approach to organizational health and employee relations."
+}

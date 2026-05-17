@@ -1,0 +1,118 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Active Directory",
+        "Adobe",
+        "Antivirus",
+        "Backup Exec",
+        "Budget",
+        "business processes",
+        "Call center",
+        "capacity planning",
+        "Cisco",
+        "computer assembly",
+        "Contracts",
+        "Database",
+        "Dell",
+        "Designing",
+        "Desktops",
+        "Documentation",
+        "Firewall",
+        "HP",
+        "Hiring",
+        "Information systems",
+        "ISO 9000",
+        "Leadership",
+        "Linux",
+        "Logistics and Management",
+        "Mac",
+        "MAC OS",
+        "Managing",
+        "Access",
+        "Microsoft Certified Professional",
+        "Microsoft Exchange",
+        "Microsoft Office Professional",
+        "Office",
+        "Microsoft Project",
+        "Microsoft Visio Professional",
+        "Windows 7",
+        "Windows 8",
+        "Windows",
+        "Enterprise",
+        "NAS",
+        "Network Attached Storage",
+        "Network Printers",
+        "Network",
+        "Networking",
+        "new product development",
+        "Operating Systems",
+        "PBX",
+        "PCI",
+        "Phone System",
+        "policies",
+        "Project Management",
+        "quality assurance",
+        "quality improvement",
+        "QuickBooks Pro",
+        "Robotic",
+        "Safety",
+        "Storage Area Network",
+        "SAN",
+        "scheduling",
+        "Servers",
+        "Microsoft SQL Server",
+        "Symantec",
+        "teamwork",
+        "technical analysis",
+        "phones",
+        "Troubleshooting",
+        "upgrade",
+        "Visio Professional",
+        "vision",
+        "Web Portal",
+        "WAN"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Manager",
+            "company": "Company Name",
+            "period": "July 2000 to Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Manufacturing Supervisor",
+            "company": "City",
+            "period": "September 1998 to September 1999",
+            "description": [
+                "Supervised a team of 25 computer assemblers, 3 testers and 6 technicians.",
+                "Organized computer assembly and testing for daily production.",
+                "Implemented procedures for safety, performance and policies.",
+                "Ensured all employees were trained in the process of manufacturing."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Information System",
+            "institution": "University of Phoenix Information System",
+            "year": "December 2000"
+        },
+        {
+            "degree": "Computer Technology",
+            "institution": "American River College",
+            "year": "June 1993"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified Professional",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile marked by extensive experience in IT management and technical support across various roles. Skilled in strategic planning, designing budgets for new products, with a strong emphasis on network infrastructure management, hardware and software configuration, and maintaining compliance standards like PCI DSS. The candidate's leadership qualities are evident from their ability to provide vision and manage the IT department effectively, ensuring capacity planning through technical analysis that boosts business process efficiency. With certifications in Microsoft technologies such as Microsoft Certified Professional, coupled with practical experience directly aligned with the job requirements stated, this candidate would be a valuable asset for any organization seeking an experienced and skilled IT professional."
+}

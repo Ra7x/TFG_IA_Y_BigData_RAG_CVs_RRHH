@@ -1,0 +1,98 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Product Manager",
+            "company": "Company Name",
+            "period": "Jan 2012 to Jan 2016",
+            "description": [
+                "Responsible for managing over 15 product categories, with annual sales in excess of $35M, providing product line management including category strategy, new product development, product training, promotional planning, and market analysis.",
+                "Strategy development - Developed and executed category strategy across key product lines including competitive analysis, opportunity gaps, and pricing and channel strategies.",
+                "Product quality and performance - Managed a strategic supplier transition achieving a 9% cost reduction with a 20% performance improvement.",
+                "Merchandising Management - Designed new merchandising vehicles to support customer conversions and incremental sales opportunities.",
+                "Project Management - Managed multiple projects including sku rationalization and 80/20 analysis, package redesigns, product field testing, customer line reviews and catalog and website management.",
+                "Product training - Developed and conducted extensive product training for new distributors, customers, sales and customer service.",
+                "Forecasting - Conducted complete analysis of category sales history vs demand to determine optimum reorder points and inventory levels to reduce backlogs and ensure efficient turns and inventory value."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing Manager and Brand Manager",
+            "company": "Company Name",
+            "period": "Jan 2008 to Jan 2012",
+            "description": [
+                "Responsible for managing multiple product lines, providing complete product line management including executing brand strategy, new product development, select trade and consumer strategies.",
+                "Product Launches - Developed and launched 25 new product SKUs in the baking nut line featuring new innovative packaging to the category; executed project strategy, goals, priorities and long-term plans for the branded business, most notably the Baking/Cooking Nut line that generates $75 million in revenue.",
+                "Additional successful product launches in key areas including snack nuts category, and the Food Service and Export sales channels.",
+                "Project Management - Managed multiple projects from start to finish, including product launches, creative executions, customer projects, pricing and Profit & Loss Statements; designed product development tracking tool to manage multiple project timelines.",
+                "Marketing Support - Developed and executed marketing support initiatives including promotions, displays, couponing, website management, and media placement including radio, FSIs, and advertising.",
+                "Partnership - Worked closely with sales to understand key account strategies and develop consumer plans aligned with corporate strategies; interfaced with cross-functional teams: Creative Services, Sales, Procurement, Accounting, Operations, Research & Development, Quality Assurance, and Customer Service to manage marketing projects and new products.",
+                "Sales Data Analytics - Utilized and interpreted proprietary sales data, as well as Mintel and Nielsen data to develop product, consumer, and sales strategies.",
+                "Website Management - Successfully managed and executed website re-launch including SEO improvements, social media integration and on-line recipe strategy.",
+                "Promotions - Successfully designed, coordinated and launched 'in & out' promotional programs which require extensive cross-functional team coordination under tight timelines.",
+                "Package Development - Responsible for managing packaging process including integrating equipment specifications, nutritional labeling requirements, material procurement and package and graphic design."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Associate Category Manager",
+            "company": "Company Name",
+            "period": "Jan 2007 to Jan 2008",
+            "description": [
+                "Responsible for managing products within tableware and kitchen textiles categories, developing and executing category strategies.",
+                "Category Management Presentations - Presented category strategies and product updates to internal customers and senior project team.",
+                "Market Analysis - Conducted market and competitive product research consisting of analysis of competitive product assortments in the retail environment, trends, pricing, materials, and features and benefits.",
+                "Document Management - Managed technical drawings and produced documents for archival of product specifications, vendor contracts, and production quality comparison.",
+                "Cross Functional Team Leadership - Worked closely with external departments, including Quality, Engineering, Sourcing, Legal, Packaging, Marketing, Creative Services."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Associate Product Manager",
+            "company": "Company Name",
+            "period": "Jan 1997 to Jan 2003",
+            "description": [
+                "Responsible for managing strategic growth of Storage and Pantry ware product lines including new and existing products totaling $4.5 million in sales.",
+                "Promoted from Assistant Product Manager.",
+                "Product Launch - Product line sales improved 50% in storage category and 130% in the pantry ware categories following the new product introduction.",
+                "Category Management - Conducted market trend research including analysis of competitive product assortments, brand positioning, and packaging; analyzed sales, market, and distribution data used in customer presentations and management reviews."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing Coordinator",
+            "company": "Company Name",
+            "period": "Jan 1995 to Jan 1997",
+            "description": [
+                "Responsible for all RFP submissions and marketing support functions within the Chicago office.",
+                "Proposal Management - Responsible for extensive sales proposal process and final submission including writing, coordination of time lines, project scope, engineer submittals and research of relevant company experience under strict deadlines.",
+                "Key Market Knowledge - Developed knowledge in multiple key markets including Municipal, Food & Beverage, Pharmaceutical, Correctional Facility and Entertainment market segments.",
+                "Researched relevant market information, experience, and project specifications within each client's industry.",
+                "Marketing Support - Created general marketing pieces including advertisements, press releases, brochures, and project description sheets."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Marketing Communications Coordinator",
+            "company": "Company Name",
+            "period": "Jan 1993 to Jan 1995",
+            "description": [
+                "Responsible for evaluating and developing all customer product line reviews, as well as producing and managing all marketing communications materials used to drive sales revenue."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A",
+            "institution": "Northern IL University",
+            "year": 1992
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

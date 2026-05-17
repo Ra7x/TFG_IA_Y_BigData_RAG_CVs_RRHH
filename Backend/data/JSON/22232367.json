@@ -1,0 +1,89 @@
+{
+    "full_name": "Aviation Records Analyst",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "SkyBOOKs",
+        "Linux servers",
+        "Windows servers",
+        "Advanced Skill Management (ASM)",
+        "NTCSS Desktop II",
+        "Oracle",
+        "SQL",
+        "PL/sql",
+        "Python",
+        "Microsoft Word",
+        "Excel",
+        "Access",
+        "PowerPoint",
+        "Outlook",
+        "MS Project",
+        "Linux/unix",
+        "Remedy",
+        "Scanning"
+    ],
+    "work_history": [
+        {
+            "job_title": "Aviation Records Analyst",
+            "company": "Company Name",
+            "period": "June 2014 to Current",
+            "description": [
+                "- Utilize the SkyBOOKs aviation maintenance tracking application to provide aircraft configuration and maintenance program compliance data to build aircraft electronic logbooks accurately and in a timely manner within a web-based software application (SaaS) providing an all-around complete product to the aircraft owner / operator ensuring a precise aircraft maintenance planning and tracking tool. Meticulously researched and accurately analyzed over 200 aviation logbooks and other forms of maintenance documentation provided by aircraft owner operators to determine compliance in accordance with specified maintenance requirements.",
+                "- Expertly examined aircraft engine and aircraft specific component maintenance manuals and Instructions for Research Airworthiness documents to determine required maintenance actions and associated intervals."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Functional Analyst",
+            "company": "Company Name",
+            "period": "February 2014 to June 2014",
+            "description": [
+                "- Diligently conducted vital daily server system checks ensuring 100% system availability 24 hours a day, performed nightly server back-ups, release and print batch reports, monitor and ensure continuous successful system interface with Navy ERP, and provide system maintenance and troubleshooting when required.",
+                "- Responsible for ensuring the timely review and updates of the teams vital Standard Operating Procedure technical documents."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Technical Support Representative",
+            "company": "Company Name",
+            "period": "November 2004 to September 2013",
+            "description": [
+                "- SME for the web based Advanced Skill Management (ASM) application's day-to-day operations including the training of Naval personnel in the use of ASM, electronic and paper record keeping, troubleshooting, resolving and documenting customer issues, soliciting enhancements, and verification of vital data entry requirements into the ASM application for use by the majority of the naval aviation community encompassing over 4500 military and civilian personnel.",
+                "- Directed the design, development, quality assurance, implementation, and management of approximately 3000 mission critical technical documents within the ASM program.",
+                "- Coordinated implementation of new systems, patches and other on-site upgrades, implementation and testing of enhancements to ASM to ensure maximum utility and functionality of the ASM system to meet customer needs and expectations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Data Analyst E-6",
+            "company": "Company Name",
+            "period": "February 1999 to October 2004",
+            "description": [
+                "- Proven Aviation Data Analyst for the U.S. Navy at Naval Air Station Jacksonville, FL. supporting numerous aircraft and types of ground support equipment. Performed a variety of functional processes using NTCSS Desktop II. Changes NTCSS passwords, monitors and manages print request and printer configurations, monitors system information, changes application process limits. Maintained system security.",
+                "- Inputs, extracts, analyze and validate maintenance data; develops and interprets management reports, monitor input of data and the parameters for up-line reporting and related interface requirements. Performed analysis of aviation 3M data as directed and in support of the Naval Aviation Maintenance Program.",
+                "- Regularly prepared highly detailed data summaries and reports using SQL ad hocs, spreadsheet, graphical, narrative, and oral presentations."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Downers Grove South High School",
+            "year": 1984
+        },
+        {
+            "degree": "Associate of Science : Computer Science",
+            "institution": "Florida State College of Jacksonville",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Technical Certificate for IT Customer Support Specialist",
+            "year": null
+        }
+    ],
+    "english_level": "Fluent communicator",
+    "matchmaking_summary": "Highly organized and detail-oriented Aviation Records Analyst with extensive experience in providing expert problem resolution and customer support, particularly to the U.S. Navy, Marine Corps, and civilian customers. Demonstrated skills in utilizing aviation maintenance tracking software for accurate logbook creation, analyzing technical manuals for compliance, and maintaining system security and data integrity. Proficient in diverse computer applications and systems including Microsoft Office Suite, SQL, Python, Oracle, and Linux/Unix environments."
+}

@@ -1,0 +1,46 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development",
+            "company": "SunnySide Supply",
+            "period": "2014-Present",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of New Products",
+            "company": "Company Name",
+            "period": "2013-2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Director of Sales and Marketing/Business Development Manager",
+            "company": "Company Name",
+            "period": "2006-2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Development Associate",
+            "company": "Company Name",
+            "period": "2003-2006",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Duquesne University",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate demonstrates a strong track record in business development and marketing, consistently exceeding sales goals over the years. With expertise in developing customized account plans to increase sales volume and market share, they have successfully navigated challenging markets such as the oil and gas sector, managing growth for Erect-A-Step to be almost double the revenue of competitor products within their territory. Their strategic vision is complemented by a hands-on approach that includes direct customer interaction and operational management, reflecting a commitment to both sales performance and client satisfaction."
+}

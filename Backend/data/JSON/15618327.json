@@ -1,0 +1,87 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Lean Six Sigma Black Belt",
+        "Adobe Reader",
+        "Microsoft Office",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Secret Clearance",
+        "Microsoft Power Point"
+    ],
+    "work_history": [
+        {
+            "job_title": "Lean Six Sigma Black Belt",
+            "company": "Company Name",
+            "period": "09/2012",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Supply Specialist",
+            "company": "Company Name",
+            "period": "09/2007 to 03/2015",
+            "description": [
+                "Perform all functions related to providing aviation peculiar supply support, to include financial management, inventory management, material management, facilities and storage management, personnel staffing, and requisitioning procedures.",
+                "Duties include validation of customer requirements, processing requisitions, submitting requisitions, initiating appropriate follow-up actions, and processing and delivering material in accordance with all government regulations and procedures.",
+                "In addition, aviation supply specialists have an understanding of acquisition procedures, provisioning and requirements determination, material handling procedures, and fiscal accounting and purchasing procedures in accordance with Federal Acquisition Regulations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Nuclear Security Officer II",
+            "company": "Company Name",
+            "period": "07/2005 to 09/2007",
+            "description": [
+                "Access and visitor control officer; to verify and issue the correct credentials and TLDs.",
+                "Armed search officer and armed vehicle search officer; search of individuals and vehicles for prohibited Alan W. outlined in Nuclear Regulatory Commission (NRC) Reg. 10CFR73.55.",
+                "Armed mobile and armed interior patrol officer; maintain surveillance over assigned areas, responding to alarms and emergency situations and accurately reporting on scene assessments to the Security Control Center.",
+                "Armed escort officer; responsible for escorting and controlling non-licensee and emergency vehicles and occupants. Armed response force; stop adversary action threat against SSES.",
+                "To prevent penetration into vital areas and to prevent radiological sabotage by use of deadly/non-deadly force. Armed weapons control officer; inventory, inspection and clearing of weapons.",
+                "Ensure safe handling of weapons during issuance and return. Armed emergency access; to provide all emergency vehicles (ambulances & fire trucks) and emergency personnel to include LLEA (local law enforcement) first aid responders and fireman."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Maintenance Administrative Specialist",
+            "company": "Company Name",
+            "period": "06/2001 to 06/2005",
+            "description": [
+                "Maintain aircraft log books, naval aircraft maintenance publications/files, and prepare reports, logs records, directives, and correspondence in an aircraft maintenance and repair activity.",
+                "Training as data processing equipment operators, perform duties on data entry equipment, and supervise the maintenance administration functions within the unit.",
+                "Set up, operate, and perform minor maintenance on Naval Aviation Logistics Command Management Information System (NALCOMIS) hardware and its associated remote peripheral subsystems.",
+                "Analyze control charts, program maintenance and man-hour statistical information to aid the maintenance managers and logisticians in the performance of their assigned tasks."
+            ],
+            "technologies": [
+                "Logistics Management Information System",
+                "Naval, enterprise"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Not Specified",
+            "institution": "Department of the Navy",
+            "year": null
+        },
+        {
+            "degree": "Not Specified",
+            "institution": "Villanova University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Lean Six Sigma Green Belt",
+            "year": null
+        },
+        {
+            "name": "Lean Six Sigma Black Belt",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate demonstrates a deep understanding of various methodologies and certifications including Lean Six Sigma Black Belt, Adobe Reader, Microsoft Office suite, and Secret Clearance. With over a decade of experience in administrative, supply chain management, security, and counseling roles across multiple industries such as aviation, nuclear security, and military logistics, the candidate has consistently demonstrated strong leadership skills and expertise in managing complex tasks including financial management, inventory control, personnel staffing, requisitioning procedures, and securing vital areas against threats. Their training and experience make them a valuable asset for any organization requiring strategic thinking and hands-on operational responsibilities."
+}

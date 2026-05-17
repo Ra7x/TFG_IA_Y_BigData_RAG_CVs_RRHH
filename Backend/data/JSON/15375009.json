@@ -1,0 +1,117 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Administrative",
+        "ADP",
+        "Benefits",
+        "bookkeeping",
+        "Claify",
+        "customer service",
+        "database",
+        "delivery",
+        "documentation",
+        "employee relations",
+        "filing",
+        "government",
+        "HR",
+        "human resources",
+        "insurance",
+        "job analysis",
+        "labor relations",
+        "law enforcement",
+        "Team building",
+        "letters",
+        "market",
+        "meetings",
+        "mail",
+        "office",
+        "Payroll processing",
+        "payroll",
+        "personnel",
+        "policies",
+        "processes",
+        "Project management",
+        "proposal",
+        "quality",
+        "recruiting",
+        "recruitment",
+        "safety",
+        "strategy",
+        "employee handbooks",
+        "vendor management"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Manager",
+            "company": "Company Name - City , State",
+            "period": "06/2016 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Sr. HR Generalist",
+            "company": "Company Name – City , State",
+            "period": "01/2015 to 05/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Benefits Administrator",
+            "company": "Company Name – City , State",
+            "period": "01/2014 to 06/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Supervisor",
+            "company": "Company Name – City , State",
+            "period": "08/2013 to 02/2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Generalist/Administrative Assistant",
+            "company": "Company Name – City , State",
+            "period": "02/2013 to 08/2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Human Resources Assistant",
+            "company": "Company Name – City , State",
+            "period": "09/2008 to 02/2013",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science : Business Management",
+            "institution": "University of Phoenix - San Jose Learning Center - City , State",
+            "year": 2009
+        },
+        {
+            "degree": "MBA : Human Resources",
+            "institution": "Notre Dame de Namur University - City , State",
+            "year": 2018
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Human Resources Manager Certificate",
+            "year": null
+        },
+        {
+            "name": "Senior HR Generalist Certification",
+            "year": 2015
+        },
+        {
+            "name": "Benefits Administrator Certification",
+            "year": 2014
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Este candidato presenta una sólida experiencia en gestión de recursos humanos, demostrando un fuerte compromiso con el desarrollo y mejora continua del departamento. Su capacidad para desarrollar estrategias robustas de reclutamiento ha resultado en la contratación exitosa de 50+ posiciones en un corto periodo, reduciendo costos y optimizando la cadena de valor humana. Además, su experiencia en administrar seguros de salud ha permitido gestionar acuerdos eficientes con proveedores aseguradores. Su perfil profesional resalta su competencia técnica en áreas clave como el reclutamiento, gestión de relaciones laborales y administración de beneficios."
+}

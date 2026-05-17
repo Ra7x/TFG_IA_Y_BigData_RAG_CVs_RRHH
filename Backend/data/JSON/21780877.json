@@ -1,0 +1,114 @@
+{
+    "full_name": "Kevin L. Trostle",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "budget",
+        "cabling",
+        "cisco",
+        "hardware",
+        "documentation",
+        "Electrician",
+        "feasibility studies",
+        "funds",
+        "Information Technology",
+        "inspector",
+        "LAN",
+        "materials",
+        "access",
+        "network",
+        "networking",
+        "networks",
+        "personnel",
+        "Telephone Systems",
+        "printers",
+        "processes",
+        "Project Management",
+        "Quality Assurance",
+        "routers",
+        "system design",
+        "technical assistance",
+        "Technician",
+        "Telecommunications",
+        "Troubleshoot",
+        "troubleshooting",
+        "upgrades",
+        "video",
+        "wiring"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist GS11",
+            "company": "Company Name",
+            "period": "07/2004 to Current",
+            "description": [
+                "Manage the assigned IT/communications environment with privileged access at the network level for the Wing, Geographically Separated Units (GSU), and Tenants.",
+                "Plan, coordinate, install, and continuously analyze system design, hardware and software. Develop, recommend, and install solutions and upgrades to ensure availability, integrity, efficiency, and reliability of all components of the assigned system.",
+                "Ensure all performed work is captured in the Remedy ticketing system. Manage Telecommunications and NIPR networks for the Wing, GSU's, and tenant units. Continually plan, install, and analyze new hardware, software and processes to ensure networks are reliable and efficient. Serve as a focal point for ensuring functionality and operability of the assigned IT/data systems/functions, voice, and wireless systems to support mission requirements.",
+                "Optimize, analyze, manage, and direct installation of any new hardware or software introduced into the environment to ensure its compatibility with existing architecture, its reliability, and functionality in relation to the organization's business requirements."
+            ],
+            "technologies": [
+                "Supervison",
+                "Project Management",
+                "Circuit Management"
+            ]
+        },
+        {
+            "job_title": "Cyber Transport/ Client Systems Workcenter Supervisor",
+            "company": "Company Name",
+            "period": "02/2001 to Current",
+            "description": [
+                "Manage Cyber Transport/Client Systems work center personnel. Set and adjust work priorities, evaluate, and counsel subordinates. Document training of personnel using Computer based training system (TBA) Sustain and operate systems through effective troubleshooting, repair, PMI's, system performance testing/analysis."
+            ],
+            "technologies": [
+                "Client",
+                "Maintenance"
+            ]
+        },
+        {
+            "job_title": "F-16 Ejection System Technician",
+            "company": "Company Name",
+            "period": "07/1996 to 07/2000",
+            "description": [
+                "Troubleshot, removed, tested, inspected, repaired, modified, and installed explosive and non-explosive components and assemblies on ejection systems. Performed preventative maintenance on over ninety different electronically fired explosive devices ensuring proper wiring and termination.",
+                "Foreign object damage monitor, briefed wing commander monthly on findings."
+            ],
+            "technologies": [
+                "Troubleshoot",
+                "repair"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "HS Diploma",
+            "institution": "Brockport High School",
+            "year": null
+        },
+        {
+            "degree": "BS Degree",
+            "institution": "University of TN",
+            "year": 1996
+        }
+    ],
+    "certifications": [
+        {
+            "name": "USAF, Electronic Principles",
+            "year": "2002"
+        },
+        {
+            "name": "USAF, Telephone Systems Apprentice Course",
+            "year": "1998"
+        },
+        {
+            "name": "USAF, Aircrew Egress Systems Apprentice Course",
+            "year": "1998"
+        },
+        {
+            "name": "Web-based training on LAN fundamentals, routers, topologies, cisco networking, etc.",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, Kevin L. Trostle, possesses a robust background in Information Technology and Communications, with over two decades of experience spanning both military and civilian roles. His expertise includes managing IT environments at the network level for geographically separated units (GSU) and tenant organizations, overseeing telecommunications and NIPR networks, and ensuring system reliability and efficiency through continuous planning, installation, and analysis."
+}

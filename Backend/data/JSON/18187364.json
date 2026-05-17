@@ -1,0 +1,104 @@
+{
+    "full_name": "Information Technology Specialist Information Security Officer",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Oracle software versions 10g-12c",
+        "Scripting maintenance and monitoring tools",
+        "Risk Assessment template based on NIST 800-30R1",
+        "Automated database risk/security models",
+        "Patch management",
+        "Database servers",
+        "UNIX/LINUX"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist Information Security Officer",
+            "company": "Company Name ï¼​ City , State",
+            "period": "October 2010 to July 2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Vice President",
+            "company": "Company Name ï¼​ City , State",
+            "period": "April 2002 to September 2010",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Database Manager",
+            "company": "Company Name ï¼​ City , State",
+            "period": "February 2000 to April 2002",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "Company Name ï¼​ City , State",
+            "period": "January 1999 to February 2000",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "System Staff Specialist/Database Administrator",
+            "company": "Company Name ï¼​ City , State",
+            "period": "December 1997 to January 1999",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "Company Name ï¼​ City , State",
+            "period": "June 1997 to December 1997",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Company Name ï¼​ City , State",
+            "period": "September 1996 to June 1997",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Associate Computer Programmer/Analyst",
+            "company": "Company Name ï¼​ City , State",
+            "period": "June 1991 to September 1996",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "College of Saint Rose",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "Music History City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Oracle Certified Professional (OCP), versions 8.0, 8i, 9i, 10g",
+            "year": null
+        },
+        {
+            "name": "Senior Database Administrator",
+            "year": null
+        },
+        {
+            "name": "Database Manager",
+            "year": null
+        },
+        {
+            "name": "System Staff Specialist/Database Administrator",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

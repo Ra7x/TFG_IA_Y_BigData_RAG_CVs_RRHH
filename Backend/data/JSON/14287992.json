@@ -1,0 +1,91 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Analyst",
+            "company": "Company Name",
+            "period": "August 2012 to Current",
+            "description": [
+                "Managed budget forecasting, goal setting and performance reporting for all accounts.",
+                "Analyzed legal documents, including wills, insurance policies and corporate contracts. Designed and created weekly and monthly spending reports.",
+                "Coordinated with underwriters, lenders, loan managers and securitization teams to manage portfolios. Oversaw investment portfolio analysis, file maintenance and broker verification.",
+                "Delivered performance updates, quarterly business reviews and planning meetings.Optimized current revenue streams by networking for additional business prospects with established clients.",
+                "Planned strategic brand-building events to expand the product portfolio.",
+                "Contacted new and existing customers to discuss how specific products could meet their needs. Identified, coordinated and participated in client relationship-building activities and meetings. Answered customer questions regarding products, prices and availability.",
+                "Generated new accounts by implementing effective networking and content marketing strategies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Correction and Family Liaison Officer",
+            "company": "Company Name",
+            "period": "July 2009 to Current",
+            "description": [
+                "Routinely reviewed housing assignments and reassigned inmates when needed.",
+                "Informed inmates and visitors of rules, safety and security procedures and responsibilities. Maintained daily logs of shift activity.",
+                "Diligently implement visitation, safety, security rules, procedures, and precautionary measures Received and inspected mail, property and supplies from visitors on behalf of designated inmates."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Customer Service Associate",
+            "company": "Company Name",
+            "period": "July 2009 to July 2012",
+            "description": [
+                "Performed registers audit, assisted in preparing and maintaining inventory records.",
+                "Supervised front end cashiers and organized the store, including the checkout desk and displays.",
+                "Operated cash registers and processed gift cards, coupons, and all payment modes with accuracy.",
+                "Performed sale opening and closing procedures, including counting of cash register."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Account & Finance Officer",
+            "company": "Company Name",
+            "period": "January 2007 to February 2009",
+            "description": [
+                "Managed accounting operations, accounting close, account reporting and reconciliations.",
+                "Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions.",
+                "Prepared monthly and annual expense forecasts, including any necessary recommended action required to manage costs to achieve budget.",
+                "Performed general accounting and finance functions including: Developed financial modelling using excel spreadsheet to analyzed, and report financial statements.",
+                "Preparation of journal and ledger entries, account analysis and balance sheet reconciliations."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "University of Houston",
+            "year": 2014
+        },
+        {
+            "degree": "BBA",
+            "institution": "Ambrose Alli University",
+            "year": 2007
+        }
+    ],
+    "certifications": [
+        {
+            "name": "General financial accounting and control",
+            "year": null
+        },
+        {
+            "name": "Strong analytical and attention detail",
+            "year": null
+        },
+        {
+            "name": "Multi-tasking with strong deadline driven",
+            "year": null
+        },
+        {
+            "name": "Advanced computer skills (Microsoft Office suites : Word, Excel, PowerPoint, and Access) and QuickBooks.",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a comprehensive background in finance, accounting, investment, and management with over ten years of diverse experience ranging from business development to customer service. Their skills in financial analysis, strategic planning, budgeting, and SAP (FICO) indicate a strong ability to contribute effectively across various departments within a multinational company, particularly suited for roles that value integrity, leadership, and analytical prowess."
+}

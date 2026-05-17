@@ -1,0 +1,53 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "HRIS (Kronos, Lawson, PeopleSoft, QuickBooks, HBI, ADP & Oracle)",
+        "MS Office (Word, Excel, PowerPoint, Access, Outlook)",
+        "EMR, Medical Manager"
+    ],
+    "work_history": [
+        {
+            "job_title": "Sr. HR Generalist",
+            "company": "Company Name City , State",
+            "period": "01/2012 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Office Manager",
+            "company": "Company Name City , State",
+            "period": "01/2010 to 01/2011",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Specialist",
+            "company": "Company Name City , State",
+            "period": "01/2008 to 01/2010",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Industrial/Organization Psych",
+            "institution": "University of Phoenix City , State",
+            "year": 2012
+        },
+        {
+            "degree": "BA : Business Administration Human Resources Management",
+            "institution": "Interamerican University of Puerto Rico City , State",
+            "year": 2009
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Mouth Swab- Drug test facilitator",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated a comprehensive and quality-driven approach to HR roles, consistently delivering successful outcomes in recruitment, retention, staff development, safety, health, mediation, conflict resolution, benefits, compensation, and policy development. With expertise across multiple HRIS platforms including Kronos, Lawson, PeopleSoft, QuickBooks, HBI, ADP, and Oracle, coupled with proficiency in MS Office applications, the candidate has a robust skill set applicable to various aspects of human resources management. The creation of training programs for managers and supervisors and the satisfaction of record-keeping requirements during HR audits highlight strategic contributions to organizational development."
+}

@@ -1,0 +1,79 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Technical Support Analyst",
+        "Troubleshooting Repair Expertise",
+        "Team Player",
+        "Flexible",
+        "Reliable",
+        "Adaptable",
+        "VMware",
+        "Windows XP",
+        "Vista",
+        "7",
+        "8",
+        "Ubuntu Linux",
+        "Mac OS X",
+        "Linux",
+        "Virtualization"
+    ],
+    "work_history": [
+        {
+            "job_title": "Support & Network Services Intern",
+            "company": "Company Name Support & Network Services Intern | City , State",
+            "period": "September 2014 - December 2014",
+            "description": [
+                "Customized and implemented Microsoft SCSM from SCCM in order to automate departmental organizational needs.",
+                "Facilitated proper asset management and user onboarding processes tailored to the Student Affairs department.",
+                "Worked with Network & Support Services team to learn more about the general campus and supported users.",
+                "Attended regular meetings to coordinate and discover the expected outcomes and functions of Microsoft SCSM.",
+                "Performed within a minimalized test environment in order to create runbook programming and custom templates.",
+                "Shadowed student workers with incident management processes and workflows within Cherwell Service Management.",
+                "Familiarized with ticket creation, priority, review, and remote desktop connections with respect to supported users."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Lead Intern",
+            "company": "Company Name Information Technology Lead Intern | City , State",
+            "period": "June 2012 - June 2013",
+            "description": [
+                "Worked with director on minimizing Windows XP machines and migrated to Windows 7 based on Spiceworks solution.",
+                "Contacted Central IT when appropriate with regards to diagnosing distance education connections and supporting equipment.",
+                "Deployed re-imaged hard drives or newly acquired assets for classrooms or professors based on priority scheduling.",
+                "Assisted lab desk student workers with issues, cooperated with lab desk students on scheduling accommodations and support.",
+                "Check out and manage the plethora of IT department equipment based on appointments in SharePoint or open door policy.",
+                "Performed room checks to test equipment and replace faulty campus property during the semester breaks.",
+                "Set up purchased assets within classrooms for students while retiring and recycling older systems."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Student Center Intern",
+            "company": "Company Name Information Technology Student Center Intern | City , State",
+            "period": "September 2011 - December 2011",
+            "description": [
+                "Resolved student center questions and arranged peer-to-peer tutoring/assistance with specific students in CSS program.",
+                "Prepared and delivered a Microsoft Office training session, training videos for the general public in a workforce environment."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science Information Science & Technology",
+            "institution": "University of Wisconsin City , State",
+            "year": 2014
+        },
+        {
+            "degree": "Information Science & Technology AAS",
+            "institution": "Waukesha County Technical College City , State",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, while still lacking formal certifications relevant to the role of a Technical Support Analyst in recent years, exhibits strong fundamentals and willingness to learn. Their experience includes roles where they've interacted with multiple operating systems including Windows (XP, Vista, 7, 8) and Linux, demonstrating adaptability and flexibility essential for troubleshooting across different platforms. The candidate has experience in asset management from their role at the Student Affairs department and a history of working within teams, which is indicative of strong communication skills and teamwork."
+}

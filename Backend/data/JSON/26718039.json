@@ -1,0 +1,59 @@
+{
+    "full_name": "Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Catering Chef",
+            "company": "",
+            "period": "Jun 2000 to May 2009",
+            "description": [
+                "Effectively managed and produced food for catered events.",
+                "Enforced appropriate work-flow and quality controls for food quality.",
+                "Conducted daily inventory and ordering.",
+                "Assisted catering staff in setup and delivery.",
+                "Managed catering schedule and logistics."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Line Cook",
+            "company": "",
+            "period": "Jan 1990 to Jun 2000",
+            "description": [
+                "Set up and prep work for all food items.",
+                "Prepared various daily lunch special items.",
+                "Assisted in producing food for catered events.",
+                "Conducted daily food inventory and ordering."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Experienced Catering Chef",
+            "company": "",
+            "period": "May 2009 to Current",
+            "description": [
+                "Manage daily kitchen operations including inventory, purchasing, and scheduling.",
+                "Ensure proper food handling methods are observed.",
+                "Assist kitchen staff in producing food for catering.",
+                "Systematically control food quality and costs.",
+                "Develop new menu items to enhance catering and retail food service revenue and productivity goals."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [],
+    "certifications": [
+        {
+            "name": "Catering Chef",
+            "year": null
+        },
+        {
+            "name": "Line Cook",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned catering chef with extensive experience in managing and producing food for various events, demonstrating strong leadership and operational skills. Their proficiency in international cuisine reflects their versatility and ability to adapt to diverse culinary environments. With expertise in inventory management, quality control, and scheduling, the candidate has contributed significantly to the enhancement of both catering and retail food service goals."
+}

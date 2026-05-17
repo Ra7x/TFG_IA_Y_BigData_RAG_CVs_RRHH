@@ -1,0 +1,118 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "RN STAFF NURSE",
+            "company": "",
+            "period": "2008-2014",
+            "description": [
+                "Participate in multidisciplinary plan of care.",
+                "Follow Best Practice Protocols, Evidence based practice as well as patient-centered and team-based care.",
+                "Identify barriers to successful treatment and share with team.",
+                "Monitor, measure and report/document progress of interventions and outcomes.",
+                "Timely and effective communication of newly implemented changes to unit based methods of practice."
+            ],
+            "technologies": [
+                "Therapeutic touch",
+                "Communication skills",
+                "Assessment skills",
+                "IV care",
+                "Telemetry care",
+                "Wound care including wound vacs"
+            ]
+        },
+        {
+            "job_title": "RN - Resident Care Manager",
+            "company": "",
+            "period": "2007-2008",
+            "description": [
+                "Responsibilities include Care Management of adult and senior patient population.",
+                "Knowledge of care levels including SNF, ECF, ICF, ALF, rehab and hospice.",
+                "Attend and participate in care conferences.",
+                "Development and distribution of expected outcomes to interdisciplinary team. Assignment and direction of care provided by licensed staff across 24 hour schedule. Reconciliation of monthly MAR's.",
+                "Disposal of out-dated/discontinued medications."
+            ],
+            "technologies": [
+                "Effective oral and written communication",
+                "Organizational skills",
+                "Ability to determine and direct appropriate care.",
+                "Navigation of electronic medical records",
+                "Utilization of basic computer programs"
+            ]
+        },
+        {
+            "job_title": "RN Charge Nurse",
+            "company": "",
+            "period": "2000-2007",
+            "description": [
+                "Assessment of acuity, asignment of staff, Review of charts, obtaining and signing off orders.",
+                "Guidance/monitoring and assistance to team members to balance work load throughout shift.",
+                "Attend and participate in staff meetings and hospital wide agendas.",
+                "Performed total body assessments including hearing, vision, labs."
+            ],
+            "technologies": [
+                "Open and effective communication",
+                "Organizational skills",
+                "Telemetry, IV, wound care, physical, mental and emotional assessment.",
+                "Appropriate and effective care plans.",
+                "Medication reconciliation and monitoring for therapeutic effectiveness."
+            ]
+        },
+        {
+            "job_title": "Administrative Assistant",
+            "company": "",
+            "period": "1990-1996",
+            "description": [
+                "Maintaining informational material and application packets availability.",
+                "Assisting applicants accurately complete and provide information required form application completion. Compile information for reports."
+            ],
+            "technologies": [
+                "Basic computer skills"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSN : Nursing",
+            "institution": "Washington State University",
+            "year": 2007
+        },
+        {
+            "degree": "ADN : Nursing",
+            "institution": "Clark College",
+            "year": 2000
+        },
+        {
+            "degree": "AA : General Studies",
+            "institution": "Clark College",
+            "year": 1987
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Management of Aggressive Behavior (MOAB) in house Certified Instructor",
+            "year": null
+        },
+        {
+            "name": "Patient Experience Champion",
+            "year": null
+        },
+        {
+            "name": "Shared Governance Chair of Policy & Procedure Committee",
+            "year": null
+        },
+        {
+            "name": "Oncology Certification",
+            "year": 2014
+        },
+        {
+            "name": "Geriatric Resource Nurse (GRN) certification",
+            "year": "2003-2008"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in nursing with extensive experience across various settings including SNF, med/surg units, women's health, geriatric assessment center, and the emergency department. Their roles involve patient care coordination, evidence-based practice implementation, and management of aggressive behaviors. The candidate demonstrates excellent communication skills and organizational abilities that are crucial for both clinical and administrative responsibilities."
+}

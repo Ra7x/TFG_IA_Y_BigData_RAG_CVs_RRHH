@@ -1,0 +1,85 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": "City , State",
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "INSTRUCTOR/WRITER Experience Instructor/Writer",
+            "company": "",
+            "period": "February 2013 to Current",
+            "description": [
+                "Conducted student training, administering maintenance instruction in all airframe systems associated with the UH-60 A/L helicopter.",
+                "Administered performance evaluations in all airframe systems associated with the UH-60 A/L helicopter.",
+                "Prepared and reviewed lesson plans, course materials, references, training aids, briefings, slides, and presentations in all airframe systems associated with the UH-60 A/L helicopter."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "MAINTENANCE SUPERVISOR",
+            "company": "",
+            "period": "July 2011 to November 2012",
+            "description": [
+                "Managed and coordinated maintenance/production activities of 30 subordinates.",
+                "Supervised and provided technical guidance to maintenance personnel performing UH-60 A/L aircraft and subsystem maintenance."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "TECHNICAL INSPECTOR",
+            "company": "",
+            "period": "August 2010 to June 2011",
+            "description": [
+                "Inspected, monitored, observed and evaluated maintenance operations to ensure compliance with the latest version of maintenance manuals.",
+                "Ensured established standard procedures are observed for conducting ground tests and preflight, daily, scheduled and unscheduled, special and conditional inspections as well as for safety-related matters."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "QUALITY ASSURANCE EVALUATOR",
+            "company": "",
+            "period": "June 2007 to June 2010",
+            "description": [
+                "Served as a Quality Assurance Evaluator (QAE) for the Aviation Center Logistics Command, supporting the Aviation Training Brigade (ATB) commander's mission.",
+                "Implemented the Contracting Officer Representative's (COR) quality assurance plan by performing quality assurance inspections and evaluations of contractor-performed aircraft maintenance."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Technical or Occupational Certificate",
+            "institution": "North Central Institute",
+            "year": 2009
+        },
+        {
+            "degree": "",
+            "institution": "",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Instructor Certification for UH-60 A/L Helicopters",
+            "year": 2013
+        },
+        {
+            "name": "Cadre Training Course(CTC)",
+            "year": null
+        },
+        {
+            "name": "UH-60 M Helicopter Course",
+            "year": null
+        },
+        {
+            "name": "GA-101 General-Airframe Job Related Training",
+            "year": 2009
+        },
+        {
+            "name": "",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Candidate with extensive experience in aviation maintenance, specifically focusing on UH-60 A/L helicopters. Demonstrated skills in training and evaluation across various airframe systems, compliance to technical manuals, quality assurance evaluations, and safety protocols. The candidate's roles involved direct supervisory duties as well as detailed inspection processes that align with the responsibilities of a Quality Assurance Evaluator."
+}

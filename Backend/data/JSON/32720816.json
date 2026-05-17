@@ -1,0 +1,71 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Aviation Parts Salesman",
+            "company": "City , State",
+            "period": "05/2013 to 01/2014",
+            "description": [
+                "Responsible for sales and customer service, providing information on pricing, availability, condition, trace, and other information to customers by phone and email through the use of Quantum and AMICS inventory software.",
+                "Logged and retrieved price information and customer and vendor quotations.",
+                "Assessed inventory physically with most purchase orders and most requests for information on parts.",
+                "Relayed information related to missing parts not in proper locations to material management or inventory specialists.",
+                "Strengthened shipping department operations by weighing parts and packages, affixing labels, packaging and wrapping parts, and assisting with quality control paperwork when required.",
+                "Inspected parts for customers with regards to data plates and actual part conditions and included paperwork."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Package/Front Counter Attendant",
+            "company": "City , State",
+            "period": "10/2012 to 05/2013",
+            "description": [
+                "Performed standing, walking, bending, stooping, pulling, and lifting movements during restocking of milk crates and roller carts over an extended amount of time in harsh conditions, such as in walk-in freezers.",
+                "Emptied and moved heavy trash cans as well as regularly cleaned under tables.",
+                "Moved and lifted ice cream squares during front counter restocking periods.",
+                "Performed customer service, cash handling, food preparation, cleaning, and other general upkeep responsibilities."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Lead Autonomous Ground Vehicle Installer",
+            "company": "City , State",
+            "period": "08/2011 to 12/2011",
+            "description": [
+                "Lifted and moved heavy boxes containing Pronto 4 autonomous vehicle kits into 50 brand-new Chevy Colorado vehicles for the U.S. Navy's MLT (Mobile Land Target) Program.",
+                "Frequently operated underneath and inside vehicles at awkward angles to drill holes, lift out seats, remove airbags, and other tasks. Utilized various PPE (glasses, gloves, steel toe boots, etc) around the vehicles during shifts.",
+                "Interpreted OEM instructions on installation and made on-the-fly changes to brake clamp installations as per request due to offsite testing. Inspected each package and inventoried each part kit and signed off on installations to verify they were complete before moving on to the next vehicle.",
+                "Supervised our team and acted as a liaison for the Navy representative overseeing the operation."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Embry Riddle Aeronautical University",
+            "year": 2014
+        },
+        {
+            "degree": "Associate's Degree",
+            "institution": "Embry Riddle Aeronautical University",
+            "year": 2012
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "Silver Valley High School",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Private Pilot's License",
+            "year": 2008
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate demonstrates a solid background in aviation parts sales and customer service, with experience gained through multiple roles including as an Aviation Parts Salesman where they managed inventory and communicated efficiently with customers via phone and email. Additionally, their tenure leading the installation of autonomous ground vehicles showcases strong leadership skills, organizational abilities, and proficiency in working under pressure on complex tasks."
+}

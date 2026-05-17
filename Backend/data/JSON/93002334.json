@@ -1,0 +1,78 @@
+{
+    "full_name": "HR ANALYST",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "MS Excel",
+        "Word",
+        "Power Point",
+        "Share Point",
+        "Taleo",
+        "Autonomy",
+        "One Note",
+        "SAP",
+        "Visio",
+        "OrgPlus",
+        "Outlook"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Analyst",
+            "company": "Company Name",
+            "period": "October 2012 to July 2015",
+            "description": [
+                "Provide Human Resources and Employee Relations transactional service assistance to managers and employees throughout Kraft Foods. Work to ensure process integration is supported within HR function during Kraft Merger by adapting to, and executing revised HR methods.",
+                "Serve as lead for Workforce Solutions Intake group, providing guidance on HR task questions, overseeing Intake scheduling, defining current processes and implementing new processes to increase productivity.",
+                "Oversee Share Point site updates, ensure systems are operational in accordance with Intake needs. Serve as point of contact for IS and technical concerns.",
+                "Lead Intake team through successful clean-up, categorization, and scanning of over 3,500 employee files.",
+                "Implement and maintain processes for the addition of employee documentation through Autonomy systems database.",
+                "Support Sr. HR Director by monitoring, collecting and analyzing manager transaction requests and employee relation case data by utilizing SharePoint database and Excel functions, providing reports on a quarterly basis.",
+                "Serve as main point of contact for Kraft Foods Scholarship program. Continuously reviewed process to improve management of scholarship program."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Coordinator",
+            "company": "Company Name",
+            "period": "January 2012 to October 2012",
+            "description": [
+                "Support Workforce Solutions group with collection and distribution of company-wide organization announcements and other administrative tasks.",
+                "Consult with managers/employees to determine the type of HR transaction(s) needed, including but not limited to policy questions, employee relation issues, terminations, new hire process, and compensation changes.",
+                "Serve as main point of contact for Illinois unemployment office to assist with claim management / distribution and data verification for U.S. employees.",
+                "Support severance process by creating employee specific disability letters and assisting with severance packages, including the preparation and creation of severance exhibits."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior HR Coordinator Sales",
+            "company": "Company Name",
+            "period": "February 2008 to January 2012",
+            "description": [
+                "Manage schedules, travel, and meeting preparation or Area VP Sales.",
+                "Created Sales Newsletter, summarizing relevant updates and current information, promoting steady communication within sales group. Analyze yearly goal progress for employees utilizing Gallup Survey Systems.",
+                "Utilize Taleo applicant tracking system, handle On-Boarding for the Chicago and Kansas City Customer Logistics Group including but not limited to background checks, phone screens and drug testing."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Administrative Assistant",
+            "company": "Company Name",
+            "period": "September 2007 to February 2008",
+            "description": [
+                "Maintain and update Team Sites for Central Area retail accounts, Outlook distribution lists, and sales samples manifest. Run allocation reports and Incentive Contest update reports, distributing to sales teams weekly.",
+                "Format and post quarterly sales priorities decks, utilizing Power Point. Retrieve, zip & post all customer business team weekly updates. Post files for customer business teams used in monthly mailings. Send reminder notifications to all managers responsible for monthly sales priority distribution."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor",
+            "institution": "University of Phoenix",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in Human Resources, Administrative, and Customer Service roles, demonstrating expertise in managing employee files and transactions across various systems. Their proficiency in HR technology tools such as Taleo, Autonomy, SAP, and SharePoint indicates their capability to support organizational objectives by streamlining HR processes. The ability to lead projects and implement improvements within the HR function highlights their leadership potential and commitment to enhancing operational efficiency."
+}

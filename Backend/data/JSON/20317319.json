@@ -1,0 +1,77 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Associate",
+            "company": "Company Name",
+            "period": "May 2016 to Current",
+            "description": [
+                "Create a pipeline of prospects by establishing and maintain professional relationships with key decision makers",
+                "Research, source, make initial contact (email, cold calling, telephone prospecting), and meet potential clients at their locations to accurately qualify the prospect and establish needs; Prepare and present proposals and close new accounts",
+                "Develop and maintain Sales Plan and ensure achievement of Company sales targets and profitability",
+                "Network and actively participate in User Groups, Associations, and Trade Shows in targeted vertical",
+                "Work closely with the Marketing team and the Business Development team to generate new leads",
+                "Strong understanding of customer and market dynamics and requirements;",
+                "Manage all activities through the Customer Relationship Management Software (CRM-Zoho), ensuring consistency and accuracy."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Ballet and Barre Instructor",
+            "company": "Company Name",
+            "period": "August 2014 to August 2015",
+            "description": [
+                "Instructed middle school and highschool young women in Ballet classes.",
+                "Instruction focused on the importance of core strength and correct alignment",
+                "Taught the foundation of Ballet techniques in preparation for upcoming Belle drill team auditions at Highland Park High School"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Real Estate Professional",
+            "company": "Company Name",
+            "period": "July 2014 to Current",
+            "description": [
+                "Sales of over 2 million dollars",
+                "Closing 70% of generated leads",
+                "Executed all documents to closings",
+                "Created and maintained a large client referral base",
+                "Provided exceptional customer service",
+                "Networking and marketing to generate successful leads"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Barre Teacher",
+            "company": "Company Name",
+            "period": "January 2013 to January 2016",
+            "description": [
+                "Guided clients in safe exercise, taking into account individualized physical limitations.",
+                "Taught clients how to modify exercises appropriately to avoid injury.",
+                "Contributed to a [number]% increase in sales for the personal training department.",
+                "Grew class numbers and attendance"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "On - Call Substitute Teaching",
+            "company": "Company Name",
+            "period": "January 2012 to Current",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Awarded Jimmy And Emil Hell Scholarship Arts Scholarship for Ballet Accomplishments Champions School Of Real Estate - Licensed Active Realtor",
+            "institution": "Birmingham Southern College, Birmingham, AL",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate stands out as a highly driven and successful sales professional with over ten years of experience. Their strategic thinking and communicative skills are evident in their ability to implement creative sales strategies that not only meet but often exceed sales goals. A notable aspect is the candidate's ability to establish strong, long-lasting relationships with executive clients across various sectors including corporate and non-profit organizations. This skillset makes them an asset for any team looking to achieve both short-term and long-term sales objectives."
+}

@@ -1,0 +1,51 @@
+{
+    "full_name": "Business Development Consultant",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Consultant",
+            "company": "Company Name, City , State",
+            "period": "07/2015 to Current",
+            "description": [
+                "Initiated and closed sales for a large independent insurance agency in Western Wisconsin",
+                "Used consultative selling skills to identify exposure to risk and tailored insurance policies to address those concerns",
+                "Managed customer accounts, built lasting relationships with customers, and grew account base within territory."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "P&C Producer and Sales Agent",
+            "company": "Company Name, City , State",
+            "period": "07/2010 to 07/2015",
+            "description": [
+                "Initiated and closed sales for a large independent insurance agency in Western Wisconsin",
+                "Used consultative selling skills to identify exposure to risk and tailored insurance policies to address those concerns",
+                "Managed customer accounts, built lasting relationships with customers, and grew account base within territory."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sales Representative",
+            "company": "Company Name, City , State",
+            "period": "07/2006 to 07/2010",
+            "description": [
+                "Initiated and closed sales for a commercial and residential roofing contractor",
+                "Established positive relations with customers and developed a timeline for project completion",
+                "Arranged delivery of materials, availability of labor, and managed projects through completion."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "UNIVERSITY OF MINNESOTA DULUTH",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a proven track record in business development, with extensive experience in the insurance and roofing industries. Their strong consultative selling skills have allowed them to effectively identify clients' exposure to risk and tailor insurance policies accordingly. Demonstrated success in managing customer accounts and building lasting relationships, which contributed significantly to growth within their territory."
+}

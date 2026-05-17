@@ -1,0 +1,87 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "DIRECTV HR Recruiter/ Administration",
+            "company": "Company Name",
+            "period": "11/2014 to Current",
+            "description": [
+                "Generate new hire paperwork",
+                "Keep all government documents up to date",
+                "Help with the new employees and documentation",
+                "Make copies, badges, and packets",
+                "Transfer 125 MSO sheets into the computer per week",
+                "Post job ads to bring in candidates for open positions",
+                "Call and interview candidates over the phone",
+                "Scheduled and confirmed appointments for management team",
+                "Assist multiple managers with office issues and staff issues",
+                "Coordinate department functions for team of 10 employees",
+                "Updated employee accounts and information regularly",
+                "Create databases and spreadsheets to improve inventory management and reporting accuracy",
+                "Develop more efficient filing systems"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Hostess",
+            "company": "Company Name",
+            "period": "09/2014 to 11/2014",
+            "description": [
+                "Friendly greeted customers",
+                "Professionally answered the phone",
+                "Had complete knowledge of the entire restaurant and menu",
+                "Completed cleaning checklists",
+                "Guided guests to appropriate tables",
+                "Helped book reservations for large parties and group",
+                "Ensured large parties were taking care of and satisfied",
+                "Efficiently used OpenTable to take reservations and seat guests",
+                "Dealt with customer issues calmly, quickly, and professionally"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Hostess/Cashier/Busser/Food Runner/Expo",
+            "company": "Company Name",
+            "period": "09/2013 to 09/2014",
+            "description": [
+                "Professionalism",
+                "Cooperated with fellow coworkers",
+                "Ability to multitask",
+                "Satisfied customer requests",
+                "Greeted customers in a friendly and welcoming manner",
+                "Answered telephones quickly and professionally",
+                "Completed daily checklists",
+                "Exceed customer and employer expectations",
+                "Reliable and willing to cover employees shifts"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma : Hospitality, Travel, and Tourism",
+            "institution": "Southwest Career and Technical Academy",
+            "year": 2014
+        },
+        {
+            "degree": "Nursing College of Southern Nevada",
+            "institution": "City , State",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified in Basic Life Support (BLS)",
+            "year": null
+        },
+        {
+            "name": "Electrocardiography Certification (EKG)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in administrative and customer service roles, reflecting strong interpersonal and organizational skills. Their experience in the hospitality industry and as a DIRECTV HR Recruiter showcases a dedication to quality and attention to detail. The nursing education provides an interesting complement to previous work experiences, indicating adaptability and continuous learning."
+}

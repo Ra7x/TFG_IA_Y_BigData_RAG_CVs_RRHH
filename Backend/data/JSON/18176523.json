@@ -1,0 +1,110 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "3Com",
+        "A+",
+        "Active Directory",
+        "Backup",
+        "Bay networks",
+        "Business Systems",
+        "Cisco",
+        "Citrix",
+        "Disaster Recovery",
+        "Engineer",
+        "Exchange",
+        "Firewall",
+        "Hub",
+        "Macintosh",
+        "Mail",
+        "Microsoft Products",
+        "Network",
+        "Netware",
+        "Office 365",
+        "Novell Netware",
+        "PC's",
+        "Red hat",
+        "Reporting",
+        "Servers",
+        "SQL"
+    ],
+    "work_history": [
+        {
+            "job_title": "Senior Information Technology Manager",
+            "company": "Company Name, City, State",
+            "period": "Jan 2000 to Jan 2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Information Systems Professional",
+            "company": "Company Name, City, State",
+            "period": "Jan 1996 to Jan 1999",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Network Support Engineer",
+            "company": "Company Name, City, State",
+            "period": "Jan 1995 to Jan 1996",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Technician",
+            "company": "Company Name, City",
+            "period": "Jan 1993 to Jan 1995",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "East Carolina University, City, State, USA",
+            "year": null
+        },
+        {
+            "degree": "Associate of Arts",
+            "institution": "University of Phoenix/WIU",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified Professional/Administrator",
+            "year": null
+        },
+        {
+            "name": "CompTIA A+",
+            "year": null
+        },
+        {
+            "name": "Network+",
+            "year": null
+        },
+        {
+            "name": "Security +",
+            "year": null
+        },
+        {
+            "name": "Novell Netware Engineer",
+            "year": null
+        },
+        {
+            "name": "Citrix Administrator",
+            "year": null
+        },
+        {
+            "name": "Red hat Administrator",
+            "year": null
+        },
+        {
+            "name": "CMA (Certified Management Accountant)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the IT sector, spanning over two decades of experience across various roles within senior management and technical positions. Their expertise includes comprehensive leadership in operations management, change management, staff development, and cross-functional team collaboration, reflecting their ability to transform high potential staff into outstanding leaders while minimizing costs such as redundant data centers. With a strong background in Microsoft Products and diverse IT skills, complemented by certifications from reputable bodies like Microsoft, CompTIA, and Citrix, the candidate represents a valuable asset for any organization committed to technological innovation and strategic leadership."
+}

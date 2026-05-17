@@ -1,0 +1,119 @@
+{
+    "full_name": "Senior Business Development Manager",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "New business acquisition",
+        "Integrity and trust",
+        "Solution development",
+        "Ethics and values",
+        "Drive for results",
+        "Personal learning",
+        "Client relationship management",
+        "Customer focus",
+        "Industry thought leadership",
+        "Priority setting",
+        "Executive presentations and communications",
+        "Motivating others"
+    ],
+    "work_history": [
+        {
+            "job_title": "Senior Account Executive",
+            "company": "Company Name - City , State",
+            "period": "December 2012 to Current",
+            "description": [
+                "Field sales role responsible for both direct client contract value retention as well as growth through contract expansion and the introduction of new products and services. The territory for this role includes specific major client accounts within State of California government and carries a sales quota of $1.25 million+ of contract value."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Business Development Manager",
+            "company": "Company Name - City , State",
+            "period": "January 2010 to December 2012",
+            "description": [
+                "Similar responsibilities to those of Business Development Manager (below), with elevated quota and account management expectations. Currently serve as Chairperson for ESI's Salesforce.com Governance Council, which identifies business performance goals, business processes and associated metrics that will be supported and managed through the Salesforce.com application platform."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Business Development Manager",
+            "company": "Company Name - City , State",
+            "period": "March 2004 to December 2009",
+            "description": [
+                "Responsible for growing ESI revenues and annual quota attainment by selling project management, contract management, and business analysis training / professional services to large military and state/local government entities in the western US and Pacific Rim."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Vice President of Sales / Partner",
+            "company": "Company Name - City , State",
+            "period": "December 2002 to March 2004",
+            "description": [
+                "Responsible for leading the SkillRamp (formerly ExecuTrain Southwest) sales team in growing IT technical certification and training program revenues to Fortune 1000 corporations and large government clients in California, Nevada and Arizona."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Vice President of Sales / Partner",
+            "company": "Company Name - City , State",
+            "period": "January 1999 to December 2002",
+            "description": [
+                "Owner/Partner with Las Vegas business, focusing on direct client relationships for IT technical certification and training programs to major corporate and government clients."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Certificate : Project Management",
+            "institution": "The George Washington University - City , State , USA",
+            "year": 2006
+        },
+        {
+            "degree": "Master of Business Administration",
+            "institution": "Brigham Young University - City , State , USA",
+            "year": 2017
+        },
+        {
+            "degree": "Bachelor of Arts : French",
+            "institution": "University of California - City , State , USA",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Gartner Winners Circle",
+            "year": 2013
+        },
+        {
+            "name": "Gartner Winners Circle",
+            "year": 2015
+        },
+        {
+            "name": "ESI International: 2011 Government Sales Contributor of the Year",
+            "year": 2011
+        },
+        {
+            "name": "ESI International: 2009 Top New Revenue Producer",
+            "year": 2009
+        },
+        {
+            "name": "ESI International: 2008 Business Development Manager of the Year",
+            "year": 2008
+        },
+        {
+            "name": "ESI International: 2007-2011 Gold Club Attainment",
+            "year": null
+        },
+        {
+            "name": "ESI International: 2005-2006 Quota Attainment",
+            "year": null
+        },
+        {
+            "name": "ExecuTrain: 1996-1997 Caribbean Club",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

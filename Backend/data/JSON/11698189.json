@@ -1,0 +1,62 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Employee Relations Specialist",
+            "company": "Company Name ï¼​ City , State",
+            "period": "02/2015 to Current",
+            "description": [
+                "Conducted Investigations and resolutions of workplace issues/inquiries from field employees and management. Served as a partner for managers and employees by ensuring application of company policies and procedures.",
+                "Created and conducted training for hourly and salaried employees. Support performance management process for all employees."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Store Operations Associate",
+            "company": "Company Name ï¼​ City , State",
+            "period": "02/2014 to 02/2015",
+            "description": [
+                "Monitored inventory control, processed physical counts of all merchandise, organized and secured all inventory (including cellular devices and accessories), and responsible for shipping and receiving of inventory. Investigated and resolved any inventory discrepancies.",
+                "Merchandising, assist with floor sets, create service desk tickets for defective equipment."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Clerical/Staff Associate IV",
+            "company": "Company Name ï¼​ City , State 02/1753",
+            "period": "01/2001 to 01/2013",
+            "description": [
+                "Verified and updated business caption listings in (database) Common Suite System using setup forms received from the Directory Marketing Unit group. Review each Directory Listing Report in detail to confirm the accuracy of the data.",
+                "Interpret, verify, analyze and input listings from advertising orders. Input payroll, provided payroll administrative support for employees."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Eastern Michigan University",
+            "year": null
+        },
+        {
+            "degree": "MBA",
+            "institution": "Davenport University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "ADP Payroll System",
+            "year": null
+        },
+        {
+            "name": "Microsoft Office Suite (Word, Excel, Outlook, Publisher and PowerPoint)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a highly skilled HR professional with extensive experience in employee relations and training. Their background includes roles in store operations and payroll administration, demonstrating strong attention to detail and organizational skills. Additionally, the candidate has demonstrated leadership through their involvement in community organizations such as the Order of the Eastern Star and the AT&T Community Network - Michigan Chapter."
+}

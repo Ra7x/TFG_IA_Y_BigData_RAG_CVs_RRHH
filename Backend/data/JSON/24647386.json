@@ -1,0 +1,60 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": "City , State",
+    "tech_stack": [
+        "Business Development",
+        "Client Relationship Builder",
+        "Alternative Transportation Specialist",
+        "Client Account Management",
+        "Contract Negotiations",
+        "Customer Driven"
+    ],
+    "work_history": [
+        {
+            "job_title": "Director of Business Development",
+            "company": "Company Name",
+            "period": "05/2009 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Bay Area General Manager",
+            "company": "Company Name",
+            "period": "02/2006 to 05/2009",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "General Manager",
+            "company": "Company Name",
+            "period": "02/2004 to 02/2006",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Operations Manager",
+            "company": "Company Name",
+            "period": "02/2003 to 02/2004",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Area Manager",
+            "company": "Company Name",
+            "period": "06/1999 to 02/2003",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Business Administration Marketing / Management",
+            "institution": "East Central University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate boasts a robust career in business development and client relationship building, with over a decade of experience driving growth and managing successful operations across various sectors. Their expertise includes strategic market expansion through new programs for Fortune 500 companies and municipal entities, along with adept contract negotiations and executive management that have led to substantial revenue generation."
+}

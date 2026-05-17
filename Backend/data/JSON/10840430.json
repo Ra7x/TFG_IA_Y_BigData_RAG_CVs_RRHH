@@ -1,0 +1,88 @@
+{
+    "full_name": "Branch Chief Information Technology Specialist",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "INFOSEC/NETOPS techniques",
+        "SCADA systems operations",
+        "Security tools and techniques",
+        "IA vulnerability tools i.e. ACAS"
+    ],
+    "work_history": [
+        {
+            "job_title": "Branch Chief Information Technology Specialist",
+            "company": "Company Name",
+            "period": "07/2014 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Specialist (INFOSEC/NETOPS)",
+            "company": "Company Name",
+            "period": "08/2009 to 07/2014",
+            "description": [
+                "Developed detailed operations plans and operations orders supporting cyber requirements at the strategic, operational, and tactical levels of cyber warfare.",
+                "Enabled crisis action planning, development of strike packages and cyber effects to protect U.S. air, land, sea, space, and cyberspace domains.",
+                "Collaborated with Defense Information Systems Agency and other US Government partners to develop and implement directives for Global Information Grid (GIG) operations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Technical Analyst",
+            "company": "Company Name",
+            "period": "09/2006 to 08/2009",
+            "description": [
+                "Technical lead on digital media projects, guided teams to solutions that leveraged technical capabilities. Defined requirements for computer-based systems that supported electronic publishing Air Force wide.",
+                "Ensured documentation of requirements for systems administration and information tasking orders.",
+                "Served as technical lead on electronic publishing development and integration teams. Ensured all development was consistent with Air Force guidance."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "IT Specialist",
+            "company": "Company Name",
+            "period": "08/1998 to 09/2006",
+            "description": [
+                "Managed computer support, cost analysis, and acquisition to support ANG work plans.",
+                "Led teams to execute Air National Guard budget for computers and associated technologies."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S",
+            "institution": "Sul Ross University",
+            "year": null
+        },
+        {
+            "degree": "B.S",
+            "institution": "Morgan State University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Security + Certified",
+            "year": "20Aug-2011"
+        },
+        {
+            "name": "Cyber 200 Advance Continuing Education Course",
+            "year": "26Sep-2010"
+        },
+        {
+            "name": "Basic Computer Operations Planner's Course",
+            "year": "24Sep-2009"
+        },
+        {
+            "name": "DISA Action Officers Course",
+            "year": "10-Dec-2009"
+        },
+        {
+            "name": "DOD Information Assurance Boot Camp",
+            "year": "06-Nov-2009"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust profile in the field of Information Technology and Cyber security, demonstrating significant expertise in both managerial and technical aspects. With over two decades of experience in various roles within the Air Force and as an IT specialist, the candidate has cultivated a comprehensive understanding of INFOSEC/NETOPS techniques, SCADA systems operations, and security tools necessary for protecting information technology infrastructure across diverse domains. Their professional journey includes notable accomplishments such as developing detailed operation plans and policies to safeguard U.S. air, land, sea, space, and cyberspace domains, which underscores their dedication to safeguarding critical national assets."
+}

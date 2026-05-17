@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Assistant",
+            "company": "Company Name",
+            "period": "September 2015 to Current",
+            "description": [
+                "Advise managers on organizational policy matters and recommend needed changes.",
+                "Conduct new employee orientation to foster positive attitudes toward organizational objectives.",
+                "Identify staff vacancies and recruit, interview, and select applicants.",
+                "Serve as a link between management and employees by handling questions, interpreting, and administering contracts and help resolve work-related problems.",
+                "Address inquires from employees and management regarding new-hire activity and ongoing employee relation issues. Created and implemented the exit interview program process.",
+                "Advise top management on appropriate employee corrective actions.",
+                "Create and modify job descriptions within all departments.",
+                "Work with senior-level management to create fair and consistent HR policies and procedures.",
+                "Work with HR advisors and HR representatives on establishing consistent hiring practices."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Experience Specialist",
+            "company": "Company Name",
+            "period": "November 2011 to September 2015",
+            "description": [
+                "Prevented store losses using awareness, attention to detail and integrity.",
+                "Cross-trained and provided back-up for other customer services representatives when needed.",
+                "Generated sales inventory reports in Excel with data from a variety of sources, maintaining a 100% accuracy rate. Prepared and sold a broad range of customized merchandise to individuals and commercial accounts. Resolved product issues and shared benefits of new technology.",
+                "Successfully interacted with customers and retail buyers to expedite orders.",
+                "Compilied weekly monetary reports and records for store managers. Maintained adequate cash supply in cash drawers in multiple checkout stations. Managed cash stock and inventory balances accurately."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Clerk/Store Manager",
+            "company": "Company Name",
+            "period": "June 2002 to January 2012",
+            "description": [
+                "Managed a team of 7 professionals.",
+                "Reduced and controlled expenses by developing an inventory controll process that was later used in all local stores. Delivered excellent customer service by greeting and assisting each customer. Addressed customer inquires and resolved complaints.",
+                "Designed and implemented customer satisfaction metrics.",
+                "Stocked and restocked inventory when shipments were received.",
+                "Reorganized the sales floor to meet company demands. Directed and supervised employees engaged in sales, inventory-taking and reconciling cash receipts. Determined staff promotions and demotions, and terminated employees when necessary. Completed weekly schedules according to payroll policies. Maintained daily records of all transactions.",
+                "Wrote order supply requests to replenish merchandise."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "BACHELOR OF ARTS : ORGANIZATIONAL LEADERSHIP MANAGEMENT AND HUMAN RESOURCE MANAGEMENT",
+            "institution": "Lourdes College",
+            "year": 2011
+        },
+        {
+            "degree": "ASSOCIATE OF ARTS",
+            "institution": "Lourdes College",
+            "year": 2006
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in HR Generalist roles with experience coaching and training staff, managing employee relations, and handling recruitment. Their ability to advise top management on corrective actions and develop fair HR policies indicates strong organizational and problem-solving skills. The transition from clerk to store manager showcases leadership capabilities and financial acumen. Their educational background in Organizational Leadership Management and Human Resource Management aligns well with the responsibilities outlined."
+}

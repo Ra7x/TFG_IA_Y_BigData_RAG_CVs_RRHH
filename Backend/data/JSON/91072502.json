@@ -1,0 +1,70 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Premium Club Chef",
+            "period": "01/2014 to Current",
+            "description": [
+                "Directly responsible for food and labor costs, menu development, recipe creation and standardization of recipe production to ensure consistency.",
+                "Promote positive public relations with guests.",
+                "Oversaw kitchen employee operations to maintain production levels and service standards."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Pastry Chef",
+            "company": "Company Name",
+            "period": "03/2013 to 01/2014",
+            "description": [
+                "Ensure brand quality, consistency and adherence to standards.",
+                "Designed kitchen and set up pastry department operations.",
+                "Developed menu and implement new items for home stands."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Pastry Chef",
+            "company": "Company Name",
+            "period": "06/2012 to 03/2013",
+            "description": [
+                "Ordered and controlled inventory.",
+                "Developed menu and implement daily specials."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name",
+            "period": "09/2001 to 09/2003",
+            "description": [
+                "Created all menus, oversaw all savory and sweet food production and kitchen staff.",
+                "Oversaw 30 cooks and 2 Sous Chefs as part of overall back of the house operations."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Executive Pastry Chef",
+            "company": "Company Name",
+            "period": "04/1991 to 05/1995",
+            "description": [
+                "Initially set up and coordinated all pastry department operations for the company managing four restaurants and a catering company on Pier 39.",
+                "Supervised and evaluated staff, implemented budgets, forecasted trends and negotiated prices with vendors."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Occupational Studies",
+            "institution": "The Culinary Institute of America",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate boasts a wealth of experience in the culinary industry, spanning over two decades. With positions ranging from Executive Chef to Pastry Chef and even serving as an instructor at a prestigious culinary school, this professional has honed their skills in menu development, cost control, and staff management across various dynamic venues. Their ability to adjust menus based on seasonal ingredients demonstrates a proactive approach to sustainability and innovation within the food industry."
+}

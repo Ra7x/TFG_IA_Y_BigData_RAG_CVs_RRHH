@@ -1,0 +1,101 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Administrative",
+        "Analyst",
+        "Computer Programmer",
+        "Configuration Management",
+        "Critical Thinking",
+        "Data Analysis",
+        "Decision Making",
+        "Documentation",
+        "Financial",
+        "First Aid",
+        "Forms",
+        "Human Resources",
+        "Inspection",
+        "Listening",
+        "Logistics",
+        "Management Information System",
+        "Navy",
+        "Naval",
+        "Personnel",
+        "Public Safety",
+        "Sorting",
+        "Safety",
+        "Security Clearance",
+        "Supervising",
+        "System Administrator",
+        "Technician",
+        "Training Programs",
+        "Video"
+    ],
+    "work_history": [
+        {
+            "job_title": "Force Analyst",
+            "company": "Company Name",
+            "period": "May 2013 to Current",
+            "description": [
+                "Developed and led training programs in preparation for combat.",
+                "Served as custodian of classified documents for high-ranking officials while sorting and routing incoming correspondence and messages. Maintained 100% accountability of all assigned equipment worth more than $120,000, while tracking personnel and supplies within the command.",
+                "Communicated urgent orders and directions effectively to team of 20+ personnel.",
+                "Prepared reports and correspondence: determine requirements for requisition and control issue of change kits; requisition departmental instructions, forms, and technical data; organize, maintain, and operate technical libraries; perform others duties as required when attached to organization, intermediate, and department maintenance activities or aviation staff command.",
+                "Currently working in a position that is generally held by a seasonal administrative assistance taking care of ingoing and outing going calls. The setting up of Video Teleconfence and making orders on the Defense Travel System."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Aviation Maintenance Admin/AZ1",
+            "company": "Company Name",
+            "period": "March 2009 to May 2013",
+            "description": [
+                "Ensured system security, database integrity and configuration management was maintained.",
+                "Supervised other enlisted active duty members in training while overseeing various job tasks of others.",
+                "Optimized NALCOMIS OMA activities and Naval Aviation Logistics Data Analysis for configuration changes, technical directives, work orders, and flight documents."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Correctional Officer",
+            "company": "Company Name",
+            "period": "March 2005 to March 2009",
+            "description": [
+                "Physically restrained individuals when disturbances required physical intervention. Escorted inmates to and from cells, court, hospitals and medical appointments.",
+                "Maintained the custody and control of 114 inmates housed in maximum security unit.",
+                "Observed behavior of residents individually and in group Established healthy relationships and maintained professional boundaries with resident offenders in the institution.",
+                "Prepared, processed and maintained forms, reports, logs, records and activity journals."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Arts",
+            "institution": "Homeland Security & Intelligence Studies Degree",
+            "year": null
+        },
+        {
+            "degree": "BA",
+            "institution": "Homeland Security, AAS: Process Technology",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "FEMA IS-00100.B Certificate",
+            "year": null
+        },
+        {
+            "name": "FEMA IS-00559 Certificate",
+            "year": null
+        },
+        {
+            "name": "Treasurer for Military MWR",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate, with a strong background in criminal justice and homeland security, is transitioning from the US Navy to civilian professional. They bring over ten years of combined experience and education in emergency planning, firearms safety handling, and personnel management, showcasing their skills in critical thinking, decision making, and public safety. Their proficiency in managing databases and technical systems supports a strong profile for roles requiring analytical and administrative prowess."
+}

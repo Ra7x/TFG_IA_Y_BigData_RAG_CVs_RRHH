@@ -1,0 +1,56 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Driver",
+            "company": "Company Name",
+            "period": "July 2017 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Biological Science Technician",
+            "company": "Company Name",
+            "period": "February 2016 to June 2017",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Courier",
+            "company": "Company Name",
+            "period": "May 2015 to January 2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Laborer",
+            "company": "Company Name",
+            "period": "September 2003 to July 2008",
+            "description": [
+                "- Completed all repairs and maintenance work to company standards",
+                "- Planned work and determined appropriate tools and equipment",
+                "- Took care of facility grounds",
+                "- Kept supervisor informed of job progress and material requirements"
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "Contra Costa College",
+            "year": 2013
+        },
+        {
+            "degree": "Associate of Arts",
+            "institution": "Contra Costa College",
+            "year": 2013
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a strong background in both practical and scientific fields, with experience in vineyard maintenance and property management as well as customer service roles. Their roles require a high level of attention to detail, dependability, and interpersonal skills, which align well with the responsibilities typically undertaken by a biological science technician. Additionally, their tenure in courier roles indicates adaptability and efficiency in delivering tasks within the tech-based sector."
+}

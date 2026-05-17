@@ -1,0 +1,77 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Aircraft engines",
+        "Auxiliary power units",
+        "Propellers & rotor systems",
+        "Power train systems",
+        "Airframe and systems-specific electrical components",
+        "Maintaining and repairing aircraft fuselages",
+        "Wings, rotor blades, fixed and movable flight control surfaces",
+        "Bleed aircraft air, hydraulic, and fuel systems"
+    ],
+    "work_history": [
+        {
+            "job_title": "Aviation Maintenance Technician",
+            "company": "Company Name",
+            "period": "2010-2014",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "United States Ceremonial Honor Guardsman",
+            "company": "Company Name",
+            "period": "2007-2010",
+            "description": [
+                "Hand selected by Drill Instructors to serve two years in the Coast Guard Honor Guard stationed in Washington D.C. where I represented the Coast Guard in high profile events around the world."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Setup Department Mechanic",
+            "company": "Company Name",
+            "period": "2005-2007",
+            "description": [
+                "Worked for the largest motorcycle dealer/maintenance company in Reno Nevada.",
+                "In charge of three personnel to build and deliver new vehicles and repair and deliver used vehicles under strict time constraints."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Nevada Reno",
+            "year": null
+        },
+        {
+            "degree": "Aviation Maintenance Aviation Maintenance School",
+            "institution": "",
+            "year": null
+        },
+        {
+            "degree": "Aviation Engineering Ashford University",
+            "institution": "",
+            "year": null
+        },
+        {
+            "degree": "Associate of Science Truckee Meadows Community College",
+            "institution": "",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Aviation Maintenance School",
+            "year": null
+        },
+        {
+            "name": "Aeronautical Engineering Embry Riddle University",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate stands out with a comprehensive background in aviation maintenance, covering both mechanical and electrical subsystems. With experience in troubleshooting and repairs across various aircraft components and systems, complemented by roles in ceremonial military support, this individual demonstrates practical skills and dedication to safety and efficiency. Their educational trajectory from motorcycle mechanic to specialized aviation engineer showcases adaptability and deep industry knowledge."
+}

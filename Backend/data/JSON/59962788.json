@@ -1,0 +1,53 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "C",
+        "C++",
+        "English",
+        "Hindi",
+        "Java",
+        "Microsoft Office",
+        "SQL",
+        "Visual Basic 6.0"
+    ],
+    "work_history": [
+        {
+            "job_title": "HR Executive",
+            "company": "Company Name",
+            "period": "11/2012 to 09/2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA: Human Resource",
+            "institution": "Crescent Business School",
+            "year": null
+        },
+        {
+            "degree": "High School: Computer Science",
+            "institution": "Lady Sivaswami girls Higher Secondary School",
+            "year": null
+        },
+        {
+            "degree": "B.E: Computer Science Engineering",
+            "institution": "Lord Venkateshwaraa Engineering College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Professional in Human Resources certificate (PHR)",
+            "year": null
+        },
+        {
+            "name": "Certified Associate in Project Management (CAPM) certification",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background in human resources with extensive experience in developing company policies, conducting orientations, and handling employee relations. Their involvement in projects such as the Organizational Climate study at Ashok Leyland's corporate office highlights their analytical capabilities and project management skills. The candidate's technical skills are well-rounded, including proficiency in C, C++, Java, and using Microsoft Office, SQL, and Visual Basic 6.0. Their language skills encompass English, Hindi, and a foundation in multiple programming languages."
+}

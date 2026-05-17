@@ -1,0 +1,94 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Development Manager/Program Director",
+            "company": "Company Name",
+            "period": "February 2014 to Current",
+            "description": [
+                "Designed and implemented a strategic marketing initiative for First Interstate Bank entitled, \"Bank of the Future.\" Market share and revenue grew by over 300%.",
+                "Developed sales training protocols for ADP's new \"P.C. Payroll\" product line which eventually dominated the market.",
+                "Recruited, trained and managed an agent sales force for AT&T's GBS Division which grew to in excess of 250 million dollars in revenue per year."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Program Director",
+            "company": "Company Name",
+            "period": "September 2011 to January 2015",
+            "description": [
+                "Senior Counselor November 2008 to August 2011",
+                "Substance Abuse Counselor August 2006 to November 2008",
+                "Substance Abuse Counselor September 1993 to August 2006"
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chief Executive Officer",
+            "company": "Company Name",
+            "period": "January 1990 to May 1993",
+            "description": [
+                "Managed the day-to-day tactical and long-term strategic activities within the business.",
+                "Capitalized on industry changes to maximize company revenue.",
+                "Conducted cost, schedule, contract performance, variance and risk analysis."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Territorial Manager",
+            "company": "Company Name",
+            "period": "April 1988 to January 1990",
+            "description": [
+                "Spearheaded Agent Program, resulting in a 300% increase in revenue.",
+                "Trained all sales agents to up-sell add-on services to existing customers, generating incremental revenue and creating relationship-selling."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "District Manager",
+            "company": "Company Name",
+            "period": "May 1986 to March 1988",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Credit/Marketing Manager V.P",
+            "company": "Company Name",
+            "period": "March 1984 to April 1986",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Ph.D: Business Administration",
+            "institution": "California Coast University",
+            "year": 2003
+        },
+        {
+            "degree": "MBA: Business Administration",
+            "institution": "California Coast University",
+            "year": 2002
+        },
+        {
+            "degree": "Bachelor of Science: Business Administration",
+            "institution": "California Coast University",
+            "year": 2000
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Addictions Studies",
+            "year": 2006
+        },
+        {
+            "name": "Hospital Corpsman/Psychiatric Technician",
+            "year": 1980
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "Summary not generated."
+}

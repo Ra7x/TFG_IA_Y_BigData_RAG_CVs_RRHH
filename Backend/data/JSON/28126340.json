@@ -1,0 +1,67 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Transact SQL",
+        "PL/SQL",
+        "Classic ASP",
+        "ASP.net",
+        "HTML",
+        "DHTML",
+        "XML",
+        "JavaScript",
+        "CSS",
+        "MS SQL Server 6.5, 7, 2000 and 2005",
+        "My SQL",
+        "Oracle 9i",
+        "PHP 4.0 - 5.0",
+        "MySQL 4",
+        "MS Windows",
+        "MS Office",
+        "Minitab",
+        "Business Objects",
+        "Adobe CS3 Web Edition",
+        "Visual Studio",
+        "Frontpage",
+        "PaintShop Pro"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Coordinator",
+            "company": "Provide technical support throughout the office from building and managing the web presence, networking computers and other office equipment as well as researching grant opportunities for the implementation of a technology component for the Leadership SOAR program.",
+            "period": "Nov 2003 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "As webmaster I was responsible for the wing-to-wing implementation of online solutions for small businesses using the full System Development Life Cycle.",
+            "period": "Jun 2003 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Intranet Application Support Analyst",
+            "company": "Key responsibilities were to manage the timeliness and accuracy of system parameter setups and data migration of files for private label and bank card projects.",
+            "period": "Jan 2003 to Jul 2007",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree, Computer Information Systems",
+            "institution": "DeVry University",
+            "year": "9/2000 - 6/2004"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Six Sigma Green Belt Certified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has demonstrated extensive experience in IT project management, software development, and database administration. With a strong background in ASP/ASP.NET, MS SQL Server, and MySQL, they have successfully managed numerous projects including the implementation of rewards and recognition systems (Ovations!) and time and attendance solutions (Kronos TM Workforce Central). Their ability to lead project teams across various functions and improve system efficiency through strategic use of technology is evident in their track record. The candidate's leadership in database migrations from MS SQL Server 6.5 to 2000, reflecting a deep understanding of complex system integration challenges, highlights their expertise in technical innovation and problem-solving."
+}

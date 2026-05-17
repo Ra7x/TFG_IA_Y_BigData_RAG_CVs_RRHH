@@ -1,0 +1,44 @@
+{
+    "full_name": "GUNNERY SERGEANT Core Qualifications",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Gunnery Sergeant",
+            "company": "Specialist Company Name",
+            "period": "January 1997 to January 2014",
+            "description": [
+                "Administered, designed, installed, maintained, and repaired network data communication links and fiberoptic cabling.",
+                "Supported a myriad of computer and network operating systems and servers.",
+                "Provided direct hardware and software support, installation/configuration support for over 5000 users, computers, laptop, printers, and peripherals.",
+                "Manage, supervised, and trained over 40 personnel at any given time during multiple work shifts in a constantly changing environment. Implemented policies and directives to streamline and maximize productivity of all personnel.",
+                "Maintained Windows and Linux/Unix HP-UX based servers performing data management, backups and restore, troubleshooting and preventative maintenance to ensure minimal downtime and increased productivity throughout entire organization.",
+                "Oversaw the successful completion of several windows platform migration workstation and server Network administration, design, and installation utilizing fiber-optic, tactical fiber-optic cabling, and Cat 5 cabling allowing for quick and efficient reorganization of IT assets Cisco and Alcatel switch and router installation and administration, ADP trained Responsible officer for all IT assets in Unit and responsible for maintaining an accurate inventory of over 3000 computers, printers, and peripherals.",
+                "Information assurance manager (IAM) for Organization, ensured compliance with DOD IA standards."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "MAGTF Planning Specialist",
+            "company": "Baghdad, Iraq",
+            "period": null,
+            "description": [
+                "Responsible for logistical support; typical duties included updating plan and information to unit-level detail and operating/managing force deployment planning's automated data processing tools.",
+                "Created force reports and properly formatted and forwarded electronic mail, files and newsgroup message traffic. Provided support in preparing, planning, mapping, and tracking routes for over 50 personnel on daily basis. Developed reports for Supervisors on a weekly basis using Command Post of the Future (CPOF) system. Maintained constant contact with personnel providing the needed support.",
+                "This resulted in zero loss of personnel and assets saving the government about $50 to $100 million."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Columbia Southern University",
+            "year": 2012
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust background characterized by extensive experience in Information Technology and leadership roles, particularly within the military context. With over sixteen years of service spanning multiple positions that heavily rely on technical skills such as network administration and data management, this candidate demonstrates expertise in maintaining critical systems that are crucial for smooth operational continuity within an organization."
+}

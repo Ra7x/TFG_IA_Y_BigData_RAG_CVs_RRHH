@@ -1,0 +1,39 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Aviation Electronics Technician",
+            "company": "",
+            "period": "January 2003 to November 2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters of Business Administration (MBA)",
+            "institution": "SAINT LEO UNIVERSITY",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Arts (BA)",
+            "institution": "Saint Leo University",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a highly skilled and successful professional with solid and diverse experience in comprehensive military and civilian leadership settings. With an MBA from Saint Leo University and a BA in Accounting, the candidate demonstrates exceptional management skills, including proficiency in Human Resources and Financials, outstanding ability to effectively oversee complex projects, and strong communication and leadership qualities. Their background in aviation electronics positions them as a strategic leader with experience managing personnel and maintaining detailed records of equipment and policies."
+}

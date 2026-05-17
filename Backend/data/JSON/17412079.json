@@ -1,0 +1,56 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "HR Partner",
+            "company": "HR Consulting Company Name",
+            "period": "07/2009 to 01/2014",
+            "description": [
+                "Experienced in all facets of the Human Resource Function, including recruiting, onboarding, performance management, employee retention, staff development, mediation, conflict resolution, benefits and compensation, HR records management, and HR policies.",
+                "Led efforts to reduce employee attrition by 5% through strategic initiatives aimed at boosting morale and engaging employees."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Coordinator",
+            "company": "Company Name",
+            "period": "07/2008 to 05/2009",
+            "description": [
+                "Assisted in various HR responsibilities including recruitment, onboarding, and performance management."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "HR Assistant",
+            "company": "Company Name",
+            "period": "05/2007 to 06/2008",
+            "description": [
+                "Started as an HR assistant, gaining experience in all aspects of HR before transitioning into a more senior role."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA Human Resource Management",
+            "institution": "KIMS University Karnataka University",
+            "year": null
+        },
+        {
+            "degree": "Bachelors of Commerce",
+            "institution": "BNDC University Karnataka University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PHR",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "This candidate brings a robust background in HR generalist affairs, particularly notable for their success in reducing employee attrition by 5% through engaging initiatives. Their experience spans across recruitment, onboarding, performance management, and conflict resolution, which are crucial areas demonstrating strong leadership and people management skills."
+}

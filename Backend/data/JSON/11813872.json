@@ -1,0 +1,63 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Oracle Exadata",
+        "Amazon Redshift",
+        "AWS",
+        "SQL",
+        "Python",
+        "Java",
+        "Apache Ignite",
+        "Pandas",
+        "Matplotlib"
+    ],
+    "work_history": [
+        {
+            "job_title": "VP, Principal",
+            "company": "",
+            "period": null,
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Senior Software Engineer",
+            "company": "",
+            "period": null,
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Database Developer",
+            "company": "",
+            "period": null,
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Computer Science And Programming",
+            "institution": "QAU",
+            "year": null
+        },
+        {
+            "degree": "CFA Level 1",
+            "institution": "CFA Institute",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Oracle Certified Professional",
+            "year": 2001
+        },
+        {
+            "name": "Certified AWS Certified Cloud Practitioner - 2020",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a highly skilled and experienced IT professional with over two decades of experience in the financial industry, focusing on providing advanced data solutions using innovative database technologies. With extensive expertise in roles involving mission-critical systems for OLTP, OLAP, and HTAP workloads, along with hands-on leadership in Agile development methodologies like JIRA, the candidate has been instrumental in delivering cutting-edge products that have significantly benefited both the firm and clients. A growth mindset professional, continuously learning and adapting to overcome challenges faced during his career, the candidate's philosophy of '4LT (Listen, Learn, Love, Lead and earn Trust)' reflects their leadership approach."
+}

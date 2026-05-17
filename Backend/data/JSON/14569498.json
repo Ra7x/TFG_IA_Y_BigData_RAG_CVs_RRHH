@@ -1,0 +1,51 @@
+{
+    "full_name": "Chef Owner",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Executive Chef",
+            "company": "Company Name",
+            "period": "01/2010 - 09/2012",
+            "description": [
+                "Management of all financial and personnel records.",
+                "Recruit, interview and train staff while ensuring health and safety standards.",
+                "Development of marketing strategy responsible for doubling the sales in one year."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sous Chef",
+            "company": "Company Name",
+            "period": "12/2003 - 12/2006",
+            "description": [
+                "Oversaw all aspects relating to culinary operations including kitchen supply and inventory, maintaining government regulations, and monitoring customer satisfaction.",
+                "Menu development as well as food preparation.",
+                "Food and Nutrition Department."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Chef",
+            "company": "Company Name",
+            "period": "11/2001 - 12/2003",
+            "description": [
+                "Conducted daily pre-shift and weekly departmental meetings to ensure organizational efficiency.",
+                "Scheduled and directed staff in daily work assignments to maximize productivity.",
+                "Efficiently resolved problems or concerns to the satisfaction of all involved parties."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts : Culinary Arts",
+            "institution": "Los Angeles Culinary Instituted",
+            "year": 1994
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate's profile stands out with extensive experience as an Executive Chef, Sous Chef, and Chef across various culinary operations. Their expertise in managing high-volume food services and successful menu development showcases strong leadership and operational skills. With a background that spans financial management of personnel records and direct involvement in recruitment and training, the candidate demonstrates comprehensive responsibility from kitchen to marketing. This robust experience combined with a degree from Los Angeles Culinary Institute positions them strongly within culinary leadership roles."
+}

@@ -1,0 +1,85 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "System administration",
+        "Windows Server 2003",
+        "Windows Server 2008",
+        "VMware",
+        "Active Directory",
+        "Microsoft Exchange 2013",
+        "Large computer networks",
+        "Linux",
+        "Mac OS",
+        "Microsoft Dynamics",
+        "Access Control",
+        "Security",
+        "Cisco Certified Network Associate (CCNA)",
+        "Certified Security Professional (CCSP)"
+    ],
+    "work_history": [
+        {
+            "job_title": "Manager - Information Technology and Building Automation Systems",
+            "company": "Company Name",
+            "period": "October 2014 to Current",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Systems Technician",
+            "company": "Company Name",
+            "period": "July 2008 to July 2014",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science : Computer & Information Science",
+            "institution": "University of Houston",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science : Management of Information Systems",
+            "institution": "University of Maryland University College",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Naval Information Systems Technician - First Class Petty Officer (E6)",
+            "year": null
+        },
+        {
+            "name": "Information Systems Security Professional (CISSP)",
+            "year": null
+        },
+        {
+            "name": "Microsoft Certified Systems Administrator (MCSA)",
+            "year": null
+        },
+        {
+            "name": "PMI - Project Management Professional (PMP)",
+            "year": null
+        },
+        {
+            "name": "ISA - Certified Automation Professional",
+            "year": null
+        },
+        {
+            "name": "Cisco Certified Network Associate (CCNA)",
+            "year": null
+        },
+        {
+            "name": "Certified Network Professional (CCNP)",
+            "year": null
+        },
+        {
+            "name": "Certified Security Professional (CCSP)",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a robust professional profile in the field of Information Technology and Building Automation Systems, marked by extensive experience managing IT infrastructures for large organizations. With a strong background in enterprise project lifecycle management and product support, the candidate has demonstrated expertise across multiple facets of information technology, from network infrastructure to user experience design. The certifications held by the candidate, including PMP and various Cisco and ISC2 certifications, are indicative of continuous professional development and deep technical knowledge in their field. Moreover, the leadership displayed through managing teams and delivering detailed feature roadmaps highlights strategic thinking and team management skills crucial for senior IT positions."
+}

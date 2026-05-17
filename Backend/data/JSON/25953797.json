@@ -1,0 +1,61 @@
+{
+    "full_name": "Head Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Head Chef",
+            "company": "Company Name",
+            "period": "2014-2016",
+            "description": [
+                "Developed menus",
+                "took monthly inventory",
+                "made weekly kitchen schedule",
+                "responsible for all ordering."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Line Cook",
+            "company": "Company Name",
+            "period": "2011-2014",
+            "description": [
+                "Worked as part of a team preparing ingredients and dishes to be served at a reputable restaurant."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Intern",
+            "company": "Robert Morris University",
+            "period": "2011-2011",
+            "description": [
+                "Assisted the Associate Dean of Culinary Arts in developing the menu for the University's restaurant, Eyrie."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science Degree",
+            "institution": "Robert Morris University",
+            "year": 2011
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Culinary Arts",
+            "year": 2011
+        },
+        {
+            "name": "Food Service Sanitation",
+            "year": null
+        },
+        {
+            "name": "ServSafe",
+            "year": 2011
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "A dedicated and passionate culinary professional with over four years of experience in the industry, seeking to leverage their education and practical skills in a professional kitchen environment. Demonstrated ability to lead as Head Chef, managing menus and inventory while overseeing ordering processes effectively. Passionate about contributing to a team within the culinary field."
+}

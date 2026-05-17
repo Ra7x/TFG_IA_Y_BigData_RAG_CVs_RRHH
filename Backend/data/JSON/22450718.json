@@ -1,0 +1,66 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "System administration",
+        "UNIX system performance monitoring",
+        "Team player and self-starter",
+        "J2EE",
+        "Oracle",
+        "Unix O/S",
+        "Linux",
+        "LDAP",
+        "Database",
+        "Service Oriented Architecture",
+        "Physical architectures",
+        "Mainframe",
+        "Remedy",
+        "Virtual Machine",
+        "MS Office (Word, PowerPoint, Excel, Outlook)",
+        "Network management"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name ï¼​ City , State",
+            "period": "Sep 2013 to Dec 2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Engineer",
+            "company": "Company Name ï¼​ City , State",
+            "period": "May 2010 to Sep 2013",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Systems Engineer Associate",
+            "company": "Company Name ï¼​ City , State",
+            "period": "Feb 2009 to May 2010",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Science",
+            "institution": "Prairie View A&M University",
+            "year": null
+        },
+        {
+            "degree": "Computer Engineering Technology",
+            "institution": "Prairie View A&M University",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "CompTIA Security + CE SY0-401",
+            "year": null
+        }
+    ],
+    "english_level": "High proficiency level",
+    "matchmaking_summary": "The candidate stands out with a robust skill set encompassing system administration, UNIX and Linux systems management, database administration, and network management. With several years of experience in the IT sector, notably within roles that required troubleshooting complex infrastructure for multiple applications, they have demonstrated strong analytical and problem-solving abilities. Their proficiency in MS Office suite (Word, Excel, PowerPoint) is a notable asset, enhancing their capability to manage technical documentation and create detailed reports. Furthermore, their involvement with engineering projects such as the integration of new software modules within an enterprise environment indicates adaptability and continuous learning within technology practices."
+}

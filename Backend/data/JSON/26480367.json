@@ -1,0 +1,65 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "TCP/IP",
+        "Network monitoring tools",
+        "Storage management",
+        "Desktop support procedures",
+        "Active Directory",
+        "Software installation and maintenance",
+        "Microsoft Office applications",
+        "Windows Server installations",
+        "Python applications",
+        "Front Page",
+        "HTML"
+    ],
+    "work_history": [
+        {
+            "job_title": "IT Technology Specialist",
+            "company": "Company Name",
+            "period": "09/2015 to 04/2016",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Field Service Tech",
+            "company": "Company Name",
+            "period": "03/2014 to 04/2015",
+            "description": [],
+            "technologies": []
+        },
+        {
+            "job_title": "Information Technology Specialist",
+            "company": "Company Name",
+            "period": "08/2010 to 09/2006",
+            "description": [],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "National American University",
+            "year": null
+        },
+        {
+            "degree": "Business Computer Programming Associate/Degree",
+            "institution": "Robeson Community College",
+            "year": "May-92"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Comptia Network",
+            "year": "February-14"
+        },
+        {
+            "name": "Comptia A",
+            "year": "February-14"
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong background in information technology, with extensive experience troubleshooting hardware and software issues, managing networks, and providing support across various systems. Their skills include proficiency in TCP/IP, network monitoring tools, storage management, active directory setup, and software installation and maintenance. The candidate's professional history includes roles where they have successfully led projects, provided onsite training, and offered technical solutions to hardware and software challenges for clients."
+}

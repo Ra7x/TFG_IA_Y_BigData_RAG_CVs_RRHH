@@ -1,0 +1,88 @@
+{
+    "full_name": "Senior Sous Chef",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "Sous Vide cooking",
+        "Atlas Menu development",
+        "Experience working Carpedia",
+        "Talent development",
+        "Modernist cooking knowledge"
+    ],
+    "work_history": [
+        {
+            "job_title": "Senior Sous Chef",
+            "company": "Company Name, City , State",
+            "period": "04/2016 to Current",
+            "description": [
+                "Oversee three different outlets.",
+                "Improved Restaurant Quality of Food by 6 points in 2 years.",
+                "Developed menus for breakfast, lunch and dinner.",
+                "Achieved 87 for Associate Engagement Survey during my leadership.",
+                "Worked extremely close with Carpedia (consulting firm).",
+                "Currently managing 3 managers and over 60 associates."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Sous Chef",
+            "company": "Company Name, City , State",
+            "period": "04/2015 to 04/2016",
+            "description": [
+                "Oversaw the pm culinary operations.",
+                "Improved quality of food scores by 3 points during first year on the job.",
+                "Trained and developed new Assistant Sous Chef and lead cook."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Assistant Sous Chef",
+            "company": "Company Name, City , State",
+            "period": "12/2014 to 04/2015",
+            "description": [
+                "Made schedules.",
+                "Scored an 82 on the AES survey.",
+                "Bridged the gap between AM and PM.",
+                "Attended WIG sessions."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Kitchen Supervisor",
+            "company": "Company Name, City , State",
+            "period": "02/2014 to 12/2014",
+            "description": [
+                "Oversaw the AM shift.",
+                "Part of a renovation (M Club).",
+                "Did scheduling and ordering for the hotel restaurant."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Banquet Cook 2(Lead Cook)",
+            "company": "Company Name, City , State",
+            "period": "02/2014 to 12/2014",
+            "description": [
+                "Attended daily BEO meetings.",
+                "Prepped and fired functions for upwards of 1500 guests.",
+                "Prepared tastings for VIP clients."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED",
+            "institution": "General SWIC, City , State, United States",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "2014 silver medal winner in New Orleans Wine and Food Experience",
+            "year": 2014
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a highly skilled Senior Sous Chef with extensive experience leading culinary teams, managing large-scale events, and developing menus. With nine years in the industry, their focus on quality and innovation through modern cooking techniques has undoubtedly contributed to successful outcomes at various establishments. Their skills in sous vide cooking, menu development, and talent mentorship make them an asset for any organization prioritizing culinary excellence."
+}

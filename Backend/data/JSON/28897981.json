@@ -1,0 +1,65 @@
+{
+    "full_name": "Information Technology Specialist (Web), GS-11",
+    "summary": null,
+    "location": null,
+    "tech_stack": [
+        "MS SharePoint",
+        "MS Access",
+        "Adobe Suite",
+        "Linux",
+        "Windows"
+    ],
+    "work_history": [
+        {
+            "job_title": "Information Technology Specialist (Web), GS-11",
+            "company": "City , State",
+            "period": "08/2013 to 02/2016",
+            "description": [
+                "Over two years of planning, coordinating, and identifying business and research functions, resources and services working with the Forest Services' Climate Change Resource Center (CCRC).",
+                "Coordinated testing and improvement of Chief of Information Office (CIO) Virtual Machine Primer training guide, for use by the Forest Service IT specialist, to transform web services to a Content Management System, using Drupal with Linux platform. Established a prototype site for training web team members, in preparations for migration to a new content management system.",
+                "Instrumental in researching, planning and collaborating with teams in the Forest Service to increase the knowledge base of Drupal, SharePoint and eBooks for PNWRS, R&D and members CIO/WO levels. Apply federal, department, and agency web regulations and policies."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Assistant, GS-5",
+            "company": "City , State",
+            "period": "03/2010 to 08/2013",
+            "description": [
+                "Managed internet and intranet sites.",
+                "- Created and modified publication database entries within the Forest Services' Research Information Tracking System (RITS). Administered SharePoint sites. Provide group and one-on-one training to staff and new site owners."
+            ],
+            "technologies": []
+        },
+        {
+            "job_title": "Computer Department Intern",
+            "company": "City , State",
+            "period": "09/2008 to 06/2009",
+            "description": [
+                "- Designed and proto-typed a web-based, IT assets inventory tracking system, using Linux, Apache, MySQL, PHP, HTML, and CSS. Assisted all levels of school districts technical staff, with projects and day to day operations.",
+                "- Planned and deploying technology for teachers and students in the Camas School District, including software migration, computer and server upgrades."
+            ],
+            "technologies": []
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "Warner Pacific University , City , State , USA",
+            "year": null
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Eastern Washington University , City , State , USA",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "ITIL Foundation",
+            "year": 2016
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate is a seasoned IT professional with over two years of experience in the Forest Service's Climate Change Resource Center (CCRC), demonstrating excellent skills in systems applications, customer services, and technology adoption to meet business needs. Their background includes expertise in MS SharePoint, MS Access, Adobe Suite, Linux, Windows, and maintaining strong interpersonal skills through various technologies like Skype, WebEx, Adobe Connect, and MS Lync. The candidate's career progression highlights their ability to adapt quickly to new technological environments and effectively communicate complex information to diverse teams."
+}

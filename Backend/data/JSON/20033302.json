@@ -1,0 +1,62 @@
+{
+    "full_name": "Candidate Name",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Business Manager",
+            "company": "Company Name - City , State",
+            "period": "07/2008 to Current",
+            "description": [
+                "Devise and execute growth strategies entailing market penetration, expansion, product development, diversification, new customer acquisition, and targeted marketing campaigns.",
+                "Formulate and administer policies and procedures to increase profit margins and decrease operations expenses.",
+                "Manage and guide 18 team members."
+            ],
+            "technologies": [
+                "Strategic vendor negotiations",
+                "Inventory management software deployment",
+                "Employee training programs",
+                "Sanitation and food safety standards"
+            ]
+        },
+        {
+            "job_title": "Manager",
+            "company": "Company Name - City , State",
+            "period": "05/2002 to 06/2008",
+            "description": [
+                "Managed a #1 Texas location in profit and revenue generation.",
+                "Supervised all staff hiring, onboarding, training, retention initiatives, performance appreciation, and disciplinary action."
+            ],
+            "technologies": [
+                "Customer loyalty program",
+                "Staff management",
+                "Labor cost reevaluation",
+                "Energy-efficient equipment installation"
+            ]
+        },
+        {
+            "job_title": "Senior Tax Specialist",
+            "company": "Company Name - City , State",
+            "period": "01/2015 to 04/2017",
+            "description": [
+                "Prepared and filed over 500 State and Federal tax returns for individuals, businesses, and charities.",
+                "Collaborated with taxpayers in notice correspondence management, audit preparation, and representation."
+            ],
+            "technologies": [
+                "IRS accredited training courses",
+                "Tax preparer seniority position"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Saint Joseph University",
+            "year": null
+        }
+    ],
+    "certifications": [],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in business management with expertise in accounting, taxes, marketing, and sales. Their experience spans across various operational strategies for corporate financial health, demonstrating strong leadership abilities and the capacity to handle complex challenges within teams. The ability to manage profit and loss statements and foster overall operations while focusing on detailed aspects is indicative of their professional acumen."
+}

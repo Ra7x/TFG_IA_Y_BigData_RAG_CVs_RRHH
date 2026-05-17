@@ -1,0 +1,88 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Communications Director/Event Planner",
+            "company": "Company Name ï¼​ City , State",
+            "period": "January 2008 to April 2014",
+            "description": [
+                "Created and launched a comprehensive communications program for the Department, resulting in increased visibility and awareness of the Department's activities.",
+                "Developed and executed media plans, including social and paid media.",
+                "Organized and managed all details of the Department's annual event showcasing Iowa's centenarians, securing attendance by Iowa's governor and lieutenant governor."
+            ],
+            "technologies": [
+                "media plans",
+                "social media",
+                "public relations"
+            ]
+        },
+        {
+            "job_title": "Director of Communications",
+            "company": "Company Name ï¼​ City , State",
+            "period": "January 2000 to December 2007",
+            "description": [
+                "Successfully led all external communication efforts for the Department, including handling publicity and working closely with the media.",
+                "Increased visibility and awareness of the Department's activities.",
+                "Liaison for the Department with several agricultural-based committees and advisory teams, collaborating on various initiatives to increase public knowledge and raise funds.",
+                "Conceptualized and authored News To Grow On column for the Iowa Secretary of Agriculture, which ran in rural newspapers and other printed media outlets throughout Iowa.",
+                "Administered The Good Neighbor Award, a first-in-the-nation initiative that honors Iowa's livestock producers for their environmental and animal stewardship.",
+                "Media Consultant for the NASDA (National Association of State Departments of Agriculture) U.S. Food Export Showcase."
+            ],
+            "technologies": [
+                "publicity",
+                "media relations",
+                "collaboration"
+            ]
+        },
+        {
+            "job_title": "Development Coordinator/Event Planner",
+            "company": "Company Name ï¼​ City , State",
+            "period": "September 1997 to May 2000",
+            "description": [
+                "Successfully led all fund raising activities, volunteer recruitment and event planning for the nonprofit agency.",
+                "Managed the popular annual PPGI Book Fair held at the State Fair Grounds, resulting in record sales for each of the two years involved."
+            ],
+            "technologies": [
+                "event planning",
+                "fundraising",
+                "speaker"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Political Science/Public Administration",
+            "institution": "Grandview University",
+            "year": null
+        },
+        {
+            "degree": "Paralegal/Legal Research and Writing",
+            "institution": "Des Moines Area Community College",
+            "year": null
+        },
+        {
+            "degree": "Fund Raising Management",
+            "institution": "University of Indiana/Center of Philanthropy",
+            "year": null
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        },
+        {
+            "name": "Not Specified",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate has a robust background in communications and event planning, demonstrating strong leadership and management skills. Their experience includes strategic communications, media relations, fundraising, and public speaking, which are crucial for roles requiring effective communication and organization skills across various platforms."
+}

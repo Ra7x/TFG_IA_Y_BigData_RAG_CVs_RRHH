@@ -1,0 +1,110 @@
+{
+    "full_name": "Not Specified",
+    "summary": null,
+    "location": null,
+    "tech_stack": [],
+    "work_history": [
+        {
+            "job_title": "Recruiter-in-Charge",
+            "company": "Company Name - City , State",
+            "period": "Oct 2010 to Oct 2015",
+            "description": [],
+            "technologies": [
+                "Windows",
+                "Word",
+                "Excel",
+                "PowerPoint",
+                "Outlook",
+                "Adobe Pro",
+                "Defense Connect Online (DCO)",
+                "Web- based Contact Management Databases"
+            ]
+        },
+        {
+            "job_title": "Executive Director",
+            "company": "Company Name - City , State",
+            "period": "Mar 2008 to Sep 2010",
+            "description": [],
+            "technologies": [
+                "Windows",
+                "Word",
+                "Excel",
+                "PowerPoint",
+                "Outlook",
+                "Adobe Pro",
+                "Web-based Contact Management Systems"
+            ]
+        },
+        {
+            "job_title": "Production Supervisor / Aviation Electronics Technician",
+            "company": "Company Name - City , State",
+            "period": "Sep 1998 to Jan 2008",
+            "description": [],
+            "technologies": [
+                "Windows",
+                "Word",
+                "Excel",
+                "PowerPoint",
+                "Outlook",
+                "Adobe Pro",
+                "Invoice Management System"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science , Management",
+            "institution": "Riddle Aeronautical University - City , State",
+            "year": "May 2016"
+        },
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "University of La Verne - City , State",
+            "year": "May 2005"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Professional Selling Skills (PSS)",
+            "year": null
+        },
+        {
+            "name": "Professional Selling Skills Coaching (PSC)",
+            "year": null
+        },
+        {
+            "name": "Professional Selling Skills Applications (PSA)",
+            "year": null
+        },
+        {
+            "name": "Intro to Six Sigma",
+            "year": null
+        },
+        {
+            "name": "Lean Strategies",
+            "year": null
+        },
+        {
+            "name": "Lean Techniques",
+            "year": null
+        },
+        {
+            "name": "Reducing Variation to Improve Quality",
+            "year": null
+        },
+        {
+            "name": "Lean Logic",
+            "year": null
+        },
+        {
+            "name": "Lean Value",
+            "year": null
+        },
+        {
+            "name": "Six Sigma Training",
+            "year": null
+        }
+    ],
+    "english_level": "Not specified",
+    "matchmaking_summary": "The candidate presents a strong record in the field of recruitment, demonstrating expertise not only through extensive experience but also thorough understanding and practical application of various methodologies including professional selling skills, Six Sigma training, and lean strategies. Their background includes roles that have required strategic planning, market research, personnel development, and management at both operational and managerial levels. The candidate's achievements are notably highlighted by their ability to lead a recruiting station 300% beyond assigned goals and secure over 1,400 legal/identity theft protection plans, showcasing significant sales performance and leadership capabilities."
+}
