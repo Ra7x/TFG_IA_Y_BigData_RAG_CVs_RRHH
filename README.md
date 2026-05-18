@@ -678,7 +678,7 @@ mkdir -p Backend/data/JSON
 
 ## 📄 Licencia
 
-Este proyecto es parte de un Trabajo de Fin de Grado (TFG) de la Universidad.  
+Este proyecto es parte de un Trabajo de Fin de Grado (TFG) de la especialización de Big Data e Inteligencia artificial.  
 Todos los derechos reservados © 2026.
 
 ---
